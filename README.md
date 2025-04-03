@@ -1,6 +1,6 @@
 ﻿# 2025.1 Celular Seguro
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Logo Meu INSS</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Logo Celular Seguro</b></p></font>
 </div>
 
 <div align="center">
