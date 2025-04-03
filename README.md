@@ -8,7 +8,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br ">Gov.br </a> , 2024</b>
+  <b>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br ">Gov.br </a> , 2025</b>
 </p>
 </div>
 
