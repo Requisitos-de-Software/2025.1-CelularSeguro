@@ -27,10 +27,10 @@ Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
 
 <table>
   <tr>
-    <td align="center"><a href=" https://github.com/arthurlleite "><img style="border-radius: 50%;" src=" https://github.com/arthurlleite.png" width="100px;" alt=""/><br /><sub><b>Arthur Carvalho</b></sub></a><br/>
-    <td align="center"><a href=" https://github.com/zDrNz "><img style="border-radius: 50%;" src=" https://github.com/zDrNz.png" width="100px;" alt=""/><br /><sub><b>Daniel Rodrigues</b></sub></a><br/><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href=" https://github.com/FelipeFreire-gf "><img style="border-radius: 50%;" src=" https://github.com/FelipeFreire-gf.png" width="100px;" alt=""/><br /><sub><b>Felipe das Neves</b></sub></a><br/><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href=" https://github.com/gabriel-lima258 "><img style="border-radius: 50%;" src=" https://github.com/gabriel-lima258.png" width="100px;" alt=""/><br/><sub><b>Gabriel Lima</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/arthurlleite "><img style="border-radius: 50%;" src="https://github.com/arthurlleite.png" width="100px;" alt=""/><br /><sub><b>Arthur Carvalho</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/zDrNz "><img style="border-radius: 50%;" src="https://github.com/zDrNz.png" width="100px;" alt=""/><br /><sub><b>Daniel Rodrigues</b></sub></a><br/><a href="Link git" title="Rocketseat"></a></td>
+    <td align="center"><a href="https://github.com/FelipeFreire-gf "><img style="border-radius: 50%;" src="https://github.com/FelipeFreire-gf.png" width="100px;" alt=""/><br /><sub><b>Felipe das Neves</b></sub></a><br/><a href="Link git" title="Rocketseat"></a></td>
+    <td align="center"><a href="https://github.com/gabriel-lima258 "><img style="border-radius: 50%;" src="https://github.com/gabriel-lima258.png" width="100px;" alt=""/><br/><sub><b>Gabriel Lima</b></sub></a><br/>
     <td align="center"><a href="https://github.com/leozinlima "><img style="border-radius: 50%;" src="https://github.com/leozinlima.png" width="100px;" alt=""/><br><sub><b>Leonardo de Melo</b></sub></a><br/>
 <td align="center"><a href="https://github.com/MateuSansete "><img style="border-radius: 50%;" src="https://github.com/MateuSansete.png" width="100px;" alt=""/><br><sub><b>Mateus Bastos</b></sub></a><br/>
 <td align="center"><a href="https://github.com/Bessazs "><img style="border-radius: 50%;" src="https://github.com/Bessazs.png" width="100px;" alt=""/><br><sub><b>Vitor Pereira</b></sub></a><br/>
