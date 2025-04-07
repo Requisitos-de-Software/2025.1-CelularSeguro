@@ -1,53 +1,47 @@
-# Ata da Reunião 2 - Distribuição de issues
+# Ata de Reunião – Requisitos de Software – Grupo 03
 
-**Data:** 11/02/2025  
-**Hora:** 21:00  
-**Local:** Online - Discord  
+### Local
+Reunião realizada online via **Microsoft Teams**.
 
-**Responsável pela Reunião e ATA:** Micael Nildo (responsável pela reunião) e Felipe Freire (responsável pela ata)
+### Início e Término
 
----
+|          | Início | Término |
+|----------|--------|---------|
+| Previsto | 21:30  | 23:30   |
+| Realizado| 21:30  | 22:27   |
 
-## Participantes
+### Participantes presentes:
+- [Arthur Carvalho Leite](https://github.com/arthurlleite)
+- [Daniel Rodrigues Nascimento](https://github.com/zDrNz)
+- [Felipe das Neves Freire](https://github.com/FelipeFreire-gf)
+- [Gabriel Lima da Silva](https://github.com/gabriel-lima258)
+- [Leonardo de Melo Lima](https://github.com/leozinlima)
+- [Mateus Bastos dos Santos](https://github.com/MateuSansete)
+- [Vitor Pereira Bessa](https://github.com/Bessazs)
 
-| Nome            | Presença |
-|-----------------|----------|
-| Felipe Freire     | ✔️    |
-| Daniel Diniz      | ✔️    |
-| João Victor       | ❌    |
-| Matheus Félix     | ✔️    |
-| Vitor Teixeira    | ✔️    |
-| Micael Nildo      | ✔️    |
-| Arthur Vilas Boas | ✔️    |
+### Discussão:
+- Horários de reunião semanal do grupo utilizando o HeatMap do grupo.
+- Definição das duplas responsáveis pela elaboração das atas.
+- Visualização do conteúdo dos grupos anteriores.
 
----
-## Objetivo
+### Decisões:
+- Reuniões semanais serão segunda às 16h e quarta às 22h.
+- Todos os membros ficarão responsáveis pela elaboração do cronograma.
+- Todos os integrantes do grupo deverão procurar e apresentar um aplicativo analisado com sua Rich Picture para a próxima reunião.
+- A decisão do aplicativo será analisada na próxima reunião.
 
-Atribuir resposabildades no projeto e propor soluções de hardware, software e estrutura. O link utilizado para atribuição de issues está disponível [aqui](https://docs.google.com/spreadsheets/d/135mzD1ZBbD6M-8duQVhTYMZb_10_hOWJFWDvoCnPvOk/edit?gid=117011966#gid=117011966).
+### Link da gravação
 
----
-## Divisão de Tarefas
+<div style="text-align: center;">
+  <p><strong>Vídeo 1:</strong> <a href="https://youtu.be/iu7qwglUWPQ">Grupo 03 – Reunião 01</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iu7qwglUWPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Foram definidos issues espécificas para os membros.
+### Próxima Reunião
+**31/03/2025 às 16h**
 
-- **Modelagem do carrinho**  
-  Felipe Freire & Daniel Diniz
+### Histórico de versão
 
- O Daniel ficou responável por modelar o carrinho de acordo com as regras da competição, o Felipe ficom como suporte para a modelagem do carrinho além de ficar responável por 
-
-- **Desenvolver a placa eletrônica e a documentação**  
-  Vitor e Matheus Félix
-
-Vitor e Matheus ficaram responsável por propor soluções na eletrônica de acordo com as necessidades do projeto, além de documenta-las. O Felipe ficou de passar os componentes eletrônicos para o Vitor.
-
-- **Configurar o controle e alinhar os códigos do projeto**  
-  Felipe Freire e Arthur Vilas
-
-Arthur e o Felipe ficaram responáveis por configurar o controle e alinhar os códigos do projeto. De tal forma que o Arthur ficou responsável por montar o código de locomoção e o Felipe em configurar o rádio e montar o setup de teste.
-
----
-# Tabela de Versionamento 
-
-| Versão | Data | Descrição da Alteração | Nome(s) Integrante(s) |
-| :----: | :--: | :--------------------: | :-------------------: |
-| 1.0 | 11/02/2025 | Preenchimento do mesmo com as informações da reunião | Felipe Freire |
+| Versão | Data       | Descrição                | Autor(es)                                      | Revisor(es) |
+|--------|------------|--------------------------|-------------------------------------------------|-------------|
+| 1.0    | 27/03/2025 | Criação da Documentação  | Leonardo de Melo Lima e Felipe das Neves Freire | Todos       |

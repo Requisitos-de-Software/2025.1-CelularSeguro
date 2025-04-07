@@ -1,10 +1,14 @@
-# Ata da Reunião 1 - Gestão de Desenvolvimento
+# Ata de Reunião – Requisitos de Software – Grupo 03
 
-**Data:** 28/01/2025  
-**Hora:** 14:00  
-**Local:** Presencial FCTE - I8  
+**Data:** 26/03/2025  
 
-**Responsável pela Reunião e ATA:** Felipe Freire 
+**Hora Prevista:** 21:30 até 23:30
+
+**Hora Realizada:** 21:30 até 22:27
+
+**Local:** Microsoft Teams  
+
+**Responsável pela Reunião e ATA:** Felipe das Neves Freire e Leonardo de Melo Lima
 
 ---
 
@@ -12,45 +16,36 @@
 
 | Nome            | Presença |
 |-----------------|----------|
-| Felipe Freire     | ✔️    |
-| Daniel Diniz      | ✔️    |
-| João Victor       | ❌    |
-| Matheus Félix     | ❌    |
-| Vitor Teixeira    | ❌    |
-| Micael Nildo      | ✔️    |
-| Arthur Vilas Boas | ❌    |
+| Arthur Carvalho Leite       | ✔️    |
+| Daniel Rodrigues Nascimento | ✔️    |
+| Felipe das Neves Freire     | ✔️    |
+| Gabriel Lima da Silva       | ✔️    |
+| Leonardo de Melo Lima       | ✔️    |
+| Mateus Bastos dos Santos    | ✔️    |
+| Vitor Pereira Bessa         | ✔️    |
 
 ---
-## Objetivo
+## Discussões
 
-Propor modelos para o robô.
-
----
-## Divisão de Tarefas
-
-Não foram definidos issues espécificas para os membros nesse momento, contudo, o membro Felipe Freire se propós a ajustar os quesitos para o versionamento do projeto.
-
-- **Estruturação da Github pages**  
-  Felipe Freire.  
+- Horários de reunião semanal do grupo utilizando o HeatMap do grupo.
+- Definição das duplas responsáveis pela elaboração das atas.
+- Visualização do conteúdo dos grupos anteriores.
 
 ---
-## Proposta de Tecnologias
-
-- **Linguagens:**  
-  C e C++  
-
-- **Prototipação da eletrônica do robô:**  
-  Protheus 8  
-
-- **Modelagem estrutural do robô:** 
-  Fusion 360 e Ultimaker Cura
-
-- **Versionamento:**  
-  GitHub/Git  
+### Decisões:
+- Reuniões semanais serão segunda às 16h e quarta às 22h.
+- Todos os membros ficarão responsáveis pela elaboração do cronograma.
+- Todos os integrantes do grupo deverão procurar e apresentar um aplicativo analisado com sua Rich Picture para a próxima reunião.
+- A decisão do aplicativo será analisada na próxima reunião.
 
 ---
+### Próxima Reunião
+**31/03/2025 às 16h**
+
+---
+
 # Tabela de Versionamento 
 
-| Versão | Data | Descrição da Alteração | Nome(s) Integrante(s) |
-| :----: | :--: | :--------------------: | :-------------------: |
-| 1.0 | 06/02/2025 | Desenvolvimento do Artefato e preenchimento do mesmo com as informações da reunião | Felipe Freire |
+| Versão | Data       | Descrição                | Autor(es)                                      | Revisor(es) |
+|--------|------------|--------------------------|-------------------------------------------------|-------------|
+| 1.0    | 27/03/2025 | Criação da Documentação  | Leonardo de Melo Lima e Felipe das Neves Freire | Todos       |

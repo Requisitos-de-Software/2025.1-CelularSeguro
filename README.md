@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="Docs/imagens/LogoCelularSeguro.png.png" alt="Logo Celular Seguro" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="Docs/view/img/LogoCelularSeguro.png" alt="Logo Celular Seguro" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
