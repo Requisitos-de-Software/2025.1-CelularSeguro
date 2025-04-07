@@ -1,0 +1,69 @@
+site_name: Documentação Robô de Sumô
+
+nav:
+  #- Landing Page: "landing.html"
+  - Apresentação: index.md
+
+  - Atas:
+      - Capacitação:
+          - Ata 1: "atas-reuniao/capacitacao/ata-reuniao-cap-1.md"
+          - Ata 2: "atas-reuniao/capacitacao/ata-reuniao-cap-2.md"
+          - Ata 3: "atas-reuniao/capacitacao/ata-reuniao-cap-3.md"
+          - Ata 4: "atas-reuniao/capacitacao/ata-reuniao-cap-4.md"
+          - Ata 5: "atas-reuniao/capacitacao/ata-reuniao-cap-5.md"
+          - Ata 6: "atas-reuniao/capacitacao/ata-reuniao-cap-6.md"
+          - Ata 7: "atas-reuniao/capacitacao/ata-reuniao-cap-7.md"
+          - Ata 8: "atas-reuniao/capacitacao/ata-reuniao-cap-8.md"
+          - Ata 9: "atas-reuniao/capacitacao/ata-reuniao-cap-9.md"
+     
+      - Equipe:
+          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
+          - Ata 2: "atas-reuniao/equipe/ata-reuniao-2.md"
+
+  - Documentação:
+      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Estrutura: "documento-estrutura/documento-estrutura.md"
+      - Firmware: "documento-firmware/documento-firmware.md"
+
+  - Links: "links/links.md"
+
+theme:
+  name: material
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.expand
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+
+  palette:
+    # Paleta para modo claro
+    - scheme: default
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+
+    # Paleta para modo escuro
+    - scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/styles.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+
+styles_css:
+  - view/css/styles.css
