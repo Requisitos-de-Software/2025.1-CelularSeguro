@@ -1,10 +1,20 @@
 site_name: Documentação Mamutes do Cerrado
 
 nav:
-  - Landing Page: "landing.html"
   - Apresentação: index.md
 
   - Atas:
+      - Capacitação:
+          - Ata 1: "atas-reuniao/capacitacao/ata-reuniao-cap-1.md"
+          - Ata 2: "atas-reuniao/capacitacao/ata-reuniao-cap-2.md"
+          - Ata 3: "atas-reuniao/capacitacao/ata-reuniao-cap-3.md"
+          - Ata 4: "atas-reuniao/capacitacao/ata-reuniao-cap-4.md"
+          - Ata 5: "atas-reuniao/capacitacao/ata-reuniao-cap-5.md"
+          - Ata 6: "atas-reuniao/capacitacao/ata-reuniao-cap-6.md"
+          - Ata 7: "atas-reuniao/capacitacao/ata-reuniao-cap-7.md"
+          - Ata 8: "atas-reuniao/capacitacao/ata-reuniao-cap-8.md"
+          - Ata 9: "atas-reuniao/capacitacao/ata-reuniao-cap-9.md"
+
       - Cliente:
           - Ata 1: "atas-reuniao/cliente/ata-reuniao-1.md"
           - Ata 2: "atas-reuniao/cliente/ata-reuniao-2.md"
@@ -35,11 +45,13 @@ nav:
       - Visão Geral: "documento-visao/documento-visao.md"
       - Arquitetura: "documento-arquitetura/documento-arquitetura.md"
       - Requisitos: "documento-requisitos/documento-requisitos.md"
-
+      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Estrutura: "documento-estrutura/documento-estrutura.md"
+      - Firmware: "documento-firmware/documento-firmware.md"
       - Testes: 
-        - Plano de Testes: "documento-plano-testes/documento-plano-testes.md"
-        - Testes de Integração: "documento-Testes-Integracao/documento-Testes-Integracao.md"
-        - Testes Unitários: "documento-Testes-Unitarios/documento-Testes-Unitarios.md"
+          - Plano de Testes: "documento-plano-testes/documento-plano-testes.md"
+          - Testes de Integração: "documento-Testes-Integracao/documento-Testes-Integracao.md"
+          - Testes Unitários: "documento-Testes-Unitarios/documento-Testes-Unitarios.md"
 
   - Links: "links/links.md"
 
@@ -57,7 +69,6 @@ theme:
     - navigation.tracking
 
   palette:
-    # Paleta para modo claro
     - scheme: default
       primary: white
       accent: light blue
@@ -65,7 +76,6 @@ theme:
         icon: material/weather-night
         name: Mudar para modo escuro
 
-    # Paleta para modo escuro
     - scheme: slate
       primary: black
       accent: light blue
