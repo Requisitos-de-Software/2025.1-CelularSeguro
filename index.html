@@ -1,11 +1,117 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Celular Seguro - Requisitos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { padding-top: 70px; }
+    .navbar { background-color: #4CAF50; }
+    .dropdown-menu a { color: black; }
+    .team-img { border-radius: 50%; width: 100px; }
+  </style>
 </head>
 <body>
-    <h1>Celular Seguro</h1>
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="https://www.gov.br/etc/clientgovbr/assets/img/favicon.png" width="30" class="me-2">Celular Seguro</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link active" href="#home">Home</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="atasDropdown" role="button" data-bs-toggle="dropdown">Atas</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Ata 1</a></li>
+            <li><a class="dropdown-item" href="#">Ata 2</a></li>
+            <li><a class="dropdown-item" href="#">Ata 3</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="#apresentacao">Apresentação</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="planejamentoDropdown" role="button" data-bs-toggle="dropdown">Planejamento</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Heatmap de disponibilidade</a></li>
+            <li><a class="dropdown-item" href="#">Cronograma planejado</a></li>
+            <li><a class="dropdown-item" href="#">Cronograma executado</a></li>
+            <li><a class="dropdown-item" href="#">Ferramentas do projeto</a></li>
+            <li><a class="dropdown-item" href="#">Aplicativos avaliados</a></li>
+            <li><a class="dropdown-item" href="#">Aplicativo selecionado</a></li>
+            <li><a class="dropdown-item" href="#">Rich Picture</a></li>
+            <li><a class="dropdown-item" href="#">Inspeções</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="#">Elicitação</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Validação</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Verificação</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section id="home" class="container my-5">
+  <h1 class="text-center mb-4">2025.1 Celular Seguro</h1>
+  <div class="text-center mb-3">
+    <img src="https://github.com/Requisitos-de-Software/2025.1-CelularSeguro/blob/main/Docs/imagens/LogoCelularSeguro.png.png" alt="Logo Celular Seguro" style="max-width: 100%; height: auto;">
+    <p><strong>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br">Gov.br</a>, 2024</strong></p>
+  </div>
+
+  <h2>Sobre o projeto</h2>
+  <p>
+    Este repositório é dedicado à documentação de todos os artefatos criados pelo Grupo 03 no primeiro semestre de 2025, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
+  </p>
+  <p>
+    O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à segurança e bloqueio de dispositivos móveis em casos de perda, roubo ou furto.
+  </p>
+
+  <h2>Equipe</h2>
+  <div class="table-responsive">
+    <table class="table text-center align-middle">
+      <tr>
+        <td><a href="https://github.com/arthurlleite"><img class="team-img" src="https://github.com/arthurlleite.png"><br><strong>Arthur Carvalho</strong></a></td>
+        <td><a href="https://github.com/zDrNz"><img class="team-img" src="https://github.com/zDrNz.png"><br><strong>Daniel Rodrigues</strong></a></td>
+        <td><a href="https://github.com/FelipeFreire-gf"><img class="team-img" src="https://github.com/FelipeFreire-gf.png"><br><strong>Felipe das Neves</strong></a></td>
+        <td><a href="https://github.com/gabriel-lima258"><img class="team-img" src="https://github.com/gabriel-lima258.png"><br><strong>Gabriel Lima</strong></a></td>
+        <td><a href="https://github.com/leozinlima"><img class="team-img" src="https://github.com/leozinlima.png"><br><strong>Leonardo de Melo</strong></a></td>
+        <td><a href="https://github.com/MateuSansete"><img class="team-img" src="https://github.com/MateuSansete.png"><br><strong>Mateus Bastos</strong></a></td>
+        <td><a href="https://github.com/Bessazs"><img class="team-img" src="https://github.com/Bessazs.png"><br><strong>Vitor Pereira</strong></a></td>
+      </tr>
+    </table>
+  </div>
+  <p class="text-center"><strong>Autor:</strong> <a href="https://github.com/arthurlleite">Arthur Carvalho</a>, 2025</p>
+
+  <h2>Histórico de versões</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Versão</th><th>Data</th><th>Descrição</th><th>Autor</th><th>Revisor</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.0</td><td>07/04/2025</td><td>Criação do documento</td>
+        <td><a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a></td>
+        <td><a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a></td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section id="apresentacao" class="container my-5">
+  <h2>Apresentação</h2>
+  <p>
+    Nesta página, disponibilizamos o vídeo para a primeira apresentação do projeto desenvolvido pelo grupo para a etapa de Planejamento do Projeto, que detalha como o grupo realizou as atividades durante o período e os resultados obtidos.
+  </p>
+</section>
+
+<footer class="bg-dark text-white text-center py-3">
+  © 2025 - Celular Seguro | UnB - FGA
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
