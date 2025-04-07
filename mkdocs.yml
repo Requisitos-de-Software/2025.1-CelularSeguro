@@ -1,7 +1,6 @@
-site_name: Documentação Robô de Sumô
+site_name: Documentação Mamutes do Cerrado
 
 nav:
-  #- Landing Page: "landing.html"
   - Apresentação: index.md
 
   - Atas:
@@ -15,15 +14,44 @@ nav:
           - Ata 7: "atas-reuniao/capacitacao/ata-reuniao-cap-7.md"
           - Ata 8: "atas-reuniao/capacitacao/ata-reuniao-cap-8.md"
           - Ata 9: "atas-reuniao/capacitacao/ata-reuniao-cap-9.md"
-     
+
+      - Cliente:
+          - Ata 1: "atas-reuniao/cliente/ata-reuniao-1.md"
+          - Ata 2: "atas-reuniao/cliente/ata-reuniao-2.md"
+          - Ata 3: "atas-reuniao/cliente/ata-reuniao-3.md"
+          - Ata 4: "atas-reuniao/cliente/ata-reuniao-4.md"
+          - Ata 5: "atas-reuniao/cliente/ata-reuniao-5.md"
+          - Ata 6: "atas-reuniao/cliente/ata-reuniao-6.md"
+          - Ata 7: "atas-reuniao/cliente/ata-reuniao-7.md"
+          - Ata 8: "atas-reuniao/cliente/ata-reuniao-8.md"
+          - Ata 9: "atas-reuniao/cliente/ata-reuniao-9.md"
+
       - Equipe:
-          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
-          - Ata 2: "atas-reuniao/equipe/ata-reuniao-2.md"
+          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1-equipe.md"
+          - Ata 2: "atas-reuniao/equipe/ata-reuniao-2-equipe.md"
+          - Ata 3: "atas-reuniao/equipe/ata-reuniao-3-equipe.md"
+          - Ata 4: "atas-reuniao/equipe/ata-reuniao-4-equipe.md"
+          - Ata 5: "atas-reuniao/equipe/ata-reuniao-5-equipe.md"
+          - Ata 6: "atas-reuniao/equipe/ata-reuniao-6-equipe.md"
+          - Ata 7: "atas-reuniao/equipe/ata-reuniao-7-equipe.md"
+          - Ata 8: "atas-reuniao/equipe/ata-reuniao-8-equipe.md"
+          - Ata 9: "atas-reuniao/equipe/ata-reuniao-9-equipe.md"
+          - Ata 10: "atas-reuniao/equipe/ata-reuniao-10-equipe.md"
+          - Ata 11: "atas-reuniao/equipe/ata-reuniao-11-equipe.md"
+          - Ata 12: "atas-reuniao/equipe/ata-reuniao-12-equipe.md"
+          - Ata 13: "atas-reuniao/equipe/ata-reuniao-13-equipe.md"
 
   - Documentação:
+      - Visão Geral: "documento-visao/documento-visao.md"
+      - Arquitetura: "documento-arquitetura/documento-arquitetura.md"
+      - Requisitos: "documento-requisitos/documento-requisitos.md"
       - Eletrônica: "documento-eletronica/documento-eletronica.md"
       - Estrutura: "documento-estrutura/documento-estrutura.md"
       - Firmware: "documento-firmware/documento-firmware.md"
+      - Testes: 
+          - Plano de Testes: "documento-plano-testes/documento-plano-testes.md"
+          - Testes de Integração: "documento-Testes-Integracao/documento-Testes-Integracao.md"
+          - Testes Unitários: "documento-Testes-Unitarios/documento-Testes-Unitarios.md"
 
   - Links: "links/links.md"
 
@@ -41,7 +69,6 @@ theme:
     - navigation.tracking
 
   palette:
-    # Paleta para modo claro
     - scheme: default
       primary: white
       accent: light blue
@@ -49,7 +76,6 @@ theme:
         icon: material/weather-night
         name: Mudar para modo escuro
 
-    # Paleta para modo escuro
     - scheme: slate
       primary: black
       accent: light blue
