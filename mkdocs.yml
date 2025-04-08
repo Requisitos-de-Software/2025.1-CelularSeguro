@@ -1,3 +1,24 @@
+repo_url: https://requisitos-de-software.github.io/2025.1-CelularSeguro/
+repo_name: 2025.1-Celular Seguro
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 site_name: Documentação Celular Seguro
 
 nav:
@@ -11,30 +32,29 @@ nav:
           - Ata 3: "atas-reuniao/equipe/ata-reuniao-3.md"
      
   - Pré-Rastreabilidade:
-      - Eletrônica: "documento-eletronica/documento-eletronica.md"
-      - Estrutura: "documento-estrutura/documento-estrutura.md"
-      - Firmware: "documento-firmware/documento-firmware.md"
+      - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
+      - Rich Picture: "documento-pre-rastreabilidade/rich-picture.md"
 
   - Planejamento: 
-      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Introdução: "documento-planejamento/documento-planejamento.md"
 
   - Elicitação: 
-      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Introdução: "documento-elicitacao/documento-elicitacao.md"
 
   - Modelagem: 
-      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Introdução: "documento-modelagem/documento-modelagem.md"
 
   - Verificação:
-       - Eletrônica: "documento-eletronica/documento-eletronica.md" 
+      - Introdução: "documento-verificacao/documento-verificacao.md" 
 
   - Validação: 
-      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Introdução: "documento-validacao/documento-validacao.md"
 
   - Rastreabilidade: 
-      - Eletrônica: "documento-eletronica/documento-eletronica.md"    
+      - Introdução: "documento-rastreabilidade/documento-rastreabilidade.md"    
 
   - Entrega Final: 
-      - Eletrônica: "documento-eletronica/documento-eletronica.md" 
+      - Introdução: "documento-entrega-final/documento-entrega-final.md" 
   
 
 theme:
@@ -66,6 +86,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Mudar para modo claro
+      
+      favicon: assets/img/bilheteria.png
+      logo: assets/img/bilheteria.png    
 
   font:
     text: Roboto
