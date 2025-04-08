@@ -5,11 +5,12 @@ nav:
   - Apresentação: index.md
 
   - Atas:
-      - equipe:
+      - Equipe:
           - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
           - Ata 2: "atas-reuniao/equipe/ata-reuniao-2.md"
+          - Ata 3: "atas-reuniao/equipe/ata-reuniao-3.md"
      
-  - Apresentação:
+  - Pré-Rastreabilidade:
       - Eletrônica: "documento-eletronica/documento-eletronica.md"
       - Estrutura: "documento-estrutura/documento-estrutura.md"
       - Firmware: "documento-firmware/documento-firmware.md"
@@ -20,11 +21,21 @@ nav:
   - Elicitação: 
       - Eletrônica: "documento-eletronica/documento-eletronica.md"
 
-  - Validação: 
+  - Modelagem: 
       - Eletrônica: "documento-eletronica/documento-eletronica.md"
 
   - Verificação:
        - Eletrônica: "documento-eletronica/documento-eletronica.md" 
+
+  - Validação: 
+      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+
+  - Rastreabilidade: 
+      - Eletrônica: "documento-eletronica/documento-eletronica.md"    
+
+  - Entrega Final: 
+      - Eletrônica: "documento-eletronica/documento-eletronica.md" 
+  
 
 theme:
   name: material

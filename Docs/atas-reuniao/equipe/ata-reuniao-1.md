@@ -1,4 +1,4 @@
-# Ata de Reunião – Requisitos de Software – Grupo 03
+# Ata de Reunião – Requisitos de Software
 
 **Data:** 26/03/2025  
 
@@ -44,8 +44,17 @@
 
 ---
 
+### Link da gravação
+
+<div style="text-align: center;">
+  <p><strong>Vídeo 1:</strong> <a href="https://youtu.be/iu7qwglUWPQ">Grupo 03 – Reunião 01</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iu7qwglUWPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
 # Tabela de Versionamento 
 
 | Versão | Data       | Descrição                | Autor(es)                                      | Revisor(es) |
 |--------|------------|--------------------------|-------------------------------------------------|-------------|
-| 1.0    | 27/03/2025 | Criação da Documentação  | Leonardo de Melo Lima e Felipe das Neves Freire | Todos       |
+| 1.0    | 27/03/2025 | Desenvolvimento do artefato conforme a reunião  | Leonardo de Melo Lima e Felipe das Neves Freire | Todos       |
