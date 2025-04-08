@@ -18,6 +18,10 @@ Este repositório é dedicado à documentação de todos os artefatos criados pe
 
 O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à segurança e bloqueio de dispositivos móveis em casos de perda, roubo ou furto.
 
+## Documentação
+
+Link para a nossa documentação do projeto: [MkDocs - Equipe "III"](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) <br><br>
+
 ## Equipe
 
 Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
@@ -46,5 +50,5 @@ Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
 
 | Versão | Data       | Descrição          | Autor                                                 |                         Revisor                         |
 | :----: | ---------- | ------------------ | ----------------------------------------------------- | :-----------------------------------------------------: |
-| `1.0`  | 03/04/2025 | Criação do READ.ME | [Arthur Carvalho Leite]( https://github.com/arthurlleite) | [Arthur Carvalho Leite]( https://github.com/arthurlleite) |
+| `1.0`  | 03/04/2025 | Criação do README | [Arthur Carvalho Leite]( https://github.com/arthurlleite) | [Arthur Carvalho Leite]( https://github.com/arthurlleite) |
 

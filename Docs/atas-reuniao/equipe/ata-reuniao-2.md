@@ -1,47 +1,63 @@
-# Ata de Reunião – Requisitos de Software – Grupo 03
+# Ata de Reunião – Requisitos de Software
 
-### Local
-Reunião realizada online via **Microsoft Teams**.
+**Data:** 31/03/2025  
 
-### Início e Término
+**Hora Prevista:** 16:00 até 18:00
 
-|          | Início | Término |
-|----------|--------|---------|
-| Previsto | 21:30  | 23:30   |
-| Realizado| 21:30  | 22:27   |
+**Hora Realizada:** 16:00 até 17:02
 
-### Participantes presentes:
-- [Arthur Carvalho Leite](https://github.com/arthurlleite)
-- [Daniel Rodrigues Nascimento](https://github.com/zDrNz)
-- [Felipe das Neves Freire](https://github.com/FelipeFreire-gf)
-- [Gabriel Lima da Silva](https://github.com/gabriel-lima258)
-- [Leonardo de Melo Lima](https://github.com/leozinlima)
-- [Mateus Bastos dos Santos](https://github.com/MateuSansete)
-- [Vitor Pereira Bessa](https://github.com/Bessazs)
+**Local:** Microsoft Teams  
 
-### Discussão:
-- Horários de reunião semanal do grupo utilizando o HeatMap do grupo.
-- Definição das duplas responsáveis pela elaboração das atas.
-- Visualização do conteúdo dos grupos anteriores.
+**Responsável pela Reunião e ATA:** Arthur Carvalho Leite
 
+---
+
+## Participantes
+
+| Nome            | Presença |
+|-----------------|----------|
+| Arthur Carvalho Leite       | ✔️    |
+| Daniel Rodrigues Nascimento | ✔️    |
+| Felipe das Neves Freire     | ✔️    |
+| Gabriel Lima da Silva       | ✔️    |
+| Leonardo de Melo Lima       | ✔️    |
+| Mateus Bastos dos Santos    | ✔️    |
+| Vitor Pereira Bessa         | ✔️    |
+
+---
+## Discussões
+
+- Horários de reunião semanal do grupo utilizando o Heatmap do grupo.
+- Apresentação dos Rich Picture que cada membro pesquisou (Skoob, Carteira Digital de Trânsito,
+- Sinesp Cidadão, Celular Seguro).
+- Definição do aplicativo.
+
+
+---
 ### Decisões:
-- Reuniões semanais serão segunda às 16h e quarta às 22h.
-- Todos os membros ficarão responsáveis pela elaboração do cronograma.
-- Todos os integrantes do grupo deverão procurar e apresentar um aplicativo analisado com sua Rich Picture para a próxima reunião.
-- A decisão do aplicativo será analisada na próxima reunião.
+- Usamos o template pronto no aprender para se basear no planejamento.
+- Foi decidido que iremos estudar o aplicativo Celular Seguro.
+- Faremos duplas também para o desenvolvimento do projeto (GitPages, diagramas, revisões, etc).
+- Na próxima reunião ( quarta-feira) iremos definir o nosso cronograma planejado e se já tivermos acesso ao repositório do github, iremos começar a montar o gitpage
+
+
+---
+### Próxima Reunião
+**02/04/2025 às 22h**
+
+---
 
 ### Link da gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo 1:</strong> <a href="https://youtu.be/iu7qwglUWPQ">Grupo 03 – Reunião 01</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/iu7qwglUWPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo 2:</strong> <a href="https://youtu.be/tDitAFMSOvE">Grupo 03 – Reunião 02</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tDitAFMSOvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Próxima Reunião
-**31/03/2025 às 16h**
+---
 
-### Histórico de versão
+# Tabela de Versionamento 
 
 | Versão | Data       | Descrição                | Autor(es)                                      | Revisor(es) |
 |--------|------------|--------------------------|-------------------------------------------------|-------------|
-| 1.0    | 27/03/2025 | Criação da Documentação  | Leonardo de Melo Lima e Felipe das Neves Freire | Todos       |
+| 1.0    | 31/03/2025 | Desenvolvimento do artefato conforme a reunião  | Arthur Carvalho Leite | Todos       |
