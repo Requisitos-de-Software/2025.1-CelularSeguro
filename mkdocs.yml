@@ -8,6 +8,9 @@ nav:
   #- Landing Page: "landing.html"
   - Home: index.md
 
+  - Apresentação:
+      - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+
   - Atas:
       - Equipe:
           - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
@@ -43,8 +46,7 @@ nav:
 theme:
   logo: assets/LogoCelularSeguro.png
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Montserrat
   name: material
   features:
     - content.code.annotate
@@ -60,16 +62,16 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: teal
-      accent: teal
+      primary: amber
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: amber
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
