@@ -23,7 +23,7 @@ site_name: Documentação Celular Seguro
 
 nav:
   #- Landing Page: "landing.html"
-  - Apresentação: index.md
+  - Home: index.md
 
   - Atas:
       - Equipe:
