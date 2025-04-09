@@ -1,4 +1,4 @@
-﻿# 2025.1 Celular Seguro
+﻿# Celular Seguro
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Logo Celular Seguro</b></p></font>
 </div>
@@ -12,22 +12,21 @@
 </p>
 </div>
 
-## Sobre o projeto
+## 💭 Sobre o projeto
 
 Este repositório é dedicado à documentação de todos os artefatos criados pelo Grupo 03 no primeiro semestre de 2025, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
 
 O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à segurança e bloqueio de dispositivos móveis em casos de perda, roubo ou furto.
 
-## Documentação
+## 🗃️ Documentação
 
-Link para a nossa documentação do projeto: [MkDocs - Equipe "III"](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) <br><br>
+Link para a nossa documentação do projeto: [Clique Aqui](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) <br>
 
-## Equipe
+## 👨‍💻 Equipe
 
-Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
+Segue os nomes dos colaboradores da equipe logo abaixo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Integrantes da equipe</p></font>
 
 <table>
   <tr>
@@ -42,13 +41,6 @@ Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
   </tr>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/arthurlleite ">Arthur Carvalho</a>, 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Integrantes da equipe</p></font>
 
 </div>
-
-## Historico de versões
-
-| Versão | Data       | Descrição          | Autor                                                 |                         Revisor                         |
-| :----: | ---------- | ------------------ | ----------------------------------------------------- | :-----------------------------------------------------: |
-| `1.0`  | 03/04/2025 | Criação do README | [Arthur Carvalho Leite]( https://github.com/arthurlleite) | [Arthur Carvalho Leite]( https://github.com/arthurlleite) |
-
