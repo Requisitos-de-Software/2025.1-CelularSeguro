@@ -1,25 +1,7 @@
 repo_url: https://requisitos-de-software.github.io/2025.1-CelularSeguro/
 repo_name: 2025.1-Celular Seguro
 
-markdown_extensions:
-  - admonition
-  - attr_list
-  - def_list
-  - md_in_html
-  - footnotes
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-
-site_name: Documentação Celular Seguro
+site_name: Celular Seguro
 
 nav:
   #- Landing Page: "landing.html"
@@ -58,6 +40,10 @@ nav:
   
 
 theme:
+  logo: assets/LogoCelularSeguro.png
+  font:
+    text: Roboto
+    code: Roboto Mono
   name: material
   features:
     - content.code.annotate
@@ -71,32 +57,21 @@ theme:
     - navigation.tracking
 
   palette:
-    # Paleta para modo claro
+    # Palette toggle for light mode
     - scheme: default
-      primary: white
-      accent: light blue
+      primary: teal
+      accent: teal
       toggle:
         icon: material/weather-night
-        name: Mudar para modo escuro
+        name: Switch to dark mode
 
-    # Paleta para modo escuro
+    # Palette toggle for dark mode
     - scheme: slate
-      primary: black
-      accent: light blue
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
-        name: Mudar para modo claro
-      
-      favicon: assets/img/bilheteria.png
-      logo: assets/img/bilheteria.png    
+        name: Switch to light mode
 
-  font:
-    text: Roboto
-    code: Roboto Mono
-
-extra_css:
-  - stylesheets/styles.css
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
-
-styles_css:
-  - view/css/styles.css
+  icon:
+    repo: fontawesome/brands/git-alt
