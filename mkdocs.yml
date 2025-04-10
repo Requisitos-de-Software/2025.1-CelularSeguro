@@ -72,7 +72,7 @@ theme:
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: amber
+      primary: #2c2c7c
       accent: amber
       toggle:
         icon: material/weather-sunny
