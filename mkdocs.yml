@@ -23,7 +23,9 @@ nav:
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
-
+      - Cronograma Planejado: "documento-planejamento/cronograma-planejado.md"
+      - Ferramentas: "documento-planejamento/ferramentas-utilizadas.md"
+       
   - Elicitação: 
       - Introdução: "documento-elicitacao/documento-elicitacao.md"
 
