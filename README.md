@@ -12,7 +12,7 @@
 </p>
 </div>
 
-## 💭 Sobre o projeto
+## Sobre o projeto
 
 Este repositório é dedicado à documentação de todos os artefatos criados pelo Grupo 03 no primeiro semestre de 2025, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
 
