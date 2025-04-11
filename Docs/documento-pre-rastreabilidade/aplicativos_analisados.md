@@ -86,7 +86,7 @@ Aplicativo que possibilita aos beneficiários do programa Bolsa Família consult
 ---
 
 ## Carteira de Identidade Militar Digital (EBCIM)
-![Rich Picture - Identidade Militar Digital](../assets/img/rich-picture-identidadeMilitar.pdf)
+![Rich Picture - Identidade Militar Digital](../assets/img/rich-picture-identidadeMilitar.png)
 
 **Descrição:**  
 Aplicativo que disponibiliza a carteira de identidade militar em formato digital, oferecendo acesso offline e validação por QR Code, facilitando a rotina de militares e seus dependentes.
