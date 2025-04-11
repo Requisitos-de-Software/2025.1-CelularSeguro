@@ -17,7 +17,7 @@ Aplicativo governamental que permite aos cidadãos consultar informações de se
 - **Pontos Positivos:** Dados oficiais e atualizados, interface simples e acesso rápido.  
 - **Limitações:** Funcionalidades exclusivamente de consulta; depende de conexão com a internet e conhecimento prévio (ex.: placa).
 
-**Autor do Rich Picture:** Felipe Neves
+**Autor do Rich Picture:** Felipe das Neves
 
 ---
 
@@ -49,7 +49,7 @@ Aplicativo que digitaliza a CNH e o CRLV, facilitando o acesso e a consulta de d
 - **Pontos Positivos:** Eliminação da necessidade dos documentos físicos; integração com DETRAN/DENATRAN; interface moderna.  
 - **Limitações:** Dependência de conexão para atualizações; eventuais problemas na aceitação do formato digital em algumas situações.
 
-**Autor do Rich Picture:** Arthur Leite
+**Autor do Rich Picture:** Arthur Carvalho
 
 ---
 
@@ -65,7 +65,7 @@ Aplicativo voltado para a emissão e consulta de Notas Fiscais de Serviço eletr
 - **Pontos Positivos:** Agilidade na emissão e redução da burocracia; otimiza processos fiscais.  
 - **Limitações:** Funcionalidade direcionada para um público específico; depende de cadastro municipal e de conexão constante.
 
-**Autor do Rich Picture:** Vítor Bessa
+**Autor do Rich Picture:** Vitor Pereira
 
 ---
 
