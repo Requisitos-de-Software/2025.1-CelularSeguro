@@ -6,93 +6,127 @@ Cada Sprint possui duração de quatro dias úteis e foi estruturada com base em
 
 ---
 
-## Sprint 1 – Home
 
-**Quadro 1** – Atividades planejadas na Sprint 1
+## Etapa 1 – Planejamento e Pré-Rastreabilidade  
+- Período: 26/03 a 13/04  
+- Entrega: 13/04  
+- Apresentação: 15/04  
 
-| Data       | Atividade                                  | Responsáveis         | Entregas Esperadas                         |
-|------------|--------------------------------------------|----------------------|--------------------------------------------|
-| 26/03/2025 | Início da Sprint                            | Todos os Integrantes | Definição do texto da Home                 |
-| 27/03/2025 | Criação do layout e estrutura               | Todos os Integrantes | Esboço visual da página                    |
-| 28/03/2025 | Finalização do conteúdo visual e textual    | Felipe e Arthur      | Ícones, imagens, esquemas inseridos        |
-| 29/03/2025 | Revisão e entrega                           | Gabriel e Daniel     | Página Home pronta, funcional e responsiva |
+### Duplas responsáveis pelas atas
+- Semana 1 (24/03 a 30/03): *Felipe e Leonardo*
+- Semana 2 (31/03 a 06/04): *Arthur e Gabriel*
+- Semana 3 (07/04 a 13/04): *Mateus e Vitor*
 
-**Fonte**: Elaborado pelos autores, 2025.
+### Tarefas
 
----
-
-## Sprint 2 – Apresentação
-
-**Quadro 2** – Atividades planejadas na Sprint 2
-
-| Data       | Atividade                                  | Responsáveis     | Entregas Esperadas                         |
-|------------|--------------------------------------------|------------------|--------------------------------------------|
-| 30/03/2025 | Organização dos vídeos de entrega          | Gabriel e Daniel | Definição de estrutura da seção            |
-| 01/03/2025 | Upload e categorização dos vídeos          | Gabriel e Daniel | Vídeos organizados com legendas            |
-| 06/04/2025 | Implementação da página                    | Gabriel e Daniel | Player de vídeo funcional e visual limpo   |
-| 13/04/2025 | Gravação e Apresentação do GitHub Pages final   | Todos os Integrantes   | Apresentação oral demonstrando o resultado do planejamento |
-| 10/04/2025 | Revisão e entrega                          | Leonardo e Mateus| Página Apresentação finalizada             |
-
-**Fonte**: Elaborado pelos autores, 2025.
+| Tarefa                                      | Dupla Responsável      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Analisar e escolher aplicativo              | Leonardo e Mateus      | Arthur e Vitor     |  26/03  | 31/03 |
+| Elaboração do cronograma planejado          | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 10/04 |          
+| Escolha de Metodologia e Ferramentas        | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 10/04 |
+| Documentar Equipe e criar Homepage          | Felipe                 | Gabriel e Daniel   |  03/04  | 11/04 |
+| Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
+| Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  12/04  | 12/04 |
+| *Revisão final*                             | Todos                  |                    |  12/04  | 12/04 |
 
 ---
 
-## Sprint 3 – Atas
 
-**Quadro 3** – Atividades planejadas na Sprint 3
+## Etapa 2 – Elicitação  
+- Período: 14/04 a 27/04  
+- Entrega: 27/04  
+- Apresentação: 29/04  
 
-| Data       | Atividade                              | Responsáveis       | Entregas Esperadas                 |
-|------------|----------------------------------------|--------------------|------------------------------------|
-| Toda semana terá alterações | Coleta e revisão das atas passadas     | Dupla da Semana    | Todas as atas reunidas            |
-| Toda semana terá alterações | Organização por datas e responsáveis   | Dupla da Semana    | Tabela de atas cronológica        |
-| Toda semana terá alterações | Upload das atas na plataforma          | Dupla da Semana    | Arquivos em PDF ou texto          |
-| 13/04/2025 | Revisão e entrega                      | Gabriel e Daniel   | Página de atas finalizada         |
+### Duplas responsáveis pelas atas
+- Semana 4 (14/04 a 20/04): *Daniel e Felipe*
+- Semana 5 (21/04 a 27/04): *Leonardo e Arthur*
 
-**Fonte**: Elaborado pelos autores, 2025.
+### Tarefas
 
----
 
-## Sprint 4 – Pré-Rastreabilidade
-
-**Quadro 4** – Atividades planejadas na Sprint 4
-
-| Data       | Atividade                             | Responsáveis                      | Entregas Esperadas                        |
-|------------|---------------------------------------|-----------------------------------|-------------------------------------------|
-| 07/04/2025 | Análise dos aplicativos               | Leonardo, Mateus + Integrantes    | Tabela comparativa entre apps             |
-| 08/04/2025 | Escolha do app e justificativa        | Leonardo, Mateus + Integrantes    | Argumentação técnica                      |
-| 09/04/2025 | Criação dos Rich Pictures             | Leonardo, Mateus + Integrantes    | Rich Pictures dos apps                    |
-| 10/04/2025 | Revisão e entrega                     | Vitor e Arthur                    | Página de Pré-Rastreabilidade completa    |
-
-**Fonte**: Elaborado pelos autores, 2025.
+| Tarefa                                      | Dupla Responsável      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Traçar perfil de usuário                    |                        |                    |  14/04  | 16/04 |
+| Analise de documentos                       |                        |                    |  14/04  | 16/04 |          
+| Criar elenco de personas                    |                        |                    |  16/04  | 21/04 |
+| Elaborar questionario                       |                        |                    |  21/04  | 23/04 |
+| Elaborar quadro MoSCow                      |                        |                    |  23/04  | 26/04 |
+| *Revisão final*                             |                        |                    |  26/04  | 26/04 |
 
 ---
 
-## Sprint 5 – Planejamento
+## Etapa 3 – Modelagem  
+- Período: 28/04 a 13/05  
+- Entrega: 13/05  
+- Apresentação: 15/05  
 
-**Quadro 5** – Atividades planejadas na Sprint 5
+### Duplas responsáveis pelas atas
+- Semana 7 (28/04 a 04/05): *Gabriel e Mateus*
+- Semana 8 (05/05 a 11/05): *Vitor e Daniel*
 
-| Data       | Atividade                                  | Responsáveis         | Entregas Esperadas                                      |
-|------------|--------------------------------------------|----------------------|----------------------------------------------------------|
-| 11/04/2025 | Elaboração do cronograma planejado         | Vitor e Arthur       | Quadro de datas previstas                                |
-| 12/04/2025 | Preenchimento do cronograma executado      | Vitor e Arthur       | Comparativo com real x previsto                          |
-| 13/04/2025 | Ferramentas e Metodologia                  | Vitor e Arthur       | Lista de ferramentas + descrição da metodologia (Scrum) |
-| 13/04/2025 | Revisão e entrega                          | Leonardo e Mateus    | Página de Planejamento completa                          |
+### Tarefas
 
-**Fonte**: Elaborado pelos autores, 2025.
+| Tarefa                                      | Dupla Responsável      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Diagrama de caso de uso                     |                        |                    |  28/04  | 05/05 |
+| Definição do lexico                         |                        |                    |  28/04  | 05/05 |          
+| Criação de cenários                         |                        |                    |  05/05  | 07/05 |
+| Especificação suplementar                   |                        |                    |  05/05  | 11/05 |
+| *Revisão final*                             |                        |                    |  12/05  | 12/05 |
+
+
+
+
+
+---
+
+## Etapa 4 – Ágil
+- Período: 14/05 a 27/06  
+- Entrega: 27/06  
+- Apresentação: 26/06  
+
+### Duplas responsáveis pelas atas
+- Semana 9 (13/05 a 19/05): 
+- Semanas seguintes: a definir
+
+### Tarefas
+
+
+
+
+| Tarefa                                      | Dupla Responsável      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Diagrama de caso de uso                     |                        |                    |         |       |
+| Definição do lexico                         |                        |                    |         |       |          
+| Criação de cenários                         |                        |                    |         |       |
+| Especificação suplementar                   |                        |                    |         |       |
+| *Revisão final*                             |                        |                    |         |       |
 
 ---
 
-## Pós-Sprint – Validação Final
+## Etapa 5 – Verificação e Validação
+- Período: 26/06 a 10/07  
+- Entrega: 10/06  
+- Apresentação: 10/06  
 
-**Quadro 6** – Atividades pós-sprints
+### Tarefas
 
-| Data       | Atividade                    | Responsáveis           | Entregas Esperadas                                 |
-|------------|------------------------------|------------------------|----------------------------------------------------|
-| 13/04/2025 | Revisão geral do projeto     | Todos os Integrantes   | Ajustes finais, validação do site/documentação     |
-
-**Fonte**: Elaborado pelos autores, 2025.
+| Data     | Tarefa                                      | Dupla Responsável      |
+|----------|---------------------------------------------|------------------------|
+| 27/06    | Construção da Rastreabilidade               | Gabriel e Mateus       |
+| 02/07    | Relacionamentos e ajustes finais            | Daniel e Felipe        |
+| 09/07    | *Revisão final*                             | Todos                  |
 
 ---
+
+## Etapa Final – Entrega do Projeto Completo  
+- Entrega Final: 07/07  
+
+| Data     | Tarefa                                      | Dupla Responsável     |
+|----------|---------------------------------------------|------------------------|
+| 01/07    | Consolidação final do MkDocs                | Vitor e Arthur         |
+| 05/07    | Ajustes de formatação e revisão técnica     | Todos                  |
+| 06/07    | *Revisão final e gravação da entrega*     | Todos                  |
 
 
 ## Referência Bibliográfica
