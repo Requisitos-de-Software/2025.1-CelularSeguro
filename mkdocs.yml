@@ -19,7 +19,8 @@ nav:
      
   - Pré-Rastreabilidade:
       - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
-      - Rich Picture: "documento-pre-rastreabilidade/rich-picture.md"
+      - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
+      - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
