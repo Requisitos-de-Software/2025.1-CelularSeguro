@@ -6,7 +6,6 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-![Rich Picture - Celular Seguro](../assets/img/rich-picture-celularSeguro.jpeg)
 
 
 
