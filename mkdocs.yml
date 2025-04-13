@@ -5,7 +5,7 @@ repo_name: 2025.1-Celular Seguro
 site_name: Celular Seguro
 
 nav:
-  #- Landing Page: "landing.html"
+  - Landing Page: landing.html
   - Home: index.md
 
   - Atas:
