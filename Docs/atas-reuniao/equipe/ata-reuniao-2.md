@@ -14,6 +14,9 @@
 
 ## Participantes
 
+<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
+
+
 | Nome            | Presença |
 |-----------------|----------|
 | Arthur Carvalho Leite       | ✔️    |
@@ -23,6 +26,8 @@
 | Leonardo de Melo Lima       | ✔️    |
 | Mateus Bastos dos Santos    | ✔️    |
 | Vitor Pereira Bessa         | ✔️    |
+
+<font size="3"><p style="text-align: left">Fonte: Autores</p></font>
 
 ---
 ## Discussões
@@ -58,6 +63,6 @@
 
 # Tabela de Versionamento 
 
-| Versão | Data       | Descrição                | Autor(es)                                      | Revisor(es) |
-|--------|------------|--------------------------|-------------------------------------------------|-------------|
-| 1.0    | 31/03/2025 | Desenvolvimento do artefato conforme a reunião  | Arthur Carvalho Leite | Todos       |
+| Versão | Data       | Descrição                                     | Autor(es)                                                             | Revisor(es)                                                          |
+|--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1.0    | 27/03/2025 | Desenvolvimento do artefato conforme a reunião    | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | Todos |

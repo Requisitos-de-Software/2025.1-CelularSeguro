@@ -8,20 +8,12 @@ nav:
   #- Landing Page: "landing.html"
   - Home: index.md
 
-  - Apresentação:
-      - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
-
   - Atas:
       - Equipe:
           - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
           - Ata 2: "atas-reuniao/equipe/ata-reuniao-2.md"
           - Ata 3: "atas-reuniao/equipe/ata-reuniao-3.md"
           - Ata 4: "atas-reuniao/equipe/ata-reuniao-4.md"
-     
-  - Pré-Rastreabilidade:
-      - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
-      - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
-      - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
@@ -30,7 +22,15 @@ nav:
       - Cronograma Executado: "documento-planejamento/cronograma-executado.md"
       - Ferramentas: "documento-planejamento/ferramentas-utilizadas.md"
       - Metodologia: "documento-planejamento/metodologias-utilizadas.md"
-       
+
+  - Pré-Rastreabilidade:
+      - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
+      - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
+      - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
+
+  - Apresentação:
+      - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+     
   - Elicitação: 
       - Introdução: "documento-elicitacao/documento-elicitacao.md"
 
