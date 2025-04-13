@@ -119,7 +119,7 @@ Aplicativo que disponibiliza a carteira de identidade militar em formato digital
 
 ---
 
-### SUS Digital
+## SUS Digital
 
 <font size="3"><p style="text-align: center">Figura 7: Rich picture do aplicativo SUS Digital</p></font>
 
