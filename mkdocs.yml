@@ -78,7 +78,7 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       primary: #2c2c7c
-      accent: amber
+      accent: #2c2c7c
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
