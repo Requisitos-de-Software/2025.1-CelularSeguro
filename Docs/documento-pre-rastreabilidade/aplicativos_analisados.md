@@ -6,6 +6,9 @@ Esta seção apresenta a análise de seis aplicativos relevantes para o projeto,
 ---
 
 ## Sinesp Cidadão
+
+<font size="3"><p style="text-align: center">Figura 1: Rich picture do aplicativo Sinesp Cidadão</p></font>
+
 ![Rich Picture - Sinesp Cidadão](../assets/img/rich-picture-sinesp.png)
 
 **Descrição:**  
@@ -22,6 +25,9 @@ Aplicativo governamental que permite aos cidadãos consultar informações de se
 ---
 
 ## Celular Seguro
+
+<font size="3"><p style="text-align: center">Figura 2: Rich picture do aplicativo Celular Seguro</p></font>
+
 ![Rich Picture - Celular Seguro](../assets/img/rich-picture-celularSeguro.png)
 
 **Descrição:**  
@@ -38,6 +44,9 @@ Aplicativo do governo destinado a registrar alertas de roubo, furto ou perda de 
 ---
 
 ## Carteira Digital de Trânsito (CDT)
+
+<font size="3"><p style="text-align: center">Figura 3: Rich picture do aplicativo Carteira Digital de Transito</p></font>
+
 ![Rich Picture - Carteira Digital de Trânsito](../assets/img/rich-picture-digitalTransito.png)
 
 **Descrição:**  
@@ -54,6 +63,9 @@ Aplicativo que digitaliza a CNH e o CRLV, facilitando o acesso e a consulta de d
 ---
 
 ## NFSe Mobile
+
+<font size="3"><p style="text-align: center">Figura 4: Rich picture do aplicativo NFSe Mobile</p></font>
+
 ![Rich Picture - NFSe Mobile](../assets/img/rich-picture-NFSeMobile.png)
 
 **Descrição:**  
@@ -70,6 +82,9 @@ Aplicativo voltado para a emissão e consulta de Notas Fiscais de Serviço eletr
 ---
 
 ## Bolsa Família (App)
+
+<font size="3"><p style="text-align: center">Figura 5: Rich picture do aplicativo Bolsa Família</p></font>
+
 ![Rich Picture - Bolsa Família](../assets/img/rich-picture-bolsaFamilia.png)
 
 **Descrição:**  
@@ -86,6 +101,9 @@ Aplicativo que possibilita aos beneficiários do programa Bolsa Família consult
 ---
 
 ## Carteira de Identidade Militar Digital (EBCIM)
+
+<font size="3"><p style="text-align: center">Figura 6: Rich picture do aplicativo Identidade Militar Digital</p></font>
+
 ![Rich Picture - Identidade Militar Digital](../assets/img/rich-picture-identidadeMilitar.png)
 
 **Descrição:**  
@@ -102,6 +120,9 @@ Aplicativo que disponibiliza a carteira de identidade militar em formato digital
 ---
 
 ### SUS Digital
+
+<font size="3"><p style="text-align: center">Figura 7: Rich picture do aplicativo SUS Digital</p></font>
+
 ![Rich Picture SUS Digital](../assets/img/rich-picture-SUSDigital.png)
 
 **Descrição:**  
@@ -119,6 +140,8 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## Tabela Comparativa dos Aplicativos
 
+<font size="3"><p style="text-align: center">Tabela 1: Tabela Comparativa dos Aplicativos</p></font>
+
 | **Aplicativo**                   | **Funcionalidades (resumo)**                                            | **Segurança (dados e acesso)**               | **Integração (Gov)**                          | **Usabilidade**                              | **Público Principal**                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------------------------------------|
 | **Sinesp Cidadão**               | Consulta de dados (veículos, pessoas, prisões)                          | Dados oficiais, acesso rápido                | Dados do Sinesp/MJ                            | Interface simples e objetiva                 | Cidadãos interessados em segurança pública            |
@@ -128,6 +151,8 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 | **Bolsa Família (App)**          | Consulta de benefício e localização de agências                          | Proteção de dados pessoais                   | Integra Caixa e Cadastro Único                | Simples e direto                             | Famílias beneficiárias do programa                    |
 | **Identidade Militar Digital**   | Exibe identidade com QR Code e acesso offline                            | Autenticação gov.br e PIN, dados cifrados    | Integra Exército e gov.br                     | Interface limpa e focada                     | Militares e dependentes                               |
 | **SUS Digital**                  | Acesso a histórico clínico, vacinas e exames; busca de unidades de saúde | Autenticação via gov.br; dados seguros (RNDS)| Integra Ministério da Saúde (RNDS)            | Interface moderna e seções bem estruturadas  | Cidadãos usuários do SUS                              |
+
+<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 
 ---
 

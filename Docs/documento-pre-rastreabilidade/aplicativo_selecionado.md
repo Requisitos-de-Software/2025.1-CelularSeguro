@@ -22,6 +22,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ## Termos Relevantes
 
+<font size="3"><p style="text-align: center">Tabela 1: Termos Relevantes</p></font>
+
 | Termo                         | Definição Técnica                                                                 |
 |------------------------------|-----------------------------------------------------------------------------------|
 | **Usuário**                  | Cidadão autenticado via Gov.br que utiliza o aplicativo.                         |
@@ -29,6 +31,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Dispositivo Cadastrado**   | Aparelho móvel registrado voluntariamente pelo usuário.                          |
 | **Evento/Incidente**         | Ocorrência de roubo, furto ou extravio do dispositivo.                           |
 | **Serviço Celular Seguro**   | Conjunto de ferramentas para proteger dados e serviços móveis.                   |
+
+<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 
 ---
 
@@ -46,6 +50,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ## Base Legal Aplicada
 
+<font size="3"><p style="text-align: center">Tabela 2: Base legal</p></font>
+
 | Legislação / Norma                          | Conteúdo Abrangido                                                             |
 |--------------------------------------------|--------------------------------------------------------------------------------|
 | **LGPD (Lei nº 13.709/2018)**              | Regras de tratamento, proteção e consentimento de dados pessoais.             |
@@ -53,6 +59,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Lei de Acesso à Informação (12.527)**    | Direito de acesso à informações públicas.                                     |
 | **Lei nº 13.460/2017**                     | Direitos dos usuários de serviços públicos.                                   |
 | **Portarias e Decretos do MJSP**           | Regras internas sobre proteção de dados, governança e serviços digitais.      |
+
+<font size="3"><p style="text-align: center">Fonte: <strong>Buscar fonte<strong></p></font>
 
 ---
 
