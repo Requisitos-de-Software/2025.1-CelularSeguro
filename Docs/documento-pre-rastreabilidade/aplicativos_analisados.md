@@ -158,19 +158,19 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## Referências Bibliográficas
 
-BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/seguranca-publica/sinesp-cidadao>. Acesso em: 10 abr. 2025.
+BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
 BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/infraestrutura/pt-br/assuntos/transito>. Acesso em: 10 abr. 2025.
+BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
 
-PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfsemobile>. Acesso em: 10 abr. 2025.
+PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.
 
-CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.gov.br/caixa/pt-br/assuntos/bolsa-familia>. Acesso em: 10 abr. 2025.
+CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.
 
-EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://www.eb.mil.br/ebcim>. Acesso em: 10 abr. 2025.
+EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/assuntos/sus-digital>. Acesso em: 11 abr. 2025.
+BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.
 
 ---
 
