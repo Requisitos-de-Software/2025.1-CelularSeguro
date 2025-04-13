@@ -6,9 +6,6 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-
-
-
 ## Funcionalidades Principais
 
 - **Cadastro de dispositivo móvel** com informações como IMEI, número de telefone, operadora e modelo.

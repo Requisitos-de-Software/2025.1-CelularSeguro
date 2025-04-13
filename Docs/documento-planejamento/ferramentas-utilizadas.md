@@ -51,7 +51,7 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
       <td>Edição básica de imagens e ilustrações rápidas. <a id="anchor_7" href="#FRM7">⁷</a></td>
     </tr>
     <tr>
-      <td><img src="/assets/Ferramentas/Astah.png" width="80" height="80"/></td>
+      <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/Ferramentas/Astah.png" width="80" height="80"/></td>
       <td>Astah</td>
       <td>Modelagem UML e outras representações visuais. <a id="anchor_8" href="#FRM8">⁸</a></td>
     </tr>
