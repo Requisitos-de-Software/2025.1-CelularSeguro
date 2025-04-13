@@ -1,7 +1,7 @@
 # Aplicativos Analisados
 ---
 
-Esta seção apresenta a análise de seis aplicativos relevantes para o projeto, destacando suas funcionalidades essenciais, o público-alvo, os pontos positivos e as limitações percebidas. Cada bloco abaixo reúne uma descrição enxuta e um rich picture ilustrativo.
+Esta seção apresenta a análise de sete aplicativos relevantes para o projeto, destacando suas funcionalidades essenciais, o público-alvo, os pontos positivos e as limitações percebidas. Cada bloco abaixo reúne uma descrição enxuta e um rich picture ilustrativo.
 
 ---
 
