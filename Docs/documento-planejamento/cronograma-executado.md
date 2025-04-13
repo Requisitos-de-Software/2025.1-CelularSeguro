@@ -30,8 +30,8 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | Escolha de Metodologia e Ferramentas        | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 10/04 |
 | Documentar Equipe e criar Homepage          | Felipe                 | Gabriel e Daniel   |  03/04  | 11/04 |
 | Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
-| Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  12/04  | 12/04 |
-| *Revisão final*                             | Todos                  |                    |  12/04  | 12/04 |
+| Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  13/04  | 13/04 |
+| *Revisão final*                             | Todos                  |                    |  13/04  | 13/04 |
 
 <font size="3"><p style="text-align: center">Fonte: Autores</p></font>
 
