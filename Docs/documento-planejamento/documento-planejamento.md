@@ -1,7 +1,7 @@
 # Documentação Planejamento
 ---
 
-### [📊 Planejamento](planejamento.md)
+### [📊 Planejamento](documento-planejamento.md)
 
 Nesta seção apresentamos o planejamento geral do projeto, incluindo visualização de engajamento da equipe, cronogramas e as ferramentas/metodologias adotadas.
 
