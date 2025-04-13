@@ -50,7 +50,7 @@
 ### Link da gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo 3:</strong> <a href="https://youtu.be/alWoFYYuqgA">Grupo 03 – Reunião 03</a></p>
+  <p><strong>Vídeo 3: </strong> <a href="https://youtu.be/alWoFYYuqgA"> Grupo 03 – Reunião 03</a></p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/alWoFYYuqgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
