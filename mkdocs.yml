@@ -25,6 +25,7 @@ nav:
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
+      - HeatMap: "documento-planejamento/heatmap.md"
       - Cronograma Planejado: "documento-planejamento/cronograma-planejado.md"
       - Cronograma Executado: "documento-planejamento/cronograma-executado.md"
       - Ferramentas: "documento-planejamento/ferramentas-utilizadas.md"
