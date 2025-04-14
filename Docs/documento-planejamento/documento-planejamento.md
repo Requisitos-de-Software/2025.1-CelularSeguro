@@ -35,6 +35,10 @@ Neste tópico listamos as principais ferramentas utilizadas durante o desenvolvi
 
 A equipe utilizou a metodologia ágil Scrum, que permite organizar o trabalho em ciclos curtos chamados sprints. Essa abordagem foi escolhida por facilitar a adaptação às mudanças, melhorar a comunicação e garantir entregas incrementais de valor ao longo do tempo.
 
+---
+### [📄 Termo de Uso do Aplicativo Celular Seguro](../TermoUso.pdf)
+
+Este documento apresenta os termos e condições de uso do aplicativo **Celular Seguro**, incluindo diretrizes sobre privacidade, responsabilidades dos usuários, tratamento de dados e obrigações legais. Ele serve como base para a compreensão dos limites e garantias do serviço, fundamentado na legislação vigente como a LGPD e o Marco Civil da Internet.
 
 
 ---
