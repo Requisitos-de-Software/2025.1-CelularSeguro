@@ -65,9 +65,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Lei nº 13.460/2017**                     | Direitos dos usuários de serviços públicos.                                   |
 | **Portarias e Decretos do MJSP**           | Regras internas sobre proteção de dados, governança e serviços digitais.      |
 
-
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Base Legal do Programa Celular Seguro</a></p></font>
-
 
 
 ---
