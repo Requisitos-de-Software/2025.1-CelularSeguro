@@ -57,7 +57,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Lei nº 13.460/2017**                     | Direitos dos usuários de serviços públicos.                                   |
 | **Portarias e Decretos do MJSP**           | Regras internas sobre proteção de dados, governança e serviços digitais.      |
 
-<font size="3"><p style="text-align: center">Fonte: <strong>Buscar fonte<strong></p></font>
+<font size="3"><p style="text-align: center">Fonte: Legislação brasileira disponível em www.planalto.gov.br e portal do Ministério da Justiça.</p></font>
 
 ---
 
