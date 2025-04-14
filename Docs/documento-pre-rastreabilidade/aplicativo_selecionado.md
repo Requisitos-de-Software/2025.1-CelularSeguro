@@ -15,6 +15,9 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - **Acompanhamento do status** dos bloqueios realizados.
 - **Acesso multiplataforma:** disponível como app (iOS/Android) e versão web, com autenticação Gov.br.
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/assuntos/noticias/celular-seguro-como-funciona" target="_blank">gov.br/mj - Como funciona o Celular Seguro</a></p></font>
+
+
 ---
 
 ## Termos Relevantes
@@ -29,7 +32,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Evento/Incidente**         | Ocorrência de roubo, furto ou extravio do dispositivo.                           |
 | **Serviço Celular Seguro**   | Conjunto de ferramentas para proteger dados e serviços móveis.                   |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
+
 
 ---
 
@@ -42,6 +46,10 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - **Responder por danos** causados por uso indevido ou não autorizado do serviço.
 - **Baixar o app apenas pelas lojas oficiais** (App Store ou Google Play).
 - Realizar comunicações complementares com a **polícia, operadora e bancos** após emitir o alerta.
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
+
+
 
 ---
 
@@ -57,7 +65,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Lei nº 13.460/2017**                     | Direitos dos usuários de serviços públicos.                                   |
 | **Portarias e Decretos do MJSP**           | Regras internas sobre proteção de dados, governança e serviços digitais.      |
 
-<font size="3"><p style="text-align: center">Fonte: Legislação brasileira disponível em www.planalto.gov.br e portal do Ministério da Justiça.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Base Legal do Programa Celular Seguro</a></p></font>
+
 
 ---
 
@@ -69,6 +78,9 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Uso de **cookies de sessão** para controle e segurança no acesso web.
 - Possibilidade de **anonimização** e uso para fins estatísticos após encerramento do serviço.
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
+
+
 ---
 
 ## Contato com o MJSP
@@ -77,11 +89,30 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - E-mail do Encarregado LGPD: [encarregadolgpd@mj.gov.br](mailto:encarregadolgpd@mj.gov.br)
 - Endereço: Esplanada dos Ministérios, Bloco T - Brasília/DF, CEP 70064-900
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/canais_atendimento" target="_blank">gov.br/mj - Canais de Atendimento</a></p></font>
+
+
 
 ---
 
-## Tabela de Versionamento
+## Referências Bibliográficas
 
-| **Versão** | **Data**     | **Descrição da Alteração**                           | **Nome(s) Integrante(s)**     |
-|------------|--------------|-------------------------------------------------------|-------------------------------|
-| 1.0        | 11/04/2025   | Criação da seção de Aplicativo Selecionado: Celular Seguro | Mateus Bastos        |
+BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
+
+BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
+
+BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
+
+BRASIL. Ministério da Justiça e Segurança Pública. Programa Celular Seguro: termos de uso e política de privacidade. Disponível em: <https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro>. Acesso em: 13 abr. 2025.
+
+
+
+---
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                                                                                     | Autor(es)                                                                                                 | Revisor(es)                                                                                                                  |
+|--------|------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1.0    | 09/04/2025 | Descrição e funcionalidades principais                                                                       | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
+| 1.1    | 10/04/2025 | Termos relevantes, responsabilidade de usuário, Base Legal Aplicada, Contato com o MJSP                      | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
+| 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
