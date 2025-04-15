@@ -11,7 +11,7 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 1 do
 
 ## Participantes
 
-O responsável por essa verificação é o integrante [Arthur Carvalho](https://github.com/arthurlleite), que realizou tanto o planejamento quanto a inspeção e o relato de seus resultados. A revisão dos artefatos produzidos por essa verificação fica a cargo do integrante do Grupo 3 [Vitor Bessa](https://github.com/Bessazs).
+O responsável por essa verificação é o integrante [Arthur Carvalho](https://github.com/arthurlleite), que realizou tanto o planejamento quanto a inspeção e o relato de seus resultados. A revisão dos artefatos produzidos por essa verificação fica a cargo do integrante do Grupo [Vitor Bessa](https://github.com/Bessazs).
 
 ## Checklists
 
@@ -33,7 +33,7 @@ O responsável por essa verificação é o integrante [Arthur Carvalho](https://
 | 6 | As tabelas e imagens possuem legenda e fonte? | Sim |
 | 7 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim |
 | 8 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim |
-| 9 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Não |
+| 9 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim |
 | 10 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Sim |
 | 11 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim |
 | 12 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim |
