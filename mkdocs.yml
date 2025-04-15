@@ -28,7 +28,10 @@ nav:
       - Introdução: "documento-modelagem/documento-modelagem.md"
 
   - Verificação:
-      - Introdução: "documento-verificacao/documento-verificacao.md" 
+      - Grupo: 
+        - Entrega 1: "documento-verificacao/grupo/documento-verificacao-grupo.md" 
+      - Grupo + 1: 
+        - Entrega 1: "documento-verificacao/grupo+1/documento-verificacao-grupos.md" 
 
   - Validação: 
       - Introdução: "documento-validacao/documento-validacao.md"
