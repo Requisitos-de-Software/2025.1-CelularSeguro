@@ -24,7 +24,7 @@ A git page possui?  | Sim/Não/Incompleto
 3 - A motivação e os critérios para a escolha do App? | Sim
 4 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim
 5 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim
-6 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim
+6 - As tabelas e imagens possuem legenda e fonte? | Sim
 7 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim
 8 – Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim
 9 - o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim
