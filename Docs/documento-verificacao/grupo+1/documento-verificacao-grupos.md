@@ -11,7 +11,7 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 1 do
 
 ## Participantes
 
-A responsável por essa verificação é a integrante [Arthur Carvalho](https://github.com/arthurlleite), que realizou tanto o planejamento quanto a inspeção e o relato de seus resultados. A revisão dos artefatos produzidos por essa verificação fica a cargo do integrante do Grupo 3 [Gabriel Lima](https://github.com/gabriel-lima258).
+O responsável por essa verificação é o integrante [Arthur Carvalho](https://github.com/arthurlleite), que realizou tanto o planejamento quanto a inspeção e o relato de seus resultados. A revisão dos artefatos produzidos por essa verificação fica a cargo do integrante do Grupo 3 [Gabriel Lima](https://github.com/gabriel-lima258).
 
 ## Checklists
 
@@ -27,10 +27,10 @@ A responsável por essa verificação é a integrante [Arthur Carvalho](https://
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | 
 | 1   | O histórico de versão padronizado?                                                                      |     Incompleto      |
 | 2   | O(s) autor(es) e o(s) revisor(es) para cada artefato?                                          |     Sim      |
-| 3   | A motivação e os critérios para a escolha do App? |     Não      |
+| 3   | A motivação e os critérios para a escolha do App? |     Sim      |
 | 4   | Vídeo de apresentação na categoria “não listado” no youtube?                          |     Sim      |
 | 5   | Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                              |      Sim     |
-| 6 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Incompleto |
+| 6 | As tabelas e imagens possuem legenda? | Incompleto |
 | 7 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim |
 | 8 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim |
 | 9 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Não |
@@ -52,7 +52,6 @@ O [Grupo 4](https://requisitos-de-software.github.io/2025.1-Carteira-de-Trabalho
 Porém, foram identificados alguns pontos incompletos e falhas de padronização que comprometem a entrega:
 
 - Faltou padronização no histórico de versões, que aparece em ordens diferentes nos artefatos e sem uma estrutura uniforme.
-- A motivação e os critérios para a escolha do aplicativo não foram apresentados na primeira entrega.
 - Algumas imagens e tabelas estão sem legenda ou fonte, como a tabela dos integrantes, a imagem do aplicativo Carteira Digital de Trânsito e o print do Duolingo.
 - O Rich Picture do aplicativo escolhido (Carteira de Trabalho Digital) não possui legenda ou explicação dos elementos, o que prejudica a interpretação do artefato mais importante da entrega.
 - O cronograma de planejamento está incompleto, abrangendo apenas até a primeira apresentação, sem prever as próximas entregas ou períodos de revisão.
