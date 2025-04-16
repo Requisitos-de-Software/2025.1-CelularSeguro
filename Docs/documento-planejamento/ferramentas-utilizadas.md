@@ -75,10 +75,15 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
       <td>VS Code</td>
       <td>Editor de código e Markdown utilizado para o desenvolvimento. <a id="anchor_12" href="#FRM12">¹²</a></td>
     </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/Ferramentas/ChatGPT.png" width="80" height="80"/></td>
+      <td>Chat GPT</td>
+      <td>Ferramenta de IA, utilizada em ajuste e melhora do projeto. <a id="anchor_13" href="#FRM13">¹³</a></td>
+    </tr>
   </tbody>
 </table>
 
-<p style="text-align: center;"><strong>Fonte</strong>: Elaborado pelos autores, 2025.</p>
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite)._</p></font>
 
 
 ---
@@ -109,6 +114,8 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
 
 ¹² MICROSOFT. *Visual Studio Code*. 2025. Disponível em: <https://code.visualstudio.com/>. Acesso em: 10 abr. 2025.
 
+¹³ CHATGPT. *Chat GPT*. 2025. Disponível em: <https://chat.openai.com>. Acesso em: 16 abr. 2025.
+
 
 ---
 # Tabela de Versionamento 
@@ -116,4 +123,5 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
 | Versão | Data | Descrição da Alteração | Nome(s) Integrante(s) |
 | :----: | :--: | :--------------------: | :-------------------: |
 | 1.0 | 13/04/2025 | Desenvolvimento do tópico | Arthur Carvalho |
-| 1.0 | 13/04/2025 | Inserção das imagens nas tabelas | Felipe das Neves |
+| 1.1 | 13/04/2025 | Inserção das imagens nas tabelas | Felipe das Neves |
+| 1.2 | 16/04/2025 | Inserção do GPT | Gabriel Lima |

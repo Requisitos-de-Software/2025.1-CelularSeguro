@@ -26,7 +26,7 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 
 <div align="center">
   <font size="3">
-    <p style="text-align: center"><b>Fonte:</b> Elaborado pelos autores, 2025.</p>
+    <p style="text-align: center"><b>Fonte:</b> Arthur Carvalho </p>
   </font>
 </div>
 
@@ -75,7 +75,7 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 
 <div align="center">
   <font size="3">
-    <p style="text-align: center"><b>Fonte:</b> Elaborado pelos autores, 2025.</p>
+    <p style="text-align: center"><b>Fonte:</b> Arthur Carvalho</p>
   </font>
 </div>
 
@@ -92,3 +92,4 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 | Versão | Data       | Descrição                           | Autor(es) | Revisor(es) |
 |--------|------------|-------------------------------------|-----------|-------------|
 | 1.0    | 11/04/2025 | Criação da seção de heatmap         | [Arthur Carvalho](https://github.com/arthurlleite) | [Leonardo de Melo](https://github.com/leozinlima) |
+| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a href="https://github.com/MateuSansete" target="_blank">Mateus</a> |

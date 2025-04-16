@@ -33,7 +33,7 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  13/04  | 13/04 |
 | *Revisão final*                             | Todos                  |                    |  13/04  | 13/04 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 
 ## Referência Bibliográfica
@@ -49,3 +49,4 @@ ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação 
 | Versão | Data       | Descrição                                     | Autor(es)                                                             | Revisor(es)                                                          |
 |--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1.0    | 09/04/2025 | Criação do documento                         | <a href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a href="https://github.com/leozinlima" target="_blank">Leonardo</a>           |
+| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a href="https://github.com/MateuSansete" target="_blank">Mateus</a> |

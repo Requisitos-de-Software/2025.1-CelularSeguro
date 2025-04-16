@@ -32,7 +32,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                  |                    |  12/04  | 12/04 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -60,7 +60,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Gravar e fazer upload da apresentação       | Leonardo e Arhtur         | Mateus e Gabriel   |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                     |                    |  26/04  | 26/04 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -86,7 +86,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Gravar e fazer upload da apresentação       | Daniel e Vitor            | Leonardo e Felipe  |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                     |                    |  12/05  | 12/05 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -111,7 +111,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Gravar e fazer upload da apresentação       | Felipe e Mateus          | Vitor e Arthur     |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                    |                    |  24/05  | 24/05 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -137,7 +137,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Gravar e fazer upload da apresentação       | Vitor e Felipe                  | Arthur e Leonardo  |  09/06  | 09/06 |
 | *Revisão final*                             | Todos                           |                    |  09/06  | 09/06 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -160,7 +160,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Gravar e fazer upload da apresentação          | Leonardo e Mateus               | Mateus e Daniel    |  25/06  | 25/06 |
 | *Revisão final*                                | Todos                           |                    |  25/06  | 25/06 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -177,7 +177,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Ajustes de formatação e revisão técnica     |   Todos                |   Todos            |  02/07  | 04/07 |          
 | *Revisão final*                             |   Todos                |   Todos            |  04/07  | 04/07 |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ## Referência Bibliográfica
 
@@ -198,3 +198,4 @@ ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação 
 | 1.1    | 10/04/2025 | Inclusão de todas as sprints                 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>           |
 | 1.2    | 10/04/2025 | Ajustes ABNT e referências finais            | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
 | 1.3    | 12/04/2025 | Adição das 5 etapas e atualização de tabelas | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| 1.4    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
