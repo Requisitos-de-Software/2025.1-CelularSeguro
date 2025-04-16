@@ -10,7 +10,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 </center>
 
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
 
 
 A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
