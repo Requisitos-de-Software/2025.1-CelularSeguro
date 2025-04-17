@@ -138,6 +138,24 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ---
 
+## Legenda dos Rich Pictures
+
+Os Rich Pictures são representações visuais utilizadas para entender, modelar e comunicar o funcionamento de sistemas de forma intuitiva. A legenda abaixo explica os principais elementos utilizados:
+
+| **Componente**             | **Símbolo**                          | **Descrição**                                                                                                                                          |
+|----------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Atores**                 | ![ator](../assets/img/ator.svg)     | Representam as pessoas (ou grupos) que interagem com o sistema, direta ou indiretamente. Ex: usuários, gestores, clientes. |
+| **Operações**              | ![operacao](../assets/img/operacao.svg) | Representam as ações executadas no sistema, geralmente iniciadas por atores. Ex: “Excluir cliente”. |
+| **Armazenamento de dados** | ![dados](../assets/img/dados.svg)   | São os repositórios de dados (como tabelas ou arquivos). Ex: “Clientes”. |
+| **Setas (fluxo de dados)** | ![seta](../assets/img/seta.svg)     | Indicam o fluxo de informação entre atores, operações e dados. |
+| **Limites do sistema**     | ![limite](../assets/img/limite.svg) | Delimitam o que está sob responsabilidade do sistema analisado. |
+
+---
+
+**Observação:** A construção do Rich Picture deve começar com os Atores, seguido pelas Operações, Armazenamento de Dados e Setas. O Limite do Sistema deve ser adicionado por último, para englobar apenas os elementos relevantes.
+
+---
+
 ## Tabela Comparativa dos Aplicativos
 
 <font size="3"><p style="text-align: center">Tabela 1: Tabela Comparativa dos Aplicativos</p></font>
@@ -156,7 +174,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ---
 
-## Referências Bibliográficas
+## Bibliográficas
 
 BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
@@ -183,3 +201,4 @@ BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <h
 | 1.2    | 10/04/2025 | Adição da tabela comparativa entre os aplicativos analisados                                   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
 | 1.3    | 11/04/2025 | Inclusão do aplicativo SUS Digital com Rich Picture, análise e atualização na comparação       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
 | 1.4    | 13/04/2025 | Inserção das referências bibliográficas de todos os aplicativos analisados                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
+| 1.5    | 17/04/2025 | Correção do título da bibliografia e adição do tópico de legenda dos rich pictures                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a> |
