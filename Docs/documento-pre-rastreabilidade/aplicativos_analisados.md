@@ -174,7 +174,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## Bibliográficas
+## Bibliografias
 
 BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
