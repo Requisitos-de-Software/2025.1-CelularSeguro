@@ -5,23 +5,8 @@ repo_name: 2025.1-Celular Seguro
 site_name: Celular Seguro
 
 nav:
-  #- Landing Page: "landing.html"
+  - Landing Page: landing.html
   - Home: index.md
-
-  - Apresentação:
-      - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
-
-  - Atas:
-      - Equipe:
-          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
-          - Ata 2: "atas-reuniao/equipe/ata-reuniao-2.md"
-          - Ata 3: "atas-reuniao/equipe/ata-reuniao-3.md"
-          - Ata 4: "atas-reuniao/equipe/ata-reuniao-4.md"
-     
-  - Pré-Rastreabilidade:
-      - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
-      - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
-      - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
@@ -30,7 +15,12 @@ nav:
       - Cronograma Executado: "documento-planejamento/cronograma-executado.md"
       - Ferramentas: "documento-planejamento/ferramentas-utilizadas.md"
       - Metodologia: "documento-planejamento/metodologias-utilizadas.md"
-       
+
+  - Pré-Rastreabilidade:
+      - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
+      - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
+      - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
+     
   - Elicitação: 
       - Introdução: "documento-elicitacao/documento-elicitacao.md"
 
@@ -38,7 +28,10 @@ nav:
       - Introdução: "documento-modelagem/documento-modelagem.md"
 
   - Verificação:
-      - Introdução: "documento-verificacao/documento-verificacao.md" 
+      - Grupo: 
+        - Entrega 1: "documento-verificacao/grupo/documento-verificacao-grupo.md" 
+      - Grupo + 1: 
+        - Entrega 1: "documento-verificacao/grupo+1/documento-verificacao-grupos.md" 
 
   - Validação: 
       - Introdução: "documento-validacao/documento-validacao.md"
@@ -46,8 +39,18 @@ nav:
   - Rastreabilidade: 
       - Introdução: "documento-rastreabilidade/documento-rastreabilidade.md"    
 
-  - Entrega Final: 
-      - Introdução: "documento-entrega-final/documento-entrega-final.md" 
+  - Atas:
+    - Sprint 1:
+        - Ata 1: "atas-reuniao/sprint-1/ata-reuniao-1.md"
+        - Ata 2: "atas-reuniao/sprint-1/ata-reuniao-2.md"
+        - Ata 3: "atas-reuniao/sprint-1/ata-reuniao-3.md"
+        - Ata 4: "atas-reuniao/sprint-1/ata-reuniao-4.md"
+    - Sprint 2:
+        - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-5.md"
+
+  - Entregas:
+    - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+    - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
   
 
 theme:
@@ -65,6 +68,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.tracking
+    - navigation.path
 
   palette:
     # Palette toggle for light mode
@@ -78,7 +82,7 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       primary: #2c2c7c
-      accent: amber
+      accent: #2c2c7c
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode

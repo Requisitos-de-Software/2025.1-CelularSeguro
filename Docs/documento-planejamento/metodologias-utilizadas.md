@@ -14,7 +14,7 @@ O **Scrum** é um framework ágil que organiza o desenvolvimento de projetos em 
 
 A tabela a seguir apresenta os papéis definidos segundo o framework Scrum e os integrantes do projeto responsáveis por cada função.
 
-**Tabela 1 – Composição da Equipe Scrum**
+<font size="3"><p style="text-align: center">Tabela 1 – Composição da Equipe Scrum</p></font>
 
 | **Função**             | **Responsável**            | **Descrição**                                                                                                              |
 |------------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ A tabela a seguir apresenta os papéis definidos segundo o framework Scrum e os 
 | **Product Owner**      | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>                | Representa os interesses dos stakeholders e garante que o produto entregue atenda às suas necessidades.                   |
 | **Time de Desenvolvimento** | Todos os membros     | Equipe encarregada de implementar as tarefas planejadas em cada sprint.                                                   |
 
-**Fonte**: Elaborado pelos autores, 2025.
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
 
 ---
 
@@ -30,14 +30,14 @@ A tabela a seguir apresenta os papéis definidos segundo o framework Scrum e os 
 
 A tabela abaixo apresenta os eventos Scrum utilizados pela equipe e suas respectivas finalidades.
 
-**Tabela 2 – Eventos Scrum utilizados no projeto**
+<font size="3"><p style="text-align: center">Tabela 2 – Eventos Scrum utilizados no projeto</p></font>
 
 | **Evento**   | **Descrição**                                                                                                               |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------|
 | **Sprint**   | Ciclo de desenvolvimento semanal que visa o cumprimento de tarefas planejadas na reunião de *planning* e revisadas na *review*. |
 | **Status**   | Reuniões rápidas entre sprints para alinhamento e verificação de obstáculos. Realizadas às quartas às 22h.                  |
 
-**Fonte**: Elaborado pelos autores, 2025.
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
 
 ---
 
@@ -45,14 +45,14 @@ A tabela abaixo apresenta os eventos Scrum utilizados pela equipe e suas respect
 
 Abaixo, apresenta-se o cronograma de reuniões definidas após análise da disponibilidade dos membros.
 
-**Tabela 3 – Cronograma de Reuniões da Equipe**
+<font size="3"><p style="text-align: center">Tabela 3 – Cronograma de Reuniões da Equipe</p></font>
 
 | **Tipo de Reunião**   | **Dia/Horário**      | **Observações**                                                                                   |
 |------------------------|----------------------|---------------------------------------------------------------------------------------------------|
 | **Planning + Review**  | Segunda-feira às 16h | Reunião principal para planejamento das tarefas e avaliação das entregas anteriores.              |
 | **Status**             | Quarta-feira às 22h  | Reunião curta, realizada de forma mais dinâmica e objetiva.                                       |
 
-**Fonte**: Elaborado pelos autores, 2025.
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
 
 ---
 
@@ -74,7 +74,7 @@ Essa prática contribui para:
 
 Este repositório segue uma política de versionamento e colaboração inspirada nas melhores práticas de Engenharia de Software.
 
-### Branches
+### 📂 Branches
 
 A tabela abaixo apresenta o padrão de nomenclatura para criação de branches durante o desenvolvimento do projeto.
 
@@ -91,7 +91,7 @@ A tabela abaixo apresenta o padrão de nomenclatura para criação de branches d
 
 ---
 
-### Commits
+### 💬 Commits
 
 O padrão de commits utilizado segue a estrutura `<tipo>: <descrição breve>`. Exemplos:
 
@@ -101,7 +101,7 @@ O padrão de commits utilizado segue a estrutura `<tipo>: <descrição breve>`. 
 
 ---
 
-### Issues
+### 🗂️ Issues
 
 As *issues* seguem o modelo de clareza, com título e descrição objetivos. Exemplo:
 
@@ -115,7 +115,7 @@ Adicionar o caso de uso "Recuperar Senha" no documento de requisitos funcionais.
 - [ ] Especificar fluxo principal e alternativo
 ```
 ---
-### Pull Requests (PRs)
+### 🚀 Pull Requests (PRs)
 Cada PR inclui:
 
 - Título descritivo e padronizado
@@ -126,11 +126,17 @@ Cada PR inclui:
 
 ---
 
+## Referência Bibliográfica
+
+¹ ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
+
+
+---
+
 ## Tabela de Versionamento 
 
 | Versão | Data       | Descrição                         | Autor(es)                                                             | Revisor(es)                                                          |
 |--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1.0    | 09/04/2025 | Criação do documento              | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>
-
-## Bibliografia
-ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662>. Acesso em: 10/04/2025.
+| 1.1    | 13/04/2025 | Correção nas referências bibliográficas e reajuste nos tópicos             | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>
+| 1.2    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |

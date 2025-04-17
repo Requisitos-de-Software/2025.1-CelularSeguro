@@ -19,6 +19,9 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 ### Tarefas
 
+<font size="3"><p style="text-align: center">Tabela 1: Atividades planejadas para a etapa 1</p></font>
+
+
 | Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|------------------------|--------------------|---------| ----- |
 | Analisar e escolher aplicativo              | Leonardo e Mateus      | Arthur e Vitor     |  26/03  | 31/03 |
@@ -28,6 +31,8 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
 | Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                  |                    |  12/04  | 12/04 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -43,6 +48,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 ### Tarefas
 
+<font size="3"><p style="text-align: center">Tabela 2: Atividades planejadas para a etapa 2</p></font>
 
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
@@ -53,6 +59,8 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Elaborar quadro MoSCow                      | Felipe                    | Daniel e Gabriel   |  23/04  | 26/04 |
 | Gravar e fazer upload da apresentação       | Leonardo e Arhtur         | Mateus e Gabriel   |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                     |                    |  26/04  | 26/04 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -67,6 +75,8 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 ### Tarefas
 
+<font size="3"><p style="text-align: center">Tabela 3: Atividades planejadas para a etapa 3</p></font>
+
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
 | Diagrama de caso de uso                     | Mateus e Gabriel          | Daniel e Vitor     |  28/04  | 05/05 |
@@ -75,6 +85,8 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Especificação suplementar                   | Vitor e Felipe            | Gabriel e Leonardo |  05/05  | 11/05 |
 | Gravar e fazer upload da apresentação       | Daniel e Vitor            | Leonardo e Felipe  |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                     |                    |  12/05  | 12/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -89,6 +101,8 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
      
 ### Tarefas
 
+<font size="3"><p style="text-align: center">Tabela 4: Atividades planejadas para a etapa 4</p></font>
+
 | Tarefa                                      |      Responsáveis        |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|--------------------------|--------------------|---------| ----- |
 | Backlog do produto                          | Mateus, Gabriel e Felipe | Daniel e Vitor     |  14/05  | 21/05 |
@@ -96,6 +110,8 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Definição dos NFRs                          | Vitor e Arthur           | Leonardo e Mateus  |  21/05  | 23/05 |
 | Gravar e fazer upload da apresentação       | Felipe e Mateus          | Vitor e Arthur     |  12/04  | 12/04 |
 | *Revisão final*                             | Todos                    |                    |  24/05  | 24/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -112,12 +128,16 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 ### Tarefas
 
+<font size="3"><p style="text-align: center">Tabela 5: Atividades planejadas para a etapa 5</p></font>
+
 | Tarefa                                      |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------------|--------------------|---------| ----- |
 | Pós-rastreabilidade: Backward-form          | Mateus, Gabriel, Vitor e Daniel | Daniel e Felipe    |  28/05  | 04/06 |
 | Pós-rastreabilidade: Forward-form           | Leonardo , Arthur e Felipe      | Mateus e Gabriel   |  04/06  | 07/06 |           
 | Gravar e fazer upload da apresentação       | Vitor e Felipe                  | Arthur e Leonardo  |  09/06  | 09/06 |
 | *Revisão final*                             | Todos                           |                    |  09/06  | 09/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -131,12 +151,16 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 ### Tarefas
 
+<font size="3"><p style="text-align: center">Tabela 6: Atividades planejadas para a etapa 6</p></font>
+
 | Tarefa                                         |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
 |------------------------------------------------|---------------------------------|--------------------|---------| ----- |
 | Verificação por inspeção de todos os artefatos | Leonardo, Arthur, Daniel        | Todos              |  11/06  | 16/06 |
 | Validação: Prototipação                        | Mateus, Gabriel, Vitor e Felipe | Todos              |  16/06  | 23/06 |
 | Gravar e fazer upload da apresentação          | Leonardo e Mateus               | Mateus e Daniel    |  25/06  | 25/06 |
 | *Revisão final*                                | Todos                           |                    |  25/06  | 25/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ---
 
@@ -145,11 +169,15 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 ## Etapa Final – Entrega do Projeto Completo  
 - Entrega Final: 07/07  
 
+<font size="3"><p style="text-align: center">Tabela 7: Atividades planejadas para a entrega final</p></font>
+
 | Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|------------------------|--------------------|---------| ----- |
 | Consolidação final do MkDocs                |   Todos                |   Todos            |  25/06  | 02/07 |
 | Ajustes de formatação e revisão técnica     |   Todos                |   Todos            |  02/07  | 04/07 |          
 | *Revisão final*                             |   Todos                |   Todos            |  04/07  | 04/07 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
 ## Referência Bibliográfica
 
@@ -169,4 +197,5 @@ ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação 
 | 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>           |
 | 1.1    | 10/04/2025 | Inclusão de todas as sprints                 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>           |
 | 1.2    | 10/04/2025 | Ajustes ABNT e referências finais            | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
-| 1.3    | 10/04/2025 | Adição das 5 etapas e atualização de tabelas | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| 1.3    | 12/04/2025 | Adição das 5 etapas e atualização de tabelas | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| 1.4    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
