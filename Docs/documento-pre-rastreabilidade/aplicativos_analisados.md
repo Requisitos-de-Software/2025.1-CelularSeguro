@@ -142,6 +142,8 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 Os Rich Pictures são representações visuais utilizadas para entender, modelar e comunicar o funcionamento de sistemas de forma intuitiva. A legenda abaixo explica os principais elementos utilizados:
 
+<font size="3"><p style="text-align: center">Tabela 1: Legenda dos Rich Pictures</p></font>
+
 | **Componente**             | **Símbolo**                          | **Descrição**                                                                                                                                          |
 |----------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Atores**                 | ![ator](../assets/img/ator.svg)     | Representam as pessoas (ou grupos) que interagem com o sistema, direta ou indiretamente. Ex: usuários, gestores, clientes. |
@@ -150,15 +152,13 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 | **Setas (fluxo de dados)** | ![seta](../assets/img/seta.svg)     | Indicam o fluxo de informação entre atores, operações e dados. |
 | **Limites do sistema**     | ![limite](../assets/img/limite.svg) | Delimitam o que está sob responsabilidade do sistema analisado. |
 
----
-
-**Observação:** A construção do Rich Picture deve começar com os Atores, seguido pelas Operações, Armazenamento de Dados e Setas. O Limite do Sistema deve ser adicionado por último, para englobar apenas os elementos relevantes.
+**Autor da Legenda dos Rich Pictures:** <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
 ## Tabela Comparativa dos Aplicativos
 
-<font size="3"><p style="text-align: center">Tabela 1: Tabela Comparativa dos Aplicativos</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Tabela Comparativa dos Aplicativos</p></font>
 
 | **Aplicativo**                   | **Funcionalidades (resumo)**                                            | **Segurança (dados e acesso)**               | **Integração (Gov)**                          | **Usabilidade**                              | **Público Principal**                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------------------------------------|
@@ -170,7 +170,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 | **Identidade Militar Digital**   | Exibe identidade com QR Code e acesso offline                            | Autenticação gov.br e PIN, dados cifrados    | Integra Exército e gov.br                     | Interface limpa e focada                     | Militares e dependentes                               |
 | **SUS Digital**                  | Acesso a histórico clínico, vacinas e exames; busca de unidades de saúde | Autenticação via gov.br; dados seguros (RNDS)| Integra Ministério da Saúde (RNDS)            | Interface moderna e seções bem estruturadas  | Cidadãos usuários do SUS                              |
 
-<font size="3"><p style="text-align: center">Fonte: Autores</p></font>
+**Autor da Tabela Comparativa dos Aplicativos:** <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
