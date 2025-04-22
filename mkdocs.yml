@@ -33,6 +33,13 @@ nav:
       - Grupo + 1: 
         - Entrega 1: "documento-verificacao/grupo+1/documento-verificacao-grupos.md" 
 
+  - Inspeção:
+      - Grupo:
+        - Entrega 1: "documento-inspecao/grupo/documento_inspecao_grupo.md" 
+      - Grupo + 1: 
+        - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo +1.md" 
+
+
   - Validação: 
       - Introdução: "documento-validacao/documento-validacao.md"
 
