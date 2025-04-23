@@ -174,8 +174,9 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## Bibliografias
+# Bibliografia
 
+fix/atualizacoes-e-reformas-pendentes
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
 >BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
@@ -194,6 +195,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ## Histórico de Versões
 
+fix/atualizacoes-e-reformas-pendentes
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 09/04/2025 | Estruturação inicial da seção “Aplicativos Analisados” com modelo descritivo e Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 09/04/2025|
@@ -203,4 +205,3 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 | 1.4    | 13/04/2025 | Inserção das referências bibliográficas de todos os aplicativos analisados                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 23/04/2025|
 | 1.5    | 17/04/2025 | Correção do título da bibliografia e adição do tópico de legenda dos rich pictures                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
 | 1.6    | 23/04/2025 | Padronização do Histórico de Versões e da Bibliografia   | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>       | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
-
