@@ -15,8 +15,9 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - **Acompanhamento do status** dos bloqueios realizados.
 - **Acesso multiplataforma:** disponível como app (iOS/Android) e versão web, com autenticação Gov.br.
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/assuntos/noticias/celular-seguro-como-funciona" target="_blank">gov.br/mj - Como funciona o Celular Seguro</a></p></font>
-
+<font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/conheca-o-celular-seguro" target="_blank">gov.br/mj - Como funciona o Celular Seguro</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="Docs/assets/pdf/Conheça o Celular Seguro — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄gov.br/mj - Como funciona o Celular Seguro(PDF)</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="Docs/assets/pdf/Funcionalidades Celular Seguro aplicativo Celular Seguro_.pdf" target="_blank">📄gov.br/mj - Funcionalidades Celular Seguro(PDF)</a></p></font>
 
 ---
 
@@ -33,6 +34,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Serviço Celular Seguro**   | Conjunto de ferramentas para proteger dados e serviços móveis.                   |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
 
 
 ---
@@ -48,7 +50,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Realizar comunicações complementares com a **polícia, operadora e bancos** após emitir o alerta.
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
-
+<font size="3"><p style="text-align: center">Fonte: <a href="Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
 
 
 ---
@@ -66,7 +68,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Portarias e Decretos do MJSP**           | Regras internas sobre proteção de dados, governança e serviços digitais.      |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Base Legal do Programa Celular Seguro</a></p></font>
-
+<font size="3"><p style="text-align: center">Fonte: <a href="Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Base Legal do Programa Celular Seguro (PDF)</a></p></font>
 
 ---
 
@@ -79,6 +81,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Possibilidade de **anonimização** e uso para fins estatísticos após encerramento do serviço.
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
 
 
 ---
@@ -90,12 +93,13 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Endereço: Esplanada dos Ministérios, Bloco T - Brasília/DF, CEP 70064-900
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/canais_atendimento" target="_blank">gov.br/mj - Canais de Atendimento</a></p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="Docs/assets/pdf/capa — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Canais de atendimento (PDF)</a></p></font>
 
 
 
 ---
 
-## Referências Bibliográficas
+## Bibliografia
 
 BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
@@ -116,3 +120,4 @@ BRASIL. Ministério da Justiça e Segurança Pública. Programa Celular Seguro: 
 | 1.0    | 09/04/2025 | Descrição e funcionalidades principais                                                                       | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
 | 1.1    | 10/04/2025 | Termos relevantes, responsabilidade de usuário, Base Legal Aplicada, Contato com o MJSP                      | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
 | 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
+| 1.3    | 22/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |

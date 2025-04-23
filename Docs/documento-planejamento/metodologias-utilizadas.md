@@ -19,10 +19,10 @@ A tabela a seguir apresenta os papéis definidos segundo o framework Scrum e os 
 | **Função**             | **Responsável**            | **Descrição**                                                                                                              |
 |------------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **Scrum Master**       | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho </a>     | Responsável por facilitar a aplicação das práticas ágeis, removendo impedimentos e garantindo o bom andamento do projeto. |
-| **Product Owner**      | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>                | Representa os interesses dos stakeholders e garante que o produto entregue atenda às suas necessidades.                   |
+| **Product Owner**      | <a style="color:gold;" href="https://github.com/EmivaltoJrr" target="_blank">Emivalto (monitor) </a>                | Representa os interesses dos stakeholders e garante que o produto entregue atenda às suas necessidades.                   |
 | **Time de Desenvolvimento** | Todos os membros     | Equipe encarregada de implementar as tarefas planejadas em cada sprint.                                                   |
 
-<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite) _</p></font>
 
 ---
 
@@ -37,8 +37,7 @@ A tabela abaixo apresenta os eventos Scrum utilizados pela equipe e suas respect
 | **Sprint**   | Ciclo de desenvolvimento semanal que visa o cumprimento de tarefas planejadas na reunião de *planning* e revisadas na *review*. |
 | **Status**   | Reuniões rápidas entre sprints para alinhamento e verificação de obstáculos. Realizadas às quartas às 22h.                  |
 
-<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
-
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite) _</p></font>
 ---
 
 ## Reuniões da Equipe
@@ -52,7 +51,7 @@ Abaixo, apresenta-se o cronograma de reuniões definidas após análise da dispo
 | **Planning + Review**  | Segunda-feira às 16h | Reunião principal para planejamento das tarefas e avaliação das entregas anteriores.              |
 | **Status**             | Quarta-feira às 22h  | Reunião curta, realizada de forma mais dinâmica e objetiva.                                       |
 
-<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite) _</p></font>
 
 ---
 
@@ -126,7 +125,7 @@ Cada PR inclui:
 
 ---
 
-## Referência Bibliográfica
+## Bibliografias
 
 ¹ ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
 
@@ -139,4 +138,5 @@ Cada PR inclui:
 |--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1.0    | 09/04/2025 | Criação do documento              | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>
 | 1.1    | 13/04/2025 | Correção nas referências bibliográficas e reajuste nos tópicos             | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>
-| 1.2    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| 1.2    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> | 
+| 1.3    | 22/04/2025 | Correção de alguns erros nas tabelas | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
