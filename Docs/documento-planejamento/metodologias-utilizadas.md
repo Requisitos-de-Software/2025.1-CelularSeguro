@@ -128,16 +128,17 @@ Cada PR inclui:
 
 ## 5. Bibliografias
 
-¹ ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
+> ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
 
 
 ---
 
 ## 6. Tabela de Versionamento 
 
-| Versão | Data       | Descrição                         | Autor(es)                                                             | Revisor(es)                                                          |
-|--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1.0    | 09/04/2025 | Criação do documento              | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>
-| 1.1    | 13/04/2025 | Correção nas referências bibliográficas e reajuste nos tópicos             | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>
-| 1.2    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> | 
-| 1.3    | 22/04/2025 | Correção de alguns erros nas tabelas | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| Versão | Data de produção   | Descrição da Alteração                                                     | Autor(es)             | Revisor(es)|Data de Revisão |
+| :----: | :----------------: | :------------------------------------------------------------------------: | :-------------------: | :--------: |  :-------------: |
+| 1.0    | 09/04/2025         | Criação do documento                                                       | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 09/04/2025 |
+| 1.1    | 13/04/2025         | Correção nas referências bibliográficas e reajuste nos tópicos             | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 13/04/2025|
+| 1.2    | 16/04/2025         | Adição dos autores do cronograma                                           | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025| 
+| 1.3    | 22/04/2025         | Correção de alguns erros nas tabelas                                       | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 22/04/2025|
+| 1.4    | 23/04/2025         | Padronização do histórico de versões e da Bibliografia                     | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 23/04/2025|

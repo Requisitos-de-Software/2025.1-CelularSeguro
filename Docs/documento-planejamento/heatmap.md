@@ -24,11 +24,7 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
   <img src="../../assets/img/HeadMap (1).png" alt="Heatmap de Disponibilidade" width="800px">
 </div>
 
-<div align="center">
-  <font size="3">
-    <p style="text-align: center"><b>Fonte:</b> Arthur Carvalho </p>
-  </font>
-</div>
+<font size="3"><p style="text-align: center">_Fonte: [Arthur Carvalho](https://github.com/arthurlleite) _</p></font>
 
 ---
 
@@ -73,11 +69,8 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
   </table>
 </div>
 
-<div align="center">
-  <font size="3">
-    <p style="text-align: center"><b>Fonte:</b> Arthur Carvalho</p>
-  </font>
-</div>
+<font size="3"><p style="text-align: center">_Fonte: [Arthur Carvalho](https://github.com/arthurlleite) _</p></font>
+
 
 ---
 
@@ -89,7 +82,8 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 
 ## 4. Histórico de Versões
 
-| Versão | Data       | Descrição                           | Autor(es) | Revisor(es) |
-|--------|------------|-------------------------------------|-----------|-------------|
-| 1.0    | 11/04/2025 | Criação da seção de heatmap         | [Arthur Carvalho](https://github.com/arthurlleite) | [Leonardo de Melo](https://github.com/leozinlima) |
-| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0    | 11/04/2025         | Criação da seção de heatmap                          |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 11/04/2025|
+| 1.1    | 16/04/2025         | Adição dos autores do cronograma                     | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
+| 1.2    | 23/04/2025         | Padronização do Histórico de Versões e da Bibliografia|<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 23/04/2025|

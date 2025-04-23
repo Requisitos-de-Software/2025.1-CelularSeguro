@@ -10,7 +10,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 </center>
 
 
-<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>](https://github.com/gabriel-lima258)._</p></font>
 
 
 A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
@@ -40,7 +40,8 @@ A git page possui?  | Sim/Não/Incompleto
 
 ## 3. Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-1.0 | 10/04/2025 | Documentação da apresentação | Gabriel Lima | Leonardo
-1.1 | 13/04/2025 | Uploud do vídeo  | Gabriel Lima | Leonardo
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+1.0 | 10/04/2025 | Documentação da apresentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 15/04/2025|
+1.1 | 13/04/2025 | Uploud do vídeo  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 15/04/2025|
+1.2| 23/04/2025 | Padronização do Histórico de Versões  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 23/04/2025|

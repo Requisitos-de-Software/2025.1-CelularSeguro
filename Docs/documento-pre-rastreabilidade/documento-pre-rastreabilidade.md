@@ -19,7 +19,7 @@ Esta documentação fornece uma trilha clara e fundamentada da evolução do pro
 ---
 # 2. Tabela de Versionamento 
 
-| Versão | Data | Descrição da Alteração | Nome(s) Integrante(s) |
-| :----: | :--: | :--------------------: | :-------------------: |
-| 1.0 | 13/04/2025 | Desenvolvimento do tópico | Felipe das Neves |
-
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0 | 13/04/2025 | Desenvolvimento do tópico |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 23/04/2025|
+| 1.1| 23/04/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 23/04/2025|
