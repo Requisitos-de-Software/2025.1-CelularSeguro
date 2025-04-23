@@ -174,21 +174,28 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## Bibliografias
+# Bibliografia
 
-BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
+BRASIL. Ministério da Justiça. Sinesp Cidadão. Brasília: Ministério da Justiça, 2025. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.  
+PDF (23 abr. 2025): [Sinesp Cidadão](/assets/pdf/AppSinesp.pdf)
 
-BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
+BRASIL. Ministério das Comunicações. Celular Seguro. Brasília: Ministério das Comunicações, 2025. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.  
+PDF (23 abr. 2025): [Celular Seguro](/assets/pdf/AppCelularSeguro.pdf)
 
-BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
+BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Brasília: Ministério da Infraestrutura, 2025. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.  
+PDF (23 abr. 2025): [Carteira Digital de Trânsito](/assets/pdf/AppCarteiraTransito.pdf)
 
-PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.
+PREFEITURA MUNICIPAL. NFSe Mobile. [S.l.]: Prefeitura Municipal, 2025. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.  
+PDF (23 abr. 2025): [NFSe Mobile](/assets/pdf/AppNFSe.pdf)
 
-CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.
+CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Brasília: Caixa Econômica Federal, 2025. Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.  
+PDF (23 abr. 2025): [Bolsa Família](/assets/pdf/AppBolsaFamilia.pdf)
 
-EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.
+EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Brasília: Exército Brasileiro, 2025. Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.  
+PDF (23 abr. 2025): [Carteira de Identidade Militar Digital](/assets/pdf/AppEBCIM.pdf)
 
-BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.
+BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Brasília: Ministério da Saúde, 2025. Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.  
+PDF (23 abr. 2025): [Meu SUS Digital](/assets/pdf/AppMeuSUS.pdf)
 
 ---
 
@@ -202,3 +209,4 @@ BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <h
 | 1.3    | 11/04/2025 | Inclusão do aplicativo SUS Digital com Rich Picture, análise e atualização na comparação       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
 | 1.4    | 13/04/2025 | Inserção das referências bibliográficas de todos os aplicativos analisados                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
 | 1.5    | 17/04/2025 | Correção do título da bibliografia e adição do tópico de legenda dos rich pictures                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a> |
+| 1.6    | 23/04/2025 | Inseridos os PDFs na bibliografia com data de 23 de abril de 2025.                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> |
