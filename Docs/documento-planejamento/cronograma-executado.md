@@ -38,15 +38,16 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 
 ## Bibliografias
 
-SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 09 abr. 2025.
+>SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 09 abr. 2025.
 
-ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação periódica científica impressa – Apresentação.
+>ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação periódica científica impressa – Apresentação.
 
 ---
 ## Histórico de Versões
 
 
-| Versão | Data       | Descrição                                     | Autor(es)                                                             | Revisor(es)                                                          |
-|--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1.0    | 09/04/2025 | Criação do documento                         | <a href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a href="https://github.com/leozinlima" target="_blank">Leonardo</a>           |
-| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
+| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold; href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
+| 1.2    | 09/04/2025 | Padronização do Histórico de Versões e da Bibliografia | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|

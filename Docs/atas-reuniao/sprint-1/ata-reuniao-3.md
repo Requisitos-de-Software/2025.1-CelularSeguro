@@ -61,8 +61,9 @@
 
 ---
 
-# Tabela de Versionamento 
+# Histórico de Versões
 
-| Versão | Data       | Descrição                                     | Autor(es)                                                             | Revisor(es)                                                          |
-|--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1.0    | 27/03/2025 | Desenvolvimento do artefato conforme a reunião    | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | Todos |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0    | 27/03/2025 | Desenvolvimento do artefato conforme a reunião    | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel de Lima</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
+| 1.1    | 23/04/2025 | Padronização do Histórico de Versões | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|

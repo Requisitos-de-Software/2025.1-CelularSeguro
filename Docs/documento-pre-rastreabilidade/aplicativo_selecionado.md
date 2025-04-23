@@ -99,15 +99,15 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Bibliografia
+## Bibliografias
 
-BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
+>BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
+>BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
+>BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério da Justiça e Segurança Pública. Programa Celular Seguro: termos de uso e política de privacidade. Disponível em: <https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro>. Acesso em: 13 abr. 2025.
+>BRASIL. Ministério da Justiça e Segurança Pública. Programa Celular Seguro: termos de uso e política de privacidade. Disponível em: <https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro>. Acesso em: 13 abr. 2025.
 
 
 
@@ -115,9 +115,10 @@ BRASIL. Ministério da Justiça e Segurança Pública. Programa Celular Seguro: 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                                                     | Autor(es)                                                                                                 | Revisor(es)                                                                                                                  |
-|--------|------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| 1.0    | 09/04/2025 | Descrição e funcionalidades principais                                                                       | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
-| 1.1    | 10/04/2025 | Termos relevantes, responsabilidade de usuário, Base Legal Aplicada, Contato com o MJSP                      | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
-| 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
-| 1.3    | 22/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo</span>](https://github.com/leozinlima) |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0    | 09/04/2025 | Descrição e funcionalidades principais                                                                       | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 09/04/2025|
+| 1.1    | 10/04/2025 | Termos relevantes, responsabilidade de usuário, Base Legal Aplicada, Contato com o MJSP                      | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)                                | [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs), [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 10/04/2025|
+| 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 13/04/2025|
+| 1.3    | 22/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 22/04/2025|
+| 1.4    | 22/04/2025 |Padronização do Histórico de Versões e da Bibliografia     | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 23/04/2025|

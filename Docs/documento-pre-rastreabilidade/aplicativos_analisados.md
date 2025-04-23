@@ -20,7 +20,7 @@ Aplicativo governamental que permite aos cidadãos consultar informações de se
 - **Pontos Positivos:** Dados oficiais e atualizados, interface simples e acesso rápido.  
 - **Limitações:** Funcionalidades exclusivamente de consulta; depende de conexão com a internet e conhecimento prévio (ex.: placa).
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>
 
 ---
 
@@ -39,7 +39,7 @@ Aplicativo do governo destinado a registrar alertas de roubo, furto ou perda de 
 - **Pontos Positivos:** Integração com operadoras, bancos e plataforma gov.br; alta confiabilidade e agilidade.  
 - **Limitações:** Necessidade de cadastro prévio no gov.br; funcionamento pleno depende de conexão com a internet.
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
@@ -58,7 +58,7 @@ Aplicativo que digitaliza a CNH e o CRLV, facilitando o acesso e a consulta de d
 - **Pontos Positivos:** Eliminação da necessidade dos documentos físicos; integração com DETRAN/DENATRAN; interface moderna.  
 - **Limitações:** Dependência de conexão para atualizações; eventuais problemas na aceitação do formato digital em algumas situações.
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>
 
 ---
 
@@ -77,7 +77,7 @@ Aplicativo voltado para a emissão e consulta de Notas Fiscais de Serviço eletr
 - **Pontos Positivos:** Agilidade na emissão e redução da burocracia; otimiza processos fiscais.  
 - **Limitações:** Funcionalidade direcionada para um público específico; depende de cadastro municipal e de conexão constante.
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>
 
 ---
 
@@ -96,7 +96,7 @@ Aplicativo que possibilita aos beneficiários do programa Bolsa Família consult
 - **Pontos Positivos:** Acesso rápido e claro às informações do benefício, autonomia e redução da necessidade de atendimento presencial.  
 - **Limitações:** Requer acesso ao smartphone e internet; interface simples pode limitar a oferta de funcionalidades avançadas.
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>
 
 ---
 
@@ -115,7 +115,7 @@ Aplicativo que disponibiliza a carteira de identidade militar em formato digital
 - **Pontos Positivos:** Substituição do documento físico; segurança reforçada e acesso offline para visualização.  
 - **Limitações:** Uso restrito ao público militar; validação completa pode depender de conexão online.
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>
 
 ---
 
@@ -134,7 +134,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 - **Pontos Positivos:** Centralização dos dados de saúde em um só aplicativo; facilita o acompanhamento da saúde com múltiplos serviços integrados; dados seguros e integrados pela RNDS (Rede Nacional de Dados em Saúde).  
 - **Limitações:** Requer autenticação via gov.br e conexão com a internet; disponibilidade das informações depende do registro pelos serviços de saúde.
 
-**Autor do Rich Picture:** <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a>
+**Autor do Rich Picture:** <a style= href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a>
 
 ---
 
@@ -152,7 +152,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 | **Setas (fluxo de dados)** | ![seta](../assets/img/seta.svg)     | Indicam o fluxo de informação entre atores, operações e dados. |
 | **Limites do sistema**     | ![limite](../assets/img/limite.svg) | Delimitam o que está sob responsabilidade do sistema analisado. |
 
-**Autor da Legenda dos Rich Pictures:** <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+**Autor da Legenda dos Rich Pictures:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
@@ -170,35 +170,37 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 | **Identidade Militar Digital**   | Exibe identidade com QR Code e acesso offline                            | Autenticação gov.br e PIN, dados cifrados    | Integra Exército e gov.br                     | Interface limpa e focada                     | Militares e dependentes                               |
 | **SUS Digital**                  | Acesso a histórico clínico, vacinas e exames; busca de unidades de saúde | Autenticação via gov.br; dados seguros (RNDS)| Integra Ministério da Saúde (RNDS)            | Interface moderna e seções bem estruturadas  | Cidadãos usuários do SUS                              |
 
-**Autor da Tabela Comparativa dos Aplicativos:** <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+**Autor da Tabela Comparativa dos Aplicativos:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
 ## Bibliografias
 
-BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
+>BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
+>BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
+>BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
 
-PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.
+>PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.
 
-CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.
+>CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.
 
-EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.
+>EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.
 
-BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.
+>BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.
 
 ---
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                                      | Autor(es)                                                                                                                           | Revisor(es)                                                                                                                |
-|--------|------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 1.0    | 09/04/2025 | Estruturação inicial da seção “Aplicativos Analisados” com modelo descritivo e Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
-| 1.1    | 10/04/2025 | Inclusão dos 6 primeiros aplicativos com descrições padronizadas e autoria das Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
-| 1.2    | 10/04/2025 | Adição da tabela comparativa entre os aplicativos analisados                                   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
-| 1.3    | 11/04/2025 | Inclusão do aplicativo SUS Digital com Rich Picture, análise e atualização na comparação       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
-| 1.4    | 13/04/2025 | Inserção das referências bibliográficas de todos os aplicativos analisados                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> |
-| 1.5    | 17/04/2025 | Correção do título da bibliografia e adição do tópico de legenda dos rich pictures                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>                                           | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a> |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0    | 09/04/2025 | Estruturação inicial da seção “Aplicativos Analisados” com modelo descritivo e Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 09/04/2025|
+| 1.1    | 10/04/2025 | Inclusão dos 6 primeiros aplicativos com descrições padronizadas e autoria das Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 10/04/2025|
+| 1.2    | 10/04/2025 | Adição da tabela comparativa entre os aplicativos analisados                                   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 10/04/2025|
+| 1.3    | 11/04/2025 | Inclusão do aplicativo SUS Digital com Rich Picture, análise e atualização na comparação       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
+| 1.4    | 13/04/2025 | Inserção das referências bibliográficas de todos os aplicativos analisados                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 23/04/2025|
+| 1.5    | 17/04/2025 | Correção do título da bibliografia e adição do tópico de legenda dos rich pictures                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
+| 1.6    | 23/04/2025 | Padronização do Histórico de Versões e da Bibliografia   | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>       | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
+
