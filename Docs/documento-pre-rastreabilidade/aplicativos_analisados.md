@@ -174,21 +174,35 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## Bibliografias
+# Bibliografia
 
 BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
+PDF: Disponível em: <a href="" target="_blank"> BRASIL. Ministério da Justiça. Sinesp Cidadão. </a>
+
 BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
+
+PDF: Disponível em: <a href="" target="_blank"> BRASIL. Ministério das Comunicações. Celular Seguro. </a>
 
 BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
 
+PDF: Disponível em: <a href="" target="_blank"> BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito.</a>
+
 PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.
+
+PDF: Disponível em: <a href="" target="_blank"> PREFEITURA MUNICIPAL. NFSe Mobile. </a>
 
 CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.
 
+PDF: Disponível em: <a href="" target="_blank"> CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). </a>
+
 EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.
 
+PDF: Disponível em: <a href="" target="_blank"> EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). </a>
+
 BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.
+
+PDF: Disponível em: <a href="" target="_blank"> BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). </a>
 
 ---
 
