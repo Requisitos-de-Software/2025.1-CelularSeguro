@@ -4,13 +4,13 @@ A metodologia do projeto define como o processo foi conduzido, incluindo as prá
 
 ---
 
-## SCRUM
+## 1. SCRUM
 
 O **Scrum** é um framework ágil que organiza o desenvolvimento de projetos em ciclos curtos e iterativos chamados de *sprints*. Cada sprint compreende um conjunto de tarefas específicas que devem ser realizadas dentro de um período determinado. Esse modelo é ideal para projetos com requisitos que evoluem com o tempo, como é o caso deste trabalho.
 
 ---
 
-## Equipe Scrum
+### 1.1 Equipe Scrum
 
 A tabela a seguir apresenta os papéis definidos segundo o framework Scrum e os integrantes do projeto responsáveis por cada função.
 
@@ -26,7 +26,7 @@ A tabela a seguir apresenta os papéis definidos segundo o framework Scrum e os 
 
 ---
 
-## Eventos do Scrum
+### 1.2 Eventos do Scrum
 
 A tabela abaixo apresenta os eventos Scrum utilizados pela equipe e suas respectivas finalidades.
 
@@ -38,9 +38,10 @@ A tabela abaixo apresenta os eventos Scrum utilizados pela equipe e suas respect
 | **Status**   | Reuniões rápidas entre sprints para alinhamento e verificação de obstáculos. Realizadas às quartas às 22h.                  |
 
 <font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite) _</p></font>
+
 ---
 
-## Reuniões da Equipe
+## 2. Reuniões da Equipe
 
 Abaixo, apresenta-se o cronograma de reuniões definidas após análise da disponibilidade dos membros.
 
@@ -55,7 +56,7 @@ Abaixo, apresenta-se o cronograma de reuniões definidas após análise da dispo
 
 ---
 
-## Outras Práticas Utilizadas
+## 3. Outras Práticas Utilizadas
 
 Além dos eventos do Scrum, a equipe também adotou a prática de **programação em duplas** (*pair programming*), onde:
 
@@ -69,11 +70,11 @@ Essa prática contribui para:
 
 ---
 
-## Política de Contribuição
+## 4. Política de Contribuição
 
 Este repositório segue uma política de versionamento e colaboração inspirada nas melhores práticas de Engenharia de Software.
 
-### 📂 Branches
+### 4.1 📂 Branches
 
 A tabela abaixo apresenta o padrão de nomenclatura para criação de branches durante o desenvolvimento do projeto.
 
@@ -90,7 +91,7 @@ A tabela abaixo apresenta o padrão de nomenclatura para criação de branches d
 
 ---
 
-### 💬 Commits
+### 4.2 💬 Commits
 
 O padrão de commits utilizado segue a estrutura `<tipo>: <descrição breve>`. Exemplos:
 
@@ -100,7 +101,7 @@ O padrão de commits utilizado segue a estrutura `<tipo>: <descrição breve>`. 
 
 ---
 
-### 🗂️ Issues
+### 4.3 🗂️ Issues
 
 As *issues* seguem o modelo de clareza, com título e descrição objetivos. Exemplo:
 
@@ -114,7 +115,7 @@ Adicionar o caso de uso "Recuperar Senha" no documento de requisitos funcionais.
 - [ ] Especificar fluxo principal e alternativo
 ```
 ---
-### 🚀 Pull Requests (PRs)
+### 4.4 🚀 Pull Requests (PRs)
 Cada PR inclui:
 
 - Título descritivo e padronizado
@@ -125,14 +126,14 @@ Cada PR inclui:
 
 ---
 
-## Bibliografias
+## 5. Bibliografias
 
 > ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
 
 
 ---
 
-## Histórico de Versões 
+## 6. Tabela de Versionamento 
 
 | Versão | Data de produção   | Descrição da Alteração                                                     | Autor(es)             | Revisor(es)|Data de Revisão |
 | :----: | :----------------: | :------------------------------------------------------------------------: | :-------------------: | :--------: |  :-------------: |

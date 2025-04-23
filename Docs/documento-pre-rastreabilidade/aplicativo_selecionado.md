@@ -1,12 +1,12 @@
 # Aplicativo Selecionado:
 
-## Celular Seguro
+## 1. Celular Seguro
 
 O **Celular Seguro** foi o aplicativo escolhido para representar o foco do projeto por sua relevância social, funcionalidade direta na proteção de dados e dispositivos móveis, além de refletir princípios modernos de segurança, interoperabilidade com instituições e governança pública digital. A seguir, apresentamos um resumo técnico de suas características e exigências, com base em seu Termo de Uso oficial.
 
 ---
 
-## Funcionalidades Principais
+## 2. Funcionalidades Principais
 
 - **Cadastro de dispositivo móvel** com informações como IMEI, número de telefone, operadora e modelo.
 - **Emissão de alerta de perda, roubo ou furto**, acionando o bloqueio da linha, do aparelho e de apps financeiros.
@@ -21,7 +21,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Termos Relevantes
+## 3. Termos Relevantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Termos Relevantes</p></font>
 
@@ -39,7 +39,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Responsabilidades do Usuário
+## 4. Responsabilidades do Usuário
 
 - Informar **dados verdadeiros e atualizados**, próprios e dos contatos.
 - Garantir que os **dados de terceiros** sejam cadastrados apenas com autorização.
@@ -55,7 +55,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Base Legal Aplicada
+## 5. Base Legal Aplicada
 
 <font size="3"><p style="text-align: center">Tabela 2: Base legal</p></font>
 
@@ -72,7 +72,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Segurança e Tratamento de Dados
+## 6. Segurança e Tratamento de Dados
 
 - Adoção de **criptografia** e segurança de rede.
 - Dados são **armazenados e compartilhados** apenas com operadoras, bancos e órgãos autorizados.
@@ -86,7 +86,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Contato com o MJSP
+## 7. Contato com o MJSP
 
 - Canal: [Ouvidoria-Geral](https://www.gov.br/ouvidorias) e [Serviço de Informação ao Cidadão (SIC)](https://www.gov.br/acessoainformacao)
 - E-mail do Encarregado LGPD: [encarregadolgpd@mj.gov.br](mailto:encarregadolgpd@mj.gov.br)
@@ -99,7 +99,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Bibliografias
+## 8. Bibliografia
 
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
@@ -113,7 +113,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## Histórico de Versões
+## 9. Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |

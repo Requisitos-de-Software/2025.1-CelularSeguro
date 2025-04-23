@@ -1,11 +1,11 @@
-# Aplicativos Analisados
+# 1. Aplicativos Analisados
 ---
 
 Esta seção apresenta a análise de sete aplicativos relevantes para o projeto, destacando suas funcionalidades essenciais, o público-alvo, os pontos positivos e as limitações percebidas. Cada bloco abaixo reúne uma descrição enxuta e um rich picture ilustrativo.
 
 ---
 
-## Sinesp Cidadão
+## 1.1 Sinesp Cidadão
 
 <font size="3"><p style="text-align: center">Figura 1: Rich picture do aplicativo Sinesp Cidadão</p></font>
 
@@ -24,7 +24,7 @@ Aplicativo governamental que permite aos cidadãos consultar informações de se
 
 ---
 
-## Celular Seguro
+## 1.2 Celular Seguro
 
 <font size="3"><p style="text-align: center">Figura 2: Rich picture do aplicativo Celular Seguro</p></font>
 
@@ -43,7 +43,7 @@ Aplicativo do governo destinado a registrar alertas de roubo, furto ou perda de 
 
 ---
 
-## Carteira Digital de Trânsito (CDT)
+## 1.3 Carteira Digital de Trânsito (CDT)
 
 <font size="3"><p style="text-align: center">Figura 3: Rich picture do aplicativo Carteira Digital de Transito</p></font>
 
@@ -62,7 +62,7 @@ Aplicativo que digitaliza a CNH e o CRLV, facilitando o acesso e a consulta de d
 
 ---
 
-## NFSe Mobile
+## 1.4 NFSe Mobile
 
 <font size="3"><p style="text-align: center">Figura 4: Rich picture do aplicativo NFSe Mobile</p></font>
 
@@ -81,7 +81,7 @@ Aplicativo voltado para a emissão e consulta de Notas Fiscais de Serviço eletr
 
 ---
 
-## Bolsa Família (App)
+## 1.5 Bolsa Família (App)
 
 <font size="3"><p style="text-align: center">Figura 5: Rich picture do aplicativo Bolsa Família</p></font>
 
@@ -100,7 +100,7 @@ Aplicativo que possibilita aos beneficiários do programa Bolsa Família consult
 
 ---
 
-## Carteira de Identidade Militar Digital (EBCIM)
+## 1.6 Carteira de Identidade Militar Digital (EBCIM)
 
 <font size="3"><p style="text-align: center">Figura 6: Rich picture do aplicativo Identidade Militar Digital</p></font>
 
@@ -119,7 +119,7 @@ Aplicativo que disponibiliza a carteira de identidade militar em formato digital
 
 ---
 
-## SUS Digital
+## 1.7 SUS Digital
 
 <font size="3"><p style="text-align: center">Figura 7: Rich picture do aplicativo SUS Digital</p></font>
 
@@ -138,7 +138,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ---
 
-## Legenda dos Rich Pictures
+## 2. Legenda dos Rich Pictures
 
 Os Rich Pictures são representações visuais utilizadas para entender, modelar e comunicar o funcionamento de sistemas de forma intuitiva. A legenda abaixo explica os principais elementos utilizados:
 
@@ -156,7 +156,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## Tabela Comparativa dos Aplicativos
+## 3. Tabela Comparativa dos Aplicativos
 
 <font size="3"><p style="text-align: center">Tabela 2: Tabela Comparativa dos Aplicativos</p></font>
 
@@ -174,7 +174,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-# Bibliografia
+## 4. Bibliografia
 
 fix/atualizacoes-e-reformas-pendentes
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
@@ -193,7 +193,7 @@ fix/atualizacoes-e-reformas-pendentes
 
 ---
 
-## Histórico de Versões
+## 5. Histórico de Versões
 
 fix/atualizacoes-e-reformas-pendentes
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |

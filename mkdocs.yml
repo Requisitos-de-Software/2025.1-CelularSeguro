@@ -8,6 +8,15 @@ nav:
   - Landing Page: landing.html
   - Home: index.md
 
+  - Atas:
+    - Sprint 1:
+        - Ata 1: "atas-reuniao/sprint-1/ata-reuniao-1.md"
+        - Ata 2: "atas-reuniao/sprint-1/ata-reuniao-2.md"
+        - Ata 3: "atas-reuniao/sprint-1/ata-reuniao-3.md"
+        - Ata 4: "atas-reuniao/sprint-1/ata-reuniao-4.md"
+    - Sprint 2:
+        - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-5.md"
+
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
       - HeatMap: "documento-planejamento/heatmap.md"
@@ -20,42 +29,18 @@ nav:
       - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
       - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
       - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
-     
-  - Elicitação: 
-      - Introdução: "documento-elicitacao/documento-elicitacao.md"
-
-  - Modelagem: 
-      - Introdução: "documento-modelagem/documento-modelagem.md"
-
+    
   - Verificação:
-      - Grupo: 
-        - Entrega 1: "documento-verificacao/grupo/documento-verificacao-grupo.md" 
-      - Grupo + 1: 
-        - Entrega 1: "documento-verificacao/grupo+1/documento-verificacao-grupos.md" 
+      - Ckecklist: 
+        - Entrega 1: "documento-verificacao/documento-verificacao-grupo.md" 
 
   - Inspeção:
       - Grupo:
         - Entrega 1: "documento-inspecao/grupo/documento_inspecao_grupo.md" 
       - Grupo + 1: 
-        - Entrega 1: "documento-inspecao/grupo +1/documento_inspecao_grupo+1.md" 
+        - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo+1.md" 
 
-
-  - Validação: 
-      - Introdução: "documento-validacao/documento-validacao.md"
-
-  - Rastreabilidade: 
-      - Introdução: "documento-rastreabilidade/documento-rastreabilidade.md"    
-
-  - Atas:
-    - Sprint 1:
-        - Ata 1: "atas-reuniao/sprint-1/ata-reuniao-1.md"
-        - Ata 2: "atas-reuniao/sprint-1/ata-reuniao-2.md"
-        - Ata 3: "atas-reuniao/sprint-1/ata-reuniao-3.md"
-        - Ata 4: "atas-reuniao/sprint-1/ata-reuniao-4.md"
-    - Sprint 2:
-        - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-5.md"
-
-  - Entregas:
+  - Apresentação:
     - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
   
