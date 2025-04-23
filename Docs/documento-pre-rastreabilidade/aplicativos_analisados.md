@@ -177,25 +177,25 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 # Bibliografia
 
 BRASIL. Ministério da Justiça. Sinesp Cidadão. Brasília: Ministério da Justiça, 2025. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.  
-PDF (23 abr. 2025): [Sinesp Cidadão](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppSinesp.pdf)
+PDF (23 abr. 2025): [Sinesp Cidadão](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppSinesp.pdf)
 
 BRASIL. Ministério das Comunicações. Celular Seguro. Brasília: Ministério das Comunicações, 2025. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.  
-PDF (23 abr. 2025): [Celular Seguro](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppCelularSeguro.pdf)
+PDF (23 abr. 2025): [Celular Seguro](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppCelularSeguro.pdf)
 
 BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Brasília: Ministério da Infraestrutura, 2025. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.  
-PDF (23 abr. 2025): [Carteira Digital de Trânsito](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppCarteiraTransito.pdf)
+PDF (23 abr. 2025): [Carteira Digital de Trânsito](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppCarteiraTransito.pdf)
 
 PREFEITURA MUNICIPAL. NFSe Mobile. [S.l.]: Prefeitura Municipal, 2025. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.  
-PDF (23 abr. 2025): [NFSe Mobile](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppNFSe.pdf)
+PDF (23 abr. 2025): [NFSe Mobile](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppNFSe.pdf)
 
 CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Brasília: Caixa Econômica Federal, 2025. Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.  
-PDF (23 abr. 2025): [Bolsa Família](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppBolsaFamilia.pdf)
+PDF (23 abr. 2025): [Bolsa Família](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppBolsaFamilia.pdf)
 
 EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Brasília: Exército Brasileiro, 2025. Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.  
-PDF (23 abr. 2025): [Carteira de Identidade Militar Digital](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppEBCIM.pdf)
+PDF (23 abr. 2025): [Carteira de Identidade Militar Digital](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppEBCIM.pdf)
 
 BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Brasília: Ministério da Saúde, 2025. Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.  
-PDF (23 abr. 2025): [Meu SUS Digital](https://requisitos-de-software.github.io/2025.1-CelularSeguro/assets/pdf/AppMeuSUS.pdf)
+PDF (23 abr. 2025): [Meu SUS Digital](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppMeuSUS.pdf)
 
 ---
 
