@@ -1,4 +1,4 @@
-# Entrega 1 do Grupo: Inspeção
+# Entrega 1 do Grupo +1: Inspeção
 
 **Data**: 24/04/2025 <br>
 **Horário**: 17:15min - 18h07min <br>
@@ -6,7 +6,8 @@
 
 ## 1. Introdução
 
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) na Etapa 1.
+
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 4](https://requisitos-de-software.github.io/2025.1-Carteira-de-Trabalho-Digital/) na Etapa 1.
 
 
 ## 2. Inspeção

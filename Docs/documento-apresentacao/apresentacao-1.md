@@ -1,8 +1,8 @@
-## Introdução
+## 1. Introdução
 
 O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
-## Apresentação 1
+## 2. Apresentação 1
 <p style="text-align: center"><a href="https://youtu.be/2BGZ4I2GY4Y" target="blanket">Clique aqui</a></p>
 
 <center>
@@ -38,7 +38,7 @@ A git page possui?  | Sim/Não/Incompleto
 
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software</p></font>
 
-## Histórico de Versões
+## 3. Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------

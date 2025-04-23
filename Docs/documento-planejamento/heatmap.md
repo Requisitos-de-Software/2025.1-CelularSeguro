@@ -1,16 +1,16 @@
 # Heatmap de Disponibilidade
 
-## Introdução
+## 1. Introdução
 
 O **heatmap de disponibilidade** é uma ferramenta visual essencial para equipes que buscam otimizar a coordenação e maximizar a produtividade. Ele permite identificar de forma rápida e eficiente os horários e dias em que os membros da equipe estão disponíveis para colaborar. Em contextos de trabalho flexível, especialmente em equipes remotas ou distribuídas, essa ferramenta se torna ainda mais relevante para facilitar a organização de tarefas, reuniões e atividades colaborativas. Ao consolidar as informações de disponibilidade dos integrantes, o heatmap oferece insights valiosos para uma melhor alocação de tempo e recursos, promovendo decisões mais ágeis e eficazes.
 
-### Objetivo
+### 1.1 Objetivo
 
 O objetivo principal do heatmap de disponibilidade é maximizar a colaboração e a produtividade da equipe, proporcionando uma visão clara dos momentos em que todos os membros estão disponíveis simultaneamente. Essa visão facilita a organização de reuniões, sessões de brainstorming e outras atividades cruciais para o sucesso do projeto.
 
 ---
 
-## Heatmap
+## 2. Heatmap
 
 A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilidade do grupo. Os valores numéricos variam de 0 a 7, indicando o número de membros disponíveis em cada faixa horária.
 
@@ -81,13 +81,13 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 
 ---
 
-## Bibliografia
+## 3. Bibliografia
 
 > GOOGLE. Heatmap de Disponibilidade da Equipe. Google Sheets, 2025. Acesso em: 11 abr. 2025.
 
 ---
 
-## Histórico de Versões
+## 4. Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor(es) | Revisor(es) |
 |--------|------------|-------------------------------------|-----------|-------------|

@@ -1,4 +1,4 @@
-# Pré Rastreabilidade
+# 1. Pré Rastreabilidade
 ---
 
 A etapa de Pré-Rastreabilidade tem como objetivo evidenciar o caminho percorrido pela equipe antes da definição final do escopo do projeto. Aqui são registrados os estudos e análises realizadas com aplicativos semelhantes, permitindo justificar a escolha do aplicativo foco e das funcionalidades priorizadas.
@@ -7,7 +7,7 @@ Com base na análise de seis aplicativos governamentais — como Sinesp Cidadão
 
 ---
 
-## Destaques da Pré-Rastreabilidade
+## 1.1 Destaques da Pré-Rastreabilidade
 
 - 📱 **Levantamento de Referências**: Estudo de aplicativos com propostas alinhadas à segurança pública, serviços digitais e proteção de dados.
 - 🧩 **Análise Crítica**: Identificação de pontos positivos e limitações que guiaram as escolhas do projeto.
@@ -17,7 +17,7 @@ Com base na análise de seis aplicativos governamentais — como Sinesp Cidadão
 Esta documentação fornece uma trilha clara e fundamentada da evolução do projeto até sua definição atual, garantindo transparência e coerência nas decisões tomadas.
 
 ---
-# Tabela de Versionamento 
+# 2. Tabela de Versionamento 
 
 | Versão | Data | Descrição da Alteração | Nome(s) Integrante(s) |
 | :----: | :--: | :--------------------: | :-------------------: |
