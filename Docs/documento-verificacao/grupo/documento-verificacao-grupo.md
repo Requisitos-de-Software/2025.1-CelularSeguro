@@ -47,12 +47,13 @@ _Fonte: [Vitor Bessa](https://github.com/Bessazs)._
 </center>
 
 
-## Bibliografia
+## Bibliografias
 
 > REQUISITOS DE SOFTWARE. Celular Seguro – 2025.1. GitHub Pages, 2025. Disponível em:https://requisitos-de-software.github.io/2025.1-CelularSeguro/. Acesso em: 14 abr. 2025, 20:46.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 14/04/2024 | Criação do documento.  | [Arthur Carvalho](https://github.com/arthurlleite)| [Vitor Bessa](https://github.com/Bessazs) |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0  | 14/04/2024 | Criação do documento.  | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 23/04/2025|
+| 1.1  | 23/04/2024 | Padronização do Histórico de Versões e da Bibliografia  | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 23/04/2025|

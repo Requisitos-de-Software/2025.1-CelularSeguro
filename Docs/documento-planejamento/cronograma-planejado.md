@@ -181,21 +181,22 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 ## Bibliografias
 
-SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 09 abr. 2025.
+>SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 09 abr. 2025.
 
-Cronograma BilheteriaDigital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/> . Acesso em 10 de abril de 2025.
+>Cronograma BilheteriaDigital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/> . Acesso em 10 de abril de 2025.
 
-ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação periódica científica impressa – Apresentação.
+>ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação periódica científica impressa – Apresentação.
 
 ---
 
 ## Histórico de Versões
 
 
-| Versão | Data       | Descrição                                     | Autor(es)                                                             | Revisor(es)                                                          |
-|--------|------------|-----------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>           |
-| 1.1    | 10/04/2025 | Inclusão de todas as sprints                 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>           |
-| 1.2    | 10/04/2025 | Ajustes ABNT e referências finais            | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
-| 1.3    | 12/04/2025 | Adição das 5 etapas e atualização de tabelas | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
-| 1.4    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 09/04/2025|
+| 1.1    | 10/04/2025 | Inclusão de todas as sprints                 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |10/04/2025|
+| 1.2    | 10/04/2025 | Ajustes ABNT e referências finais            | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 10/04/2025|
+| 1.3    | 12/04/2025 | Adição das 5 etapas e atualização de tabelas | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 12/04/2025|
+| 1.4    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
+| 1.5    | 23/04/2025 | Padronização do Histórico de Versões e da Bibliografia| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 23/04/2025|

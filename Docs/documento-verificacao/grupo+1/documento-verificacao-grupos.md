@@ -59,12 +59,13 @@ Porém, foram identificados alguns pontos incompletos e falhas de padronização
 Apesar desses deslizes, o grupo demonstra bom potencial e organização. Com alguns ajustes — principalmente na padronização, completude visual e justificativa metodológica — a qualidade do projeto pode evoluir significativamente nas próximas etapas.
 
 
-## Bibliografia
+## Bibliografias
 
 > REQUISITOS DE SOFTWARE. Carteira de Trabalho Digital – 2025.1. GitHub Pages, 2025. Disponível em: https://requisitos-de-software.github.io/2025.1-Carteira-de-Trabalho-Digital/. Acesso em: 14 abr. 2025, 20:46.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 14/04/2024 | Criação do documento.  | [Arthur Carvalho](https://github.com/arthurlleite)| [Gabriel Lima](https://github.com/gabriel-lima258) |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0  | 14/04/2024 | Criação do documento.  | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/04/2025|
+| 1.1  | 23/04/2024 | Padronização do Histórico de Versões e da Bibliografia  | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/04/2025|
