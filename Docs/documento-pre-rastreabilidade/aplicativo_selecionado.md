@@ -16,9 +16,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - **Acesso multiplataforma:** disponível como app (iOS/Android) e versão web, com autenticação Gov.br.
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/conheca-o-celular-seguro" target="_blank">gov.br/mj - Como funciona o Celular Seguro</a></p></font>
-<font size="3"><p style="text-align: center">Fonte: <a href="../assets/pdf/Conheça o Celular Seguro — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄gov.br/mj - Como funciona o Celular Seguro(PDF)</a></p></font>
-<font size="3"><p style="text-align: center">Fonte: <a href="../assets/pdf/Funcionalidades Celular Seguro aplicativo Celular Seguro_.pdf" target="_blank">📄gov.br/mj - Funcionalidades Celular Seguro(PDF)</a></p></font>
-
+<font size="3"><p style="text-align: center">Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/Conheça o Celular Seguro — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄gov.br/mj - Como funciona o Celular Seguro(PDF)</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/Funcionalidades Celular Seguro aplicativo Celular Seguro_.pdf" target="_blank">📄gov.br/mj - Funcionalidades Celular Seguro(PDF)</a></p></font>
 ---
 
 ## 3. Termos Relevantes
@@ -34,7 +33,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Serviço Celular Seguro**   | Conjunto de ferramentas para proteger dados e serviços móveis.                   |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
-<font size="3"><p style="text-align: center">Fonte: <a href="../assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
 
 
 ---
@@ -50,7 +49,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Realizar comunicações complementares com a **polícia, operadora e bancos** após emitir o alerta.
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
-<font size="3"><p style="text-align: center">Fonte: <a href="../assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
 
 
 ---
@@ -68,7 +67,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | **Portarias e Decretos do MJSP**           | Regras internas sobre proteção de dados, governança e serviços digitais.      |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Base Legal do Programa Celular Seguro</a></p></font>
-<font size="3"><p style="text-align: center">Fonte: <a href="../assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Base Legal do Programa Celular Seguro (PDF)</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Base Legal do Programa Celular Seguro (PDF)</a></p></font>
 
 ---
 
@@ -81,7 +80,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Possibilidade de **anonimização** e uso para fins estatísticos após encerramento do serviço.
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/termos-de-uso-politica-privacidade-programa-celular-seguro" target="_blank">gov.br/mj - Termos de Uso e Política de Privacidade</a></p></font>
-<font size="3"><p style="text-align: center"> Fonte: <a href="../assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/Termos de Uso e Aviso de Privacidade — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Termos de Uso e Política de Privacidade (PDF)</a></p></font>
 
 
 ---
@@ -93,7 +92,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 - Endereço: Esplanada dos Ministérios, Bloco T - Brasília/DF, CEP 70064-900
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://www.gov.br/mj/pt-br/canais_atendimento" target="_blank">gov.br/mj - Canais de Atendimento</a></p></font>
-<font size="3"><p style="text-align: center"> Fonte: <a href="../assets/pdf/capa — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Canais de atendimento (PDF)</a></p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/pdf/capa — Ministério da Justiça e Segurança Pública.pdf" target="_blank">📄 gov.br/mj - Canais de atendimento (PDF)</a></p></font>
 
 
 
