@@ -59,9 +59,9 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF17">17</a> | No artefato "Rich Picture", possui uma legenda explicando os símbolos utilizados no diagrama? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture" target="_blank">📄 PDF - Introducing Rich Pictures </a> | 
-| <a href="#REF18">18</a> | Todos os 5 componentes de um "Rich Picture" estão presentes no artefato apresentado pelo grupo? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture" target="_blank">📄 PDF - Introducing Rich Pictures </a> | 
-| <a href="#REF19">19</a> | Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? |  [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture" target="_blank">📄 PDF - Introducing Rich Pictures </a> |
+| <a href="#REF17">17</a> | No artefato "Rich Picture", possui uma legenda explicando os símbolos utilizados no diagrama? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> | 
+| <a href="#REF18">18</a> | Todos os 5 componentes de um "Rich Picture" estão presentes no artefato apresentado pelo grupo? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> | 
+| <a href="#REF19">19</a> | Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? |  [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
@@ -69,7 +69,7 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (1).pdf" target="_blank">PDF - Requisitos – Aula 23</a>. Acesso em: 14 abr. 2025, 12:46.
 
-> Introducing Rich Pictures - Rich Picture Drawing Guidelines. 4 p. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture" target="_blank">PDF - Introducing Rich Pictures </a>. Acessado em: 23 de abril de 2025
+> Introducing Rich Pictures - Rich Picture Drawing Guidelines. 4 p. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">PDF - Introducing Rich Pictures </a>. Acessado em: 23 de abril de 2025
 
 ## 4. Histórico de Versões
 
