@@ -176,32 +176,45 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ## 4. Bibliografia
 
-fix/atualizacoes-e-reformas-pendentes
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
+
+>PDF (23 abr. 2025): [Sinesp Cidadão](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppSinesp.pdf)
 
 >BRASIL. Ministério das Comunicações. Celular Seguro. Disponível em: <https://www.gov.br/celularseguro>. Acesso em: 10 abr. 2025.
 
+>PDF (23 abr. 2025): [Celular Seguro](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppCelularSeguro.pdf)
+
 >BRASIL. Ministério da Infraestrutura. Carteira Digital de Trânsito. Disponível em: <https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito>. Acesso em: 10 abr. 2025.
+
+>PDF (23 abr. 2025): [Carteira Digital de Trânsito](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppCarteiraTransito.pdf)
 
 >PREFEITURA MUNICIPAL. NFSe Mobile. Disponível em: <https://www.gov.br/nfse/pt-br>. Acesso em: 10 abr. 2025.
 
+>PDF (23 abr. 2025): [NFSe Mobile](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppNFSe.pdf)
+
 >CAIXA ECONÔMICA FEDERAL. Bolsa Família (App). Disponível em: <https://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx>. Acesso em: 10 abr. 2025.
+
+>PDF (23 abr. 2025): [Bolsa Família](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppBolsaFamilia.pdf)
 
 >EXÉRCITO BRASILEIRO. Carteira de Identidade Militar Digital (EBCIM). Disponível em: <https://portal-ebcim.eb.mil.br/>. Acesso em: 10 abr. 2025.
 
+>PDF (23 abr. 2025): [Carteira de Identidade Militar Digital](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppEBCIM.pdf)
+
 >BRASIL. Ministério da Saúde. SUS Digital (Meu SUS Digital). Disponível em: <https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital>. Acesso em: 11 abr. 2025.
+
+>PDF (23 abr. 2025): [Meu SUS Digital](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/AppMeuSUS.pdf)
 
 ---
 
 ## 5. Histórico de Versões
 
-fix/atualizacoes-e-reformas-pendentes
-| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0    | 09/04/2025 | Estruturação inicial da seção “Aplicativos Analisados” com modelo descritivo e Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 09/04/2025|
-| 1.1    | 10/04/2025 | Inclusão dos 6 primeiros aplicativos com descrições padronizadas e autoria das Rich Pictures   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 10/04/2025|
-| 1.2    | 10/04/2025 | Adição da tabela comparativa entre os aplicativos analisados                                   | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 10/04/2025|
-| 1.3    | 11/04/2025 | Inclusão do aplicativo SUS Digital com Rich Picture, análise e atualização na comparação       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
-| 1.4    | 13/04/2025 | Inserção das referências bibliográficas de todos os aplicativos analisados                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                           | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 23/04/2025|
-| 1.5    | 17/04/2025 | Correção do título da bibliografia e adição do tópico de legenda dos rich pictures                     | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
-| 1.6    | 23/04/2025 | Padronização do Histórico de Versões e da Bibliografia   | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>       | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
+| Versão | Data de Produção | Descrição da Alteração                                                                 | Autor(es)                                                                                                                      | Revisor(es)                                                                                                                  | Data de Revisão |
+| :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| 1.0    | 09/04/2025       | Estruturação inicial da seção “Aplicativos Analisados” com modelo descritivo e Rich Pictures | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 09/04/2025     |
+| 1.1    | 10/04/2025       | Inclusão dos 6 primeiros aplicativos com descrições padronizadas e autoria das Rich Pictures | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 10/04/2025     |
+| 1.2    | 10/04/2025       | Adição da tabela comparativa entre os aplicativos analisados                            | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 10/04/2025     |
+| 1.3    | 11/04/2025       | Inclusão do aplicativo SUS Digital com Rich Picture, análise e atualização na comparação | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                                                   | 23/04/2025     |
+| 1.4    | 13/04/2025       | Inserção das referências bibliográficas de todos os aplicativos analisados              | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                                                   | 23/04/2025     |
+| 1.5    | 17/04/2025       | Correção do título da bibliografia e adição do tópico de legenda dos Rich Pictures      | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                                                   | 23/04/2025     |
+| 1.6    | 23/04/2025       | Padronização do Histórico de Versões e da Bibliografia                                 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                             | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                                                   | 23/04/2025     |
+| 1.7    | 23/04/2025       | Inserção dos PDFs na bibliografia com data de 23 de abril de 2025                       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                                  | 23/04/2025     |
