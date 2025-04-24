@@ -78,8 +78,6 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 ## 3. Histórico de Versões
 <font size="3"><p style="text-align: center">Tabela 1: Histórico de Versões</p></font> 
 
-| Versão |Descrição     |Autor                                       |Data    |Revisor|
-|:-:     | :-:          | :-:                                        | :-:        |:-:|
-|1.0     |Criação do documento|[Gabriel Lima](https://github.com/gabriel-lima258)| 23/04/2025 | [Arthur Carvalho](https://github.com/LeticiaMonteiroo) |
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+|1.0     |23/04/2025|Criação do documento|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/04/2025|
