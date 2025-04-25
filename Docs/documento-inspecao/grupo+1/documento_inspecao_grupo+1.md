@@ -73,7 +73,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 ### 2.3 Gravação
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/58mZ6FvjD6M"> Grupo 03 – Inspeção grupo 04</a></p>
-  <iframe width="560" height="315" src="https://youtube/embed/58mZ6FvjD6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/58mZ6FvjD6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 3. Histórico de Versões
