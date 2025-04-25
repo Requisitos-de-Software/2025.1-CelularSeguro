@@ -7,7 +7,14 @@ Esta seção apresenta a análise de sete aplicativos relevantes para o projeto,
 
 ## 1.1 Sinesp Cidadão
 
-<font size="3"><p style="text-align: center">Figura 1: Rich picture do aplicativo Sinesp Cidadão</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;1:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;Sinesp&nbsp;Cidadão<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Consulta de veículos roubados, mandados e desaparecidos em base oficial.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture - Sinesp Cidadão](../assets/img/rich-picture-sinesp.png)
 
@@ -26,7 +33,14 @@ Aplicativo governamental que permite aos cidadãos consultar informações de se
 
 ## 1.2 Celular Seguro
 
-<font size="3"><p style="text-align: center">Figura 2: Rich picture do aplicativo Celular Seguro</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;2:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;Celular&nbsp;Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Alerta de roubo/perda e bloqueio automático de linha, aparelho e apps.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture - Celular Seguro](../assets/img/rich-picture-celularSeguro.png)
 
@@ -45,7 +59,14 @@ Aplicativo do governo destinado a registrar alertas de roubo, furto ou perda de 
 
 ## 1.3 Carteira Digital de Trânsito (CDT)
 
-<font size="3"><p style="text-align: center">Figura 3: Rich picture do aplicativo Carteira Digital de Transito</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;3:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;Carteira&nbsp;Digital&nbsp;de&nbsp;Trânsito<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      CNH e CRLV digitais, multas e alertas integrados ao DETRAN.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture - Carteira Digital de Trânsito](../assets/img/rich-picture-digitalTransito.png)
 
@@ -64,7 +85,14 @@ Aplicativo que digitaliza a CNH e o CRLV, facilitando o acesso e a consulta de d
 
 ## 1.4 NFSe Mobile
 
-<font size="3"><p style="text-align: center">Figura 4: Rich picture do aplicativo NFSe Mobile</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;4:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;NFSe&nbsp;Mobile<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Emissão e consulta de nota fiscal de serviço direto com a prefeitura.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture - NFSe Mobile](../assets/img/rich-picture-NFSeMobile.png)
 
@@ -83,7 +111,14 @@ Aplicativo voltado para a emissão e consulta de Notas Fiscais de Serviço eletr
 
 ## 1.5 Bolsa Família (App)
 
-<font size="3"><p style="text-align: center">Figura 5: Rich picture do aplicativo Bolsa Família</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;5:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;Bolsa&nbsp;Família<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Visualização de parcelas, extratos e calendário do benefício.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture - Bolsa Família](../assets/img/rich-picture-bolsaFamilia.png)
 
@@ -102,7 +137,14 @@ Aplicativo que possibilita aos beneficiários do programa Bolsa Família consult
 
 ## 1.6 Carteira de Identidade Militar Digital (EBCIM)
 
-<font size="3"><p style="text-align: center">Figura 6: Rich picture do aplicativo Identidade Militar Digital</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;6:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;Identidade&nbsp;Militar&nbsp;Digital<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Documento militar digital validado por QR Code, acessível offline.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture - Identidade Militar Digital](../assets/img/rich-picture-identidadeMilitar.png)
 
@@ -121,7 +163,14 @@ Aplicativo que disponibiliza a carteira de identidade militar em formato digital
 
 ## 1.7 SUS Digital
 
-<font size="3"><p style="text-align: center">Figura 7: Rich picture do aplicativo SUS Digital</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura&nbsp;7:&nbsp;Rich&nbsp;picture&nbsp;–&nbsp;SUS&nbsp;Digital<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Histórico clínico, vacinas e exames centralizados na RNDS.
+    </span>
+  </p>
+</font>
 
 ![Rich Picture SUS Digital](../assets/img/rich-picture-SUSDigital.png)
 
@@ -140,7 +189,15 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## 2. Legenda dos Rich Pictures
 
-<font size="3"><p>Tabela 1: Legenda dos Rich Pictures – Apresenta a legenda dos Rich Pictures: descreve, de forma rápida, o que significa cada ícone (atores, operações, dados, fluxos e limites) para que o leitor entenda os diagramas à primeira vista.</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela&nbsp;1:&nbsp;Legenda&nbsp;dos&nbsp;Rich&nbsp;Pictures<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Descreve o significado de cada ícone (atores, operações, dados, fluxos e limites)
+      usado nos Rich&nbsp;Pictures, para leitura instantânea dos diagramas.
+    </span>
+  </p>
+</font>
 
 | **Componente**             | **Símbolo**                          | **Descrição**                                                                                                                                          |
 |----------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -156,7 +213,16 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## 3. Tabela Comparativa dos Aplicativos
 
-<font size="3"><p>Tabela 2: Tabela Comparativa dos Aplicativos – Resume, em colunas paralelas, as funcionalidades, práticas de segurança, grau de integração governamental, usabilidade e público-alvo de cada aplicativo, permitindo uma comparação rápida entre as soluções analisadas.</p></font>
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0 0; line-height:1.2;">
+    Tabela&nbsp;1:&nbsp;Legenda&nbsp;dos&nbsp;Rich&nbsp;Pictures<br>
+    <span style="font-size:0.85em; font-style:italic">
+      Resume, em colunas paralelas, as funcionalidades, práticas de segurança,
+      grau de integração governamental, usabilidade e público-alvo de cada
+      aplicativo, permitindo uma comparação rápida entre as soluções analisadas.
+    </span>
+  </p>
+</font>
 
 | **Aplicativo**                   | **Funcionalidades (resumo)**                                            | **Segurança (dados e acesso)**               | **Integração (Gov)**                          | **Usabilidade**                              | **Público Principal**                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------------------------------------|
