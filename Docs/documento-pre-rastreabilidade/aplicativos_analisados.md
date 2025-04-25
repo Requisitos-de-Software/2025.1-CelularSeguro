@@ -140,8 +140,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## 2. Legenda dos Rich Pictures
 
-<font size="3"><p>Tabela 1: Legenda dos Rich Pictures</p></font>
-<font size="3"><p>Tabela 1 – Apresenta a legenda dos Rich Pictures: descreve, de forma rápida, o que significa cada ícone (atores, operações, dados, fluxos e limites) para que o leitor entenda os diagramas à primeira vista.</p></font>
+<font size="3"><p>Tabela 1: Legenda dos Rich Pictures – Apresenta a legenda dos Rich Pictures: descreve, de forma rápida, o que significa cada ícone (atores, operações, dados, fluxos e limites) para que o leitor entenda os diagramas à primeira vista.</p></font>
 
 | **Componente**             | **Símbolo**                          | **Descrição**                                                                                                                                          |
 |----------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -157,8 +156,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## 3. Tabela Comparativa dos Aplicativos
 
-<font size="3"><p>Tabela 2: Tabela Comparativa dos Aplicativos</p></font>
-<font size="3"><p>Tabela 2 – Resume, em colunas paralelas, as funcionalidades, práticas de segurança, grau de integração governamental, usabilidade e público-alvo de cada aplicativo, permitindo uma comparação rápida entre as soluções analisadas.</p></font>
+<font size="3"><p>Tabela 2: Tabela Comparativa dos Aplicativos – Resume, em colunas paralelas, as funcionalidades, práticas de segurança, grau de integração governamental, usabilidade e público-alvo de cada aplicativo, permitindo uma comparação rápida entre as soluções analisadas.</p></font>
 
 | **Aplicativo**                   | **Funcionalidades (resumo)**                                            | **Segurança (dados e acesso)**               | **Integração (Gov)**                          | **Usabilidade**                              | **Público Principal**                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------------------------------------|
