@@ -65,7 +65,7 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
-## 3. Bibliografia
+## 3. Bibliografias
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (1).pdf" target="_blank">PDF - Requisitos – Aula 23</a>. Acesso em: 14 abr. 2025, 12:46.
 
@@ -73,8 +73,8 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 
 ## 4. Histórico de Versões
 
-| Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 14/04/2024 | Criação do documento.  | [Arthur Carvalho](https://github.com/arthurlleite)| [Vitor Bessa](https://github.com/Bessazs) |
-| `2.0`  | 23/04/2024 | Refatoração da checklist de verificação.  | [Gabriel Lima](https://github.com/gabriel-lima258)| [Arthur Carvalho](https://github.com/arthurlleite) |
-| `2.1`  | 23/04/2024 | Referências das perguntas adicionadas.  | [Gabriel Lima](https://github.com/gabriel-lima258)| [Arthur Carvalho](https://github.com/arthurlleite) |
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0  | 14/04/2025 | Criação do documento.  | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 14/04/2025|
+| 2.0  | 23/04/2025 | Refatoração da checklist de verificação.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/04/2025|
+| 2.1  | 23/04/2025 | Referências das perguntas adicionadas.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/04/2025|

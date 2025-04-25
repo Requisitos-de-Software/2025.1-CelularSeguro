@@ -30,7 +30,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Documentar Equipe e criar Homepage          | Felipe                 | Gabriel e Daniel   |  03/04  | 11/04 |
 | Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
 | Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  12/04  | 12/04 |
-| *Revisão final*                             | Todos                  |                    |  12/04  | 12/04 |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  12/04  | 12/04 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
@@ -52,13 +52,20 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
-| Traçar perfil de usuário                    | Mateus, Grabriel e Daniel | Leonardo e Arhtur  |  14/04  | 16/04 |
-| Analise de documentos                       | Leonardo e Arhtur         | Vitor e Felipe     |  14/04  | 16/04 |          
-| Criar elenco de personas                    | Mateus                    | Leonardo e Vitor   |  16/04  | 21/04 |
-| Elaborar questionario                       | Vitor                     | Mateus e Arhtur    |  21/04  | 23/04 |
-| Elaborar quadro MoSCow                      | Felipe                    | Daniel e Gabriel   |  23/04  | 26/04 |
-| Gravar e fazer upload da apresentação       | Leonardo e Arhtur         | Mateus e Gabriel   |  12/04  | 12/04 |
-| *Revisão final*                             | Todos                     |                    |  26/04  | 26/04 |
+| Elaborar questionário geral ( personas, perfil do usuário e técnica questionário) | Vitor Pereira Felipe das Neves  | Mateus Bastos e Arthur Carvalho   |  21/04  | 02/05 |
+| Traçar perfil de usuário                    | Mateus Bastos, Gabriel Lima e Daniel Rodrigues | Leonardo de Melo e Arthur Carvalho |  14/04  | 01/05 |
+| Criar elenco de personas                    | Mateus Bastos      | Leonardo de Melo e Vitor Pereira  |  16/04  | 30/04 |
+| Análise de Documentos (Técnica de Elicitação)     | Leonado de Melo e Arthur Carvalho| Mateus Bastos e Arthur Carvalho    |  21/04  | 02/04 |
+| Questionário (Técnica de Elicitação) | Vitor Pereira e Felipe das Neves  | Daniel Rodrigues e Gabriel Lima   |  23/04  | 02/05 |
+| Brainstorm (Técnica de Elicitação) | Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 02/05 |
+| Storytelling (Técnica de Elicitação) | Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 02/05 |
+| Observação (Técnica de Elicitação) | Gabriel Lima, Daniel Rodrigues e Arthur Carvalho    | Leonado de Melo e Felipe das Neves | 12/04 | 02/05 |
+| Prototipação (Técnica de Elicitação) | Leonardo de Melo, Felipe das Neves Arthur Carvalho    | Gabriel Lima e Vitor Pereira | 12/04 | 02/05 |
+| First Thing First (Técnica de Priorização) | Gabriel Lima, Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Felipe das Neves | 12/04 | 02/05 |
+| QFD (Técnica de Priorização) | Vitor Pereira, Mateus Pereira e Felipe das Neves    | Leonardo de Melo e Gabriel Lima | 12/04 | 02/05 |
+| MoSCoW (Técnica de Priorização) | Arthur Carvalho e Felipe das Neves    | Leonardo de Melo e Gabriel Lima | 12/04 | 02/05 |
+| ROI (Técnica de Priorização) | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos    | Arthur Carvalho e Leonardo de Melo | 12/04 | 02/05 |
+| Revisão final   | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  03/05  | 03/05 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
@@ -84,7 +91,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Criação de cenários                         | Leonardo, Arhtur e Daniel | Mateus e Felipe    |  05/05  | 07/05 |
 | Especificação suplementar                   | Vitor e Felipe            | Gabriel e Leonardo |  05/05  | 11/05 |
 | Gravar e fazer upload da apresentação       | Daniel e Vitor            | Leonardo e Felipe  |  12/04  | 12/04 |
-| *Revisão final*                             | Todos                     |                    |  12/05  | 12/05 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  12/05  | 12/05 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
@@ -109,7 +116,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Elaboração de histórias de usuário          | Daniel, Leonardo e Mateus| Felipe e Gabriel   |  14/05  | 21/05 |          
 | Definição dos NFRs                          | Vitor e Arthur           | Leonardo e Mateus  |  21/05  | 23/05 |
 | Gravar e fazer upload da apresentação       | Felipe e Mateus          | Vitor e Arthur     |  12/04  | 12/04 |
-| *Revisão final*                             | Todos                    |                    |  24/05  | 24/05 |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  24/05  | 24/05 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
@@ -135,7 +142,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Pós-rastreabilidade: Backward-form          | Mateus, Gabriel, Vitor e Daniel | Daniel e Felipe    |  28/05  | 04/06 |
 | Pós-rastreabilidade: Forward-form           | Leonardo , Arthur e Felipe      | Mateus e Gabriel   |  04/06  | 07/06 |           
 | Gravar e fazer upload da apresentação       | Vitor e Felipe                  | Arthur e Leonardo  |  09/06  | 09/06 |
-| *Revisão final*                             | Todos                           |                    |  09/06  | 09/06 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  09/06  | 09/06 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
@@ -155,10 +162,10 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 | Tarefa                                         |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
 |------------------------------------------------|---------------------------------|--------------------|---------| ----- |
-| Verificação por inspeção de todos os artefatos | Leonardo, Arthur, Daniel        | Todos              |  11/06  | 16/06 |
-| Validação: Prototipação                        | Mateus, Gabriel, Vitor e Felipe | Todos              |  16/06  | 23/06 |
+| Verificação por inspeção de todos os artefatos | Leonardo, Arthur, Daniel        |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  11/06  | 16/06 |
+| Validação: Prototipação                        | Mateus, Gabriel, Vitor e Felipe |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/06  | 23/06 |
 | Gravar e fazer upload da apresentação          | Leonardo e Mateus               | Mateus e Daniel    |  25/06  | 25/06 |
-| *Revisão final*                                | Todos                           |                    |  25/06  | 25/06 |
+| *Revisão final*                                |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  25/06  | 25/06 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
@@ -173,9 +180,9 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 | Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|------------------------|--------------------|---------| ----- |
-| Consolidação final do MkDocs                |   Todos                |   Todos            |  25/06  | 02/07 |
-| Ajustes de formatação e revisão técnica     |   Todos                |   Todos            |  02/07  | 04/07 |          
-| *Revisão final*                             |   Todos                |   Todos            |  04/07  | 04/07 |
+| Consolidação final do MkDocs                |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 25/06  | 02/07 |
+| Ajustes de formatação e revisão técnica     |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 02/07  | 04/07 |          
+| *Revisão final*                             |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 04/07  | 04/07 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
