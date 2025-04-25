@@ -140,9 +140,8 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ## 2. Legenda dos Rich Pictures
 
-Os Rich Pictures são representações visuais utilizadas para entender, modelar e comunicar o funcionamento de sistemas de forma intuitiva. A legenda abaixo explica os principais elementos utilizados:
-
 <font size="3"><p style="text-align: center">Tabela 1: Legenda dos Rich Pictures</p></font>
+<p align="center"><em>Tabela 1 – Apresenta a legenda dos Rich Pictures: descreve, de forma rápida, o que significa cada ícone (atores, operações, dados, fluxos e limites) para que o leitor entenda os diagramas à primeira vista.</em></p>
 
 | **Componente**             | **Símbolo**                          | **Descrição**                                                                                                                                          |
 |----------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -159,6 +158,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 ## 3. Tabela Comparativa dos Aplicativos
 
 <font size="3"><p style="text-align: center">Tabela 2: Tabela Comparativa dos Aplicativos</p></font>
+<p align="center"><em>Tabela 2 – Resume, em colunas paralelas, as funcionalidades, práticas de segurança, grau de integração governamental, usabilidade e público-alvo de cada aplicativo, permitindo uma comparação rápida entre as soluções analisadas.</em></p>
 
 | **Aplicativo**                   | **Funcionalidades (resumo)**                                            | **Segurança (dados e acesso)**               | **Integração (Gov)**                          | **Usabilidade**                              | **Público Principal**                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------------------------------------|
@@ -174,7 +174,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## 4. Bibliografia
+## Bibliografia
 
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
@@ -206,7 +206,7 @@ Os Rich Pictures são representações visuais utilizadas para entender, modelar
 
 ---
 
-## 5. Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data de Produção | Descrição da Alteração                                                                 | Autor(es)                                                                                                                      | Revisor(es)                                                                                                                  | Data de Revisão |
 | :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
