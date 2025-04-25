@@ -214,9 +214,9 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 ## 3. Tabela Comparativa dos Aplicativos
 
 <font size="3">
-  <p style="text-align:center; margin:-2em 0 0; line-height:1.1;">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela&nbsp;2:&nbsp;Tabela&nbsp;Comparativa&nbsp;dos&nbsp;Aplicativos<br>
-    <span style="font-size:0.7em; font-style:italic;">
+    <span style="font-size:0.85em; font-style:italic;">
       Apresenta lado a lado as funcionalidades, mecanismos de segurança, integração governamental, usabilidade e público-alvo de cada aplicativo.
     </span>
   </p>
