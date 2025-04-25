@@ -212,17 +212,15 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 ---
 
 ## 3. Tabela Comparativa dos Aplicativos
-
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela&nbsp;2:&nbsp;Tabela&nbsp;Comparativa&nbsp;dos&nbsp;Aplicativos<br>
-    <span style="font-size:0.85em; font-style:italic">
-      Resume, em colunas paralelas, as funcionalidades, práticas de segurança,
-      grau de integração governamental, usabilidade e público-alvo de cada
-      aplicativo, permitindo uma comparação rápida entre as soluções analisadas.
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta lado a lado as funcionalidades principais, mecanismos de segurança, grau de integração governamental, usabilidade e público-alvo de cada aplicativo, facilitando uma comparação rápida e informativa.
     </span>
   </p>
 </font>
+
 
 | **Aplicativo**                   | **Funcionalidades (resumo)**                                            | **Segurança (dados e acesso)**               | **Integração (Gov)**                          | **Usabilidade**                              | **Público Principal**                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------------------------------------|
