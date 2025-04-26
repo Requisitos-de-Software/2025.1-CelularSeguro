@@ -9,10 +9,10 @@ Com base na análise de seis aplicativos governamentais — como Sinesp Cidadão
 
 ## 1.1 Destaques da Pré-Rastreabilidade
 
-- 📱 **Levantamento de Referências**: Estudo de aplicativos com propostas alinhadas à segurança pública, serviços digitais e proteção de dados.
-- 🧩 **Análise Crítica**: Identificação de pontos positivos e limitações que guiaram as escolhas do projeto.
-- ✅ **Escolha Justificada**: O aplicativo *Celular Seguro* foi selecionado por sua alta relevância social, integração com plataformas oficiais e funcionalidades preventivas contra roubos e fraudes.
-- 🔐 **Base Legal e Funcional**: A análise também considerou aspectos legais e técnicos envolvidos, com base na LGPD, Marco Civil da Internet, entre outras normas.
+- **Levantamento de Referências**: Estudo de aplicativos com propostas alinhadas à segurança pública, serviços digitais e proteção de dados.
+- **Análise Crítica**: Identificação de pontos positivos e limitações que guiaram as escolhas do projeto.
+- **Escolha Justificada**: O aplicativo *Celular Seguro* foi selecionado por sua alta relevância social, integração com plataformas oficiais e funcionalidades preventivas contra roubos e fraudes.
+- **Base Legal e Funcional**: A análise também considerou aspectos legais e técnicos envolvidos, com base na LGPD, Marco Civil da Internet, entre outras normas.
 
 Esta documentação fornece uma trilha clara e fundamentada da evolução do projeto até sua definição atual, garantindo transparência e coerência nas decisões tomadas.
 

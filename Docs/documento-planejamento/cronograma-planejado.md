@@ -186,7 +186,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
-## Bibliografias
+## Bibliografia
 
 >SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 09 abr. 2025.
 

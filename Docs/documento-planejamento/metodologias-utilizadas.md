@@ -74,7 +74,7 @@ Essa prática contribui para:
 
 Este repositório segue uma política de versionamento e colaboração inspirada nas melhores práticas de Engenharia de Software.
 
-### 4.1 📂 Branches
+### 4.1 Branches
 
 A tabela abaixo apresenta o padrão de nomenclatura para criação de branches durante o desenvolvimento do projeto.
 
@@ -91,7 +91,7 @@ A tabela abaixo apresenta o padrão de nomenclatura para criação de branches d
 
 ---
 
-### 4.2 💬 Commits
+### 4.2 Commits
 
 O padrão de commits utilizado segue a estrutura `<tipo>: <descrição breve>`. Exemplos:
 
@@ -101,7 +101,7 @@ O padrão de commits utilizado segue a estrutura `<tipo>: <descrição breve>`. 
 
 ---
 
-### 4.3 🗂️ Issues
+### 4.3 Issues
 
 As *issues* seguem o modelo de clareza, com título e descrição objetivos. Exemplo:
 
@@ -115,7 +115,7 @@ Adicionar o caso de uso "Recuperar Senha" no documento de requisitos funcionais.
 - [ ] Especificar fluxo principal e alternativo
 ```
 ---
-### 4.4 🚀 Pull Requests (PRs)
+### 4.4 Pull Requests (PRs)
 Cada PR inclui:
 
 - Título descritivo e padronizado
@@ -126,14 +126,14 @@ Cada PR inclui:
 
 ---
 
-## 5. Bibliografias
+## 5. Bibliografia
 
 > ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
 
 
 ---
 
-## 6. Tabela de Versionamento 
+## 6. Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                                                     | Autor(es)             | Revisor(es)|Data de Revisão |
 | :----: | :----------------: | :------------------------------------------------------------------------: | :-------------------: | :--------: |  :-------------: |
