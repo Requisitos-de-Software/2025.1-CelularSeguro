@@ -88,7 +88,7 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
 
 ---
 
-## Bibliografias
+## Bibliografia
 
 > GITHUB. *GitHub*. 2025. Disponível em: <https://github.com/>. Acesso em: 10 abr. 2025.
 
