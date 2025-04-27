@@ -40,6 +40,18 @@ nav:
       - Grupo + 1: 
         - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo+1.md" 
 
+  - Elicitação:
+      - Observação: "documento-elicitacao/Observacao.md"
+      - Perfil do Usuário: "documento-elicitacao/PerfilUsuario.md"
+      - Personas: "documento-elicitacao/Personas.md"
+      - Storytelling: "documento-elicitacao/Storytelling.md"
+      - Brainstorm: "documento-elicitacao/Brainstorm.md"
+      - Priorização: "documento-elicitacao/Priorizacao.md"
+
+
+
+    
+
   - Apresentação:
     - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
