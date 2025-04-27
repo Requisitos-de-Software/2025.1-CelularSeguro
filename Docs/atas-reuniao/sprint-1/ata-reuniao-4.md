@@ -14,20 +14,24 @@
 
 ## Participantes
 
-<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Presença</p></font>
 
 
-| Nome                        | Presença |
-|-----------------------------|----------|
-| Arthur Carvalho Leite       | ✔️       |
-| Daniel Rodrigues Nascimento | ✔️       |
-| Felipe das Neves Freire     | ✔️       |
-| Gabriel Lima da Silva       | ✔️       |
-| Leonardo de Melo Lima       | ✔️       |
-| Mateus Bastos dos Santos    | ✔️       |
-| Vitor Pereira Bessa         | ✔️       |
+<center>
 
-<font size="3"><p style="text-align: left">Fonte: Autores</p></font>
+| Nome            | Presença |
+|-----------------|----------|
+| Arthur Carvalho Leite       | ✔️    |
+| Daniel Rodrigues Nascimento | ✔️    |
+| Felipe das Neves Freire     | ✔️    |
+| Gabriel Lima da Silva       | ✔️    |
+| Leonardo de Melo Lima       | ✔️    |
+| Mateus Bastos dos Santos    | ✔️    |
+| Vitor Pereira Bessa         | ✔️    |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
 
 ---
 
@@ -56,7 +60,7 @@
 
 <div style="text-align: center;">
   <p><strong>Vídeo 3:</strong> 
-    <a href="https://www.youtube.com/watch?v=WwTcJatrJsU">Grupo 03 – Reunião 03</a>
+    <a href="https://www.youtube.com/watch?v=WwTcJatrJsU">Grupo 03 – Reunião 04</a>
   </p>
   <iframe 
     width="560" 
