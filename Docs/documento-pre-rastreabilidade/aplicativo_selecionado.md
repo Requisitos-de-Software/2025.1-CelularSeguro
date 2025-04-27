@@ -98,7 +98,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## 8. Bibliografia
+## Bibliografia
 
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
 
@@ -112,7 +112,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## 9. Histórico de Versões
+## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |

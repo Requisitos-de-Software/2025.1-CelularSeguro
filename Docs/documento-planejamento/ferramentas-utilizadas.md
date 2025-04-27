@@ -118,7 +118,7 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
 
 
 ---
-# Histórico de Versões 
+## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |

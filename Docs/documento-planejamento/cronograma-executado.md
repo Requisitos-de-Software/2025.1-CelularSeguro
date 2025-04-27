@@ -31,7 +31,7 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | Documentar Equipe e criar Homepage          | Felipe                 | Gabriel e Daniel   |  03/04  | 11/04 |
 | Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
 | Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  13/04  | 13/04 |
-| *Revisão final*                             | Todos                  |                    |  13/04  | 13/04 |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos                  |                    |  13/04  | 13/04 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 

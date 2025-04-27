@@ -38,7 +38,7 @@ A equipe utilizou a metodologia ágil Scrum, que permite organizar o trabalho em
 
 
 ---
-# Histórico de Versões 
+## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |

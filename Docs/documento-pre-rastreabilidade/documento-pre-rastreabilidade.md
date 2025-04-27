@@ -17,7 +17,7 @@ Com base na análise de seis aplicativos governamentais — como Sinesp Cidadão
 Esta documentação fornece uma trilha clara e fundamentada da evolução do projeto até sua definição atual, garantindo transparência e coerência nas decisões tomadas.
 
 ---
-# 2. Tabela de Versionamento 
+## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |

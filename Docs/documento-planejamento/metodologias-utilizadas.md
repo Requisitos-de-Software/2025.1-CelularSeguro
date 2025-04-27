@@ -126,14 +126,14 @@ Cada PR inclui:
 
 ---
 
-## 5. Bibliografia
+## Bibliografia
 
 > ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. Arxiv. [S. l.], v.1, 2021. Disponível em: <https://arxiv.org/abs/2102.06662. Acesso em: 10 abr. 2025.
 
 
 ---
 
-## 6. Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                                                     | Autor(es)             | Revisor(es)|Data de Revisão |
 | :----: | :----------------: | :------------------------------------------------------------------------: | :-------------------: | :--------: |  :-------------: |

@@ -74,13 +74,13 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 
 ---
 
-## 3. Bibliografia
+## Bibliografia
 
 > GOOGLE. Heatmap de Disponibilidade da Equipe. Google Sheets, 2025. Acesso em: 11 abr. 2025.
 
 ---
 
-## 4. Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
