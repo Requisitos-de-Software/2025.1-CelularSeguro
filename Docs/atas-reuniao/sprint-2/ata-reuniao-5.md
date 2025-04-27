@@ -14,10 +14,8 @@
 
 ## Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Presença</p></font>
+<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
 
-
-<center>
 
 | Nome            | Presença |
 |-----------------|----------|
@@ -29,9 +27,8 @@
 | Mateus Bastos dos Santos    | ✔️    |
 | Vitor Pereira Bessa         | ✔️    |
 
-</center>
 
-<font size="3"><p style="text-align: center">Fonte: Gabriel Lima</p></font>
+<font size="3"><p style="text-align: left">Fonte: Gabriel Lima</p></font>
 
 ---
 
@@ -53,6 +50,7 @@
 ---
 
 ## Próxima Reunião
+**30/04/2025 às 20h**
 
 
 ## Link da gravação

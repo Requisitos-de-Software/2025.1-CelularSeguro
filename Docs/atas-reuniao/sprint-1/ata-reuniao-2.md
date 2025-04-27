@@ -14,10 +14,8 @@
 
 ## Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Presença</p></font>
+<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
 
-
-<center>
 
 | Nome            | Presença |
 |-----------------|----------|
@@ -30,9 +28,7 @@
 | Vitor Pereira Bessa         | ✔️    |
 
 
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: Arthur Carvalho Leite</p></font>
+<font size="3"><p style="text-align: left">Fonte: Arthur Carvalho Leite</p></font>
 
 ---
 ## Discussões
