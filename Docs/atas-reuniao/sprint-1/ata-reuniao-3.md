@@ -14,8 +14,10 @@
 
 ## Participantes
 
-<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Presença</p></font>
 
+
+<center>
 
 | Nome            | Presença |
 |-----------------|----------|
@@ -27,7 +29,10 @@
 | Mateus Bastos dos Santos    | ✔️    |
 | Vitor Pereira Bessa         | ✔️    |
 
-<font size="3"><p style="text-align: left">Fonte: Autores</p></font>
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: Gabriel Lima da Silva</p></font>
 
 ---
 ## Discussões
