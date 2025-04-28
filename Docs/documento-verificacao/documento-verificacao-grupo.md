@@ -1,14 +1,11 @@
 # Planejamento da Verificação da Etapa 1
 
+---
 
-## 1. Objetivo
-
-Este documento tem como objetivo verificar, por meio de um checklist, a qualidade e a completude de todos os itens obrigatórios das entregas. As atribuições de autores e revisores, assim como o status de cada item, são registradas para facilitar a organização interna do grupo e permitir revisões contínuas com base nos feedbacks da equipe.
-
-## 2. Planejamento
+## 1. Planejamento
 
 
-### 2.1 Participantes
+### 1.1 Participantes
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
 <li>Gabriel Lima;
 <li>Arthur Carvalho;
@@ -19,8 +16,8 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 <li>Vitor Pereira.
 </ul>
 
-### 2.2 Lista de Inspeção
-#### 2.2.1 Itens do Planejamento Geral do Projeto
+### 1.2 Lista de Inspeção
+#### 1.2.1 Itens do Planejamento Geral do Projeto
 
 <font size="3"><p style="text-align: center">Tabela 1: Itens do Planejamento Geral do Projeto</p></font> 
 
@@ -37,7 +34,7 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
 
-#### 2.2.2 Itens do Desenvolvimento do Projeto
+#### 1.2.2 Itens do Desenvolvimento do Projeto
 <font size="3"><p style="text-align: center">Tabela 2: Itens do Desenvolvimento do Projeto</p></font> 
 
 | ID | Item de Verificação | Autor(es) | Referência |
@@ -54,7 +51,7 @@ Este documento tem como objetivo verificar, por meio de um checklist, a qualidad
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
-#### 2.2.3 Itens do conteúdo da Disciplina 
+#### 1.2.3 Itens do conteúdo da Disciplina 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo da Disciplina </p></font> 
 
 | ID | Item de Verificação | Autor(es) | Referência |
