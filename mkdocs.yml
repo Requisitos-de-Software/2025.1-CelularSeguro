@@ -52,9 +52,9 @@ nav:
           - Observação: "documento-elicitacao/Observacao.md"
       - Priorização:
           - QFD: "documento-elicitacao/Priorizacao.md"
-          - Moscow: 
-          - First Thing First: 
-          - $100: 
+          - Moscow: "documento-elicitacao/Priorizacao.md"
+          - First Thing First: "documento-elicitacao/Priorizacao.md"
+          - $100: "documento-elicitacao/Priorizacao.md"
       - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
 
   - Apresentação:
