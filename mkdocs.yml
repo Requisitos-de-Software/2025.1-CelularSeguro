@@ -51,11 +51,11 @@ nav:
           - Brainstorm: "documento-elicitacao/Brainstorm.md"
           - Observação: "documento-elicitacao/Observacao.md"
       - Priorização:
-          - QFD: "documento-elicitacao/Priorizacao.md"
-          - Moscow: "documento-elicitacao/Priorizacao.md"
-          - First Thing First: "documento-elicitacao/Priorizacao.md"
-          - $100: "documento-elicitacao/Priorizacao.md"
-      - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
+          - QFD: "documento-elicitacao/QFD.md"
+          - Moscow: "documento-elicitacao/Moscow.md"
+          - First Thing First: "documento-elicitacao/ftf.md"
+          - $100: "documento-elicitacao/100.md"
+      - Requisitos Elicitados: "documento-elicitacao/requisitos_elicitados.md"
 
   - Apresentação:
     - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
