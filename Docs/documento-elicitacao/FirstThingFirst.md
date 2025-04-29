@@ -4,16 +4,6 @@
 ## **First Thing First**
 
 
-## **Moscow**
-
-## **QFD**
-
-O QFD (Quality Function Deployment – Desdobramento da Função Qualidade) é uma das ferramentas da qualidade criada na década de 60 pelo japonês Yoji Akao. Desdobramento da função qualidade: um nome um tanto técnico para um processo que, essencialmente, faz as empresas integrarem a Voz do Cliente (VOC) no desenvolvimento de produtos. [1]
-
-## **Referências Bibliográficas**
-
-[1] “Como preencher a matriz QFD ou Casa da Qualidade”, Lucidchart, 02-nov-2023.
-
 ## **Bibliográfia**
 
 
