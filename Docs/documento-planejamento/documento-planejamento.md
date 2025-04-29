@@ -35,8 +35,6 @@ Neste tópico listamos as principais ferramentas utilizadas durante o desenvolvi
 
 A equipe utilizou a metodologia ágil Scrum, que permite organizar o trabalho em ciclos curtos chamados sprints. Essa abordagem foi escolhida por facilitar a adaptação às mudanças, melhorar a comunicação e garantir entregas incrementais de valor ao longo do tempo.
 
-
-
 ---
 ## Histórico de Versões 
 
