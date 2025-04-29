@@ -13,7 +13,7 @@
 
 O QFD (Quality Function Deployment – Desdobramento da Função Qualidade) é uma das ferramentas da qualidade criada na década de 60 pelo japonês Yoji Akao. Desdobramento da função qualidade: um nome um tanto técnico para um processo que, essencialmente, faz as empresas integrarem a Voz do Cliente (VOC) no desenvolvimento de produtos. [1]
 
-A **Tabela 1** a seguir representam a análise de disponibilidade do grupo. Os valores numéricos variam de 0 a 7, indicando o número de membros disponíveis em cada faixa horária.
+A **Figura 1** a seguir representam a análise de disponibilidade do grupo. Os valores numéricos variam de 0 a 7, indicando o número de membros disponíveis em cada faixa horária.
 
 <div align="center">
   <font size="3">

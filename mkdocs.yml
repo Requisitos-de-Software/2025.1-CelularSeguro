@@ -43,13 +43,19 @@ nav:
 
   - Elicitação:
       - Introdução: "documento-elicitacao/Introducao.md"
-      - Observação: "documento-elicitacao/Observacao.md"
-      - Perfil do Usuário: "documento-elicitacao/PerfilUsuario.md"
+      - Perfil de Usuário: "documento-elicitacao/PerfilUsuario.md" 
       - Personas: "documento-elicitacao/Personas.md"
-      - Storytelling: "documento-elicitacao/Storytelling.md"
-      - Brainstorm: "documento-elicitacao/Brainstorm.md"
-      - Priorização: "documento-elicitacao/Priorizacao.md"
-      - Questionário: "documento-elicitacao/Questionario.md"
+      - Técnicas:
+          - Storytelling: "documento-elicitacao/Storytelling.md"
+          - Questionário: "documento-elicitacao/Questionario.md"
+          - Brainstorm: "documento-elicitacao/Brainstorm.md"
+          - Observação: "documento-elicitacao/Observacao.md"
+      - Priorização:
+          - QFD: "documento-elicitacao/Priorizacao.md"
+          - Moscow: 
+          - First Thing First: 
+          - $100: 
+      - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
 
   - Apresentação:
     - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
