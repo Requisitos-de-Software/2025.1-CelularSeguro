@@ -59,19 +59,6 @@ nav:
           - $100: "documento-elicitacao/100.md"
       - Requisitos Elicitados: "documento-elicitacao/requisitos_elicitados.md"
 
-      - Técnicas de Elicitação:
-        - Análise de Documentos: "documento-elicitacao/AnalisedeDocumentos.md"
-        - Questionário: "documento-elicitacao/Questionario.md"
-        - Brainstorming: "documento-elicitacao/Brainstorming.md"
-        - Storytelling: "documento-elicitacao/Storytelling.md"
-        - Observação: "documento-elicitacao/Observacao.md"
-        - Prototipação: "documento-elicitacao/Prototipacao.md"
-      - Técnicas de Priorização:
-        - First Thing First: "documento-elicitacao/FirstThingFirst.md"
-        - QFD: "documento-elicitacao/QFD.md"
-        - MoSCoW: "documento-elicitacao/MoSCoW.md"
-        - ROI: "documento-elicitacao/ROI.md"
-
   - Apresentação:
     - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
