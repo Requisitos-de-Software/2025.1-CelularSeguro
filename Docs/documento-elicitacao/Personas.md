@@ -1,7 +1,5 @@
 # Personas
 
-## (Esboço)
-
 
 ## Introdução
 Uma persona é uma representação semi-fictícia dos usuários finais do aplicativo Celular Seguro. Elas são baseadas em dados reais e pesquisas de campo, com o objetivo de entender as necessidades, comportamentos e características dos diferentes perfis de usuários. O desenvolvimento de personas permite que as equipes de design e desenvolvimento compreendam melhor os contextos pessoais e de negócios dos usuários, criando soluções que atendam de maneira eficaz a suas expectativas e necessidades. Assim, ao focar nas personas, evita-se o erro de projetar com base apenas em suposições ou observações subjetivas.
@@ -12,7 +10,13 @@ A criação das personas para o aplicativo Celular Seguro foi realizada a partir
 Esses arquétipos foram escolhidos para representar a diversidade do público-alvo do aplicativo, refletindo as diferentes formas de interação com a tecnologia e a importância que o Celular Seguro tem na proteção de dados e dispositivos móveis. A partir desses perfis, foram criadas histórias e necessidades que orientam as decisões de design e desenvolvimento do sistema, garantindo que o produto final seja útil, acessível e eficiente para todos os tipos de usuários.
 
 ---
-### João da Silva 
+
+### João da Silva
+
+<p align="center">
+  <img src="../../assets/Personas/Joao.png" alt="João da Silva" width="200"/>
+</p>
+
 | **Idade**               | 36 anos                                   |
 |-------------------------|-------------------------------------------|
 | **Profissão**           | Motoboy                                   |
@@ -27,6 +31,11 @@ Esses arquétipos foram escolhidos para representar a diversidade do público-al
 ---
 
 ### Ana Paula Ribeiro
+
+<p align="center">
+  <img src="../../assets/Personas/Anapaula.png" alt="João da Silva" width="200"/>
+</p>
+
 | **Idade**               | 42 anos                                   |
 |-------------------------|-------------------------------------------|
 | **Profissão**           | Professora do Ensino Fundamental          |
@@ -40,7 +49,12 @@ Esses arquétipos foram escolhidos para representar a diversidade do público-al
 
 ---
 
-### Roberto Nunes
+### Roberto Nunes (Antipersona)
+
+<p align="center">
+  <img src="../../assets/Personas/Roberto.png" alt="Roberto Nunes" width="200"/>
+</p>
+
 | **Idade**               | 58 anos                                   |
 |-------------------------|-------------------------------------------|
 | **Profissão**           | Funcionário público aposentado            |
@@ -55,6 +69,10 @@ Esses arquétipos foram escolhidos para representar a diversidade do público-al
 ---
 
 ### Luana Menezes
+<p align="center">
+  <img src="../../assets/Personas/Luana.png" alt="João da Silva" width="200"/>
+</p>
+
 | **Idade**               | 21 anos                                   |
 |-------------------------|-------------------------------------------|
 | **Profissão**           | Estudante de Direito                      |
@@ -69,8 +87,14 @@ Esses arquétipos foram escolhidos para representar a diversidade do público-al
 ---
 
 ### Maria Aparecida dos Santos (Dona Cida)
-| **Idade**               | 69 anos                                   |
+
+<p align="center">
+  <img src="../../assets/Personas/Maria.png" alt="João da Silva" width="200"/>
+</p>
+
+| **Nome**                | Maria Aparecida dos Santos                |                 |
 |-------------------------|-------------------------------------------|
+| **Idade**               | 69 anos                                   |
 | **Profissão**           | Aposentada                                |
 | **Escolaridade**        | Ensino Fundamental Completo               |
 | **Habilidades e Experiências** | Pouca experiência com tecnologia, aprende a usar o celular com a ajuda dos filhos |
@@ -80,19 +104,31 @@ Esses arquétipos foram escolhidos para representar a diversidade do público-al
 | **Requisitos**          | Precisa de uma interface simples, com recursos de segurança e bloqueio intuitivos e fáceis de usar |
 | **Descrição**           | Dona Cida é aposentada e está começando a aprender a usar um smartphone. Ela quer se proteger contra fraudes e evitar o roubo de seu aparelho, mas precisa de algo simples e sem complicação para entender. |
 
+
 ---
 
 ---
 
 ## **Conclusão**
 
-Para uma melhor elaboração na elicitação dos requisitos, foram desenvolvidas **3 personas primárias** que serão as principais usuárias do sistema **Celular Seguro**, as quais receberão o foco principal durante o desenvolvimento do projeto. Além disso, também foi criada uma **antipersona** para entender o perfil de quem **não** é usuário do sistema. A escolha da quantidade de personas foi decidida com base na análise das necessidades dos usuários em relação ao aplicativo **Celular Seguro**. Essas necessidades estavam se tornando cada vez mais semelhantes entre os usuários, uma vez que o foco principal do aplicativo é garantir a segurança e bloqueio de dispositivos móveis em caso de roubo ou perda.
+Para uma melhor elaboração na elicitação dos requisitos, foram desenvolvidas 5 personas primárias que representam diferentes perfis de usuários reais do sistema Celular Seguro. Essas personas foram cuidadosamente definidas com base em suas rotinas, necessidades e níveis de familiaridade com a tecnologia, garantindo uma visão ampla e inclusiva do público-alvo do aplicativo.
 
-Com isso, a criação de mais de 3 personas poderia resultar em um acúmulo de informações repetitivas na elicitação dos requisitos. Portanto, optamos por limitar o número de personas a três, considerando que isso seria suficiente para cobrir a diversidade de usuários do sistema e garantir que todos os requisitos essenciais fossem atendidos sem redundância.
+Além disso, também foi criada uma antipersona, representando o perfil de quem não faz parte do público-alvo do sistema. Isso nos permite compreender melhor os limites de atuação do aplicativo e evitar funcionalidades desnecessárias para usuários fora do escopo.
+
+A escolha da quantidade de personas foi baseada na análise da diversidade de necessidades e contextos de uso identificados. Com cinco personas distintas, conseguimos abranger diferentes faixas etárias, níveis de escolaridade, profissões e objetivos com o uso do aplicativo. Essa abordagem evita lacunas na definição dos requisitos, ao mesmo tempo em que impede a redundância de informações durante o processo de desenvolvimento.
+
+Dessa forma, acreditamos que o número atual de personas é adequado para representar a pluralidade de usuários do Celular Seguro, promovendo um desenvolvimento centrado no usuário e alinhado com os objetivos do sistema.
+
+
 
 ---
 
 ## **Referências**
+
+1. Imagem gerada através da aplicação *This Person Doesn't Exist*. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/). Acesso em: 29 de abr. de 2023.
+
+2. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+
 
 
 ## Histórico de Versões
