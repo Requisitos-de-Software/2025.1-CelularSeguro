@@ -28,4 +28,4 @@ A **Figura 1** a seguir representam a análise de disponibilidade do grupo. Os v
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      | Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0 | 28/04/2025 | Desenvolvimento do tópico QFD | Felipe das Neves | Matheus Bastos, Vitor Bessa | 28/04/25 |
+| 1.0 | 28/04/2025 | Desenvolvimento do tópico QFD | Felipe das Neves | Mateus Bastos, Vitor Bessa | 28/04/25 |
