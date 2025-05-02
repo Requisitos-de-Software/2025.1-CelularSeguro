@@ -121,3 +121,6 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 13/04/2025|
 | 1.3    | 22/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 22/04/2025|
 | 1.4    | 22/04/2025 |Padronização do Histórico de Versões e da Bibliografia     | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 23/04/2025|
+
+
+
