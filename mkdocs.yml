@@ -60,7 +60,9 @@ nav:
       - Requisitos Elicitados: "documento-elicitacao/requisitos_elicitados.md"
 
   - Apresentação:
-    - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+    - Apresentações: 
+      - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+      - Apresentação 2: "documento-apresentacao/apresentacao-2.md"
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
   
 
