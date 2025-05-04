@@ -228,6 +228,14 @@ A partir das ideias coletadas durante o brainstorming, foram definidos os **Requ
 
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – definição concisa da funcionalidade exigida. **Código (RFx)** – código de referência do Requisito Funcional (RF) seguido de um número sequencial. **Implementado?** – indica se o requisito está implementado no sistema atualmente (Sim) ou não (Não). 
 
+---
+
+## Tabela de Requisitos Não Funcionais
+
+Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 4** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
+
+*Tabela 4: Requisitos Não Funcionais identificados para o Celular Seguro.*
+
 | BS ID | Descrição do RNF                                                                      | Código | Implementado? |
 | :---: | :------------------------------------------------------------------------------------ | :----: | :-----------: |
 |  BS36 | Interface intuitiva com affordances visuais claras                                    |  RNF01 |      Sim      |
@@ -255,16 +263,6 @@ A partir das ideias coletadas durante o brainstorming, foram definidos os **Requ
 |  BS58 | Tempo de inicialização do app < 2 segundos                                            |  RNF23 |      Não      |
 |  BS59 | Suporte a múltiplos idiomas e mudança dinâmica sem reiniciar                          |  RNF24 |      Não      |
 |  BS60 | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas |  RNF25 |      Não      |
-
----
-
-## Tabela de Requisitos Não Funcionais
-
-Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 4** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
-
-*Tabela 4: Requisitos Não Funcionais identificados para o Celular Seguro.*
-
-
 
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – detalhamento do critério de qualidade ou restrição. **Código (RNFx)** – código de referência do Requisito Não Funcional (RNF) com numeração sequencial. **Implementado?** – indica se o requisito já se encontra implementado (Sim) ou não (Não). 
 
