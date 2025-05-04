@@ -42,7 +42,6 @@ nav:
         - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo+1.md" 
 
   - Elicitação:
-      - Introdução: "documento-elicitacao/Introdução.md"
       - Perfil do Usuário: "documento-elicitacao/PerfilUsuario.md"
       - Personas: "documento-elicitacao/Personas.md"
       - Técnicas de Elicitação:
@@ -59,7 +58,9 @@ nav:
       - Requisitos Elicitados: "documento-elicitacao/requisitos_elicitados.md"
 
   - Apresentação:
-    - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+    - Apresentações: 
+      - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
+      - Apresentação 2: "documento-apresentacao/apresentacao-2.md"
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
   
 
