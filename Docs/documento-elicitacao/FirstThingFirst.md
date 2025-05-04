@@ -49,7 +49,7 @@ A aplicação do FTF seguiu os passos:
 - Benefício: **2**  
 - Penalidade: **1**  
 - Custo: **1**  
-- Risco: **0,5**
+- Risco: **1**
 
 ---
 
@@ -114,18 +114,18 @@ A aplicação do FTF seguiu os passos:
 
 | **ID (RFx)** | **Descrição do Requisito Funcional** |
 |--------------|---------------------------------------|
-| <a href="../../Docs/documento-elicitacao/Questionario.md">Q01</a> | O aplicativo deve permitir localizar o celular perdido. |
-| <a href="../../Docs/documento-elicitacao/Questionario.md">Q02</a> | O aplicativo deve tornar visível e acessível a opção de registro de boletim de ocorrência. |
-| <a href="../../Docs/documento-elicitacao/Questionario.md">Q06</a> | O aplicativo deve notificar o usuário em caso de atividade suspeita relacionada ao dispositivo. |
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS03</a> | Existe a funcionalidade de redefinir a senha via e-mail. |
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS06</a> | O sistema disponibiliza uma aba que te leva a um pdf com um tutorial do aplicativo. |
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS09</a> | Ao tentar emitir um alerta de roubo, o sistema exibe uma janela pop-up solicitando a confirmação do usuário antes de prosseguir com a ação. |
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS10</a> | 	Pelo MEI do aparelho, é possível consultar o status do celular e saber se ele se encontra como um celular roubado, furtado, etc ( irregular). |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS02</a> | Apagar todos os dados do dispositivo |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS08</a> | Bloquear chip por integração direta com a operadora |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS15</a> | Botão de “bloqueio rápido” sempre acessível na tela principal. |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS17</a> | Efetuar backup automático de contatos, fotos e mensagens antes do bloqueio remoto. |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS23</a> | Definir “dispositivo de confiança” para controle remoto secundário. |
+| <a href="../../documento-elicitacao/Questionario/">Q01</a> | O aplicativo deve permitir localizar o celular perdido. |
+| <a href="../../documento-elicitacao/Questionario/">Q02</a> | O aplicativo deve tornar visível e acessível a opção de registro de boletim de ocorrência. |
+| <a href="../../documento-elicitacao/Questionario/">Q06</a> | O aplicativo deve notificar o usuário em caso de atividade suspeita relacionada ao dispositivo. |
+| <a href="../../documento-elicitacao/Observacao/">OBS03</a> | Existe a funcionalidade de redefinir a senha via e-mail. |
+| <a href="/documento-elicitacao/Observacao/">OBS06</a> | O sistema disponibiliza uma aba que te leva a um pdf com um tutorial do aplicativo. |
+| <a href="/documento-elicitacao/Observacao/">OBS09</a> | Ao tentar emitir um alerta de roubo, o sistema exibe uma janela pop-up solicitando a confirmação do usuário antes de prosseguir com a ação. |
+| <a href="/documento-elicitacao/Observacao/">OBS10</a> | 	Pelo MEI do aparelho, é possível consultar o status do celular e saber se ele se encontra como um celular roubado, furtado, etc ( irregular). |
+| <a href="../../documento-elicitacao/Brainstorming/">BS02</a> | Apagar todos os dados do dispositivo |
+| <a href="../../documento-elicitacao/Brainstorming/">BS08</a> | Bloquear chip por integração direta com a operadora |
+| <a href="../../documento-elicitacao/Brainstorming/">BS15</a> | Botão de “bloqueio rápido” sempre acessível na tela principal. |
+| <a href="../../documento-elicitacao/Brainstorming/">BS17</a> | Efetuar backup automático de contatos, fotos e mensagens antes do bloqueio remoto. |
+| <a href="../../documento-elicitacao/Brainstorming/">BS23</a> | Definir “dispositivo de confiança” para controle remoto secundário. |
 
 *Legenda:* 
 
@@ -144,19 +144,19 @@ A aplicação do FTF seguiu os passos:
 
 | **ID (RNFx)** | **Descrição do Requisito Não Funcional** |
 |--------------|-------------------------------------------|
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS15</a> | O aplicativo apresenta uma interface amigável e intuitiva, com ícones bem definidos e menus acessíveis.|
-|  <a href="../../Docs/documento-elicitacao/Observacao.md">OBS16</a> | As páginas carregam em até 2 segundos em conexões padrão 4G. |
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS18</a> | O aplicativo é acessível para pessoas com deficiência visual (uso de leitor de tela, contraste, tamanho da fonte). |
-| <a href="../../Docs/documento-elicitacao/Observacao.md">OBS21</a> | O aplicativo está disponível 24/7, com raras quedas detectadas durante a observação. |
-| <a href="../../Docs/documento-elicitacao/Questionario.md">Q09</a> | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência. |
-| <a href="../../Docs/documento-elicitacao/Questionario.md">Q19</a> | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual. |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS37</a> | Linguagem simples sem jargões técnicos |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS48</a> | Autenticação multifator (2 FA) com fallback via SMS. |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS50</a> | Política de privacidade clara e facilmente acessível dentro do app |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS52</a> | Central de ajuda acessível offline e online |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS54</a> | Monitoramento de tentativas de acesso não autorizado com alertas automáticos. |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS56</a> | Sincronização de estado entre app e portal em menos de 5 segundos |
-| <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS60</a> | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas. |
+| <a href="/documento-elicitacao/Observacao/">OBS15</a> | O aplicativo apresenta uma interface amigável e intuitiva, com ícones bem definidos e menus acessíveis.|
+|  <a href="/documento-elicitacao/Observacao/">OBS16</a> | As páginas carregam em até 2 segundos em conexões padrão 4G. |
+| <a href="/documento-elicitacao/Observacao/">OBS18</a> | O aplicativo é acessível para pessoas com deficiência visual (uso de leitor de tela, contraste, tamanho da fonte). |
+| <a href="/documento-elicitacao/Observacao/">OBS21</a> | O aplicativo está disponível 24/7, com raras quedas detectadas durante a observação. |
+| <a href="../../documento-elicitacao/Questionario/">Q09</a> | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência. |
+| <a href="../../documento-elicitacao/Questionario/">Q19</a> | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual. |
+| <a href="../../documento-elicitacao/Brainstorming/">BS37</a> | Linguagem simples sem jargões técnicos |
+| <a href="../../documento-elicitacao/Brainstorming/">BS48</a> | Autenticação multifator (2 FA) com fallback via SMS. |
+| <a href="../../documento-elicitacao/Brainstorming/">BS50</a> | Política de privacidade clara e facilmente acessível dentro do app |
+| <a href="../../documento-elicitacao/Brainstorming/">BS52</a> | Central de ajuda acessível offline e online |
+| <a href="../../documento-elicitacao/Brainstorming/">BS54</a> | Monitoramento de tentativas de acesso não autorizado com alertas automáticos. |
+| <a href="../../documento-elicitacao/Brainstorming/">BS56</a> | Sincronização de estado entre app e portal em menos de 5 segundos |
+| <a href="../../documento-elicitacao/Brainstorming/">BS60</a> | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas. |
 
 
 *Legenda:* 
