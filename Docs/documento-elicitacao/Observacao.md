@@ -10,19 +10,12 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 
 ## Participantes
 
-<center>
 
-
-*Tabela 1: Participantes da sessão de observação e suas funções.*
-
-| Nome                                             | Função                   |
-| ------------------------------------------------ | ------------------------ |
-| [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite)    | Observadores           |
-| [Daniel Rodrigues](https://github.com/zDrNz) | Usuário |
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite) e [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
-
-</center>
+<ul style="text-align: justify; margin-top: 0.5em;">
+<li>Gabriel Lima: Observador;
+<li>Arthur Carvalho: Observador;
+<li>Daniel Rodrigues: Usuário;
+</ul>
 
 **Usuário:** responsável por utilizar o aplicativo e suas funcionalidades, para que possa ser encontrados possíveis problemas no aplicativo.
 
@@ -33,17 +26,17 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 ## Gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo: </strong> <a href="https://youtu.be/D23ETsvo7Lk"> Observação - Requisitos</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/D23ETsvo7Lk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo: </strong> <a href="https://player.vimeo.com/video/1081298512?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"> Observação - Requisitos</a></p>
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1081298512?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Observação-Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite) e [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
 ## Tabela de Requisitos Funcionais
 
-Durante o que foi observado, foram definidos os **Requisitos Funcionais (RF)** do sistema Celular Seguro. Estes representam funcionalidades ou comportamentos **necessários** que o aplicativo tem que proporcionar. A **Tabela 2** abaixo lista os requisitos funcionais identificados, com um identificador numérico, uma breve descrição, um código de referência (RFx) e se o requisito já está implementado ou não no sistema.
+Durante o que foi observado, foram definidos os **Requisitos Funcionais (RF)** do sistema Celular Seguro. Estes representam funcionalidades ou comportamentos **necessários** que o aplicativo tem que proporcionar. A **Tabela 1** abaixo lista os requisitos funcionais identificados, com um identificador numérico, uma breve descrição, um código de referência (RFx) e se o requisito já está implementado ou não no sistema.
 
-<font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais identificados para o Celular Seguro.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Requisitos Funcionais identificados para o Celular Seguro.</p></font>
 
 | **ID** | **Descrição do Requisito Funcional**                                   | **Código (RFx)** | **Implementado?** |
 |:-------:|-------------------------------------------------------------------------|:------------------:|:-------------------:|
@@ -75,9 +68,9 @@ Durante o que foi observado, foram definidos os **Requisitos Funcionais (RF)** d
 
 ## Tabela de Requisitos Não Funcionais
 
-Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 3** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
+Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 2** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Não Funcionais identificados para o Celular Seguro.</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos Não Funcionais identificados para o Celular Seguro.</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                              | **Código (RNFx)** | **Implementado?** |
 |:-------:|-----------------------------------------------------------------------|:-------------------:|:-------------------:|
@@ -122,3 +115,4 @@ Além das funções, foram identificados também alguns **Requisitos Não Funcio
 | :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | 1.0    | 01/05/2025       | Documento inicial de observação do projeto Celular Seguro | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>|02/05/2025|
 | 1.1    | 02/05/2025       | Inserção do vídeo e dos RFs e RNFs | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> |<a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> |02/05/2025|
+| 1.2    | 04/05/2025       | Correção do link do video | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> |<a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> |04/05/2025|
