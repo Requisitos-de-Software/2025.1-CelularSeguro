@@ -51,7 +51,7 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/cFMLv_KdQPo"> Brainstorming - Requisitos</a></p>
-  <iframe width="560" height="315" src="https://youtu.be/cFMLv_KdQPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/cFMLv_KdQPo" title="Brainstorming - Requisitos Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Autor do vídeo:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> e <a style= href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>
