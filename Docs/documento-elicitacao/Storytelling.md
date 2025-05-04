@@ -1,5 +1,7 @@
 # Storytelling
 
+---
+
 ## Introdução
 
 Storytelling é uma técnica de elicitação de requisitos que consiste em utilizar narrativas ou histórias para representar como os usuários interagem com um sistema. Em vez de apenas listar funcionalidades de forma abstrata, o storytelling cria cenários concretos com personagens, ambientes e eventos, retratando situações de uso do software. Dessa forma, stakeholders e analistas podem visualizar melhor o contexto de uso, compreender necessidades implícitas e identificar requisitos muitas vezes ocultos ou não declarados explicitamente ([The Power of Storytelling in Business Analysis: Unlocking Insights and Driving Results
@@ -7,6 +9,8 @@ Storytelling é uma técnica de elicitação de requisitos que consiste em utili
 
 No contexto de **Requisitos de Software**, o objetivo do storytelling é apoiar a descoberta de requisitos ao revelar detalhes do dia a dia do usuário, seus sentimentos, motivações e desafios ao utilizar o sistema. Isso ajuda a **enriquecer a elicitação** com requisitos que poderiam passar despercebidos em entrevistas ou questionários tradicionais. Inclusive, o guia BABOK (Business Analysis Body of Knowledge) do IIBA reconhece o storytelling como uma técnica eficaz de análise de negócios ([The Power of Storytelling in Business Analysis: Unlocking Insights and Driving Results
 ](https://www.linkedin.com/pulse/power-storytelling-business-analysis-unlocking-vignesh-neelamegan-4usqe#:~:text=3,a%20key%20business%20analysis%20technique)). A seguir, apresentamos três histórias fictícias de usuários, cada uma explorando como diferentes perfis de pessoa se relacionam com o aplicativo **Celular Seguro** e quais necessidades, sentimentos ou situações motivaram seu uso. Essas histórias serviram de base para elicitar requisitos do aplicativo.
+
+---
 
 ## Histórias de Usuários
 
@@ -28,9 +32,18 @@ Carlos tem  fifty 60 years old. Ele não é tão familiarizado com tecnologia, u
 
 Pelo computador de casa, Carlos acessa a interface web do **Celular Seguro** com auxílio de sua filha. Ele aciona a funcionalidade de **localização remota**, que mostra em um mapa a última posição conhecida do seu smartphone. Para sua surpresa, o celular ainda aparece próximo – parece estar se movendo lentamente pelo trajeto que coincide com o caminho do táxi. Carlos deduz que o aparelho deve estar no carro e, utilizando outro telefone, entra em contato com a central da companhia de táxi. Graças à localização fornecida pelo app, ele confirma que o motorista encontrou seu celular e está retornando para devolvê-lo. Aliviado, Carlos aguarda e logo recupera seu dispositivo. Essa experiência fez com que ele percebesse o valor do aplicativo: a interface simples do Celular Seguro permitiu que ele, mesmo sem muita intimidade com tecnologia, conseguisse **localizar seu telefone facilmente**. Depois disso, Carlos explorou um pouco mais o aplicativo e descobriu que também poderia ter acionado um **alarme sonoro remoto** para ajudar a encontrar o aparelho caso ele estivesse apenas perdido em algum canto de sua casa. Satisfeito, ele passa a recomendar o Celular Seguro para seus amigos, destacando **como o app é útil e fácil de usar** em momentos de necessidade.
 
-## Requisitos Funcionais Elicitados
+---
 
-A partir das histórias de usuários acima, foram identificados os seguintes requisitos funcionais para o aplicativo **Celular Seguro**. Cada requisito está descrito no formato de _user story_ (história de usuário), relacionando a necessidade com o benefício ou objetivo:
+## Tabela de Requisitos Funcionais
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 1: Requisitos Funcionais do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos funcionais (ST1–ST7) elicitados na sessão.
+    </span>
+  </p>
+</font>
 
 | **ID** | **Descrição do Requisito Funcional**                                                                                                                                                                                                                       | **Código (RFx)** |
 | :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
@@ -42,9 +55,20 @@ A partir das histórias de usuários acima, foram identificados os seguintes req
 |   ST6  | **Eu, como usuário, desejo localizar meu celular em um mapa através do aplicativo**, para conseguir encontrá‑lo caso ele seja perdido ou roubado, auxiliando na sua recuperação.                                                                           |        RF6       |
 |   ST7  | **Eu, como usuário, desejo acionar um alarme sonoro remoto no meu celular perdido**, para localizá‑lo mais facilmente quando ele estiver por perto ou oculto, mesmo que esteja em modo silencioso.                                                         |        RF7       |
 
-## Requisitos Não-Funcionais Elicitados
+*Legenda:* **ID** – Identificador numérico do requisito. **Descrição do Requisito Funcional** – definição concisa da funcionalidade exigida. **Código (RFx)** – código de referência do Requisito Funcional (RF) seguido de um número sequencial.
 
-Com base nas histórias e no contexto de uso do **Celular Seguro**, também foram identificados requisitos não-funcionais, relacionados a qualidades e restrições do sistema:
+---
+
+## Tabela de Requisitos Não Funcionais
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 2: Requisitos Não Funcionais do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos não funcionais (ST8–ST12) elicitados na sessão.
+    </span>
+  </p>
+</font>
 
 | **ID** | **Descrição do Requisito Não-Funcional**                                                                                                                                                                                                                                                                                                                                                                                   | **Código (RNFx)** |
 | :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
@@ -54,9 +78,15 @@ Com base nas histórias e no contexto de uso do **Celular Seguro**, também fora
 |  ST11  | **Disponibilidade:** O serviço associado ao aplicativo deve estar **disponível 24 horas por dia, 7 dias por semana**, sem interrupções prolongadas, para que o usuário possa utilizá-lo imediatamente em caso de emergência (como um roubo ocorrido de madrugada, por exemplo).                                                                                                                                            |        RNF4       |
 |  ST12  | **Portabilidade/Acesso Multiplataforma:** O usuário deve ser capaz de **acessar as funcionalidades essenciais do Celular Seguro a partir de outros dispositivos ou via web**, não ficando dependente apenas do smartphone. Essa capacidade garante que, mesmo se o aparelho for perdido ou roubado, o usuário consiga, por outro meio, acionar o sistema (enviar alertas, bloquear aparelho, verificar localização, etc.). |        RNF5       |
 
+*Legenda:* **ID** – Identificador numérico do requisito. **Descrição do Requisito Não‑Funcional** – definição concisa da qualidade ou restrição exigida. **Código (RNFx)** – código de referência do Requisito Não‑Funcional (RNF) seguido de um número sequencial.
+
+---
+
 ## Bibliografias
 
 > **Neelamegan, V. (2024).** *The Power of Storytelling in Business Analysis: Unlocking Insights and Driving Results*. LinkedIn [Artigo online]. Disponível em: **<https://www.linkedin.com/pulse/power-storytelling-business-analysis-unlocking-vignesh-neelamegan-4usqe>**. (acessado em 29/04/2025).
+
+---
 
 ## Histórico de Versão
 
