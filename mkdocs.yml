@@ -42,6 +42,7 @@ nav:
         - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo+1.md" 
 
   - Elicitação:
+      - Introdução: "documento-elicitacao/Introducao.md"
       - Perfil do Usuário: "documento-elicitacao/PerfilUsuario.md"
       - Personas: "documento-elicitacao/Personas.md"
       - Técnicas de Elicitação:
