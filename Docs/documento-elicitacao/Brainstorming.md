@@ -183,9 +183,14 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 ## Tabela de Requisitos Funcionais
 
-A partir das ideias coletadas durante o brainstorming, foram definidos os **Requisitos Funcionais (RF)** do sistema Celular Seguro. Estes representam funcionalidades ou comportamentos **essenciais** que o sistema deve prover. A **Tabela 3** abaixo lista os requisitos funcionais identificados, com um identificador numérico, uma breve descrição, um código de referência (RFx) e se o requisito já está implementado ou não no sistema.
-
-*Tabela 3: Requisitos Funcionais identificados para o Celular Seguro.* 
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 3: Requisitos Funcionais do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Lista os requisitos funcionais (BS01–BS35) identificados na sessão de brainstorming, com indicação de quais já estão implementados.
+    </span>
+  </p>
+</font>
 
 | BS ID | Descrição do RF                                                                   | Código | Implementado? |
 | :---: | :-------------------------------------------------------------------------------- | :----: | :-----------: |
@@ -232,9 +237,14 @@ A partir das ideias coletadas durante o brainstorming, foram definidos os **Requ
 
 ## Tabela de Requisitos Não Funcionais
 
-Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 4** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
-
-*Tabela 4: Requisitos Não Funcionais identificados para o Celular Seguro.*
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 4: Requisitos Não Funcionais do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos não funcionais (BS36–BS60) elicitados na sessão, mostrando o status de implementação de cada um.
+    </span>
+  </p>
+</font>
 
 | BS ID | Descrição do RNF                                                                      | Código | Implementado? |
 | :---: | :------------------------------------------------------------------------------------ | :----: | :-----------: |
