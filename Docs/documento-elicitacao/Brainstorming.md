@@ -225,7 +225,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
   ></iframe>
 </figure>
 
-**Autor do Miro:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+**Autor do brainwriting:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
@@ -233,7 +233,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 3: Requisitos Funcionais do Celular Seguro<br>
+    Tabela 3: Requisitos Funcionais do Celular Seguro (Brainstorming)<br>
     <span style="font-size:0.85em; font-style:italic;">
       Lista os requisitos funcionais (BS01–BS35) identificados na sessão de brainstorming, com indicação de quais já estão implementados.
     </span>
@@ -264,7 +264,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 |  BS20 | Oferecer rastreamento via satélite em áreas sem cobertura de celular              |  RF20  |      Não      |
 |  BS21 | Enviar notificação por e‑mail com detalhes da tentativa de acesso suspeito        |  RF21  |      Não      |
 |  BS22 | Gerar relatório de movimentação para download em PDF                              |  RF22  |      Não      |
-|  BS23 | Definir “dispositivo de confiança” para controle remoto secundário                |  RF23  |      Sim      |
+|  BS23 | Definir “dispositivo de confiança” para controle remoto secundário                |  RF23  |      Não      |
 |  BS24 | Atualizar localização em tempo real a cada X segundos                             |  RF24  |      Não      |
 |  BS25 | Permitir agendamento de bloqueio remoto em horários predefinidos                  |  RF25  |      Não      |
 |  BS26 | Notificar usuário de troca de chip imediatamente                                  |  RF26  |      Não      |
@@ -287,9 +287,9 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 4: Requisitos Não Funcionais do Celular Seguro<br>
+    Tabela 4: Requisitos Não Funcionais do Celular Seguro (Brainstorming)<br>
     <span style="font-size:0.85em; font-style:italic;">
-      Apresenta os requisitos não funcionais (BS36–BS60) elicitados na sessão, mostrando o status de implementação de cada um.
+      Apresenta os requisitos não funcionais (BS36–BS60) elicitados na sessão de brainstorming, mostrando o status de implementação de cada um.
     </span>
   </p>
 </font>
@@ -336,8 +336,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 ## Referências Bibliográficas
 
-- THE PFEIFFER LIBRARY. **Brainstorming**. In: *The Pfeiffer Library, Volume 26: Facilitator’s Guide to Participatory Decision-Making*. 2ª ed. San Francisco: Jossey-Bass, 1998.  
-- *home.snu.edu* – Southern Nazarene University Library. (Disponibiliza conteúdo digital do *The Pfeiffer Library*, incluindo técnicas de brainstorming).  
+> THE PFEIFFER LIBRARY. **Brainstorming**. In: *The Pfeiffer Library, Volume 26: Facilitator’s Guide to Participatory Decision-Making*. 2ª ed. San Francisco: Jossey-Bass, 1998.   
 
 ---
 
