@@ -39,7 +39,7 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 | Usuário 3         | Participante (Usuário final) |
 | Usuário 4         | Participante (Usuário final) |
 | Usuário 5         | Participante (Usuário final) |
-| Usuário 5         | Participante (Usuário final) |
+| Usuário 6         | Participante (Usuário final) |
 
 **Mediador:** responsável por conduzir a discussão, apresentar as perguntas e garantir o cumprimento das regras do brainstorming (mantendo o foco e estimulando a participação de todos).  
 **Secretário:** responsável por registrar fielmente todas as ideias apresentadas e organizar as anotações.  
