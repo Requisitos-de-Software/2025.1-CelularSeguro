@@ -10,20 +10,12 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 
 ## Participantes
 
-<center>
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes da sessão de observação e suas funções.</p></font>
-
-
-| Nome                                             | Função                   |
-| ------------------------------------------------ | ------------------------ |
-| [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite)    | Observadores           |
-| [Daniel Rodrigues](https://github.com/zDrNz) | Usuário |
-
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite) e [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
-
-</center>
+<ul style="text-align: justify; margin-top: 0.5em;">
+<li>Gabriel Lima: Observador;
+<li>Arthur Carvalho: Observador;
+<li>Daniel Rodrigues: Usuário;
+</ul>
 
 **Usuário:** responsável por utilizar o aplicativo e suas funcionalidades, para que possa ser encontrados possíveis problemas no aplicativo.
 
@@ -42,9 +34,9 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 
 ## Tabela de Requisitos Funcionais
 
-Durante o que foi observado, foram definidos os **Requisitos Funcionais (RF)** do sistema Celular Seguro. Estes representam funcionalidades ou comportamentos **necessários** que o aplicativo tem que proporcionar. A **Tabela 2** abaixo lista os requisitos funcionais identificados, com um identificador numérico, uma breve descrição, um código de referência (RFx) e se o requisito já está implementado ou não no sistema.
+Durante o que foi observado, foram definidos os **Requisitos Funcionais (RF)** do sistema Celular Seguro. Estes representam funcionalidades ou comportamentos **necessários** que o aplicativo tem que proporcionar. A **Tabela 1** abaixo lista os requisitos funcionais identificados, com um identificador numérico, uma breve descrição, um código de referência (RFx) e se o requisito já está implementado ou não no sistema.
 
-<font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais identificados para o Celular Seguro.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Requisitos Funcionais identificados para o Celular Seguro.</p></font>
 
 | **ID** | **Descrição do Requisito Funcional**                                   | **Código (RFx)** | **Implementado?** |
 |:-------:|-------------------------------------------------------------------------|:------------------:|:-------------------:|
@@ -76,9 +68,9 @@ Durante o que foi observado, foram definidos os **Requisitos Funcionais (RF)** d
 
 ## Tabela de Requisitos Não Funcionais
 
-Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 3** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
+Além das funções, foram identificados também alguns **Requisitos Não Funcionais (RNF)** relevantes para o Celular Seguro. Estes requisitos descrevem restrições de qualidade e critérios sobre *como* o sistema deve se comportar ou quais padrões deve seguir (desempenho, usabilidade, etc.), em vez de funcionalidades em si. A **Tabela 2** apresenta os requisitos não funcionais elicitados, com identificador, descrição, código (RNFx) e status de implementação.
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Não Funcionais identificados para o Celular Seguro.</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos Não Funcionais identificados para o Celular Seguro.</p></font>
 
 | **ID** | **Descrição do Requisito Não Funcional**                              | **Código (RNFx)** | **Implementado?** |
 |:-------:|-----------------------------------------------------------------------|:-------------------:|:-------------------:|
