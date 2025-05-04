@@ -233,7 +233,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 3: Requisitos Funcionais do Celular Seguro<br>
+    Tabela 3: Requisitos Funcionais do Celular Seguro (Brainstorming)<br>
     <span style="font-size:0.85em; font-style:italic;">
       Lista os requisitos funcionais (BS01–BS35) identificados na sessão de brainstorming, com indicação de quais já estão implementados.
     </span>
@@ -287,9 +287,9 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 4: Requisitos Não Funcionais do Celular Seguro<br>
+    Tabela 4: Requisitos Não Funcionais do Celular Seguro (Brainstorming)<br>
     <span style="font-size:0.85em; font-style:italic;">
-      Apresenta os requisitos não funcionais (BS36–BS60) elicitados na sessão, mostrando o status de implementação de cada um.
+      Apresenta os requisitos não funcionais (BS36–BS60) elicitados na sessão de brainstorming, mostrando o status de implementação de cada um.
     </span>
   </p>
 </font>
