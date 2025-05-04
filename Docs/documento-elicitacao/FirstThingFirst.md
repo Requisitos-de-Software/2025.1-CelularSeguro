@@ -12,7 +12,6 @@ As pessoas que participaram da aplicação da técnica _First Things First_ (FTF
 - **Cliente** – Atribui notas de **benefício** e **penalidade**.
 - **Desenvolvedor** – Atribui notas de **custo** e **risco**.
 
-<center>
 
 *Tabela 1: Participantes da técnica First Things First.*
 
@@ -23,7 +22,6 @@ As pessoas que participaram da aplicação da técnica _First Things First_ (FTF
 | Gabriel Lima | Desenvolvedor |
 
 
-</center>
 
 *Legenda:* 
 
@@ -57,7 +55,6 @@ A aplicação do FTF seguiu os passos:
 
 ## Resultado da Priorização
 
-<center>
 
 *Tabela 2: Resultado da priorização dos requisitos.*
 
@@ -91,8 +88,6 @@ A aplicação do FTF seguiu os passos:
 | TOTAL|   |   | 542|      | 74| 100  | 86| 100  |
 
 
-</center>
-
 *Legenda:* 
 
 **Funcionalidade** – código do requisito priorizado (**RFx** para funcionais, **RNFx** para não funcionais). 
@@ -114,7 +109,6 @@ A aplicação do FTF seguiu os passos:
 
 ### Requisitos Funcionais
 
-<center>
 
 *Tabela 3: Requisitos Funcionais identificados para o Celular Seguro.*
 
@@ -133,8 +127,6 @@ A aplicação do FTF seguiu os passos:
 | <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS17</a> | Efetuar backup automático de contatos, fotos e mensagens antes do bloqueio remoto. |
 | <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS23</a> | Definir “dispositivo de confiança” para controle remoto secundário. |
 
-</center>
-
 *Legenda:* 
 
 **ID (RFx)** – identificador sequencial de Requisito Funcional. 
@@ -146,7 +138,7 @@ A aplicação do FTF seguiu os passos:
 
 ### Requisitos Não Funcionais
 
-<center>
+
 
 *Tabela 4: Requisitos Não Funcionais identificados para o Celular Seguro.*
 
@@ -166,7 +158,6 @@ A aplicação do FTF seguiu os passos:
 | <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS56</a> | Sincronização de estado entre app e portal em menos de 5 segundos |
 | <a href="../../Docs/documento-elicitacao/Brainstorming.md">BS60</a> | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas. |
 
-</center>
 
 *Legenda:* 
 
