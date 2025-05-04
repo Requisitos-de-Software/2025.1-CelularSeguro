@@ -47,6 +47,18 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 
 ---
 
+## Gravação
+
+<div style="text-align: center;">
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/cFMLv_KdQPo"> Brainstorming - Requisitos</a></p>
+  <iframe width="560" height="315" src="https://youtu.be/cFMLv_KdQPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Autor do vídeo:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> e <a style= href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>
+
+
+---
+
 ## Perguntas e Respostas da Brainstorming
 
 Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celular Seguro, o mediador elaborou **10 perguntas chave** relacionadas ao tema. Essas perguntas abordaram **funcionalidades**, **usabilidade**, **segurança**, **notificações**, **acessibilidade**, **integração com operadoras**, entre outros tópicos. Abaixo, cada pergunta é apresentada juntamente com uma síntese das respostas fornecidas por cada um dos cinco usuários participantes (Usuário 1 a Usuário 6):
@@ -143,15 +155,39 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 ---
 
+## Respostas dos Participantes no Miro
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura 1: Respostas dos Participantes no Miro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Exibe as contribuições de Luiza Pugas, Artur Mendonça Arruda, Lucas Mendonça Arruda, Ana Victória, Gabriel Lopes e João Marcos, conforme registrado no board.
+    </span>
+  </p>
+</font>
+
+<figure>
+  <iframe
+    width="1000"
+    height="500"
+    src="https://miro.com/app/board/uXjVI8Zswwg=/?share_link_id=997978247960"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen
+  ></iframe>
+</figure>
+
+**Autor do Miro:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+
+---
+
 ## Tabela de Requisitos Funcionais
 
 A partir das ideias coletadas durante o brainstorming, foram definidos os **Requisitos Funcionais (RF)** do sistema Celular Seguro. Estes representam funcionalidades ou comportamentos **essenciais** que o sistema deve prover. A **Tabela 3** abaixo lista os requisitos funcionais identificados, com um identificador numérico, uma breve descrição, um código de referência (RFx) e se o requisito já está implementado ou não no sistema.
 
 *Tabela 3: Requisitos Funcionais identificados para o Celular Seguro.* 
 
-| **ID** | **Descrição do Requisito Funcional**                                   | **Código (RFx)** | **Implementado?** |
-|-------|-------------------------------------------------------------------------|------------------|-------------------|
-| 1     | Descrição do Requisito Funcional | RF1 | Sim/Não |
+
 
 
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – definição concisa da funcionalidade exigida. **Código (RFx)** – código de referência do Requisito Funcional (RF) seguido de um número sequencial. **Implementado?** – indica se o requisito está implementado no sistema atualmente (Sim) ou não (Não). 
@@ -164,9 +200,7 @@ Além das funções, foram identificados também alguns **Requisitos Não Funcio
 
 *Tabela 4: Requisitos Não Funcionais identificados para o Celular Seguro.*
 
-| **ID** | **Descrição do Requisito Não Funcional**                              | **Código (RNFx)** | **Implementado?** |
-|-------|-----------------------------------------------------------------------|-------------------|-------------------|
-| 1     | Descrição do Requisito Não Funcional | RNF1 | Sim/Não |
+
 
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – detalhamento do critério de qualidade ou restrição. **Código (RNFx)** – código de referência do Requisito Não Funcional (RNF) com numeração sequencial. **Implementado?** – indica se o requisito já se encontra implementado (Sim) ou não (Não). 
 
@@ -193,3 +227,4 @@ Além das funções, foram identificados também alguns **Requisitos Não Funcio
 | :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | 1.0    | 09/04/2025       | Documento inicial da sessão de brainstorming do projeto Celular Seguro | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 09/04/2025     |
 | 1.1    | 04/05/2025       | Adição das respostas da entrevista | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 04/05/2025     |
+| 1.2    | 04/05/2025       | Inclusão do Miro e do vídeo do YouTube | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 04/05/2025     |
