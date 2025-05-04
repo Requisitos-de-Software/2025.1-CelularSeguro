@@ -12,13 +12,48 @@ A condução da dinâmica seguiu as boas práticas de brainstorming apresentadas
 
 ## Palavras-chave Identificadas
 
-Durante a sessão, diversos **termos-chave** recorrentes foram mencionados pelos participantes, refletindo as principais preocupações e funcionalidades desejadas no sistema Celular Seguro. Cada termo foi codificado com o prefixo **BS** (de *BrainStorming*) para referência. A **Tabela 1** a seguir lista as palavras-chave levantadas e seus respectivos códigos:
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 1: Palavras‑chave levantadas durante a sessão de brainstorming<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os termos codificados BS1–BS30 que refletem as principais funcionalidades e preocupações discutidas pelos participantes.
+    </span>
+  </p>
+</font>
 
-*Tabela 1: Palavras-chave levantadas durante a sessão de brainstorming.*
+| **Código BS** | **Palavra‑chave**               |
+| :-----------: | :------------------------------ |
+|      BS1      | Bloqueio remoto                 |
+|      BS2      | Apagar dados                    |
+|      BS3      | Contato autoridades             |
+|      BS4      | Rastreamento em tempo real      |
+|      BS5      | Histórico de localização        |
+|      BS6      | Localização exata               |
+|      BS7      | Alerta S.O.S.                   |
+|      BS8      | Bloqueio de chip                |
+|      BS9      | Autenticação gov.br             |
+|      BS10     | Múltiplas opções de login       |
+|      BS11     | Guia passo a passo              |
+|      BS12     | Contato de segurança            |
+|      BS13     | Portal web remoto               |
+|      BS14     | Sincronização notificações      |
+|      BS15     | Botão de bloqueio rápido        |
+|      BS16     | Comandos por voz                |
+|      BS17     | Backup automático               |
+|      BS18     | Restauração via e‑mail          |
+|      BS19     | Alarme sonoro                   |
+|      BS20     | Rastreamento via satélite       |
+|      BS21     | Notificação por e‑mail          |
+|      BS22     | Relatório em PDF                |
+|      BS23     | Dispositivo de confiança        |
+|      BS24     | Atualização contínua de GPS     |
+|      BS25     | Agendamento de bloqueio         |
+|      BS26     | Alerta troca de chip            |
+|      BS27     | Consulta de status              |
+|      BS28     | Modo perdido                    |
+|      BS29     | Confirmação por SMS             |
+|      BS30     | Compartilhamento de localização |
 
-| **Código BS** | **Palavra-chave**       |
-|--------------|-------------------------|
-| BS1          | Palavra-chave               |
 
 *(Cada código BS refere-se a uma ideia ou conceito-chave mencionado na tempestade de ideias.)*
 
@@ -49,13 +84,21 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 
 ## Gravação
 
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura 1: Vídeo da sessão de brainstorming – “Brainstorming – Requisitos”<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Gravação completa da dinâmica conduzida por Leonardo de Melo e Arthur Carvalho via Microsoft Teams em 29/04/2025.
+    </span>
+  </p>
+</font>
+
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/cFMLv_KdQPo"> Brainstorming - Requisitos</a></p>
   <iframe width="560" height="315" src="https://youtu.be/cFMLv_KdQPo" title="Brainstorming - Requisitos Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Autor do vídeo:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> e <a style= href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>
-
 
 ---
 
