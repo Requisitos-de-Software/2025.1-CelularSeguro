@@ -185,7 +185,7 @@ Legenda:
 
 | Tipo  | Descrição                                                                                  | ID   | Implementado |
 |-------|----------------------------------------------------------------------------------------------|------|--------------|
-| RF01  | O aplicativo deve permitir localizar o celular perdido.      | Q01  | Sim          |
+| RF01  | O aplicativo deve permitir localizar o celular perdido.      | Q01  | Não          |
 | RF02  | O aplicativo deve tornar visível e acessível a opção de registro de boletim de ocorrência.  | Q02  | Não          |
 | RF03  | O aplicativo permite acessar ou cancelar contas bancárias vinculadas ao aparelho.           | Q03  | Não          |
 | RF04  | O aplicativo deve oferecer o passo a passo do que fazer após um furto ou roubo.                     | Q04  | Não          |
