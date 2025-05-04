@@ -36,7 +36,7 @@ Essa metodologia resultou na construção de três personas primárias e uma ant
 | **Descrição**           | João é motoboy e depende de seu celular para comunicação com clientes e para encontrar rotas. Já foi roubado e precisa de uma solução rápida e confiável para bloquear seu celular em situações de perda ou furto. |
 
 <div align="center" style="margin-top: -25px; font-size: 0.8em;">
-Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=2025-02-24" target="_blank">Mateus Bastos</a>
+Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=2025-02-24" target="_blank">Mateus Bastos</a> 
 </div>
 
 <br>
