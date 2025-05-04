@@ -225,7 +225,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
   ></iframe>
 </figure>
 
-**Autor do Miro:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+**Autor do Brainwriting:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
