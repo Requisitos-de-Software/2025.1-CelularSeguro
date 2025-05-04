@@ -62,4 +62,5 @@ Com base nas histórias e no contexto de uso do **Celular Seguro**, também fora
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.1    |         01/05/2025 |Criação da documentação e desenvolvimento do projeto| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>|   01/05/2025   |
+| 1.0    |         01/05/2025 |Criação da documentação e desenvolvimento do projeto| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>|   01/05/2025   |
+| 1.1    |         04/05/2025 |Correção das tabelas do Storytelling| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|   04/05/2025   |
