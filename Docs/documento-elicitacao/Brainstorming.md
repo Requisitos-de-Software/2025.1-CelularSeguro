@@ -52,6 +52,7 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celular Seguro, o mediador elaborou **10 perguntas chave** relacionadas ao tema. Essas perguntas abordaram **funcionalidades**, **usabilidade**, **segurança**, **notificações**, **acessibilidade**, **integração com operadoras**, entre outros tópicos. Abaixo, cada pergunta é apresentada juntamente com uma síntese das respostas fornecidas por cada um dos cinco usuários participantes (Usuário 1 a Usuário 6):
 
 **Pergunta 1:** *Quais funcionalidades principais o aplicativo **Celular Seguro** deve oferecer para proteger o dispositivo em caso de perda ou roubo?*  
+
 - **Luiza Pugas:** Bloqueio rápido do aparelho à distância.
 - **Artur Mendonça:** Bloquear acesso do dispositivo e contactar autoridades.
 - **Lucas Mendonça:** Rastreamento em tempo real e bloqueio remoto do celular.
@@ -59,7 +60,8 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **Gabriel Lopes:** Bloquear o dispositivo e apagar todos os dados.
 - **João Marcos:** Emitir localização ou S.O.S automático e bloquear o chip.
 
-**Pergunta 2:** *Como garantir que o **Celular Seguro** seja fácil de usar e configurar (usabilidade) para todos os usuários?*  
+**Pergunta 2:** *Como garantir que o **Celular Seguro** seja fácil de usar e configurar (usabilidade) para todos os usuários?*
+
 - **Luiza Pugas:** Usar affordances, linguagem simples e uma interface intuitiva.
 - **Artur Mendonça:** Layout intuitivo seguindo as heurísticas de Nielsen.
 - **Lucas Mendonça:** Intuitividade reforçada por um guia de usuário passo a passo.
@@ -68,6 +70,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Ser um aplicativo com interface simples e flexível.
 
 **Pergunta 3:** *Que medidas de **segurança de dados e privacidade** o aplicativo deve adotar para proteger as informações do usuário?*  
+
 - **Luiza Pugas:** Login via gov.br para garantir identidade segura.
 - **Artur Mendonça:** Opção de login automático com proteção contra spywares e ransomwares.
 - **Lucas Mendonça:** Salvar no Drive os dados do usuário após bloqueio remoto.
@@ -76,6 +79,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Bloqueio total do app com desbloqueio apenas via autenticação forte.
 
 **Pergunta 4:** *Que tipos de **notificações ou alertas** o Celular Seguro deve fornecer em caso de atividade suspeita ou situação de risco?*  
+
 - **Luiza Pugas:** Alerta por e‑mail para um contato de segurança, para bloquear conta ou recuperar acesso.
 - **Artur Mendonça:** E‑mail de localização com hora, data, rastreamento em tempo real e relatório dos locais por onde o dispositivo passou.
 - **Lucas Mendonça:** Alerta via e‑mail ou gov.br mostrando a localização atual do dispositivo. 
@@ -84,6 +88,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** E‑mail automático contendo informações completas da tentativa suspeita.
 
 **Pergunta 5:** *Como o Celular Seguro pode ser desenvolvido para atender também usuários com **deficiências ou necessidades especiais** (questões de acessibilidade)?*  
+
 - **Luiza Pugas:** Oferecer opção de contraste de cores e integrar a API do VLibras (gov.br).
 - **Artur Mendonça:** Incluir modo de contraste alternativo para daltônicos e leitor por voz para surdos.
 - **Lucas Mendonça:** Disponibilizar funcionalidades controladas por voz.
@@ -92,6 +97,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Adicionar suporte a comandos de voz, VLibras e configurações de acessibilidade personalizáveis.
 
 **Pergunta 6:** *De que forma o sistema deve **integrar-se com as operadoras de telefonia** para aumentar a segurança do celular?*  
+
 - **Luiza Pugas:** Implementar bloqueio automático de chips não autorizados.
 - **Artur Mendonça:** Permitir que o app contate a operadora selecionada e envie o relatório de segurança gerado pelo sistema.
 - **Lucas Mendonça:** Funcionalidade para solicitar diretamente o bloqueio de chip junto à operadora. 
@@ -100,6 +106,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Bloquear o chip via integração direta com o sistema da operadora.
 
 **Pergunta 7:** *Que funcionalidades de **rastreamento e localização** o aplicativo deve incluir para ajudar a encontrar um dispositivo perdido?*  
+
 - **Luiza Pugas:** Uso de satélites (opção cara) ou localização mesmo com celular desligado, mostrando última posição conhecida.
 - **Artur Mendonça:** Rastreamento em tempo real, relatório dos locais por onde passou via Google Maps, e até telefonar a estabelecimentos próximos para obter pistas.
 - **Lucas Mendonça:** Localização via GPS em tempo real, exibindo o trajeto completo percorrido.
@@ -108,6 +115,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Emissão de som remoto e localização precisa via GPS com data e hora.
 
 **Pergunta 8:** *Como o Celular Seguro deve auxiliar na **proteção ou recuperação dos dados pessoais** do usuário caso o aparelho seja perdido?*  
+
 - **Luiza Pugas:** Bloqueio remoto automático de aplicativos específicos.
 - **Artur Mendonça:** Ao entrar pela primeira vez, permitir escolher quais dados salvar num backup em banco de dados, com opção de pedir restauração por e‑mail a qualquer momento, desde que não infrinja privacidade.
 - **Lucas Mendonça:** Salvamento automático dos dados na nuvem.  
@@ -116,6 +124,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Backup na nuvem com todos os dados do usuário e bloqueio total do aparelho até restauração.
 
 **Pergunta 9:** *Qual sua expectativa em relação ao **desempenho e uso de bateria** do Celular Seguro rodando no dispositivo?*  
+
 - **Luiza Pugas:** Desempenho médio/alto com uso moderado de bateria.
 - **Artur Mendonça:** Idealmente baixo, mas pode variar entre baixo, médio ou alto conforme funcionalidades ativadas (ex.: GPS).
 - **Lucas Mendonça:** Custo moderado de bateria e desempenho médio. 
@@ -124,6 +133,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 - **João Marcos:** Desempenho moderado com consumo de bateria moderado.
 
 **Pergunta 10:** *Você gostaria de poder **controlar as funções** do Celular Seguro remotamente por meio de um site ou outro dispositivo? Como imagina essa funcionalidade?*  
+
 - **Luiza Pugas:** Sim, via um site onde eu faça login com gov.br e tenha acesso às funções primordiais para agir se o celular for furtado ou perdido.
 - **Artur Mendonça:** Sim, um site web com as mesmas funcionalidades do app, onde tudo que é feito no site fique salvo também no app (e vice‑versa).
 - **Lucas Mendonça:** Sim, desde o primeiro login informando um e‑mail de recuperação que permita acessar remotamente as funcionalidades.
