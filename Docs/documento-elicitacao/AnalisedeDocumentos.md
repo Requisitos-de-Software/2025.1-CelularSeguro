@@ -232,64 +232,153 @@ Com base na análise dos documentos acima, foram identificados diversos requisit
 
 Os itens acima cobrem não apenas o que deve ser testado no sistema, mas também **quais validações de negócio** o próprio sistema efetua (ex.: validação de CPF, validação de formato de IMEI, confirmação de ações irreversíveis). Garantir por meio de testes rigorosos que todos os **critérios de aceitação** dos requisitos estão sendo cumpridos é essencial para a qualidade do Celular Seguro, dada sua natureza crítica.
 
-## Tabela de Requisitos
+---
 
-A seguir, apresenta-se a tabela resumindo os requisitos identificados, com um ID único (prefixo **ADD** – *Análise de Documentos* – seguido de número) e sua categorização:
+### Requisitos Funcionais (RF)
 
-| **ID**  | **Requisito Elicitado**                                                                                                         | **Categoria** |
-|---------|-------------------------------------------------------------------------------------------------------------------------------|---------------|
-| ADD01   | O sistema deve permitir autenticação do usuário via **conta Gov.br**, utilizando CPF e senha, como pré-requisito de acesso ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=2,br)). | RF            |
-| ADD02   | O aplicativo deve exibir os **Termos de Uso e Privacidade** na primeira vez que for aberto e requerer que o usuário os aceite para prosseguir ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=3,Termos%20de%20Uso)). | RF            |
-| ADD03   | O usuário poderá **cadastrar múltiplos telefones celulares** em sua conta no Celular Seguro, vinculando cada número de telefone ao seu CPF (titularidade necessária) ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=Ao%20acessar%20o%20aplicativo%20pela,clique%20na%20op%C3%A7%C3%A3o%20Cadastrar%20Telefone)) ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Por%20quest%C3%B5es%20de%20seguran%C3%A7a%2C%20as,realizado%20pelo%20titular%20da%20linha)). | RF            |
-| ADD04   | O aplicativo deve permitir o cadastro de **“pessoas de confiança”**, autorizando contatos escolhidos a emitir alertas em nome do usuário em caso de emergência ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=4,Confian%C3%A7a)). | RF            |
-| ADD05   | O sistema deve fornecer uma função de **emissão de alerta de bloqueio** em caso de roubo, furto ou perda do aparelho, acionada por um botão de emergência de forma rápida ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=6)). | RF            |
-| ADD06   | Ao emitir um alerta, o usuário deverá selecionar o **tipo de bloqueio** desejado: **Modo Recuperação** (bloqueia linha e contas, mantendo o IMEI ativo) ou **Bloqueio Total** (bloqueia também o aparelho/IMEI) ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=,seu%20aparelho%20pelas%20autoridades%20policiais)). | RF            |
-| ADD07   | Após o disparo do alerta, o sistema deve **gerar um número de protocolo** único e apresentá-lo ao usuário, para referência junto às autoridades e parceiros ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=Assim%20que%20o%20alerta%20for,exibido%20o%20N%C3%9AMERO%20DE%20PROTOCOLO)). | RF            |
-| ADD08   | O alerta emitido pelo Celular Seguro deverá ser **enviado automaticamente** às operadoras de telefonia e instituições financeiras parceiras, que então realizarão os bloqueios da linha, do IMEI e das contas conforme o caso ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Os%20alertas%20emitidos%20por%20meio,parceiras%2C%20que%20promovem%20as%20seguintes%C2%A0a%C3%A7%C3%B5es)). | RF            |
-| ADD09   | O aplicativo deve oferecer a funcionalidade de **consultar se um aparelho possui restrição**, permitindo ao usuário verificar pelo IMEI se um celular é roubado/bloqueado antes de comprá-lo ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=pelo%20titular%20da%20linha%20na,emitir%20o%20alerta%20de%20forma)) | RF            |
-| ADD10   | O Celular Seguro deve estar disponível tanto como **aplicativo móvel (Android/iOS)** quanto via **versão web** (navegador), oferecendo as mesmas funcionalidades em ambas plataformas ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=O%20Celular%20Seguro%20est%C3%A1%20dispon%C3%ADvel,o%20login%20no%20Celular%20Seguro)). | RF            |
-| ADD11   | O sistema deve possibilitar a **emissão de mais de um alerta para a mesma linha telefônica**, permitindo novos alertas após ocorrências distintas, mediante recadastramento do número se necessário ([Celular Seguro BR – Apps no Google Play](https://play.google.com/store/apps/details?id=com.celularlegal&hl=pt_BR#:~:text=Novidades%20desta%20vers%C3%A3o%3A)). | RF            |
-| ADD12   | Em caso de **modo Recuperação**, o sistema deve receber das operadoras notificações de quando um **novo chip for inserido** no aparelho e enviar alerta (ex.: mensagem WhatsApp) ao utilizador desse novo chip, informando que o aparelho tem restrição por roubo/furto ([Celular Seguro passa a emitir alerta de bloqueio por roubo		](https://www.poder360.com.br/poder-governo/celular-seguro-comeca-a-emitir-alerta-de-bloqueio-por-roubo/#:~:text=O%20programa%20Celular%20Seguro%2C%20do,no%20aparelho%20com%20restri%C3%A7%C3%A3o%20registrada)) ([Celular Seguro passa a emitir alerta de bloqueio por roubo		](https://www.poder360.com.br/poder-governo/celular-seguro-comeca-a-emitir-alerta-de-bloqueio-por-roubo/#:~:text=Para%20evitar%20a%20compra%20de,cada%20aparelho%20tem%20de%20f%C3%A1brica)). | RF            |
-| ADD13   | O serviço Celular Seguro deve estar disponível para **todos os cidadãos brasileiros**, 24x7, sem interrupções planejadas, dado seu caráter de emergência ([Celular Seguro ultrapassa 50 mil bloqueios de aparelhos desde dezembro](https://www.cartacapital.com.br/tecnologia/celular-seguro-ultrapassa-50-mil-bloqueios-de-aparelhos-desde-dezembro/#:~:text=Mais%20de%2050%20mil%20alertas,roubo%20ou%20furto%20dos%20aparelhos)) ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=O%20Programa%20Celular%20Seguro%20%C3%A9,br)). | RNF           |
-| ADD14   | O tempo de resposta para comunicação de um alerta aos parceiros deve ser mínimo – idealmente **instantâneo**, garantindo que operadoras e bancos recebam o alerta em tempo real. As ações de bloqueio decorrentes devem ocorrer em minutos (ex.: bancos em até 10-30 min) ([Lista de Parceiros — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/lista-de-parceiros#:~:text=,minutos%20ap%C3%B3s%20a%20comunica%C3%A7%C3%A3o)). | RNF           |
-| ADD15   | O aplicativo e a plataforma devem seguir fortes requisitos de **segurança da informação**: uso obrigatório de conexão criptografada (HTTPS), proteção de dados pessoais conforme LGPD, e jamais compartilhar indevidamente dados do usuário (conforme declaração de que não há compartilhamento de dados com terceiros) ([Celular Seguro BR - Apps on Google Play](https://play.google.com/store/apps/details?id=com.celularlegal&hl=en_US#:~:text=Image%3A%20Icon%20image)). | RNF           |
-| ADD16   | A **usabilidade** do sistema deve ser priorizada: interface intuitiva, botões claramente identificados (ex.: botão de emergência visível) ([Celular Seguro ultrapassa 50 mil bloqueios de aparelhos desde dezembro](https://www.cartacapital.com.br/tecnologia/celular-seguro-ultrapassa-50-mil-bloqueios-de-aparelhos-desde-dezembro/#:~:text=Para%20enviar%20o%20alerta%20de,celular%20ou%20perdeu%20o%20aparelho)), textos explicativos sobre cada função e mínimas etapas para realizar um bloqueio, considerando o estado emocional do usuário em caso de roubo. | RNF           |
-| ADD17   | O Celular Seguro deve ser **compatível** com as principais versões de sistemas operacionais móveis suportados e navegadores web modernos, garantindo amplo acesso. Além disso, deve aderir a padrões de **acessibilidade** para usuários com deficiência (seguir WCAG/eMAG). | RNF           |
-| ADD18   | O serviço deverá ser oferecido **gratuitamente ao usuário**, não havendo cobrança pelo download ou uso do aplicativo, em consonância com a natureza de serviço público ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=Informa%C3%A7%C3%B5es%20adicionais%20ao%20tempo%20estimado)). | RNF           |
-| ADD19   | O sistema deve cumprir a legislação e normas vigentes pertinentes, incluindo as Portarias MJSP nº 562/2023 e 837/2024 que instituem o programa e definem regras (ex.: opções de bloqueio separadas, notificações de novas linhas) ([Conheça o Celular Seguro — Ministério da Justiça e Segurança Pública](http://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/conheca-o-celular-seguro#:~:text=Institu%C3%ADdo%20pela%C2%A0Portaria%20MJSP%20n%C2%BA%20562%2C,de%20telefonia%20e%20institui%C3%A7%C3%B5es%20financeiras)) ([Conheça o Celular Seguro — Ministério da Justiça e Segurança Pública](http://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/conheca-o-celular-seguro#:~:text=A%C2%A0Portaria%20MJSP%20n%C2%BA%20837%2C%20de,por%20furto%2C%20roubo%20ou%20extravio)), bem como as resoluções da Anatel e diretrizes da Febraban referentes a bloqueios. | RNF           |
-| ADD20   | A tela inicial do aplicativo deverá apresentar as **quatro funções principais** (Registrar Telefone, Pessoas de Confiança, Celulares com Restrição, Emitir Alerta) de forma destacada, com ícones e descrições, facilitando a navegação do usuário ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=3)). | RI            |
-| ADD21   | O fluxo de **onboarding** do usuário deve guiá-lo através do login Gov.br, aceite dos termos, cadastro opcional de pessoa de confiança e registro de telefone, para que ele configure tudo necessário na primeira utilização de forma didática ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=2,br)) ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=3,Termos%20de%20Uso)). | RI            |
-| ADD22   | A interface de **emissão de alerta** deve ser simples: apresentar a lista de aparelhos do usuário (quando houver mais de um), permitir a seleção do dispositivo e do tipo de bloqueio (com explicação de cada opção) e requerer uma confirmação final antes de disparar o alerta ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=1,Telefones%20de%20Confian%C3%A7a)) ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=,seu%20aparelho%20pelas%20autoridades%20policiais)). | RI            |
-| ADD23   | Após o usuário confirmar a emissão do alerta, o aplicativo deve mostrar claramente uma tela de sucesso com o **número de protocolo** gerado, acompanhado de instruções para guardá-lo e orientações adicionais (como a necessidade de registrar Boletim de Ocorrência) ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=Assim%20que%20o%20alerta%20for,exibido%20o%20N%C3%9AMERO%20DE%20PROTOCOLO)) ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=acesso%20aos%20bancos%20e%20institui%C3%A7%C3%B5es,parceiras)). | RI            |
-| ADD24   | A funcionalidade **Celulares com Restrição** deve fornecer uma interface de consulta de IMEI com campo para 15 dígitos e botão de busca, exibindo o resultado de forma clara (“aparelho sem restrição” ou “aparelho com restrição – roubado/furtado”) e alertando sobre limitações (p. ex. IMEIs de modo recuperação podem não constar ainda) ([Celular Seguro BR – Apps no Google Play](https://play.google.com/store/apps/details?id=com.celularlegal&hl=pt_BR#:~:text=Al%C3%A9m%20disso%2C%20conta%20com%20a,presentes%20na%20base%20de%20dados)) ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Verifique%20a%20situ%20a%C3%A7%C3%A3o%20do,situacao)). | RI            |
-| ADD25   | Nas telas de cadastro de telefone e de emissão de alerta, o app deve listar as **operadoras de telefonia suportadas**. Se a operadora do usuário não estiver entre as opções (ficando em "Outras"), o sistema deve avisar que o bloqueio da linha/IMEI não será automático via app e que o usuário deverá contatar a operadora manualmente ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Ressalta,aos%20bancos%20e%20institui%C3%A7%C3%B5es%20parceiras)). | RI            |
-| ADD26   | A interface deve apresentar mensagens de feedback e erro adequadas: por exemplo, avisar se o usuário tentar cadastrar um número já cadastrado, ou se inserir um IMEI inválido, ou se acionar uma função sem ter preenchido pré-requisitos (como tentar emitir alerta sem ter telefone cadastrado). | RI            |
-| ADD27   | Devem ser seguidos padrões de **design acessível**: todos os botões e ícones com rótulos textuais (para leitores de tela), suporte a aumento de fonte, contraste de cores dentro das normas. Exemplo: o botão de alerta deve ter label “Emitir Alerta” para leitores de tela, e não depender apenas de cor/vermelho para indicar perigo. | RI            |
-| ADD28   | O sistema deve integrar-se ao **Login Único Gov.br** para autenticação, usando os protocolos de OAuth2/OIDC fornecidos pelo governo e respeitando as políticas de sessão, nível de segurança da conta, etc. ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=2,br)). (Requisito de integração com infraestrutura governamental) | RPR           |
-| ADD29   | O Celular Seguro deverá conectar-se ao sistema **CEMI da Anatel/ABR Telecom** para efetivação dos bloqueios de IMEI e linha nas redes das operadoras. Isso inclui enviar os dados de IMEI e número aos sistemas da ABR Telecom e processar suas respostas dentro dos prazos operacionais estabelecidos ([Lista de Parceiros — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/lista-de-parceiros#:~:text=,Seguran%C3%A7a%20P%C3%BAblica)) ([Lista de Parceiros — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/lista-de-parceiros#:~:text=,respectivo%20bloqueio%20nos%20seus%20EIRs)). | RPR           |
-| ADD30   | O sistema deve contar com mecanismos para receber das operadoras **notificações de novos chips em IMEIs com alerta**, conforme previsto em portaria ([Conheça o Celular Seguro — Ministério da Justiça e Segurança Pública](http://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/conheca-o-celular-seguro#:~:text=A%C2%A0Portaria%20MJSP%20n%C2%BA%20837%2C%20de,por%20furto%2C%20roubo%20ou%20extravio)), e acionar os procedimentos necessários (notificar via WhatsApp e atualizar status do caso). Esta integração inversa (operadora -> Celular Seguro) é parte do produto para modo recuperação. | RPR           |
-| ADD31   | O Celular Seguro deverá integrar-se com as instituições financeiras participantes através de um **canal padronizado** (por exemplo, web service Febraban ou APIs individuais), enviando o CPF do usuário e informações do alerta para que cada parceiro execute o bloqueio conforme sua política ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Os%20alertas%20emitidos%20por%20meio,parceiras%2C%20que%20promovem%20as%20seguintes%C2%A0a%C3%A7%C3%B5es)). Deve ser possível adicionar novos parceiros ao sistema sem alterações estruturais de grande porte. | RPR           |
-| ADD32   | O aplicativo deve restringir o **cadastro a números de telefone do Brasil** (+55), pois não suporta números internacionais ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=1%207,se%20cadastrar%20no%20Celular%20Seguro)). Essa restrição do domínio deve ser refletida tanto na interface (validação de entrada) quanto na documentação ao usuário. | RPR           |
-| ADD33   | O produto deve ser capaz de atender **milhões de usuários simultâneos**, sendo escalável horizontalmente. A arquitetura deve suportar picos de acessos (ex.: grandes eventos) sem degradação significativa de performance, conforme métricas de qualidade definidas (tempo de resposta, throughput). | RPR           |
-| ADD34   | O serviço e aplicativo Celular Seguro deve ser mantido com **alto nível de disponibilidade** (mínimo 99% de uptime), incluindo plano de contingência de infraestrutura. Em caso de indisponibilidade de algum componente (ex.: API Gov.br fora do ar), o sistema deve lidar graficamente e retomar operações automaticamente assim que possível. | RPR           |
-| ADD35   | **Irreversibilidade do alerta:** Uma vez que um alerta de bloqueio seja confirmado pelo usuário e enviado, **não poderá ser desfeito via aplicativo** ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Escolha%20a%20op%C3%A7%C3%A3o%20que%20melhor,meio%20do%20aplicativo%20Celular%20Seguro)). Esse é um requisito de segurança do produto para evitar que criminosos tentem reverter bloqueios; implica que o sistema não ofereça qualquer botão ou fluxo de “desbloquear” – o desbloqueio somente ocorre fora do escopo (operadoras/bancos mediante protocolo). | RPR           |
-| ADD36   | **Protótipos e testes de usabilidade** do aplicativo devem ser realizados antes de novas versões, garantindo que usuários de diferentes perfis consigam utilizar as funcionalidades centrais (emitir alerta, etc.) sem dificuldades. (Requisito de processo de desenvolvimento do produto). | RPR           |
-| ADD37   | Caso um usuário recupere seu aparelho após um bloqueio, o sistema não realizará nenhum desbloqueio; o procedimento de desbloqueio é **externo ao Celular Seguro**, devendo o usuário contatar diretamente a operadora e os bancos com seu protocolo em mãos ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=,seguir%C3%A1%20sua%20pol%C3%ADtica%20antifraude%20interna)). (Requisito decorrente da decisão de escopo do produto). | RPR           |
-| ADD38   | O aplicativo não deverá permitir o cadastro de um mesmo número de telefone em mais de um CPF simultaneamente dentro do Celular Seguro (um número só pode estar associado a um usuário). Isso evita conflitos onde duas pessoas tentem registrar o mesmo telefone. | RPR           |
-| ADD39   | **Risco de uso indevido:** Apenas usuários autenticados e autorizados (proprietário ou contato de confiança) podem acionar um bloqueio para um dado aparelho. Tentativas de terceiros não autorizados devem falhar. (Regra de autorização já implícita, reitera requisitos de segurança para evitar risco de bloqueio malicioso). | RR            |
-| ADD40   | O sistema deve alertar o usuário de que o **bloqueio não pode ser revertido via app**, recomendando certeza antes de prosseguir ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=Escolha%20a%20op%C3%A7%C3%A3o%20que%20melhor,meio%20do%20aplicativo%20Celular%20Seguro)). Isso mitiga o risco de acionamento acidental. | RR            |
-| ADD41   | O usuário será orientado a **registrar um Boletim de Ocorrência (B.O.)** na Polícia Civil assim que possível após emitir o alerta, uma vez que o alerta do Celular Seguro **não substitui o B.O.** ([Dúvidas Frequentes — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/duvidas-frequentes#:~:text=9,como%20um%20boletim%20de%20ocorr%C3%AAncia)). Essa orientação visa reduzir o risco de falta de respaldo legal na ocorrência. | RR            |
-| ADD42   | O sistema depende da atuação das operadoras e bancos; caso alguma parte não efetue o bloqueio, o usuário deve usar o protocolo para contatá-los diretamente. Ou seja, o Celular Seguro assume o risco operacional de parceiros e provê meios do usuário acompanhar/cobrar. (Item de risco e contingência do processo). | RR            |
-| ADD43   | O app aconselha que a escolha da pessoa de confiança seja criteriosa ([Comunicar roubo/furto de aparelho pelo aplicativo Celular Seguro‎](https://www.gov.br/pt-br/servicos/comunicar-roubo-furto-de-aparelho-pelo-aplicativo-celular-seguro#:~:text=Quando%20voc%C3%AA%20cadastra%20algu%C3%A9m%20como,Portanto%2C%20escolha%20com%20sabedoria)), pois essa terá poderes de bloqueio. Em caso de abuso pelo contato, o usuário terá registro (protocolo) de que o alerta partiu daquela pessoa – um risco residual, mitigado por log/auditoria. | RR            |
-| ADD44   | **Validação de formato de entrada:** O sistema deve validar que dados inseridos pelo usuário atendem aos formatos esperados – e.g., número de telefone com DDD válido, IMEI numérico de 15 dígitos – mostrando mensagens de erro se necessário. (Requisito de qualidade que previne erros de entrada e necessidade de retentativas). | RT            |
-| ADD45   | **Teste de integração completo:** O produto deve ser testado fim a fim em ambiente de homologação, simulando um caso real de roubo – do cadastro inicial até a recuperação do aparelho – para verificar que todos os componentes (app, backend, integração com parceiros, notificações) funcionam conforme o esperado. (Requisito de validação do sistema antes da implantação). | RT            |
-| ADD46   | Deve-se testar regularmente o envio de **notificações de alerta por WhatsApp** para garantir que os números oficiais do MJSP estão ativos e enviando a mensagem correta quando um chip novo é detectado ([Celular Seguro passa a emitir alerta de bloqueio por roubo		](https://www.poder360.com.br/poder-governo/celular-seguro-comeca-a-emitir-alerta-de-bloqueio-por-roubo/#:~:text=O%20programa%20Celular%20Seguro%2C%20do,no%20aparelho%20com%20restri%C3%A7%C3%A3o%20registrada)). (Requisito de validação contínua desse mecanismo introduzido em 2025). | RT            |
-| ADD47   | O sistema deve impedir tentativa de emissão de alerta se o usuário não tiver nenhum telefone registrado ou não estiver logado (estado inválido). Este é um requisito de validação interna do fluxo – garantir pré-condições antes de permitir ações críticas. | RT            |
-| ADD48   | Em auditorias periódicas, deve-se verificar logs e protocolos emitidos para confirmar que não houve bloqueios duplicados ou inconsistências (por exemplo, dois protocolos gerados para um mesmo incidente). (Requisito de verificação de qualidade dos dados gerados pelo sistema). | RT            |
-| ADD49   | **Teste de carga e desempenho:** O sistema deverá passar por testes de carga simulando milhares de alertas simultâneos para validar sua escalabilidade e identificar eventuais gargalos, garantindo atendimento dentro dos tempos limites estabelecidos (ex.: fila de processamento de IMEIs não pode causar atrasos superiores a algumas horas mesmo sob alta demanda). | RT            |
-| ADD50   | O aplicativo deve ser submetido a **testes de segurança (penetration test)** independentes, garantindo que vulnerabilidades como SQL Injection, XSS, exposições via API ou engenharia social estejam mitigadas. Esse requisito assegura que as validações de segurança implementadas são eficazes e que os riscos cibernéticos estão controlados. | RT            |
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 1: Requisitos Funcionais do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos funcionais (ADD01–ADD12) elicitados na sessão.
+    </span>
+  </p>
+</font>
 
-*(Legenda: RF – Requisito Funcional; RNF – Requisito Não-Funcional; RI – Requisito de Interface; RPR – Requisito de Produto; RR – Risco; RT – Teste/Validação.)*
+| **ID** | **Requisito Elicitado**                                                                                                                                                | **Categoria** |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| ADD01  | O sistema deve permitir autenticação do usuário via conta Gov.br, utilizando CPF e senha, como pré‑requisito de acesso.                                                | RF            |
+| ADD02  | O aplicativo deve exibir os Termos de Uso e Privacidade na primeira vez que for aberto e requerer que o usuário os aceite para prosseguir.                             | RF            |
+| ADD03  | O usuário poderá cadastrar múltiplos telefones celulares em sua conta no Celular Seguro, vinculando cada número de telefone ao seu CPF.                                | RF            |
+| ADD04  | O aplicativo deve permitir o cadastro de “pessoas de confiança”, autorizando contatos escolhidos a emitir alertas em nome do usuário em caso de emergência.            | RF            |
+| ADD05  | O sistema deve fornecer uma função de emissão de alerta de bloqueio em caso de roubo, furto ou perda do aparelho, acionada por um botão de emergência de forma rápida. | RF            |
+| ADD06  | Ao emitir um alerta, o usuário deverá selecionar o tipo de bloqueio desejado: Modo Recuperação (bloqueia linha e contas, mantendo o IMEI ativo) ou Bloqueio Total.     | RF            |
+| ADD07  | Após o disparo do alerta, o sistema deve gerar um número de protocolo único e apresentá‑lo ao usuário, para referência junto às autoridades e parceiros.               | RF            |
+| ADD08  | O alerta emitido pelo Celular Seguro deverá ser enviado automaticamente às operadoras de telefonia e instituições financeiras parceiras para os bloqueios necessários. | RF            |
+| ADD09  | O aplicativo deve oferecer a funcionalidade de consultar se um aparelho possui restrição, permitindo verificar pelo IMEI se um celular é bloqueado antes de comprá‑lo. | RF            |
+| ADD10  | O Celular Seguro deve estar disponível tanto como aplicativo móvel (Android/iOS) quanto via versão web, oferecendo as mesmas funcionalidades em ambas plataformas.     | RF            |
+| ADD11  | O sistema deve possibilitar a emissão de mais de um alerta para a mesma linha telefônica, permitindo novos alertas após ocorrências distintas.                         | RF            |
+| ADD12  | Em modo Recuperação, o sistema deve receber notificações de quando um novo chip for inserido no aparelho e enviar alerta ao usuário.                                   | RF            |
+
+---
+
+### Requisitos Não‑Funcionais (RNF)
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 2: Requisitos Não Funcionais do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos não funcionais (ADD13–ADD19) elicitados na sessão.
+    </span>
+  </p>
+</font>
+
+| **ID** | **Requisito Elicitado**                                                                                                                                                 | **Categoria** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| ADD13  | O serviço Celular Seguro deve estar disponível para todos os cidadãos brasileiros, 24×7, sem interrupções planejadas.                                                   | RNF           |
+| ADD14  | O tempo de resposta para comunicação de um alerta aos parceiros deve ser mínimo – idealmente instantâneo – e os bloqueios devem ocorrer em minutos.                     | RNF           |
+| ADD15  | O aplicativo e a plataforma devem seguir requisitos de segurança da informação: conexão criptografada, proteção de dados conforme LGPD e não compartilhamento indevido. | RNF           |
+| ADD16  | A usabilidade deve ser priorizada: interface intuitiva, botões claros, textos explicativos e fluxo reduzido, considerando o estado emocional do usuário.                | RNF           |
+| ADD17  | O Celular Seguro deve ser compatível com as principais versões de sistemas móveis e navegadores, e aderir a padrões de acessibilidade.                                  | RNF           |
+| ADD18  | O serviço deverá ser oferecido gratuitamente, sem cobrança pelo download ou uso do aplicativo.                                                                          | RNF           |
+| ADD19  | O sistema deve cumprir a legislação e normas vigentes, incluindo portarias, resoluções da Anatel e diretrizes da Febraban.                                              | RNF           |
+
+---
+
+### Requisitos de Interface (RI)
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 3: Requisitos de Interface do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos de interface (ADD20–ADD27) elicitados na sessão.
+    </span>
+  </p>
+</font>
+
+| **ID** | **Requisito Elicitado**                                                                                                                                           | **Categoria** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| ADD20  | A tela inicial deve apresentar as quatro funções principais (Registrar Telefone, Pessoas de Confiança, Celulares com Restrição, Emitir Alerta) com ícones claros. | RI            |
+| ADD21  | O onboarding deve guiar o usuário pelo login Gov.br, aceite de termos, cadastro de pessoa de confiança e registro de telefone.                                    | RI            |
+| ADD22  | A interface de emissão de alerta deve listar aparelhos, permitir selecionar bloqueio e exigir confirmação final.                                                  | RI            |
+| ADD23  | Após confirmar o alerta, exibir tela de sucesso com número de protocolo e instruções para guardá‑lo.                                                              | RI            |
+| ADD24  | A consulta de IMEI deve ter campo de 15 dígitos e botão de busca, exibindo resultado claro e alertando sobre limitações.                                          | RI            |
+| ADD25  | Nas telas de cadastro e alerta, listar operadoras suportadas e indicar bloqueio manual se a operadora não estiver na lista.                                       | RI            |
+| ADD26  | Apresentar mensagens de erro adequadas para dados inválidos ou ações sem pré‑requisitos.                                                                          | RI            |
+| ADD27  | Seguir padrões de design acessível: rótulos textuais, suporte a aumento de fonte e contraste adequado.                                                            | RI            |
+
+---
+
+### Requisitos de Produto/Integração (RPR)
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 4: Requisitos de Produto/Integração do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os requisitos de produto e integração (ADD28–ADD38) elicitados na sessão.
+    </span>
+  </p>
+</font>
+
+| **ID** | **Requisito Elicitado**                                                                                                    | **Categoria** |
+| ------ | -------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| ADD28  | O sistema deve integrar‑se ao Login Único Gov.br via OAuth2/OIDC, respeitando políticas de sessão e segurança.             | RPR           |
+| ADD29  | Conectar‑se ao sistema CEMI da Anatel/ABR Telecom para efetivar bloqueios de IMEI e linha, processando respostas em prazo. | RPR           |
+| ADD30  | Receber notificações de novos chips em IMEIs bloqueados e acionar procedimentos necessários.                               | RPR           |
+| ADD31  | Integrar‑se com instituições financeiras via canal padronizado, enviando CPF e informações do alerta.                      | RPR           |
+| ADD32  | Restringir cadastro a números do Brasil (+55) com validação na interface e documentação.                                   | RPR           |
+| ADD33  | Suportar milhões de usuários simultâneos, com arquitetura escalável e tolerância a picos de acesso.                        | RPR           |
+| ADD34  | Manter disponibilidade mínima de 99% de uptime e plano de contingência para indisponibilidades.                            | RPR           |
+| ADD35  | Irreversibilidade do alerta: não permitir desfazer bloqueio via app.                                                       | RPR           |
+| ADD36  | Realizar protótipos e testes de usabilidade antes de novas versões.                                                        | RPR           |
+| ADD37  | Não realizar desbloqueio pelo app após recuperação do aparelho; processo externo.                                          | RPR           |
+| ADD38  | Impedir cadastro do mesmo número em mais de um CPF simultaneamente.                                                        | RPR           |
+
+---
+
+### Riscos (RR)
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 5: Riscos do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os riscos (ADD39–ADD43) elicitados na sessão.
+    </span>
+  </p>
+</font>
+
+| **ID** | **Requisito Elicitado**                                                                                                 | **Categoria** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------- | ------------- |
+| ADD39  | Risco de uso indevido: apenas usuários ou contatos de confiança podem acionar bloqueio; tentativas de terceiros falham. | RR            |
+| ADD40  | Alertar que bloqueio não pode ser revertido via app, evitando acionamentos acidentais.                                  | RR            |
+| ADD41  | Orientar registro de Boletim de Ocorrência após emitir alerta.                                                          | RR            |
+| ADD42  | Caso parceiros não executem bloqueio, usuário deve usar protocolo para acompanhamento.                                  | RR            |
+| ADD43  | Aconselhar escolha criteriosa de pessoa de confiança; logs mitigam risco de abuso.                                      | RR            |
+
+---
+
+### Testes / Validações (RT)
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 6: Testes / Validações do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Apresenta os testes e validações (ADD44–ADD50) elicitados na sessão.
+    </span>
+  </p>
+</font>
+
+| **ID** | **Requisito Elicitado**                                                                             | **Categoria** |
+| ------ | --------------------------------------------------------------------------------------------------- | ------------- |
+| ADD44  | Validação de formato de entrada: telefone com DDD válido e IMEI de 15 dígitos, com erros adequados. | RT            |
+| ADD45  | Teste de integração completo em ambiente de homologação, simulando fluxo real.                      | RT            |
+| ADD46  | Testar regularmente envio de notificações via WhatsApp para garantir números ativos e corretos.     | RT            |
+| ADD47  | Impedir alerta sem telefone registrado ou sem login.                                                | RT            |
+| ADD48  | Auditorias periódicas em logs e protocolos para evitar bloqueios duplicados.                        | RT            |
+| ADD49  | Teste de carga e desempenho simulando milhares de alertas simultâneos.                              | RT            |
+| ADD50  | Testes de segurança independentes (penetration test) para mitigar vulnerabilidades.                 | RT            |
+
+---
 
 ## Bibliografia
 
@@ -313,10 +402,8 @@ A seguir, apresenta-se a tabela resumindo os requisitos identificados, com um ID
 
 > **Repositório UNAD (Colômbia)** – *“Técnicas para elicitar requisitos – Análisis de documentación”*. Disponível em: <https://repository.unad.edu.co/reproductor-ova/10596_35614/tcnicas_para_elicitar.html>  ([Técnicas para elicitar | Ingeniería de Requisitos ](https://repository.unad.edu.co/reproductor-ova/10596_35614/tcnicas_para_elicitar.html#:~:text=An%C3%A1lisis%20de%20documentaci%C3%B3n)) – (Referência conceitual sobre a técnica de análise de documentos em engenharia de requisitos).
 
-*(As referências acima incluem páginas oficiais do programa Celular Seguro no portal Gov.br/MJSP, a descrição do aplicativo nas lojas móveis, notícias da Agência Brasil e outros veículos, bem como material acadêmico sobre a técnica de elicitação utilizada. Todos os links foram acessados e válidos até maio de 2025.)*
-
 ## Histórico de Versões
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    |         01/05/2025 |Criação da documentação e desenvolvimento do projeto| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>|   01/05/2025   |
-| 1.1    |         04/05/2025 |Adição do vídeo no documento| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|   04/05/2025   |
+| 1.1    |         04/05/2025 |Adição do vídeo no documento| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|   04/05/2025   |
