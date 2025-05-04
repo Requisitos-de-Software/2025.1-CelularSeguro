@@ -145,6 +145,7 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 | 5  | Tenho 68 anos e não sei mexer muito bem no celular, acredito que a acessibilidade do aplicativo é muito ruim, ficou totalmente desorientada ao usar o aplicativo.                                                                                                                                                                           |
 | 6  | Como informaram que há a possibilidade de fazer o boletim de ocorrência, fiquei na dúvida se eu realmente poderia fazer, só fuçando o aplicativo vi a funcionalidade nos pontinhos escondidos |
 
+
 <font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
 
@@ -191,6 +192,8 @@ Legenda:
 | RF04  | O aplicativo deve oferecer o passo a passo do que fazer após um furto ou roubo.                     | Q04  | Não          |
 | RF05  | O aplicativo deve fornecer confirmação visual (feedback) ao usuário após realizar ações importantes.  | Q12 | Não          |
 | RF06  | O aplicativo deve notificar o usuário em caso de atividade suspeita relacionada ao dispositivo.  | Q08 | Não          |
+| RF07  | O aplicativo deve permitir a recuperação do aparelho bloqueado caso reencontrado.  | Q08 | Não          |
+| RF08  | O aplicativo deve permitir que o usuário registre um boletim de ocorrência. | Q09  | Sim          |
 
 <font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
@@ -202,12 +205,12 @@ Legenda:
 
 | Tipo   | Descrição                                                                                                   | ID   | Implementado |
 |--------|-------------------------------------------------------------------------------------------------------------|------|--------------|
-| RNF01  | 	O aplicativo deve apresentar menus com estrutura intuitiva, agrupando funcionalidades de forma lógica.    | Q17  | Parcialmente |
+| RNF01  | O aplicativo deve apresentar menus com estrutura intuitiva, agrupando funcionalidades de forma lógica.    | Q17  | Parcialmente |
 | RNF02  | O aplicativo deve permitir navegação intuitiva, com ferramentas e opções fáceis de localizar.              | Q07  | Parcialmente |
 | RNF03  | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência.                      | Q09  | Não           |
 | RNF04  | A interface deve ter design acessível a usuários com pouca familiaridade com tecnologia, como idosos.      | Q19  | Não         |
 | RNF05  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.      | Q09  | Não         |
-
+| RNF06  | O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.      | Q12  | Sim         |
 
 <font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 

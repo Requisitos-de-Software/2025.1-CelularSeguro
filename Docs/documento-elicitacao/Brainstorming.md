@@ -225,7 +225,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
   ></iframe>
 </figure>
 
-**Autor do Brainwriting:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+**Autor do brainwriting:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 ---
 
@@ -264,7 +264,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 |  BS20 | Oferecer rastreamento via satélite em áreas sem cobertura de celular              |  RF20  |      Não      |
 |  BS21 | Enviar notificação por e‑mail com detalhes da tentativa de acesso suspeito        |  RF21  |      Não      |
 |  BS22 | Gerar relatório de movimentação para download em PDF                              |  RF22  |      Não      |
-|  BS23 | Definir “dispositivo de confiança” para controle remoto secundário                |  RF23  |      Sim      |
+|  BS23 | Definir “dispositivo de confiança” para controle remoto secundário                |  RF23  |      Não      |
 |  BS24 | Atualizar localização em tempo real a cada X segundos                             |  RF24  |      Não      |
 |  BS25 | Permitir agendamento de bloqueio remoto em horários predefinidos                  |  RF25  |      Não      |
 |  BS26 | Notificar usuário de troca de chip imediatamente                                  |  RF26  |      Não      |
