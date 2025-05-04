@@ -34,12 +34,12 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 |-------------------|----------------------|
 | Leonardo de Melo  | Mediador (Moderador) |
 | Arthur Carvalho   | Secretário (Relator) |
-| Usuário 1         | Participante (Usuário final) |
-| Usuário 2         | Participante (Usuário final) |
-| Usuário 3         | Participante (Usuário final) |
-| Usuário 4         | Participante (Usuário final) |
-| Usuário 5         | Participante (Usuário final) |
-| Usuário 6         | Participante (Usuário final) |
+| Luiza Pugas       | Participante (Usuário final) |
+| Artur Mendonça    | Participante (Usuário final) |
+| Lucas Mendonça    | Participante (Usuário final) |
+| Ana Victória      | Participante (Usuário final) |
+| Gabriel Lopes     | Participante (Usuário final) |
+| João Marcos       | Participante (Usuário final) |
 
 **Mediador:** responsável por conduzir a discussão, apresentar as perguntas e garantir o cumprimento das regras do brainstorming (mantendo o foco e estimulando a participação de todos).  
 **Secretário:** responsável por registrar fielmente todas as ideias apresentadas e organizar as anotações.  
@@ -52,84 +52,84 @@ A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto
 Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celular Seguro, o mediador elaborou **10 perguntas chave** relacionadas ao tema. Essas perguntas abordaram **funcionalidades**, **usabilidade**, **segurança**, **notificações**, **acessibilidade**, **integração com operadoras**, entre outros tópicos. Abaixo, cada pergunta é apresentada juntamente com uma síntese das respostas fornecidas por cada um dos cinco usuários participantes (Usuário 1 a Usuário 6):
 
 **Pergunta 1:** *Quais funcionalidades principais o aplicativo **Celular Seguro** deve oferecer para proteger o dispositivo em caso de perda ou roubo?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Bloqueio rápido do aparelho à distância.
+- **Artur Mendonça:** Bloquear acesso do dispositivo e contactar autoridades.
+- **Lucas Mendonça:** Rastreamento em tempo real e bloqueio remoto do celular.
+- **Ana Victória:** Informar a localização exata do dispositivo.
+- **Gabriel Lopes:** Bloquear o dispositivo e apagar todos os dados.
+- **João Marcos:** Emitir localização ou S.O.S automático e bloquear o chip.
 
 **Pergunta 2:** *Como garantir que o **Celular Seguro** seja fácil de usar e configurar (usabilidade) para todos os usuários?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Usar affordances, linguagem simples e uma interface intuitiva.
+- **Artur Mendonça:** Layout intuitivo seguindo as heurísticas de Nielsen.
+- **Lucas Mendonça:** Intuitividade reforçada por um guia de usuário passo a passo.
+- **Ana Victória:** Interface clara, intuitiva e com funcionalidades bem descritas.
+- **Gabriel Lopes:** Tutoriais de uso embutidos, com assistente virtual que ensina passo a passo como usar.
+- **João Marcos:** Ser um aplicativo com interface simples e flexível.
 
 **Pergunta 3:** *Que medidas de **segurança de dados e privacidade** o aplicativo deve adotar para proteger as informações do usuário?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Login via gov.br para garantir identidade segura.
+- **Artur Mendonça:** Opção de login automático com proteção contra spywares e ransomwares.
+- **Lucas Mendonça:** Salvar no Drive os dados do usuário após bloqueio remoto.
+- **Ana Victória:** Verificação em dois fatores e backup em conta segura.
+- **Gabriel Lopes:** Criptografar todos os dados e publicar uma política de privacidade clara.
+- **João Marcos:** Bloqueio total do app com desbloqueio apenas via autenticação forte.
 
 **Pergunta 4:** *Que tipos de **notificações ou alertas** o Celular Seguro deve fornecer em caso de atividade suspeita ou situação de risco?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Alerta por e‑mail para um contato de segurança, para bloquear conta ou recuperar acesso.
+- **Artur Mendonça:** E‑mail de localização com hora, data, rastreamento em tempo real e relatório dos locais por onde o dispositivo passou.
+- **Lucas Mendonça:** Alerta via e‑mail ou gov.br mostrando a localização atual do dispositivo. 
+- **Ana Victória:** Notificação com localização do dispositivo e detalhes sobre quem está tentando acessá‑lo.
+- **Gabriel Lopes:** Alertas de tentativas de desbloqueio mal‑sucedidas e envio automático de notificação às autoridades com a localização.
+- **João Marcos:** E‑mail automático contendo informações completas da tentativa suspeita.
 
 **Pergunta 5:** *Como o Celular Seguro pode ser desenvolvido para atender também usuários com **deficiências ou necessidades especiais** (questões de acessibilidade)?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Oferecer opção de contraste de cores e integrar a API do VLibras (gov.br).
+- **Artur Mendonça:** Incluir modo de contraste alternativo para daltônicos e leitor por voz para surdos.
+- **Lucas Mendonça:** Disponibilizar funcionalidades controladas por voz.
+- **Ana Victória:** Incluir opção de transcrição em tempo real das funcionalidades.
+- **Gabriel Lopes:** Permitir personalização completa conforme perfil do usuário (ex.: aumentar fontes, ajustar contraste) e comandos por voz.
+- **João Marcos:** Adicionar suporte a comandos de voz, VLibras e configurações de acessibilidade personalizáveis.
 
 **Pergunta 6:** *De que forma o sistema deve **integrar-se com as operadoras de telefonia** para aumentar a segurança do celular?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Implementar bloqueio automático de chips não autorizados.
+- **Artur Mendonça:** Permitir que o app contate a operadora selecionada e envie o relatório de segurança gerado pelo sistema.
+- **Lucas Mendonça:** Funcionalidade para solicitar diretamente o bloqueio de chip junto à operadora. 
+- **Ana Victória:** Incluir uma função específica de bloqueio de chip em caso de roubo.
+- **Gabriel Lopes:** Detectar troca de chip e disparar comandos por SMS para bloqueio imediato.
+- **João Marcos:** Bloquear o chip via integração direta com o sistema da operadora.
 
 **Pergunta 7:** *Que funcionalidades de **rastreamento e localização** o aplicativo deve incluir para ajudar a encontrar um dispositivo perdido?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Uso de satélites (opção cara) ou localização mesmo com celular desligado, mostrando última posição conhecida.
+- **Artur Mendonça:** Rastreamento em tempo real, relatório dos locais por onde passou via Google Maps, e até telefonar a estabelecimentos próximos para obter pistas.
+- **Lucas Mendonça:** Localização via GPS em tempo real, exibindo o trajeto completo percorrido.
+- **Ana Victória:** Localização em tempo real no mapa.
+- **Gabriel Lopes:** Histórico de localizações recentes com detecção automática de movimento.
+- **João Marcos:** Emissão de som remoto e localização precisa via GPS com data e hora.
 
 **Pergunta 8:** *Como o Celular Seguro deve auxiliar na **proteção ou recuperação dos dados pessoais** do usuário caso o aparelho seja perdido?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Bloqueio remoto automático de aplicativos específicos.
+- **Artur Mendonça:** Ao entrar pela primeira vez, permitir escolher quais dados salvar num backup em banco de dados, com opção de pedir restauração por e‑mail a qualquer momento, desde que não infrinja privacidade.
+- **Lucas Mendonça:** Salvamento automático dos dados na nuvem.  
+- **Ana Victória:** Backup dos dados e bloqueio do dispositivo até que seja feita verificação em duas etapas.
+- **Gabriel Lopes:** Histórico completo dos backups efetuados.
+- **João Marcos:** Backup na nuvem com todos os dados do usuário e bloqueio total do aparelho até restauração.
 
 **Pergunta 9:** *Qual sua expectativa em relação ao **desempenho e uso de bateria** do Celular Seguro rodando no dispositivo?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Desempenho médio/alto com uso moderado de bateria.
+- **Artur Mendonça:** Idealmente baixo, mas pode variar entre baixo, médio ou alto conforme funcionalidades ativadas (ex.: GPS).
+- **Lucas Mendonça:** Custo moderado de bateria e desempenho médio. 
+- **Ana Victória:** Ter desempenho equilibrado, ajustável a vários dispositivos, com consumo baixo a moderado.
+- **Gabriel Lopes:** Consumo de bateria baixo, mesmo rodando em segundo plano.
+- **João Marcos:** Desempenho moderado com consumo de bateria moderado.
 
 **Pergunta 10:** *Você gostaria de poder **controlar as funções** do Celular Seguro remotamente por meio de um site ou outro dispositivo? Como imagina essa funcionalidade?*  
-- **Usuário 1:** 
-- **Usuário 2:** 
-- **Usuário 3:**   
-- **Usuário 4:** 
-- **Usuário 5:** 
-- **Usuário 6:** 
+- **Luiza Pugas:** Sim, via um site onde eu faça login com gov.br e tenha acesso às funções primordiais para agir se o celular for furtado ou perdido.
+- **Artur Mendonça:** Sim, um site web com as mesmas funcionalidades do app, onde tudo que é feito no site fique salvo também no app (e vice‑versa).
+- **Lucas Mendonça:** Sim, desde o primeiro login informando um e‑mail de recuperação que permita acessar remotamente as funcionalidades.
+- **Ana Victória:** Sim, poderia haver uma opção de designar um “celular de confiança” para controlar remotamente todas as funções.
+- **Gabriel Lopes:** Sim, por um site ou pelo próprio aplicativo instalado em outro dispositivo, usando minhas credenciais de login.
+- **João Marcos:** Sim, tipo um motor de busca ou um app de terceiros confiável, onde eu realizo o login e gerencio remotamente o Celular Seguro.
 
 ---
 
@@ -182,3 +182,4 @@ Além das funções, foram identificados também alguns **Requisitos Não Funcio
 | Versão | Data de Produção | Descrição da Alteração                                                                 | Autor(es)                                                                                                                      | Revisor(es)                                                                                                                  | Data de Revisão |
 | :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | 1.0    | 09/04/2025       | Documento inicial da sessão de brainstorming do projeto Celular Seguro | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 09/04/2025     |
+| 1.1    | 04/05/2025       | Adição das respostas da entrevista | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 04/05/2025     |
