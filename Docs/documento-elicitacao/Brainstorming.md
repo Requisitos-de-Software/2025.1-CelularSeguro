@@ -187,10 +187,74 @@ A partir das ideias coletadas durante o brainstorming, foram definidos os **Requ
 
 *Tabela 3: Requisitos Funcionais identificados para o Celular Seguro.* 
 
-
+| BS ID | Descrição do RF                                                                   | Código | Implementado? |
+| :---: | :-------------------------------------------------------------------------------- | :----: | :-----------: |
+|  BS01 | Bloquear remotamente o aparelho                                                   |  RF01  |      Sim      |
+|  BS02 | Apagar todos os dados do dispositivo                                              |  RF02  |      Não      |
+|  BS03 | Contatar autoridades automaticamente com relatório de segurança                   |  RF03  |      Não      |
+|  BS04 | Rastrear em tempo real a localização do dispositivo                               |  RF04  |      Não      |
+|  BS05 | Exibir histórico de movimentação no mapa                                          |  RF05  |      Não      |
+|  BS06 | Informar localização exata via coordenadas e mapa                                 |  RF06  |      Não      |
+|  BS07 | Emitir alerta S.O.S. automático para contatos de emergência                       |  RF07  |      Não      |
+|  BS08 | Bloquear chip por integração direta com a operadora                               |  RF08  |      Sim      |
+|  BS09 | Autenticação via gov.br no login                                                  |  RF09  |      Sim      |
+|  BS10 | Oferecer múltiplas opções de login (e‑mail, social, gov.br)                       |  RF10  |      Não      |
+|  BS11 | Guia de usuário passo a passo embutido no app                                     |  RF11  |      Sim      |
+|  BS12 | Cadastro de contatos de segurança e envio de notificações prioritárias            |  RF12  |      Sim      |
+|  BS13 | Portal web para controle remoto das mesmas funções do app                         |  RF13  |      Sim      |
+|  BS14 | Sincronizar notificações push e e‑mail entre app e portal                         |  RF14  |      Não      |
+|  BS15 | Botão de “bloqueio rápido” sempre acessível na tela principal                     |  RF15  |      Não      |
+|  BS16 | Comandos por voz para funções críticas (bloqueio, rastreamento, SOS)              |  RF16  |      Não      |
+|  BS17 | Efetuar backup automático de contatos, fotos e mensagens antes do bloqueio remoto |  RF17  |      Não      |
+|  BS18 | Restaurar dados de backup via e‑mail                                              |  RF18  |      Não      |
+|  BS19 | Emissão de som remoto para facilitar localização                                  |  RF19  |      Não      |
+|  BS20 | Oferecer rastreamento via satélite em áreas sem cobertura de celular              |  RF20  |      Não      |
+|  BS21 | Enviar notificação por e‑mail com detalhes da tentativa de acesso suspeito        |  RF21  |      Não      |
+|  BS22 | Gerar relatório de movimentação para download em PDF                              |  RF22  |      Não      |
+|  BS23 | Definir “dispositivo de confiança” para controle remoto secundário                |  RF23  |      Sim      |
+|  BS24 | Atualizar localização em tempo real a cada X segundos                             |  RF24  |      Não      |
+|  BS25 | Permitir agendamento de bloqueio remoto em horários predefinidos                  |  RF25  |      Não      |
+|  BS26 | Notificar usuário de troca de chip imediatamente                                  |  RF26  |      Não      |
+|  BS27 | Interface para consulta de status de bloqueio e rastreamento                      |  RF27  |      Sim      |
+|  BS28 | Incluir funcionalidade “Modo perdido” com ações automáticas predefinidas          |  RF28  |      Não      |
+|  BS29 | Enviar SMS de confirmação após cada ação remota                                   |  RF29  |      Não      |
+|  BS30 | Permitir compartilhamento temporário de localização com contatos cadastrados      |  RF30  |      Não      |
+|  BS31 | Disparar alarme sonoro e visual no dispositivo                                    |  RF31  |      Não      |
+|  BS32 | Executar limpeza remota somente após autenticação forte                           |  RF32  |      Não      |
+|  BS33 | Registrar logs de todas as ações remotas para auditoria                           |  RF33  |      Não      |
+|  BS34 | Exibir status de bateria e conectividade antes de executar ações críticas         |  RF34  |      Não      |
+|  BS35 | Integração com Google Maps para exibição de rotas e histórico                     |  RF35  |      Não      |
 
 
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – definição concisa da funcionalidade exigida. **Código (RFx)** – código de referência do Requisito Funcional (RF) seguido de um número sequencial. **Implementado?** – indica se o requisito está implementado no sistema atualmente (Sim) ou não (Não). 
+
+| BS ID | Descrição do RNF                                                                      | Código | Implementado? |
+| :---: | :------------------------------------------------------------------------------------ | :----: | :-----------: |
+|  BS36 | Interface intuitiva com affordances visuais claras                                    |  RNF01 |      Sim      |
+|  BS37 | Linguagem simples sem jargões técnicos                                                |  RNF02 |      Sim      |
+|  BS38 | Layout consistente seguindo heurísticas de Nielsen                                    |  RNF03 |      Não      |
+|  BS39 | Tempo de resposta da interface < 200 ms                                               |  RNF04 |      Não      |
+|  BS40 | Disponibilidade do portal web e app 99,9 % (SLA)                                      |  RNF05 |      Sim      |
+|  BS41 | Latência de tutoriais e assistente virtual < 1 segundo                                |  RNF06 |      Não      |
+|  BS42 | Suporte a VLibras e leitor de tela para acessibilidade                                |  RNF07 |      Não      |
+|  BS43 | Opção de contraste de cores e ajuste de tamanho de fonte                              |  RNF08 |      Não      |
+|  BS44 | Transcrição em tempo real sem falhas de reconhecimento                                |  RNF09 |      Não      |
+|  BS45 | Precisão de localização GPS melhor que 10 m                                           |  RNF10 |      Não      |
+|  BS46 | Rastreamento em segundo plano com consumo de bateria otimizado (< 3 % por hora)       |  RNF11 |      Não      |
+|  BS47 | Backup criptografado em repouso e em trânsito (AES‑256)                               |  RNF12 |      Não      |
+|  BS48 | Autenticação multifator (2 FA) com fallback via SMS                                   |  RNF13 |      Não      |
+|  BS49 | Logs de auditoria imutáveis e armazenados por no mínimo 1 ano                         |  RNF14 |      Não      |
+|  BS50 | Política de privacidade clara e facilmente acessível dentro do app                    |  RNF15 |      Não      |
+|  BS51 | Notificações entregues em tempo real com taxa de sucesso > 99 %                       |  RNF16 |      Não      |
+|  BS52 | Central de ajuda acessível offline e online                                           |  RNF17 |      Não      |
+|  BS53 | Verificação de integridade de dados no drive com checksum                             |  RNF18 |      Não      |
+|  BS54 | Monitoramento de tentativas de acesso não autorizado com alertas automáticos          |  RNF19 |      Não      |
+|  BS55 | Consumo de dados móveis otimizado por compressão de pacotes                           |  RNF20 |      Não      |
+|  BS56 | Sincronização de estado entre app e portal em menos de 5 segundos                     |  RNF21 |      Não      |
+|  BS57 | Compatibilidade com Android e iOS (últimas 3 versões principais)                      |  RNF22 |      Sim      |
+|  BS58 | Tempo de inicialização do app < 2 segundos                                            |  RNF23 |      Não      |
+|  BS59 | Suporte a múltiplos idiomas e mudança dinâmica sem reiniciar                          |  RNF24 |      Não      |
+|  BS60 | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas |  RNF25 |      Não      |
 
 ---
 
