@@ -1,5 +1,9 @@
 # First Things First
 
+## Introdução
+
+A priorização de requisitos é fundamental para garantir que funcionalidades críticas sejam desenvolvidas primeiro. No projeto Celular Seguro, utilizamos a técnica First Things First para organizar e priorizar os requisitos com base em benefício, penalidade, custo e risco. Essa abordagem ajuda a alinhar o desenvolvimento com os objetivos de segurança, usabilidade e acessibilidade do aplicativo.
+
 ## Metodologia
 
 As pessoas que participaram da aplicação da técnica _First Things First_ (FTF) estão listadas na **Tabela 1**.
@@ -18,9 +22,15 @@ As pessoas que participaram da aplicação da técnica _First Things First_ (FTF
 | Usuário Representante | Cliente        |
 | Equipe de Desenvolvimento | Desenvolvedor |
 
-*Legenda:* **Nome** – participante da técnica. **Função** – papel desempenhado na priorização.
 
 </center>
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização.
+
 
 ---
 
@@ -53,7 +63,7 @@ A aplicação do FTF seguiu os passos:
 
 | **Funcionalidade** | **Benefício&nbsp;Relativo** | **Penalidade&nbsp;Relativa** | **Valor&nbsp;total** | **Valor&nbsp;(%)** | **Custo&nbsp;Relativo** | **Custo&nbsp;(%)** | **Risco&nbsp;Relativo** | **Risco&nbsp;(%)** | **Prioridade** |
 |--------------------|----------------------------|-----------------------------|----------------------|--------------------|------------------------|--------------------|-------------------------|--------------------|---------------|
-| RF12 | 9 | 9 | 27 | 4,53 | 1 | 1,35 | 1 | 1,16 | 2,344 |
+| Q01 | 9 | 9 | 27 | 4,53 | 1 | 1,35 | 1 | 1,16 | 2,344 |
 | RNF7 | 9 | 9 | 27 | 4,53 | 1 | 1,35 | 1 | 1,16 | 2,344 |
 | RNF2 | 8 | 8 | 24 | 4,03 | 1 | 1,35 | 1 | 1,16 | 2,083 |
 | RNF12 | 7 | 7 | 21 | 3,52 | 1 | 1,35 | 1 | 1,16 | 1,823 |
@@ -79,9 +89,24 @@ A aplicação do FTF seguiu os passos:
 | RNF8 | 9 | 9 | 27 | 4,53 | 7 | 9,46 | 9 | 10,47 | 0,308 |
 | RF11 | 6 | 6 | 18 | 3,02 | 6 | 8,11 | 6 | 6,98 | 0,260 |
 
-*Legenda:* **Funcionalidade** – código do requisito priorizado (**RFx** para funcionais, **RNFx** para não funcionais). **Benefício&nbsp;Relativo** e **Penalidade&nbsp;Relativa** – notas (1 – 9) atribuídas pelo *Cliente*. **Valor&nbsp;total** – Benefício × 2 + Penalidade × 1. **Valor&nbsp;(%)** – valor total normalizado. **Custo&nbsp;Relativo** e **Risco&nbsp;Relativo** – notas (1 – 9) atribuídas pelo *Desenvolvedor*. **Custo&nbsp;(%)** e **Risco&nbsp;(%)** – valores normalizados. **Prioridade** – razão entre Valor (%) e o esforço ((Custo (%) × 1) + (Risco (%) × 0,5)).
-
 </center>
+
+*Legenda:* 
+
+**Funcionalidade** – código do requisito priorizado (**RFx** para funcionais, **RNFx** para não funcionais). 
+
+**Benefício&nbsp;Relativo** e **Penalidade&nbsp;Relativa** – notas (1 – 9) atribuídas pelo *Cliente*. 
+
+**Valor&nbsp;total** – Benefício × 2 + Penalidade × 1. 
+
+**Valor&nbsp;(%)** – valor total normalizado. 
+
+**Custo&nbsp;Relativo** e **Risco&nbsp;Relativo** – notas (1 – 9) atribuídas pelo *Desenvolvedor*. 
+
+**Custo&nbsp;(%)** e **Risco&nbsp;(%)** – valores normalizados. 
+
+**Prioridade** – razão entre Valor (%) e o esforço ((Custo (%) × 1) + (Risco (%) × 0,5)).
+
 
 ---
 
@@ -93,22 +118,27 @@ A aplicação do FTF seguiu os passos:
 
 | **ID (RFx)** | **Descrição do Requisito Funcional** |
 |--------------|---------------------------------------|
-| RF1 | O aplicativo permite realizar a compra do ingresso. |
-| RF2 | O aplicativo permite o cadastro e o login do usuário. |
-| RF3 | O aplicativo permite excluir cadastro. |
-| RF4 | O aplicativo permite cancelar compras. |
-| RF5 | O aplicativo possui um mecanismo de busca. |
-| RF6 | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário. |
-| RF7 | O aplicativo notifica o usuário sobre eventos, quando permitido. |
-| RF8 | O usuário é capaz de filtrar eventos. |
-| RF9 | O usuário é capaz de acessar as informações do evento. |
-| RF10 | O usuário é capaz de mudar o idioma do app. |
-| RF11 | O usuário é capaz de acessar a assistente virtual. |
-| RF12 | O usuário é capaz de compartilhar o evento. |
-
-*Legenda:* **ID (RFx)** – identificador sequencial de Requisito Funcional. **Descrição** – definição concisa da funcionalidade exigida.
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">Q01</a> | O aplicativo deve permitir localizar o celular perdido. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">Q02</a> | O aplicativo deve tornar visível e acessível a opção de registro de boletim de ocorrência. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">Q06</a> | O aplicativo deve notificar o usuário em caso de atividade suspeita relacionada ao dispositivo. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS03</a> | Existe a funcionalidade de redefinir a senha via e-mail. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS06</a> | O sistema disponibiliza uma aba que te leva a um pdf com um tutorial do aplicativo. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS09</a> | Ao tentar emitir um alerta de roubo, o sistema exibe uma janela pop-up solicitando a confirmação do usuário antes de prosseguir com a ação. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS10</a> | 	Pelo MEI do aparelho, é possível consultar o status do celular e saber se ele se encontra como um celular roubado, furtado, etc ( irregular). |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS02</a> | Apagar todos os dados do dispositivo |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS08</a> | Bloquear chip por integração direta com a operadora |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS15</a> | Botão de “bloqueio rápido” sempre acessível na tela principal. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS17</a> | Efetuar backup automático de contatos, fotos e mensagens antes do bloqueio remoto. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS23</a> | Definir “dispositivo de confiança” para controle remoto secundário. |
 
 </center>
+
+*Legenda:* 
+
+**ID (RFx)** – identificador sequencial de Requisito Funcional. 
+
+**Descrição** – definição concisa da funcionalidade exigida.
+
 
 ---
 
@@ -120,23 +150,28 @@ A aplicação do FTF seguiu os passos:
 
 | **ID (RNFx)** | **Descrição do Requisito Não Funcional** |
 |--------------|-------------------------------------------|
-| RNF1 | Deve apresentar eventos de forma personalizada, de acordo com a atividade do usuário. |
-| RNF2 | O usuário deve acessar data, local e preço do ingresso em no máximo 2 cliques. |
-| RNF3 | O usuário deve acessar um tópico de ajuda em até 3 cliques. |
-| RNF4 | Deve exibir aviso de início/fim de venda de ingressos em formato de notificação acessível com 1 clique. |
-| RNF5 | Deve oferecer atendimento especial para idosos/deficientes. |
-| RNF6 | Deve oferecer login seguro com credenciais do usuário. |
-| RNF7 | Deve possuir área para reportar erros de funcionamento. |
-| RNF8 | Deve proteger os dados de cadastro e compra dos usuários. |
-| RNF9 | Deve exibir eventos relevantes ao usuário. |
-| RNF10 | As notificações devem ser fornecidas em tempo hábil. |
-| RNF11 | O sistema deve indexar e pesquisar palavras-chave rapidamente. |
-| RNF12 | O aplicativo deve permitir compra de ingressos em menos de três telas. |
-| RNF13 | O sistema deve solucionar problemas relacionados à compra de ingressos. |
-
-*Legenda:* **ID (RNFx)** – identificador sequencial de Requisito Não Funcional. **Descrição** – detalhamento do critério de qualidade ou restrição.
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS15</a> | O aplicativo apresenta uma interface amigável e intuitiva, com ícones bem definidos e menus acessíveis.|
+|  <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS16</a> | As páginas carregam em até 2 segundos em conexões padrão 4G. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS18</a> | O aplicativo é acessível para pessoas com deficiência visual (uso de leitor de tela, contraste, tamanho da fonte). |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">OBS21</a> | O aplicativo está disponível 24/7, com raras quedas detectadas durante a observação. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">Q09</a> | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">Q19</a> | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS37</a> | Linguagem simples sem jargões técnicos |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS48</a> | Autenticação multifator (2 FA) com fallback via SMS. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS50</a> | Política de privacidade clara e facilmente acessível dentro do app |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS52</a> | Central de ajuda acessível offline e online |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS54</a> | Monitoramento de tentativas de acesso não autorizado com alertas automáticos. |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS56</a> | Sincronização de estado entre app e portal em menos de 5 segundos |
+| <a href="../../Docs/documento-elicitacao/AnalisedeDocumentos.md">BS60</a> | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas. |
 
 </center>
+
+*Legenda:* 
+
+**ID (RNFx)** – identificador sequencial de Requisito Não Funcional. 
+
+**Descrição** – detalhamento do critério de qualidade ou restrição.
+
 
 ---
 
