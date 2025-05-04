@@ -73,13 +73,12 @@ theme:
     - content.code.annotate
     - content.tabs.link
     - header.autohide
-    - navigation.expand
     - navigation.instant
-    - navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
     - navigation.path
+    
 
   palette:
     # Palette toggle for light mode
