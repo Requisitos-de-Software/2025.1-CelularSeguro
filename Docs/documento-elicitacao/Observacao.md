@@ -12,13 +12,14 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 
 <center>
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes da sessão de observação e suas funções.</p></font>
 
-*Tabela 1: Participantes da sessão de observação e suas funções.*
 
 | Nome                                             | Função                   |
 | ------------------------------------------------ | ------------------------ |
 | [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite)    | Observadores           |
 | [Daniel Rodrigues](https://github.com/zDrNz) | Usuário |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite) e [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
@@ -33,8 +34,8 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 ## Gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo: </strong> <a href="https://youtu.be/D23ETsvo7Lk"> Observação - Requisitos</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/D23ETsvo7Lk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo: </strong> <a href="https://player.vimeo.com/video/1081298512?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"> Observação - Requisitos</a></p>
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1081298512?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Observação-Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258),  [Arthur Carvalho](https://github.com/arthurlleite) e [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
@@ -122,3 +123,4 @@ Além das funções, foram identificados também alguns **Requisitos Não Funcio
 | :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | 1.0    | 01/05/2025       | Documento inicial de observação do projeto Celular Seguro | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>|02/05/2025|
 | 1.1    | 02/05/2025       | Inserção do vídeo e dos RFs e RNFs | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> |<a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> |02/05/2025|
+| 1.2    | 04/05/2025       | Correção do link do video | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> |<a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> |04/05/2025|
