@@ -61,9 +61,14 @@ A condução da dinâmica seguiu as boas práticas de brainstorming apresentadas
 
 ## Participantes da Sessão
 
-A **Tabela 2** apresenta os participantes da sessão de brainstorming do projeto Celular Seguro, incluindo seus nomes (ou identificações) e funções desempenhadas na reunião:
-
-*Tabela 2: Participantes da sessão de brainstorming e suas funções.*
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 2: Participantes da sessão de brainstorming – Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Lista de mediador, secretário e usuários finais que contribuíram com ideias e discussões na sessão realizada em 29/04/2025.
+    </span>
+  </p>
+</font>
 
 | **Nome/ID**       | **Função na Sessão** |
 |-------------------|----------------------|
