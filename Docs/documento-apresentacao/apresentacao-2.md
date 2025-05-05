@@ -2,11 +2,11 @@
 
 O objetivo dessa página é armazenar o vídeo da apresentação da Segunda Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
-## Apresentação 1
-<p style="text-align: center"><a href="https://youtu.be/2BGZ4I2GY4Y" target="blanket">Clique aqui</a></p>
+## Apresentação 2
+<p style="text-align: center"><a href="https://youtu.be/41qYV7duYlE" target="blanket">Clique aqui</a></p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2BGZ4I2GY4Y?si=x8klBSwtQkNOyCyf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41qYV7duYlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 
@@ -30,4 +30,5 @@ A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo a
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-1.0 | 04/05/2025 | Criação da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | | |
+1.0 | 04/05/2025 | Criação da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 04/05/2025 |
+1.1 | 04/05/2025 | Adição do vídeo de apresentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 04/05/2025 |
