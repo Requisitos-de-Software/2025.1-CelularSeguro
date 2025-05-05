@@ -35,7 +35,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
-### 2. Itens do Desenvolvimento do Projeto
+### 2. Itens do Conteúdo do Projeto
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens do Conteúdo Geral do Projeto</p></font> 
 
