@@ -38,9 +38,9 @@ Pelo computador de casa, Carlos acessa a interface web do **Celular Seguro** com
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 2: Requisitos Não‑Funcionais do Celular Seguro (Storytelling)<br>
+    Tabela 1: Requisitos Funcionais do Celular Seguro (Storytelling)<br>
     <span style="font-size:0.85em; font-style:italic;">
-      Lista os requisitos não‑funcionais (ST8–ST12) levantados na técnica de Storytelling.
+      Lista os requisitos funcionais (ST1–ST7) levantados na técnica de Storytelling.
     </span>
   </p>
 </font>
