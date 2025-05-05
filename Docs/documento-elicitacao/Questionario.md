@@ -12,7 +12,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Pergunta nº 1 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1699546572&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Em que região administrativa do Distrito Federal/outra cidade reside:
@@ -20,7 +20,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº 2 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1319026324&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Faixa Etária:
@@ -28,7 +28,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Pergunta nº 3 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=35061410&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Gênero:
@@ -36,7 +36,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Pergunta nº 4 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=703963018&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Possui Celular:
@@ -44,7 +44,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 5</b> - Pergunta nº 5 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1074180720&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Frequência de Uso de Aplicativos de Celular:
@@ -52,7 +52,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 6</b> - Pergunta nº 6 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1737294109&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ## Experiência de ter Perdido o Celular:
@@ -64,7 +64,7 @@ As Figuras 7, 8 e 9 são referentes às dificuldades pós perda do celular. Que 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 7</b> - Pergunta nº 7 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=629375075&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Maior dificuldade após o ocorrido:
@@ -72,7 +72,7 @@ As Figuras 7, 8 e 9 são referentes às dificuldades pós perda do celular. Que 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 8</b> - Pergunta nº 8 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=2043712913&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 
@@ -81,7 +81,7 @@ As Figuras 7, 8 e 9 são referentes às dificuldades pós perda do celular. Que 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 9</b> - Pergunta nº 16 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1554268289&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ## Sobre o Aplicativo Celular Seguro:
@@ -93,7 +93,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 10</b> - Pergunta nº 9 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1081851550&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a>s</font></figcaption>
 </figure>
 
 ### Facilidade de uso do aplicativo:
@@ -101,7 +101,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 11</b> - Pergunta nº 10 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1733870079&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Interface visual do aplicativo:
@@ -109,7 +109,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 12</b> - Pergunta nº 11 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1006772169&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Encontrar as ferramentas do aplicativo:
@@ -117,7 +117,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 13</b> - Pergunta nº 12 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1209058234&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ### Sentimento de ter os dados protegidos usando o aplicativo:
@@ -125,7 +125,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 14</b> - Pergunta nº 15 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1108067307&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 ## Respostas Descritivas:
@@ -146,7 +146,7 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 | 6  | Como informaram que há a possibilidade de fazer o boletim de ocorrência, fiquei na dúvida se eu realmente poderia fazer, só fuçando o aplicativo vi a funcionalidade nos pontinhos escondidos |
 
 
-<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
 
 
 ### Novas funcionalidades do aplicativo:
@@ -165,7 +165,7 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 | 8  | Modo de alto contraste e legibilidade                      |
 | 9  | Notificações de atividade suspeita                         |
 
-<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
 
 
 
@@ -195,7 +195,7 @@ Legenda:
 | RF07  | O aplicativo deve permitir a recuperação do aparelho bloqueado caso reencontrado.  | Q08 | Não          |
 | RF08  | O aplicativo deve permitir que o usuário registre um boletim de ocorrência. | Q09  | Sim          |
 
-<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
 
 
 ### Requisitos Não Funcionais
@@ -212,7 +212,7 @@ Legenda:
 | RNF05  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.      | Q09  | Não         |
 | RNF06  | O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.      | Q12  | Sim         |
 
-<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
 
 
 ## Bibliografia

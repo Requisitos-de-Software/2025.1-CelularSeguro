@@ -123,4 +123,4 @@ Por fim, a categoria Won’t (Tabela 4) inclui requisitos que não serão implem
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0    | 04/05/2025         | Desenvolvimento do artefato                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Matheus</a>| 04/05/2025|
+| 1.0    | 04/05/2025         | Desenvolvimento do artefato                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 04/05/2025|
