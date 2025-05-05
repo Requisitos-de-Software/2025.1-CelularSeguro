@@ -75,6 +75,8 @@ A Técnica de R$100 simula um orçamento virtual de R$100 para ser alocado pelos
 
 ---
 
+## Requisitos Elicitados
+
 ### [Requisitos Elicitados](./requisitos_elicitados.md)
 
 Nesta seção, são apresentados os requisitos identificados, organizados por categoria (funcionais, não funcionais, de interface) e referenciados conforme a técnica de elicitação utilizada.
@@ -84,4 +86,4 @@ Nesta seção, são apresentados os requisitos identificados, organizados por ca
 
 | Versão | Data de produção | Descrição da Alteração             | Autor(es)                                                                                             | Revisor(es)                                                                                           | Data de Revisão |
 | :----: | :--------------: | :--------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------: |
-| 1.0    | 04/05/2025       | Criação da documentação de elicitação | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 04/05/2025      |
+| 1.0    | 04/05/2025       | Criação da documentação de elicitação | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>, <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 04/05/2025      |
