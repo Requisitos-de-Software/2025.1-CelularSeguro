@@ -31,9 +31,10 @@ nav:
       - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
     
   - Verificação:
-      - Ckecklist: 
-        - Introdução: "documento-verificacao/introducao-verificacao.md"
+      - Introdução: "documento-verificacao/introducao-verificacao.md"
+      - Entregas:
         - Entrega 1: "documento-verificacao/documento-verificacao-grupo.md" 
+        - Entrega 2: "documento-verificacao/documento-verificacao-grupo2.md" 
 
   - Inspeção:
       - Grupo:
