@@ -82,7 +82,7 @@ Pelo computador de casa, Carlos acessa a interface web do **Celular Seguro** com
 
 ---
 
-## Bibliografias
+## Bibliografia
 
 > **Neelamegan, V. (2024).** *The Power of Storytelling in Business Analysis: Unlocking Insights and Driving Results*. LinkedIn [Artigo online]. Disponível em: **<https://www.linkedin.com/pulse/power-storytelling-business-analysis-unlocking-vignesh-neelamegan-4usqe>**. (acessado em 29/04/2025).
 
