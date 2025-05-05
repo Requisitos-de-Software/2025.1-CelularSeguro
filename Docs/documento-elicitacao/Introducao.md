@@ -1,5 +1,8 @@
 # Documentação Elicitação
+
 ---
+
+## Técnicas de Elicitação
 
 ### [Elicitação](./Introducao.md)
 
@@ -72,14 +75,6 @@ A técnica MoSCoW classifica requisitos em Must have, Should have, Could have e 
 ### [Técnica de $100](./100.md)
 
 A Técnica de R$100 simula um orçamento virtual de R$100 para ser alocado pelos stakeholders entre os requisitos, promovendo visualização de trade-offs e engajamento lúdico na priorização.
-
----
-
-## Requisitos Elicitados
-
-### [Requisitos Elicitados](./requisitos_elicitados.md)
-
-Nesta seção, são apresentados os requisitos identificados, organizados por categoria (funcionais, não funcionais, de interface) e referenciados conforme a técnica de elicitação utilizada.
 
 ---
 ## Histórico de Versões
