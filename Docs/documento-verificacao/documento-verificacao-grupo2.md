@@ -112,11 +112,11 @@
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF01">1</a> | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | [Arthur Carvalho](https://github.com/arthurlleite)  |  |
-| <a href="#REF02">2</a> | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos? | [Arthur Carvalho](https://github.com/arthurlleite)  |  |
-| <a href="#REF03">3</a> | Está especificado o papel de cada participante? | [Arthur Carvalho](https://github.com/arthurlleite)  |  |
-| <a href="#REF04">4</a> | Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa? | [Arthur Carvalho](https://github.com/arthurlleite)  |  | 
-| <a href="#REF05">5</a> | Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias? | [Arthur Carvalho](https://github.com/arthurlleite)  |  |
+| <a href="#REF01">1</a> | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. |
+| <a href="#REF02">2</a> | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF03">3</a> | Está especificado o papel de cada participante? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF04">4</a> | Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. | 
+| <a href="#REF05">5</a> | Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
@@ -127,12 +127,12 @@
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF01">1</a> | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | [Daniel Rodrigues](https://github.com/zDrNz)  |  |
-| <a href="#REF02">2</a> | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos? | [Daniel Rodrigues](https://github.com/zDrNz)  |  |
-| <a href="#REF03">3</a> | Está especificado o papel de cada participante? | [Daniel Rodrigues](https://github.com/zDrNz)  |  |
-| <a href="#REF04">4</a> | O ambiente de observação foi adequado para capturar os dados relevantes, como a interação dos usuários com o sistema? | [Daniel Rodrigues](https://github.com/zDrNz)  |  |
-| <a href="#REF05">5</a> | As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários? | [Daniel Rodrigues](https://github.com/zDrNz)  |  |
-| <a href="#REF06">6</a> | Os requisitos elicitados durante a observação foram registrados de forma precisa e completa? | [Daniel Rodrigues](https://github.com/zDrNz)  |  |
+| <a href="#REF01">1</a> | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | [Daniel Rodrigues](https://github.com/zDrNz)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. |
+| <a href="#REF02">2</a> | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos? | [Daniel Rodrigues](https://github.com/zDrNz)  | *Referência:* SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf) |
+| <a href="#REF03">3</a> | Está especificado o papel de cada participante? | [Daniel Rodrigues](https://github.com/zDrNz)  | *Referência:* SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf) |
+| <a href="#REF04">4</a> | O ambiente de observação foi adequado para capturar os dados relevantes, como a interação dos usuários com o sistema? | [Daniel Rodrigues](https://github.com/zDrNz)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF05">5</a> | As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários? | [Daniel Rodrigues](https://github.com/zDrNz)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF06">6</a> | Os requisitos elicitados durante a observação foram registrados de forma precisa e completa? | [Daniel Rodrigues](https://github.com/zDrNz)  | *Referência:* SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
@@ -143,11 +143,11 @@
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF01">1</a> | O(s) registro(s) da atividade de priorização dos requisitos? | [Leonardo de Melo](https://github.com/leozinlima)  |  |
-| <a href="#REF02">2</a> | Há um número suficiente de histórias incluídas no artefato de Storytelling para abranger de forma adequada os requisitos e necessidades identificadas? | [Leonardo de Melo](https://github.com/leozinlima)  |  |
-| <a href="#REF03">3</a> | A documentação do Storytelling está completa, incluindo detalhes relevantes, como eventos-chave, interações e sequências de ações? | [Leonardo de Melo](https://github.com/leozinlima)  |  |
-| <a href="#REF04">4</a> | As personas ou personagens foram desenvolvidos de maneira consistente e representam adequadamente os usuários do sistema? | [Leonardo de Melo](https://github.com/leozinlima)  |  |
-| <a href="#REF05">5</a> | As histórias são capazes de transmitir claramente a visão e as necessidades dos usuários aos membros da equipe de desenvolvimento? | [Leonardo de Melo](https://github.com/leozinlima)  |  |
+| <a href="#REF01">1</a> | O(s) registro(s) da atividade de priorização dos requisitos? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF02">2</a> | Há um número suficiente de histórias incluídas no artefato de Storytelling para abranger de forma adequada os requisitos e necessidades identificadas? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. |
+| <a href="#REF03">3</a> | A documentação do Storytelling está completa, incluindo detalhes relevantes, como eventos-chave, interações e sequências de ações? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF04">4</a> | As personas ou personagens foram desenvolvidos de maneira consistente e representam adequadamente os usuários do sistema? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. |
+| <a href="#REF05">5</a> | As histórias são capazes de transmitir claramente a visão e as necessidades dos usuários aos membros da equipe de desenvolvimento? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
@@ -159,11 +159,11 @@
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF01">1</a> | O(s) registro(s) da atividade de priorização dos requisitos? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  |  |
-| <a href="#REF02">2</a> | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  |  |
-| <a href="#REF03">3</a> | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  |  |
-| <a href="#REF04">4</a> | A participação do cliente e/ou persona no processo de priorização? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  |  |
-| <a href="#REF05">5</a> | Foi feita uma revisão para garantir que nenhum requisito importante tenha sido negligenciado ou erroneamente classificado? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  |  |
+| <a href="#REF01">1</a> | O(s) registro(s) da atividade de priorização dos requisitos? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) |
+| <a href="#REF02">2</a> | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF03">3</a> | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF04">4</a> | A participação do cliente e/ou persona no processo de priorização? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF05">5</a> | Foi feita uma revisão para garantir que nenhum requisito importante tenha sido negligenciado ou erroneamente classificado? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
@@ -174,11 +174,11 @@
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF01">1</a> | As necessidades dos usuários/clientes foram claramente identificadas e listadas? | [Vitor Pereira](https://github.com/Bessazs)  |  |
-| <a href="#REF02">2</a> | Foram feitas as correlações entre as necessidades e os requisitos técnicos foram avaliadas (forte, média, fraca)? | [Vitor Pereira](https://github.com/Bessazs)  |  |
-| <a href="#REF03">3</a> | O QFD foi utilizado para calcular a prioridade de implementação dos requisitos técnicos? | [Vitor Pereira](https://github.com/Bessazs)  |  |
-| <a href="#REF04">4</a> | A equipe envolveu o cliente ou persona durante a elaboração da matriz QFD? | [Vitor Pereira](https://github.com/Bessazs)  |  |
-| <a href="#REF05">5</a> | O QFD gerou insights que influenciaram mudanças nas decisões de projeto? | [Vitor Pereira](https://github.com/Bessazs)  |  |
+| <a href="#REF01">1</a> | As necessidades dos usuários/clientes foram claramente identificadas e listadas? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF02">2</a> | Foram feitas as correlações entre as necessidades e os requisitos técnicos foram avaliadas (forte, média, fraca)? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) |
+| <a href="#REF03">3</a> | O QFD foi utilizado para calcular a prioridade de implementação dos requisitos técnicos? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| <a href="#REF04">4</a> | A equipe envolveu o cliente ou persona durante a elaboração da matriz QFD? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) |
+| <a href="#REF05">5</a> | O QFD gerou insights que influenciaram mudanças nas decisões de projeto? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
@@ -191,6 +191,14 @@
 > BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. 
 
 > COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. ISBN 978-0-470-08411-3 
+
+> SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf) 
+
+> SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). 
+
+> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)  
+
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (1).pdf" target="_blank">PDF - Requisitos – Aula 23</a>. Acesso em: 14 abr. 2025, 12:46.
 
 ## Histórico de Versões 
 
