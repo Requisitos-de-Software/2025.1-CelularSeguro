@@ -27,8 +27,10 @@ A partir dos dados obtidos, foi possível agrupar os participantes com base em c
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Pergunta nº 4 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=703963018&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a> </font></figcaption>
 </figure>
+
+
 
 
 A maioria dos respondentes se identifica com o gênero masculino (52,1%), seguido pelo feminino (45,8%). Apenas 2% preferiram não informar.
@@ -41,7 +43,7 @@ A maioria dos respondentes se identifica com o gênero masculino (52,1%), seguid
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Pergunta nº 3 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=35061410&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 A maior parte dos usuários está entre 18 e 25 anos (58,3%), seguida por 26 a 35 anos (22,9%). As faixas de 36 a 50 anos e acima de 50 representam, cada uma, 8,3%. Apenas 2,1% têm 18 anos.
@@ -55,7 +57,7 @@ A maior parte dos usuários está entre 18 e 25 anos (58,3%), seguida por 26 a 3
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 6</b> - Pergunta nº 6 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1737294109&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 A maioria dos participantes utiliza o aplicativo diversas vezes ao dia (64,6%), enquanto 25% o usam diariamente e 10,4% algumas vezes por semana.
@@ -69,10 +71,12 @@ A maioria dos participantes utiliza o aplicativo diversas vezes ao dia (64,6%), 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 11</b> - Pergunta nº 10 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1733870079&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: Felipe das Neves</font></figcaption>
+<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
 </figure>
 
 O aplicativo foi considerado fácil ou muito fácil de usar por 83,3% dos usuários. Apenas 12,5% relataram dificuldade, e 4,2% acharam muito difícil.
+
+
 
 ---
 
