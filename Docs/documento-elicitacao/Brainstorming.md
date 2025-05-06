@@ -4,7 +4,7 @@
 
 ## Metodologia
 
-A sessão de brainstorming do projeto Celular Seguro ocorreu remotamente via **Microsoft Teams** no dia **29/04/2025** (terça-feira). Teve a duração aproximada de uma hora e foi moderada por **Leonardo de Melo** (mediador), com **Arthur Carvalho** atuando como secretário responsável por registrar as ideias. Participaram **seis usuários** finais (identificados como *Usuário 1* a *Usuário 6*), que contribuíram com suas perspectivas sobre o aplicativo.
+A sessão de brainstorming do projeto Celular Seguro ocorreu remotamente via **Microsoft Teams** no dia **29/04/2025** (terça-feira) às 21h. Teve a duração aproximada de uma hora e foi moderada por **Leonardo de Melo** (mediador), com **Arthur Carvalho** atuando como secretário responsável por registrar as ideias. Participaram **seis usuários** finais (identificados como *Usuário 1* a *Usuário 6*), que contribuíram com suas perspectivas sobre o aplicativo.
 
 A condução da dinâmica seguiu as boas práticas de brainstorming apresentadas na literatura. Em geral, recomenda-se envolver um grupo relativamente pequeno de participantes para garantir a efetividade da sessão – aproximadamente **6 a 12 pessoas**. No caso do Celular Seguro, optou-se por incluir **6 participantes** devido a limitações de disponibilidade, número ainda considerado adequado para fomentar discussões produtivas. Antes da sessão, os participantes foram informados sobre o objetivo (“Que recursos e características um *celular seguro* deve ter?”) e reforçadas as **regras básicas** da técnica, como a ausência de críticas ou julgamentos durante a geração de ideias e o incentivo a sugestões criativas de qualquer natureza. O mediador guiou a conversa por meio de perguntas norteadoras previamente elaboradas, enquanto o secretário anotou todas as contribuições em tempo real, categorizando termos-chave e ideias principais para análise posterior. 
 
@@ -54,6 +54,9 @@ A condução da dinâmica seguiu as boas práticas de brainstorming apresentadas
 |      BS29     | Confirmação por SMS             |
 |      BS30     | Compartilhamento de localização |
 
+**Autor do tabela 1:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+
+
 
 *(Cada código BS refere-se a uma ideia ou conceito-chave mencionado na tempestade de ideias.)*
 
@@ -80,6 +83,8 @@ A condução da dinâmica seguiu as boas práticas de brainstorming apresentadas
 | Ana Victória      | Participante (Usuário final) |
 | Gabriel Lopes     | Participante (Usuário final) |
 | João Marcos       | Participante (Usuário final) |
+
+**Autor do tabela 2:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 **Mediador:** responsável por conduzir a discussão, apresentar as perguntas e garantir o cumprimento das regras do brainstorming (mantendo o foco e estimulando a participação de todos).  
 **Secretário:** responsável por registrar fielmente todas as ideias apresentadas e organizar as anotações.  
@@ -279,6 +284,9 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 |  BS35 | Integração com Google Maps para exibição de rotas e histórico                     |  RF35  |      Não      |
 
 
+**Autor do tabela 3:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
+
+
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – definição concisa da funcionalidade exigida. **Código (RFx)** – código de referência do Requisito Funcional (RF) seguido de um número sequencial. **Implementado?** – indica se o requisito está implementado no sistema atualmente (Sim) ou não (Não). 
 
 ---
@@ -321,6 +329,8 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 |  BS58 | Tempo de inicialização do app < 2 segundos                                            |  RNF23 |      Não      |
 |  BS59 | Suporte a múltiplos idiomas e mudança dinâmica sem reiniciar                          |  RNF24 |      Não      |
 |  BS60 | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas |  RNF25 |      Não      |
+
+**Autor do tabela 4:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>
 
 *Legenda:* **ID** – Identificador numérico do requisito. **Descrição** – detalhamento do critério de qualidade ou restrição. **Código (RNFx)** – código de referência do Requisito Não Funcional (RNF) com numeração sequencial. **Implementado?** – indica se o requisito já se encontra implementado (Sim) ou não (Não). 
 
