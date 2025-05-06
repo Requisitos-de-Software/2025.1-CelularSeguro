@@ -18,6 +18,9 @@ Essa metodologia resultou na construção de três personas primárias e uma ant
 ---
 
 
+## Elenco
+
+<p style="text-align: center"><b>Tabela 1</b> - Persona Primária João da Silva.</p>
 
 <p align="center">
   <img src="../../assets/Personas/Joao.png" alt="João da Silva" width="400"/>
@@ -45,6 +48,8 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 ---
 
 
+<p style="text-align: center"><b>Tabela 2</b> - Persona Secundária Ana Paula.</p>
+
 <p align="center">
   <img src="../../assets/Personas/Anapaula.png" alt="João da Silva" width="400"/>
 </p>
@@ -69,6 +74,7 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 <br>
 ---
 
+<p style="text-align: center"><b>Tabela 3</b> - Persona secundária Roberto Nunes.</p>
 
 
 <p align="center">
@@ -86,6 +92,10 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 | **Tarefas Primárias**   | Manter comunicação com amigos e familiares, navegar na internet de forma segura |
 | **Requisitos**          | Necessita de uma solução de segurança simples, com proteção para dados pessoais e recursos de bloqueio de fácil entendimento |
 | **Descrição**           | Roberto é aposentado e utiliza o celular apenas para manter contato com amigos e familiares. Ele tem receio de usar tecnologias mais avançadas e valoriza a privacidade e a simplicidade no uso dos serviços. |
+
+### Justificativa para Persona Secundária:
+Roberto representa um perfil que, embora use o celular para funções básicas, tem um nível de receio em relação ao uso de tecnologias mais avançadas. Sua expectativa por simplicidade e funcionalidade direta o torna uma persona de apoio, pois, apesar de ser um usuário em potencial, ele demanda um foco maior em facilidades de uso e transparência.
+
 <div align="center" style="margin-top: -25px; font-size: 0.8em;">
 Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=2025-02-24" target="_blank">Mateus Bastos</a>
 </div>
@@ -94,6 +104,7 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 <br>
 ---
 
+<p style="text-align: center"><b>Tabela 4</b> - Persona Primária Luana Menezes.</p>
 
 <p align="center">
   <img src="../../assets/Personas/Luana.png" alt="João da Silva" width="400"/>
@@ -118,7 +129,7 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 <br>
 ---
 
-
+<p style="text-align: center"><b>Tabela 4</b> - Antipersona Luana Menezes.</p>
 
 <p align="center">
   <img src="../../assets/Personas/Maria.png" alt="João da Silva" width="400"/>
@@ -147,7 +158,7 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 
 ## **Conclusão**
 
-Para uma melhor elaboração na elicitação dos requisitos, foram desenvolvidas 5 personas primárias que representam diferentes perfis de usuários reais do sistema Celular Seguro. Essas personas foram cuidadosamente definidas com base em suas rotinas, necessidades e níveis de familiaridade com a tecnologia, garantindo uma visão ampla e inclusiva do público-alvo do aplicativo.
+Para uma melhor elaboração na elicitação dos requisitos, foram desenvolvidas 5 personas, que representam diferentes perfis de usuários reais do sistema Celular Seguro. Essas personas foram cuidadosamente definidas com base em suas rotinas, necessidades e níveis de familiaridade com a tecnologia, garantindo uma visão ampla e inclusiva do público-alvo do aplicativo.
 
 Além disso, também foi criada uma antipersona, representando o perfil de quem não faz parte do público-alvo do sistema. Isso nos permite compreender melhor os limites de atuação do aplicativo e evitar funcionalidades desnecessárias para usuários fora do escopo.
 
