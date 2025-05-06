@@ -36,7 +36,7 @@ O Questionário utiliza perguntas fechadas e abertas para coletar dados quantita
 
 ### [Brainstorming](./Brainstorming.md)
 
-O Brainstorming mobiliza participantes de perfis diversos em um ambiente colaborativo sem julgamentos, gerando um grande volume de ideias em curto prazo, seguido de votação coletiva para identificar as sugestões mais relevantes.
+O brainstorming é uma técnica usada para gerar ideias de forma colaborativa. Envolve um grupo de pessoas propondo soluções livremente, sem críticas ou filtros. Seu objetivo é estimular a criatividade e explorar múltiplas possibilidades.
 
 ---
 
