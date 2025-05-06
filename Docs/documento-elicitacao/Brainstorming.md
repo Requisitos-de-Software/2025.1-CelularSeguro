@@ -344,7 +344,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 ---
 
-## Referências Bibliográficas
+## Referências
 
 > THE PFEIFFER LIBRARY. **Brainstorming**. In: *The Pfeiffer Library, Volume 26: Facilitator’s Guide to Participatory Decision-Making*. 2ª ed. San Francisco: Jossey-Bass, 1998.   
 

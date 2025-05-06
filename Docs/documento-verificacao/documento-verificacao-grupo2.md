@@ -197,8 +197,6 @@
 | <a href="#FTF07">7</a> | Houve discussão entre cliente e desenvolvedor para definição dos critérios atribuídos? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
 | <a href="#FTF08">8</a> | A técnica foi utilizada em uma sessão documentada e reproduzível? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
 
-
-
 #### 2.9.1 Verificação da Técnica $100
 
 <font size="3"><p style="text-align: center">Tabela 13 – Checklist para a verificação da técnica $100.</p></font>
@@ -213,7 +211,6 @@
 | <a href="#REF06">6</a> | Os requisitos com maior prioridade estão relacionados diretamente à proposta de valor do sistema? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
 | <a href="#REF07">7</a> | Os requisitos de menor prioridade foram corretamente identificados como candidatos para versões futuras? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
 | <a href="#REF08">8</a> | Foi realizada uma análise e interpretação dos resultados após a priorização? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
-
 
 
 ## Bibliografia
