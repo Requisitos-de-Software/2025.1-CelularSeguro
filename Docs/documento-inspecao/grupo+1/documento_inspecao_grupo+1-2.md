@@ -1,7 +1,7 @@
 # Entrega 2 do Grupo +1: Inspeção
 
 **Data**: 05/05/2025 <br>
-**Horário**: 21:15min - 22h30min <br>
+**Horário**: 21:45min - 23h30min <br>
 **Local**: Microsoft Teams <br>
 
 ## 1. Introdução

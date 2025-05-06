@@ -1,7 +1,7 @@
 # Entrega 2 do Grupo: Inspeção
 
 **Data**: 05/05/2025 <br>
-**Horário**: 21:15min - 22h30min <br>
+**Horário**: 21:45min - 23h30min <br>
 **Local**: Microsoft Teams <br>
 
 ## 1. Introdução
@@ -212,8 +212,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 ## 4. Gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo: </strong> <a href="https://youtu.be/k5QuXCmbBtk"> Grupo 03 – Inspeção grupo 03</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/k5QuXCmbBtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/gpXk0tgKFa0"> Grupo 03 – Inspeção grupo 03</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gpXk0tgKFa0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Histórico de Versões 
@@ -222,3 +222,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 |1.0     |05/05/2025|Criação do documento|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/arthurlleite) | 05/05/2025|
+|1.1     |05/05/2025| Adição do link do video |[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/arthurlleite) | 05/05/2025|
