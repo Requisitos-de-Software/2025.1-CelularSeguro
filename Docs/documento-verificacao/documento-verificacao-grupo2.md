@@ -58,7 +58,7 @@
 
 #### 2.1 Verificação do Perfil de Usuário
 
-**Tabela 3** - Checklist para a Verificação do Perfil de Usuário.
+<font size="3"><p style="text-align: center">Tabela 3: Checklist para a Verificação do Perfil de Usuário.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -72,7 +72,7 @@
 
 #### 2.2 Verificação das Personas
 
-**Tabela 4** - Checklist para a Verificação das Personas.
+<font size="3"><p style="text-align: center">Tabela 4 - Checklist para a Verificação das Personas.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -92,7 +92,7 @@
 
 #### 2.3 Verificação de Análise de Documento
 
-**Tabela 5** - Checklist para a Verificação de Análise de Documento.
+<font size="3"><p style="text-align: center">Tabela 5 - Checklist para a Verificação de Análise de Documento.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -108,7 +108,7 @@
 
 #### 2.4 Verificação do Brainstorm
 
-**Tabela 6** - Checklist para a Verificação Brainstorm.
+<font size="3"><p style="text-align: center">Tabela 6 - Checklist para a Verificação Brainstorm.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -123,7 +123,7 @@
 
 #### 2.5 Verificação Observação
 
-**Tabela 7** - Checklist para a Verificação Observação
+<font size="3"><p style="text-align: center">Tabela 7 - Checklist para a Verificação Observação</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -139,7 +139,7 @@
 
 #### 2.6 Verificação Storytelling
 
-**Tabela 8** - Checklist para a Verificação Storytelling.
+<font size="3"><p style="text-align: center">Tabela 8 - Checklist para a Verificação Storytelling.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -155,7 +155,7 @@
 
 #### 2.7 Verificação Moscow
 
-**Tabela 10** - Checklist para Moscow.
+<font size="3"><p style="text-align: center">Tabela 10 - Checklist para Moscow.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -170,7 +170,7 @@
 
 #### 2.8 Verificação QFD
 
-**Tabela 11** - Checklist para QFD.
+<font size="3"><p style="text-align: center">Tabela 11 - Checklist para QFD.</p></font>
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -181,6 +181,40 @@
 | <a href="#REF05">5</a> | O QFD gerou insights que influenciaram mudanças nas decisões de projeto? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+
+#### 2.9 Verificação da Técnica First Things First (FTF)
+
+<font size="3"><p style="text-align: center">Tabela 12 – Checklist para a verificação da técnica First Things First (FTF).</p></font>
+
+| ID | Item de Verificação | Autor(es) | Referência |
+|----|---------------------|-----------|------------|
+| <a href="#FTF01">1</a> | A priorização dos requisitos foi feita utilizando os critérios de **benefício**, **penalidade**, **custo** e **risco** conforme a técnica FTF? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. cap. 16, p. 313‑329. |
+| <a href="#FTF02">2</a> | Os papéis de **cliente**, **desenvolvedor** e **mediador** foram atribuídos claramente durante a aplicação da técnica? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+| <a href="#FTF03">3</a> | Os requisitos priorizados tinham código único de identificação (RFx/RNFx)? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+| <a href="#FTF04">4</a> | Os valores atribuídos aos critérios foram normalizados corretamente antes do cálculo da prioridade? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+| <a href="#FTF05">5</a> | Foi aplicada a fórmula de prioridade corretamente: `valor(%) ÷ (Custo (%) × Custo Relativo + Risco (%) × Risco Relativo)`? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+| <a href="#FTF06">6</a> | A técnica permitiu uma **ordenação clara** dos requisitos de acordo com a prioridade? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+| <a href="#FTF07">7</a> | Houve discussão entre cliente e desenvolvedor para definição dos critérios atribuídos? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+| <a href="#FTF08">8</a> | A técnica foi utilizada em uma sessão documentada e reproduzível? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
+
+
+
+#### 2.9.1 Verificação da Técnica $100
+
+<font size="3"><p style="text-align: center">Tabela 13 – Checklist para a verificação da técnica $100.</p></font>
+
+| ID | Item de Verificação | Autor(es) | Referência |
+|----|----------------------|-----------|------------|
+| <a href="#REF01">1</a> | A técnica dos $100 foi aplicada com participação ativa de um cliente real do sistema? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF02">2</a> | O desenvolvedor também participou da priorização para obter múltiplas perspectivas? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF03">3</a> | A distribuição dos valores respeitou o limite total de $100 para cada participante? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF04">4</a> | Os requisitos priorizados já haviam sido previamente elicitados e identificados? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF05">5</a> | Os requisitos foram identificados com ID e classificados entre funcionais e não funcionais? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF06">6</a> | Os requisitos com maior prioridade estão relacionados diretamente à proposta de valor do sistema? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF07">7</a> | Os requisitos de menor prioridade foram corretamente identificados como candidatos para versões futuras? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+| <a href="#REF08">8</a> | Foi realizada uma análise e interpretação dos resultados após a priorização? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
+
+
 
 ## Bibliografia
 
@@ -206,3 +240,4 @@
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 05/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 05/05/2025|
 | 1.1  | 05/05/2025 | Criação de referências das perguntas.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/Bessazs) | 05/05/2025|
+| 1.2  | 05/05/2025 | Centralização de legendas e tabela  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/Bessazs) | 05/05/2025|
