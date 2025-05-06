@@ -93,8 +93,7 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 | **Requisitos**          | Necessita de uma solução de segurança simples, com proteção para dados pessoais e recursos de bloqueio de fácil entendimento |
 | **Descrição**           | Roberto é aposentado e utiliza o celular apenas para manter contato com amigos e familiares. Ele tem receio de usar tecnologias mais avançadas e valoriza a privacidade e a simplicidade no uso dos serviços. |
 
-### Justificativa para Persona Secundária:
-Roberto representa um perfil que, embora use o celular para funções básicas, tem um nível de receio em relação ao uso de tecnologias mais avançadas. Sua expectativa por simplicidade e funcionalidade direta o torna uma persona de apoio, pois, apesar de ser um usuário em potencial, ele demanda um foco maior em facilidades de uso e transparência.
+
 
 <div align="center" style="margin-top: -25px; font-size: 0.8em;">
 Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=2025-02-24" target="_blank">Mateus Bastos</a>
