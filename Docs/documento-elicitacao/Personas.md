@@ -128,7 +128,7 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 <br>
 ---
 
-<p style="text-align: center"><b>Tabela 4</b> - Antipersona Luana Menezes.</p>
+<p style="text-align: center"><b>Tabela 4</b> - Antipersona Maria Aparecida.</p>
 
 <p align="center">
   <img src="../../assets/Personas/Maria.png" alt="João da Silva" width="400"/>
