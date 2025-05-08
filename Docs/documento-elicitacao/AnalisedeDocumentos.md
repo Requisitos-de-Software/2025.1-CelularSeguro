@@ -25,9 +25,9 @@ Por fim, a equipe conduziu uma validação interna dos itens extraídos, revisan
 
 | **Nome/ID**      | **Atuação**                           |
 | ---------------- | ------------------------------------- |
-| Leonardo de Melo | Análise e apresentação dos documentos |
-| Arthur Carvalho  | Criação das tabelas de requisitos |
-
+| Arthur Carvalho  | Análise e apresentação dos documentos |
+| Leonardo de Melo | Criação das tabelas de requisitos     |
+  
 ---
 
 ## Gravação
