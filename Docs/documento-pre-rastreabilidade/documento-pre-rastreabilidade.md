@@ -1,4 +1,4 @@
-# 1. Pré Rastreabilidade
+# Pré Rastreabilidade
 ---
 
 A etapa de Pré-Rastreabilidade tem como objetivo evidenciar o caminho percorrido pela equipe antes da definição final do escopo do projeto. Aqui são registrados os estudos e análises realizadas com aplicativos semelhantes, permitindo justificar a escolha do aplicativo foco e das funcionalidades priorizadas.
@@ -7,7 +7,7 @@ Com base na análise de seis aplicativos governamentais — como Sinesp Cidadão
 
 ---
 
-## 1.1 Destaques da Pré-Rastreabilidade
+## Destaques da Pré-Rastreabilidade
 
 - **Levantamento de Referências**: Estudo de aplicativos com propostas alinhadas à segurança pública, serviços digitais e proteção de dados.
 - **Análise Crítica**: Identificação de pontos positivos e limitações que guiaram as escolhas do projeto.
@@ -23,3 +23,4 @@ Esta documentação fornece uma trilha clara e fundamentada da evolução do pro
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0 | 13/04/2025 | Desenvolvimento do tópico |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 23/04/2025|
 | 1.1| 23/04/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 23/04/2025|
+| 1.2| 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|

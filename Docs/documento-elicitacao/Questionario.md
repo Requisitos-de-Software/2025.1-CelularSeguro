@@ -215,7 +215,7 @@ Legenda:
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
 
 
-## Referências
+## Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 
@@ -227,3 +227,4 @@ Legenda:
 | 1.0    | 29/04/2025         | Desenvolvimento do tópico                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 29/04/2025|
 | 1.1    | 04/05/2025         | Inserção dos gráficos do questionário e desenvolvimento da elicitação dos requisitos                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 29/04/2025|
 | 1.2    | 04/05/2025         | Correção no gráfico e inserção de mais requisitos funcionais e não funcionais                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansetee" target="_blank">Mateus</a>| 29/04/2025|
+| 1.3   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|

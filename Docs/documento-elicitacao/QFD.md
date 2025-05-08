@@ -9,11 +9,7 @@ O **iFrame 1** a seguir representam a análise dos requisitos do cliente "o quê
 
 <font size="3"><p style="text-align: center">_Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf) _</p></font>
 
-## **Referências Bibliográficas**
-
-[1] “Como preencher a matriz QFD ou Casa da Qualidade”, Lucidchart, 02-nov-2023.
-
-## **Bibliográfia**
+## Bibliografia
 
 > “Como preencher a matriz QFD ou Casa da Qualidade”, Lucidchart, 02-nov-2023.
 
@@ -21,5 +17,6 @@ O **iFrame 1** a seguir representam a análise dos requisitos do cliente "o quê
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      | Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0 | 28/04/2025 | Desenvolvimento do tópico QFD | Felipe das Neves | Mateus Bastos, Vitor Bessa | 28/04/25 |
-| 1.1 | 06/05/2025 | Inserção do iFrame e do pdf | Felipe das Neves | Mateus Bastos, Vitor Bessa | 06/05/25 |
+| 1.0 | 28/04/2025 | Desenvolvimento do tópico QFD | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 28/04/25 |
+| 1.1 | 06/05/2025 | Inserção do iFrame e do pdf | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>s | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | 06/05/25 |
+| 1.2  | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|

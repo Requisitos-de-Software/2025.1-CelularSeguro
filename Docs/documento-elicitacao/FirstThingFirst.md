@@ -175,7 +175,7 @@ A aplicação do FTF seguiu os passos:
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > <a id="FTF1Ref"></a> FIRST things first: Setting requirement priorities. In: **WIEGERS, K. E.; BEATTY, J.** *Software Requirements*. 3. ed. Microsoft Press, 2013. cap. 16, p. 313‑329.
 
@@ -187,3 +187,4 @@ A aplicação do FTF seguiu os passos:
 | :----: | :--------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | 1.0    | 01/05/2025       | Criação do documento FTF para Celular Seguro | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 01/05/2025     |                                            | 23/04/2025     |
 | 1.1    | 04/05/2025       | Análise de valores de custo, valor e risco | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 04/05/2025     |                                            | 04/05/2025     |
+| 1.2   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|

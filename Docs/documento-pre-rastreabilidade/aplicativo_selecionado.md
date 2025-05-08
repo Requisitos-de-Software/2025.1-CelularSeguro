@@ -1,12 +1,12 @@
 # Aplicativo Selecionado:
 
-## 1. Celular Seguro
+## Celular Seguro
 
 O **Celular Seguro** foi o aplicativo escolhido para representar o foco do projeto por sua relevância social, funcionalidade direta na proteção de dados e dispositivos móveis, além de refletir princípios modernos de segurança, interoperabilidade com instituições e governança pública digital. A seguir, apresentamos um resumo técnico de suas características e exigências, com base em seu Termo de Uso oficial.
 
 ---
 
-## 2. Funcionalidades Principais
+## Funcionalidades Principais
 
 - **Cadastro de dispositivo móvel** com informações como IMEI, número de telefone, operadora e modelo.
 - **Emissão de alerta de perda, roubo ou furto**, acionando o bloqueio da linha, do aparelho e de apps financeiros.
@@ -20,7 +20,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 <font size="3"><p style="text-align: center">Fonte: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Funcionalidades Celular Seguro aplicativo Celular Seguro_.pdf" target="_blank">📄gov.br/mj - Funcionalidades Celular Seguro(PDF)</a></p></font>
 ---
 
-## 3. Termos Relevantes
+## Termos Relevantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Termos Relevantes</p></font>
 
@@ -38,7 +38,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## 4. Responsabilidades do Usuário
+## Responsabilidades do Usuário
 
 - Informar **dados verdadeiros e atualizados**, próprios e dos contatos.
 - Garantir que os **dados de terceiros** sejam cadastrados apenas com autorização.
@@ -54,7 +54,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## 5. Base Legal Aplicada
+## Base Legal Aplicada
 
 <font size="3"><p style="text-align: center">Tabela 2: Base legal</p></font>
 
@@ -71,7 +71,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## 6. Segurança e Tratamento de Dados
+## Segurança e Tratamento de Dados
 
 - Adoção de **criptografia** e segurança de rede.
 - Dados são **armazenados e compartilhados** apenas com operadoras, bancos e órgãos autorizados.
@@ -85,7 +85,7 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 
 ---
 
-## 7. Contato com o MJSP
+## Contato com o MJSP
 
 - Canal: [Ouvidoria-Geral](https://www.gov.br/ouvidorias) e [Serviço de Informação ao Cidadão (SIC)](https://www.gov.br/acessoainformacao)
 - E-mail do Encarregado LGPD: [encarregadolgpd@mj.gov.br](mailto:encarregadolgpd@mj.gov.br)
@@ -121,6 +121,8 @@ O **Celular Seguro** foi o aplicativo escolhido para representar o foco do proje
 | 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 13/04/2025|
 | 1.3    | 22/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 22/04/2025|
 | 1.4    | 22/04/2025 |Padronização do Histórico de Versões e da Bibliografia     | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 23/04/2025|
+| 1.5    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
+
 
 
 
