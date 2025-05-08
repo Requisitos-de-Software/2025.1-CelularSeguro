@@ -105,7 +105,7 @@ A condução da dinâmica seguiu as boas práticas de brainstorming apresentadas
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/cFMLv_KdQPo"> Brainstorming - Requisitos</a></p>
-  <iframe width="560" height="315" src="https://youtu.be/cFMLv_KdQPo" title="Brainstorming - Requisitos Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cFMLv_KdQPo?si=iBawpiSENL3zYWlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 **Autor do vídeo:** <a style= href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> e <a style= href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>
@@ -357,3 +357,4 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 | 1.0    | 09/04/2025       | Documento inicial da sessão de brainstorming do projeto Celular Seguro | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 09/04/2025     |
 | 1.1    | 04/05/2025       | Adição das respostas da entrevista | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 04/05/2025     |
 | 1.2    | 04/05/2025       | Inclusão do Miro e do vídeo do YouTube | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 04/05/2025     |
+| 1.3    | 06/05/2025       | Concerto de link do vídeo do YouTube | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 06/05/2025     |
