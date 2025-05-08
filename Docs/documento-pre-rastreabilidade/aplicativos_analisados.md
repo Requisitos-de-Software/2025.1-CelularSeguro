@@ -1,11 +1,11 @@
-# 1. Aplicativos Analisados
+# Aplicativos Analisados
 ---
 
 Esta seção apresenta a análise de sete aplicativos relevantes para o projeto, destacando suas funcionalidades essenciais, o público-alvo, os pontos positivos e as limitações percebidas. Cada bloco abaixo reúne uma descrição enxuta e um rich picture ilustrativo.
 
 ---
 
-## 1.1 Sinesp Cidadão
+## Sinesp Cidadão
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -31,7 +31,7 @@ Aplicativo governamental que permite aos cidadãos consultar informações de se
 
 ---
 
-## 1.2 Celular Seguro
+## Celular Seguro
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -57,7 +57,7 @@ Aplicativo do governo destinado a registrar alertas de roubo, furto ou perda de 
 
 ---
 
-## 1.3 Carteira Digital de Trânsito (CDT)
+## Carteira Digital de Trânsito (CDT)
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -83,7 +83,7 @@ Aplicativo que digitaliza a CNH e o CRLV, facilitando o acesso e a consulta de d
 
 ---
 
-## 1.4 NFSe Mobile
+## NFSe Mobile
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -109,7 +109,7 @@ Aplicativo voltado para a emissão e consulta de Notas Fiscais de Serviço eletr
 
 ---
 
-## 1.5 Bolsa Família (App)
+## Bolsa Família (App)
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -135,7 +135,7 @@ Aplicativo que possibilita aos beneficiários do programa Bolsa Família consult
 
 ---
 
-## 1.6 Carteira de Identidade Militar Digital (EBCIM)
+## Carteira de Identidade Militar Digital (EBCIM)
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -161,7 +161,7 @@ Aplicativo que disponibiliza a carteira de identidade militar em formato digital
 
 ---
 
-## 1.7 SUS Digital
+## SUS Digital
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -187,7 +187,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ---
 
-## 2. Legenda dos Rich Pictures
+## Legenda dos Rich Pictures
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -211,7 +211,7 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ---
 
-## 3. Tabela Comparativa dos Aplicativos
+## Tabela Comparativa dos Aplicativos
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -280,3 +280,5 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 | 1.5    | 17/04/2025       | Correção do título da bibliografia e adição do tópico de legenda dos Rich Pictures      | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                                                   | 23/04/2025     |
 | 1.6    | 23/04/2025       | Padronização do Histórico de Versões e da Bibliografia                                 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                             | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>                                                   | 23/04/2025     |
 | 1.7    | 23/04/2025       | Inserção dos PDFs na bibliografia com data de 23 de abril de 2025                       | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                                                  | 23/04/2025     |
+| 1.8| 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
+

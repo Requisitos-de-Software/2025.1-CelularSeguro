@@ -344,7 +344,7 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 
 ---
 
-## Referências
+## Bibliografia
 
 > THE PFEIFFER LIBRARY. **Brainstorming**. In: *The Pfeiffer Library, Volume 26: Facilitator’s Guide to Participatory Decision-Making*. 2ª ed. San Francisco: Jossey-Bass, 1998.   
 
@@ -358,3 +358,5 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 | 1.1    | 04/05/2025       | Adição das respostas da entrevista | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 04/05/2025     |
 | 1.2    | 04/05/2025       | Inclusão do Miro e do vídeo do YouTube | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 04/05/2025     |
 | 1.3    | 06/05/2025       | Concerto de link do vídeo do YouTube | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 06/05/2025     |
+| 1.4   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+

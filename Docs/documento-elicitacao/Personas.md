@@ -169,11 +169,11 @@ Dessa forma, acreditamos que o número atual de personas é adequado para repres
 
 ---
 
-## **Referências**
+## Bibliografia
 
-<a name="ref1">[ 1 ]</a> Cooper, A., Reimann, R., & Cronin, D. (2007). *About Face 3: The Essentials of Interaction Design*. Third Edition.
+> <a name="ref1">[ 1 ]</a> Cooper, A., Reimann, R., & Cronin, D. (2007). *About Face 3: The Essentials of Interaction Design*. Third Edition.
 
-<a name="ref1">[ 2 ]</a> Imagem gerada através da aplicação *This Person Doesn't Exist*. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/). Acesso em: 01 de Mai. de 2025.
+> <a name="ref1">[ 2 ]</a> Imagem gerada através da aplicação *This Person Doesn't Exist*. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/). Acesso em: 01 de Mai. de 2025.
 
 
 
@@ -185,6 +185,8 @@ Dessa forma, acreditamos que o número atual de personas é adequado para repres
 | 1.0    | 26/04/2025         | Versão inicial do documento                                 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima), [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | 26/04/2025 |
 | 1.1    | 01/05/2025         | Atualização da seção de Personas com novos campos e imagens | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | 01/05/2025 |
 | 1.2    | 02/05/2025         | Ajuste nas referências, tamanhos das imagens e correção da introdução | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | 02/05/2025 |
+| 1.3   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+
 
 
 <!-- 

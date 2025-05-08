@@ -103,9 +103,9 @@ Segundo dados recentes do IBGE (2023), 87,2% da população com 10 anos ou mais 
 
 
 
-## **Referências**
+## Bibliografia
 
-<a name="ref1">[ 1 ]</a> Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Elsevier.
+> <a name="ref1">[ 1 ]</a> Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Elsevier.
 
 
 
@@ -116,3 +116,5 @@ Segundo dados recentes do IBGE (2023), 87,2% da população com 10 anos ou mais 
 | :----: | :----------------: | :----------------------------------------------------------: | :-------------------: | :-------------:  | :-------------: |
 | 1.0    | 04/04/2025         | Versão inicial do documento                                 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima), [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | 04/04/2025 |
 | 1.1    | 04/05/2025         | Atualização das seções| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | 04/05/2025 |
+| 1.2    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+

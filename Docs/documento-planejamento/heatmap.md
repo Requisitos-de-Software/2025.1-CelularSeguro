@@ -1,16 +1,16 @@
 # Heatmap de Disponibilidade
 
-## 1. Introdução
+## Introdução
 
 O **heatmap de disponibilidade** é uma ferramenta visual essencial para equipes que buscam otimizar a coordenação e maximizar a produtividade. Ele permite identificar de forma rápida e eficiente os horários e dias em que os membros da equipe estão disponíveis para colaborar. Em contextos de trabalho flexível, especialmente em equipes remotas ou distribuídas, essa ferramenta se torna ainda mais relevante para facilitar a organização de tarefas, reuniões e atividades colaborativas. Ao consolidar as informações de disponibilidade dos integrantes, o heatmap oferece insights valiosos para uma melhor alocação de tempo e recursos, promovendo decisões mais ágeis e eficazes.
 
-### 1.1 Objetivo
+### Objetivo
 
 O objetivo principal do heatmap de disponibilidade é maximizar a colaboração e a produtividade da equipe, proporcionando uma visão clara dos momentos em que todos os membros estão disponíveis simultaneamente. Essa visão facilita a organização de reuniões, sessões de brainstorming e outras atividades cruciais para o sucesso do projeto.
 
 ---
 
-## 2. Heatmap
+## Heatmap
 
 A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilidade do grupo. Os valores numéricos variam de 0 a 7, indicando o número de membros disponíveis em cada faixa horária.
 
@@ -87,3 +87,5 @@ A **Figura 1** e a **Tabela 1** a seguir representam a análise de disponibilida
 | 1.0    | 11/04/2025         | Criação da seção de heatmap                          |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 11/04/2025|
 | 1.1    | 16/04/2025         | Adição dos autores do cronograma                     | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
 | 1.2    | 23/04/2025         | Padronização do Histórico de Versões e da Bibliografia|<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 23/04/2025|
+| 1.3    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
+

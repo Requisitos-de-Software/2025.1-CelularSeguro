@@ -197,7 +197,7 @@
 | <a href="#FTF07">7</a> | Houve discussão entre cliente e desenvolvedor para definição dos critérios atribuídos? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
 | <a href="#FTF08">8</a> | A técnica foi utilizada em uma sessão documentada e reproduzível? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
 
-#### 2.9.1 Verificação da Técnica $100
+#### 2.10 Verificação da Técnica $100
 
 <font size="3"><p style="text-align: center">Tabela 13 – Checklist para a verificação da técnica $100.</p></font>
 
@@ -238,3 +238,4 @@
 | 1.0  | 05/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 05/05/2025|
 | 1.1  | 05/05/2025 | Criação de referências das perguntas.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/Bessazs) | 05/05/2025|
 | 1.2  | 05/05/2025 | Centralização de legendas e tabela  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/Bessazs) | 05/05/2025|
+| 1.3 | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
