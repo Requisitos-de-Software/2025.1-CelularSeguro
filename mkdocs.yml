@@ -16,7 +16,8 @@ nav:
         - Ata 4: "atas-reuniao/sprint-1/ata-reuniao-4.md"
     - Sprint 2:
         - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-5.md"
-        - Ata 2: "atas-reuniao/sprint-2/ata-reuniao-6.md"
+    - Sprint 3:
+        - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-6.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
@@ -30,6 +31,22 @@ nav:
       - Introdução: "documento-pre-rastreabilidade/documento-pre-rastreabilidade.md"
       - Aplicativos Analisados: "documento-pre-rastreabilidade/aplicativos_analisados.md"
       - Aplicativo Selecionado: "documento-pre-rastreabilidade/aplicativo_selecionado.md"
+
+  - Elicitação:
+    - Introdução: "documento-elicitacao/Introducao.md"
+    - Perfil do Usuário: "documento-elicitacao/PerfilUsuario.md"
+    - Personas: "documento-elicitacao/Personas.md"
+    - Técnicas de Elicitação:
+        - Análise de Documentos: "documento-elicitacao/AnalisedeDocumentos.md"
+        - Questionário: "documento-elicitacao/Questionario.md"
+        - Brainstorming: "documento-elicitacao/Brainstorming.md"
+        - Storytelling: "documento-elicitacao/Storytelling.md"
+        - Observação: "documento-elicitacao/Observacao.md"
+    - Técnicas de Priorização:
+        - First Thing First: "documento-elicitacao/FirstThingFirst.md"
+        - QFD: "documento-elicitacao/QFD.md"
+        - MoSCoW: "documento-elicitacao/MoSCoW.md"
+        - $100: "documento-elicitacao/100.md"
     
   - Verificação:
       - Introdução: "documento-verificacao/introducao-verificacao.md"
@@ -44,22 +61,6 @@ nav:
       - Grupo + 1: 
         - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo+1.md" 
         - Entrega 2: "documento-inspecao/grupo+1/documento_inspecao_grupo+1-2.md" 
-
-  - Elicitação:
-      - Introdução: "documento-elicitacao/Introducao.md"
-      - Perfil do Usuário: "documento-elicitacao/PerfilUsuario.md"
-      - Personas: "documento-elicitacao/Personas.md"
-      - Técnicas de Elicitação:
-          - Análise de Documentos: "documento-elicitacao/AnalisedeDocumentos.md"
-          - Questionário: "documento-elicitacao/Questionario.md"
-          - Brainstorming: "documento-elicitacao/Brainstorming.md"
-          - Storytelling: "documento-elicitacao/Storytelling.md"
-          - Observação: "documento-elicitacao/Observacao.md"
-      - Técnicas de Priorização:
-          - First Thing First: "documento-elicitacao/FirstThingFirst.md"
-          - QFD: "documento-elicitacao/QFD.md"
-          - MoSCoW: "documento-elicitacao/MoSCoW.md"
-          - $100: "documento-elicitacao/100.md"
           
   - Apresentação:
     - Apresentações: 
