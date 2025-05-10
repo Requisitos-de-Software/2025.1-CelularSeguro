@@ -1,5 +1,5 @@
-**Data**: 04/05/2025 <br>
-**Horário**: 21:45min - 23h30min <br>
+**Data**: 18/05/2025 <br>
+**Horário**:  <br>
 **Local**: Microsoft Teams <br>
 
 ## 1. Introdução
@@ -15,8 +15,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Segunda Entr
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
 
-
-A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo aos critérios na Tabela 2 solicitados pelo professor no [plano de ensino](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf).
+A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo aos critérios na Tabela 3 solicitados pelo professor no [plano de ensino](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf).
 
 ### 2. Participantes
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
@@ -33,5 +32,4 @@ A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo a
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-1.0 | 04/05/2025 | Criação da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 04/05/2025 |
-1.1 | 04/05/2025 | Adição do vídeo de apresentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 04/05/2025 |
+1.0 | 09/05/2025 | Criação da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 09/05/2025 |
