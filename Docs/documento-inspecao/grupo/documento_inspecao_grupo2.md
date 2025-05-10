@@ -217,7 +217,6 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 </div>
 
 ## Histórico de Versões 
-<font size="3"><p style="text-align: center">Tabela 1: Histórico de Versões</p></font> 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
