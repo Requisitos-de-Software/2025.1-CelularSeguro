@@ -111,6 +111,8 @@ Define requisitos para garantir que o sistema seja fácil de usar, acessível e 
 | USA04  | O sistema deve apresentar cores compatíveis com a opção de alto contraste. |
 | USA05  | Fluxo de registro com no máximo 3 passos para usuários finais. |
 
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
 Legenda:
 
 - USAx: Requisito de Usabilidade nºx
@@ -123,21 +125,128 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 3: Requisitos de Confiabilidade
+    Tabela 4: Requisitos de Confiabilidade
   </p>
 </font>
+
+| **ID** | **Descrição** | 
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CON01  | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD). | 
+| CON02  | Precisão de 99% nos dados retornados. |
+| CON03  | O sistema deve possuir as informações atualizadas e condizentes com a realidade. |
+| CON04  | O sistema deve possuir backups dos dados dos usuários e eventos. |
+| CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | 
+| CON06  | Taxa de erro crítica inferior a 1 a cada 100 mil transações. | 
+| CON07  | O sistema deve impedir que o usuário realize atividades que possa colocar a integridade do sistema e de outros usuários em risco. | 
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+Legenda:
+
+- CONx: Requisito de Confiabilidade nºx
 
 ---
 
 ## Desempenho
 
+Define metas relacionadas à eficiência do sistema, como tempo de resposta, número de usuários e consumo de recursos.
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 5: Requisitos de Desempenho
+  </p>
+</font>
+
+| **ID** | **Descrição** | 
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DES01  | Suporte a até 1 milhão de acessos simultâneos. | 
+| DES02  | Tempo máximo de resposta: 3 segundos. |
+| DES03  | Tempo de carregamento inicial: até 200ms. |
+| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos que possa atrapalhar ações. |
+| DES05  | Escalabilidade horizontal automática. | 
+| DES06  | Uso máximo de CPU por serviço: até 70%. | 
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+Legenda:
+
+- DESx: Requisito de Desempenho nºx
+
 ---
 
 ## Suportabilidade
 
+Envolve os requisitos relacionados ao suporte e manutenção do sistema. Estabelece como o sistema deve ser fácil de manter, atualizar e diagnosticar, garantindo sua evolução ao longo do tempo.
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 6: Requisitos de Suportabilidade
+  </p>
+</font>
+
+| **ID** | **Descrição** | 
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SUP01  | Documentação técnica disponível via Swagger e README. | 
+| SUP02  | O sistema deve possuir uma capacidade de extensão para adicionar novas funcionalidades e acompanhar as mudanças. |
+| SUP03  | Monitoramento com alertas em tempo real via Grafana. |
+| SUP04  | Ambiente de staging para validações pré-produção. |
+| SUP05  | Canal de suporte com SLA de até 8h úteis. | 
+| SUP06  | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações. | 
+| SUP07  | O sistema deve possuir uma tolerância a falhas para garantir que o sistema possa lidar com falhas adequadamente, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, backups regulares e restauração rápida em caso de falhas. | 
+| SUP08  | Código modular com testes automatizados (>90% de cobertura). | 
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+Legenda:
+
+- SUPx: Requisito de Suportabilidade nºx
+
 ---
 
 ## Restrições do Projeto
+
+Estabelece restrições técnicas ou organizacionais que precisam ser consideradas e respeitadas ao longo do processo de desenvolvimento do sistema, como limitações de infraestrutura, compatibilidade com tecnologias existentes, políticas internas ou diretrizes regulatórias.
+
+---
+
+#### Autenticação via GOV.br
+- A autenticação de usuários deve obrigatoriamente ser realizada por meio da plataforma [Gov.br](https://www.gov.br/pt-br), com nível Prata ou Ouro. Isso garante confiabilidade da identidade e integração segura com dados sensíveis.
+- É exigido em aplicações que envolvem dados pessoais ou ações com valor jurídico.
+
+---
+
+#### Hospedagem em nuvem brasileira
+O sistema deve ser hospedado em provedores que garantam data centers localizados no Brasil, como:
+
+- [GovCloud](https://aws.amazon.com/pt/govcloud-us/?whats-new.sort-by=item.additionalFields.postDateTime&whats-new.sort-order=desc)
+- [Serpro Cloud](https://campanhas.serpro.gov.br/serpro-multicloud/)
+- [AWS com infraestrutura no Brasil](https://aws.amazon.com/)
+
+Justificativa: cumprimento da LGPD, que exige que dados de brasileiros sejam processados em território nacional quando possível.
+
+---
+
+#### Design System GOV.BR
+
+A interface deve seguir obrigatoriamente o Design System do [Gov.br](https://www.gov.br/pt-br), respeitando:
+
+- Paleta de cores institucional
+- Componentes visuais padronizados (botões, cabeçalhos, campos etc.)
+- Tipografia e responsividade
+
+Justificativa: garantir identidade visual unificada e experiência de uso padronizada nos serviços públicos digitais.
+
+---
+
+#### Integrações obrigatórias
+
+O sistema deve oferecer integração com os seguintes parceiros institucionais:
+
+- [Anatel](https://www.gov.br/anatel/pt-br) – para consulta e bloqueio do IMEI.
+- Operadoras de telefonia – para bloqueio de chip.
+- [Secretarias de Segurança Pública (SSPs)](http://www.seguranca.sp.gov.br/institucional) – para compartilhamento de dados de boletins de ocorrência.
+
+Essas integrações devem ser realizadas por meio de APIs REST autenticadas e seguras, e são obrigatórias para o funcionamento correto do fluxo de notificação e bloqueio.
 
 ---
 
@@ -159,9 +268,11 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
 
 ## Bibliografia
 
+> HENRIQUE, Matheus. Especificação Suplementar. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#metodologia>. Acesso em: 11 maio 2025.
+
 ## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 09/05/2025         | Criação do documento                           |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 09/05/2025|
-| 1.1    | 11/05/2025         | Criação Introdutória dos temas de Especificações Suplementar                          |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Vitor Bessa</a>| 11/05/2025|
+| 1.1    | 11/05/2025         | Criação Introdutória dos temas de Funcionalidade, Usabilidade, Desempenho, Suportabilidade, Restrições do Projeto                          |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Vitor Bessa</a>| 11/05/2025|
