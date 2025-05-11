@@ -3,14 +3,27 @@
 
 ## Introdução
 
-Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema. Este documento captura requisitos complementares ao modelo de casos de uso do projeto [Celular Seguro](https://www.gov.br/pt-br/apps/celular-seguro-br). Ele inclui requisitos de usabilidade, desempenho, confiabilidade, suportabilidade, restrições de projeto, e requisitos legais e técnicos que não são abordados diretamente nos fluxos funcionais.. A metodologia mais utilizada para a produção de uma especificação suplementar é a FURPS+.
+Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema. Este documento captura requisitos complementares ao modelo de casos de uso do projeto [Celular Seguro](https://www.gov.br/pt-br/apps/celular-seguro-br). Ele inclui requisitos de usabilidade, desempenho, confiabilidade, suportabilidade, restrições de projeto, e requisitos legais e técnicos que não são abordados diretamente nos fluxos funcionais.. A metodologia mais utilizada para a produção de uma especificação suplementar é a **FURPS+**.
+
+---
+
+## Metodologia
+
+Para a elaboração deste artefato, será adotada uma versão adaptada do modelo FURPS+, uma metodologia que classifica os requisitos do sistema em seis categorias principais: 
+
+- **Functionality** (Funcionalidade)
+- **Usability** (Usabilidade) 
+- **Reliability** (Confiabilidade)
+- **Performance** (Desempenho)
+- **Supportability** (Suportabilidade) 
+- e o grupo “+”, que abrange outros requisitos não funcionais, como **requisitos de design**, **implementação**, **interface** e **físicos**. Essa estrutura visa organizar e detalhar os requisitos de maneira sistemática e compreensível.
 
 ---
 
 ## Identificação do Projeto
 
-- Projeto: CELSEG – [Celular Seguro](https://www.gov.br/pt-br/apps/celular-seguro-br)
-- Requisitante: Secretaria Nacional do Consumidor ([Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor))
+- Projeto: **CELSEG** – [Celular Seguro](https://www.gov.br/pt-br/apps/celular-seguro-br)
+- Requisitante: **Secretaria Nacional do Consumidor** ([Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor))
 - Gerente de Projetos: [Gabriel Lima](https://github.com/gabriel-lima258)
 
 ---
@@ -21,12 +34,12 @@ Os requisitos funcionais foram elicitados na seção de elicitação das seguint
 
 A legenda para cada sigla abaixo:
 
-- RFx: Requisito Funcional nºx
-- RNFx: Requisito Não-Funcional nºx
-- ADDx: Requisito nºx elicitado pela Análise de Documentos
-- QSx: Requisito nºx elicitado pelo Questionário
-- BSx: Requisito nºx elicitado pelo Brainstorming
-- OBSx: Requisito nºx elicitado pela Observação
+- **RFx**: Requisito Funcional nºx
+- **RNFx**: Requisito Não-Funcional nºx
+- **ADDx**: Requisito nºx elicitado pela Análise de Documentos
+- **QSx**: Requisito nºx elicitado pelo Questionário
+- **BSx**: Requisito nºx elicitado pelo Brainstorming
+- **OBSx**: Requisito nºx elicitado pela Observação
 
 ### Requisitos Funcionais (RF)
 
@@ -115,7 +128,7 @@ Define requisitos para garantir que o sistema seja fácil de usar, acessível e 
 
 Legenda:
 
-- USAx: Requisito de Usabilidade nºx
+- **USAx**: Requisito de Usabilidade nºx
 
 ---
 
@@ -143,7 +156,7 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
 
 Legenda:
 
-- CONx: Requisito de Confiabilidade nºx
+- **CONx**: Requisito de Confiabilidade nºx
 
 ---
 
@@ -170,7 +183,7 @@ Define metas relacionadas à eficiência do sistema, como tempo de resposta, nú
 
 Legenda:
 
-- DESx: Requisito de Desempenho nºx
+- **DESx**: Requisito de Desempenho nºx
 
 ---
 
@@ -199,7 +212,7 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Estabel
 
 Legenda:
 
-- SUPx: Requisito de Suportabilidade nºx
+- **SUPx**: Requisito de Suportabilidade nºx
 
 ---
 
