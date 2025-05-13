@@ -87,7 +87,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
 | Diagrama de caso de uso                     | Mateus, Leonardo e Vitor         | Daniel e Gabriel     |  08/05  | 16/05 |
-| Definição do lexico                         | Mateus e Felipe           | Arhtur e Daniel    |  08/05  | 16/05 |          
+| Definição do lexico                         | Mateus e Felipe           | Arthur e Daniel    |  08/05  | 16/05 |          
 | Criação de cenários                         | Arhtur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
 | Especificação suplementar                   | Gabriel            | Leonardo e Vitor |  08/05  | 16/05 |
 | Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
