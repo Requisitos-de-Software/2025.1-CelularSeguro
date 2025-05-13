@@ -90,7 +90,7 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
 | *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/05  | 16/05 |
 
-<font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlim)._</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlima)._</p></font>
 
 
 ## Bibliografia
