@@ -30,79 +30,7 @@ Para a elaboração deste artefato, será adotada uma versão adaptada do modelo
 
 ## Funcionalidade
 
-Os requisitos funcionais foram elicitados na seção de elicitação das seguintes técnicas: [Análise de Documentos](./AnalisedeDocumentos.md), [Questionário](./Questionario.md), [Brainstorming](./Brainstorming.md) e [Observação](./Observacao.md)
-
-A legenda para cada sigla abaixo:
-
-- **RFx**: Requisito Funcional nºx
-- **RNFx**: Requisito Não-Funcional nºx
-- **ADDx**: Requisito nºx elicitado pela Análise de Documentos
-- **QSx**: Requisito nºx elicitado pelo Questionário
-- **BSx**: Requisito nºx elicitado pelo Brainstorming
-- **OBSx**: Requisito nºx elicitado pela Observação
-
-### Requisitos Funcionais (RF)
-
-<font size="3">
-  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 1: Requisitos Funcionais do Celular Seguro<br>
-  </p>
-</font>
-
-| **ID** | **Requisito Elicitado**                                                                                                                                                | **Rastreabilidade** |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| RF01  | O sistema deve permitir autenticação via Gov.br utilizando CPF e senha.                                                | ADD01, BS09, OBS1, OBS2, OBS17           |
-| RF02  | O aplicativo deve exibir os Termos de Uso e requerer aceite na primeira abertura.                           | ADD02, OBS14           |
-| RF03  | O usuário poderá cadastrar múltiplos celulares vinculados ao CPF.                              | ADD03, OBS11           |
-| RF04  | O aplicativo deve permitir o cadastro de contatos de confiança para alertas em emergências.           | ADD04, BS12, OBS7            |
-| RF05  | O sistema deve emitir alertas de bloqueio rápidos, via botão de emergência. | ADD05, BS15, OBS9            |
-| RF06  | O usuário poderá selecionar o tipo de bloqueio: Modo Recuperação ou Bloqueio Total.     | ADD06            |
-| RF07  | O sistema deve gerar número de protocolo após emissão de alerta.               | ADD07            |
-| RF08  | O alerta deve ser enviado automaticamente para operadoras e instituições parceiras. | ADD08            |
-| RF09  | O aplicativo deve permitir consulta de status do IMEI antes da compra. | ADD09, OBS10           |
-| RF10  | O sistema deve estar disponível como aplicativo móvel (Android/iOS) e versão web, com as mesmas funcionalidades.    | ADD10, BS13           |
-| RF11  | O sistema deve permitir emitir mais de um alerta por linha telefônica.                         | ADD11            |
-| RF12  | O sistema deve notificar o usuário se um novo chip for inserido após modo Recuperação.                                  | ADD12, BS26            |
-| RF13  | O sistema deve exibir um tutorial passo a passo para o usuário.                                 | BS11, OBS6, QS04            |
-| RF14  | O aplicativo permite o registro de boletim de ocorrência.                                 | OBS8, QS02, QS09            |
-| RF15  | O aplicativo deve permitir localizar o celular perdido e rastrear localização.                                  | BS04, RF01, QS01, BS06, BS05, BS20, BS24, BS35            |
-| RF16  | O aplicativo deve exibir histórico de movimentação e permitir exportação em PDF.                                 | BS05, BS22, OBS5           |
-| RF17  | O aplicativo envia notificações push sobre eventos e atividades suspeitas.                                  | OBS4, QS08, RF06, BS07, BS21            |
-| RF18  | O usuário pode redefinir senha via e-mail.                                 | OBS3            |
-| RF19  | O aplicativo deve redirecionar para ferramentas nativas de localização (como “Buscar” do iCloud).                                 | OBS13           |
-| RF20  | O sistema deve permitir edição do perfil do usuário.                                 | OBS12           |
-| RF21  | O sistema deve permitir emissão de som remoto para facilitar localização.                                 | BS19           |
-| RF22  | O sistema deve registrar logs das ações remotas para auditoria.                                 | BS33           |
-| RF23  | O aplicativo deve permitir compartilhamento temporário de localização com contatos.                                  | BS30            |
-| RF24  | O sistema deve integrar com operadora para bloquear chip diretamente.                                  | BS08           |
-| RF25  | O sistema deve permitir a recuperação do aparelho bloqueado caso reencontrado.                                  | QS08          |
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-### Requisitos Não‑Funcionais (RNF)
-
-<font size="3">
-  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 2: Requisitos Não Funcionais do Celular Seguro
-  </p>
-</font>
-
-| **ID** | **Requisito Elicitado**                                                                                                                                                 | **Rastreabilidade** |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| RNF01  | O aplicativo deve apresentar interface intuitiva e acessível, com menus claros, ícones bem definidos e design acessível.                                                   | BS36, OBS15, OBS18, QS17, QS7, QS12, Q19          |
-| RNF02  | O tempo de carregamento das páginas deve ser inferior a 2 segundos em 4G.                     | OBS16, BS39, RNF23           |
-| RNF03  | O sistema deve estar disponível 24×7 para todos os cidadãos brasileiros. | ADD13, OBS21, BS40           |
-| RNF04  | Os alertas devem ser enviados em tempo mínimo (idealmente instantâneo) e bloqueios realizados em minutos.                | ADD14         |
-| RNF05  | O sistema deve seguir requisitos de segurança da informação (criptografia, LGPD, etc.).                                  | ADD15, BS47, BS48           |
-| RNF06  | O aplicativo deve apresentar feedback (confirmação) após ações importantes.                                                                           | OBS20, QS04          |
-| RNF07  | O sistema deve garantir compatibilidade com as principais versões de Android, iOS e navegadores.                                             | ADD17, BS57           |
-| RNF08  | O serviço deve ser gratuito, sem cobrança de uso ou download.                                            | ADD18        |
-| RNF09  | O sistema deve cumprir normas e legislação (Anatel, Febraban, LGPD).                                             | ADD19           |
-| RNF10  | O aplicativo deve oferecer acessibilidade: suporte a leitor de tela, VLibras, ajuste de contraste e fonte.                                             | BS42, BS43, OBS18          |
-| RNF11  | O sistema deve apresentar estabilidade e funcionamento adequado durante emergências.                                             | QS9, RNF03           |
-| RNF12  | O sistema deve possuir central de ajuda acessível online e offline.                                             | BS52           |
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+Os requisitos funcionais do projeto [Celular Seguro](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro) foram elicitados na seção de elicitação das seguintes técnicas: [Análise de Documentos](../documento-elicitacao/AnalisedeDocumentos.md), [Questionário](../documento-elicitacao/Questionario.md), [Brainstorming](../documento-elicitacao/Brainstorming.md), [Observação](../documento-elicitacao/Observacao.md) e [Storytelling](../documento-elicitacao//Storytelling.md). 
 
 ---
 
@@ -116,13 +44,13 @@ Define requisitos para garantir que o sistema seja fácil de usar, acessível e 
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| USA01  | Interface responsiva compatível com smartphones e tablets. | 
-| USA02  | O tempo de carregamento das páginas deve ser inferior a 2 segundos em 4G. |
-| USA03  | Tempo de resposta inferior a 2 segundos para consultas simples. |
-| USA04  | O sistema deve apresentar cores compatíveis com a opção de alto contraste. |
-| USA05  | Fluxo de registro com no máximo 3 passos para usuários finais. |
+| **ID** | **Descrição** | **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------|
+| USA01  | O tempo de carregamento das páginas inferior a 2 segundos em aparelhos com 4G/5G. | Tempo |
+| USA02  | Tempo de resposta inferior a 2 segundos para consultas simples. | Tempo |
+| USA03  | O sistema deve apresentar cores compatíveis com a opções de contraste. | Acessibilidade (WCAG) |
+| USA04  | Fluxo de registro com no máximo 3 passos | Etapas |
+| USA05  | O tempo de adaptação ao sistema leva cerca de 1 a 3 dias ao seguir o guia de usuário | Tempo |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -142,15 +70,15 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CON01  | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD). | 
-| CON02  | Precisão de 99% nos dados retornados. |
-| CON03  | O sistema deve possuir as informações atualizadas e condizentes com a realidade. |
-| CON04  | O sistema deve possuir backups dos dados dos usuários e eventos. |
-| CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | 
-| CON06  | Taxa de erro crítica inferior a 1 a cada 100 mil transações. | 
-| CON07  | O sistema deve impedir que o usuário realize atividades que possa colocar a integridade do sistema e de outros usuários em risco. | 
+| **ID** | **Descrição** | **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| CON01  | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD). | Checklist |
+| CON02  | Precisão de 99% nos dados retornados. | Porcentagem |
+| CON03  | Falhas críticas devem ser detectadas automaticamente em até 30 segundos. | Tempo |
+| CON04  | O sistema deve possuir backups dos dados com até 30 minutos dos usuários e eventos. | Tempo |
+| CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | Tempo |
+| CON06  | Taxa de erro crítica < 1/100.000 transações. | Logs |
+| CON07  | Suspensão temporária dos serviços Bancários executados de forma remota em até 30 minutos | Tempo |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -170,14 +98,13 @@ Define metas relacionadas à eficiência do sistema, como tempo de resposta, nú
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DES01  | Suporte a até 1 milhão de acessos simultâneos. | 
-| DES02  | Tempo máximo de resposta: 3 segundos. |
-| DES03  | Tempo de carregamento inicial: até 200ms. |
-| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos que possa atrapalhar ações. |
-| DES05  | Escalabilidade horizontal automática. | 
-| DES06  | Uso máximo de CPU por serviço: até 70%. | 
+| **ID** | **Descrição** |  **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------|
+| DES01  | O sistema deve ser capaz de manter tempo de resposta inferior a 3 segundos sob carga de até 1 milhão de acessos simultâneos, com uso de CPU ≤ 80%. | Porcentagem |
+| DES02  | Tempo máximo de resposta: 3 segundos. | Tempo |
+| DES03  | Tempo de carregamento inicial: até 200ms. | Tempo |
+| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos além de 10 segundos que possa atrapalhar ações. | Tempo |
+| DES05  | O sistema deve escalar horizontalmente de forma automática em no máximo 60 segundos sempre que o uso de CPU ultrapassar 70% | Porcentagem, Tempo | 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -197,16 +124,16 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Estabel
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SUP01  | Documentação técnica disponível via Swagger e README. | 
-| SUP02  | O sistema deve possuir uma capacidade de extensão para adicionar novas funcionalidades e acompanhar as mudanças. |
-| SUP03  | Monitoramento com alertas em tempo real via Grafana. |
-| SUP04  | Ambiente de staging para validações pré-produção. |
-| SUP05  | Canal de suporte com SLA de até 8h úteis. | 
-| SUP06  | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações. | 
-| SUP07  | O sistema deve possuir uma tolerância a falhas para garantir que o sistema possa lidar com falhas adequadamente, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, backups regulares e restauração rápida em caso de falhas. | 
-| SUP08  | Código modular com testes automatizados (>90% de cobertura). | 
+| **ID** | **Descrição** |  **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| SUP01  | Documentação técnica disponível via Swagger e README. | Documentação |
+| SUP02  | O sistema deve permitir a adição de novos módulos com tempo médio de integração ≤ 8h, desde que respeitem os contratos definidos pelas **APIs**. | Tempo |
+| SUP03  | Monitoramento com alertas em tempo real via Grafana. | Logs |
+| SUP04  | Ambiente de staging para validações pré-produção. | Deploy, Testes |
+| SUP05  | Canal de suporte com SLA de até 8h úteis. | Tempo |
+| SUP06  | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações. | Versionamneto |
+| SUP07  | 	Após falhas, a integridade dos dados deve ser garantida com 0% de corrupção em logs de validação | Porcentagem | 
+| SUP08  | Código modular com testes automatizados (>90% de cobertura). | Porcentagem |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -249,17 +176,19 @@ A interface deve seguir obrigatoriamente o Design System do [Gov.br](https://www
 
 Justificativa: garantir identidade visual unificada e experiência de uso padronizada nos serviços públicos digitais.
 
+Segue o [PDF](./Padrão%20Digital%20de%20Governo%20-%20Introdução%20-%20Padrão%20Mínimo.pdf) dos padrões mínimos aplicados ao Design System do GOV.br.
+
 ---
 
 #### Integrações obrigatórias
 
 O sistema deve oferecer integração com os seguintes parceiros institucionais:
 
-- [Anatel](https://www.gov.br/anatel/pt-br) – para consulta e bloqueio do IMEI.
-- Operadoras de telefonia – para bloqueio de chip.
-- [Secretarias de Segurança Pública (SSPs)](http://www.seguranca.sp.gov.br/institucional) – para compartilhamento de dados de boletins de ocorrência.
+- [Anatel](https://www.gov.br/anatel/pt-br) – Para consulta e bloqueio do IMEI.
+- [ABR TELECOM](https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg) – Recebimento e validação das informações de pedido de bloqueio de terminais telefônicos móveis para envio às prestadoras participantes (Algar Telecom, Claro, Sercomtel, Telefônica, Tim, Datora Telecom, Emnify Brasil e Surf Telecom).
+- [Delegacias Virtuais](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/delegacias-virtuais-1/) – Compartilhamento de dados para realização de boletins de ocorrência.
 
-Essas integrações devem ser realizadas por meio de APIs REST autenticadas e seguras, e são obrigatórias para o funcionamento correto do fluxo de notificação e bloqueio.
+Segue o [PDF](./Lista%20de%20Parceiros%20—%20Ministério%20da%20Justiça%20e%20Segurança%20Pública.pdf) dos demais parceiros do Aplicativo **Celular Seguro**.
 
 ---
 
@@ -273,7 +202,7 @@ Esta seção documenta requisitos técnicos globais que não estão diretamente 
 
 São normas, leis e especificações técnicas que o sistema deve obrigatoriamente seguir, garantindo segurança jurídica, acessibilidade e interoperabilidade:
 
-- [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) **(Lei Geral de Proteção de Dados – Lei nº 13.709/2018)**:
+- [LGPD](./L13709.pdf) **(Lei Geral de Proteção de Dados – Lei nº 13.709/2018)**:
 O sistema deve proteger os dados pessoais dos usuários, garantindo base legal, consentimento, anonimização e direitos como acesso e exclusão de dados
 - [WCAG 2.1](https://www.w3.org/TR/WCAG21/) – Nível AA: 
 Toda interface deve estar em conformidade com as Diretrizes de Acessibilidade para Conteúdo Web (Web Content Accessibility Guidelines), permitindo uso por pessoas com deficiência.
@@ -281,7 +210,7 @@ Toda interface deve estar em conformidade com as Diretrizes de Acessibilidade pa
 As APIs devem seguir o padrão OpenAPI (Swagger), garantindo documentação estruturada, integração fácil e testes automatizados.
 - [HTTPS com TLS 1.3](https://datatracker.ietf.org/doc/html/rfc8446):
 Toda comunicação entre cliente e servidor deve ser criptografada com protocolo HTTPS moderno (TLS 1.3 ou superior) para prevenir interceptações.
-- RESTful API Design:
+- [RESTful API Design]():
 As APIs devem seguir o estilo REST, com uso de verbos HTTP corretos, URIs significativas, retorno em JSON e versionamento de endpoints.
 
 ---
@@ -299,7 +228,7 @@ Compatibilidade com navegadores:
 - Microsoft Edge
 - Safari
 
-Hospedagem: Infraestrutura de nuvem compatível com escalabilidade horizontal (ex: Kubernetes ou auto-scaling EC2), localizada no Brasil.
+Hospedagem: Infraestrutura de nuvem compatível com escalabilidade horizontal, localizada no Brasil.
 
 Autenticação: Integração com a plataforma [Gov.br](https://www.gov.br/pt-br) via OAuth2, usando login social e validação de nível de segurança (prata ou ouro).
 
@@ -362,11 +291,13 @@ Cada item abaixo pode envolver licenciamento, integração técnica ou acordos d
   
 ---
 
-#### [Biblioteca de Componentes Visuais do Gov.br](https://www.gov.br/governodigital/pt-br/design-system)
+#### [Biblioteca de Componentes Visuais do Gov.br](https://www.gov.br/ds/introducao/sobre)
 
 - Finalidade: Garantir padronização visual e conformidade com o Design System do Governo Federal.
 - Descrição: Biblioteca de CSS e componentes React que seguem diretrizes de identidade visual oficial.
 - Obrigatório: Sim, para padronização e reconhecimento visual de serviços públicos.
+
+Segue o [PDF](./Padrão%20Digital%20de%20Governo%20-%20Introdução%20-%20Padrão%20Mínimo.pdf) dos padrões mínimos aplicados ao Design System do GOV.br.
 
 ---
 
@@ -396,7 +327,7 @@ Justificativa: Permite cumprir exigências da LGPD e estratégias do Governo Dig
 
 ## Interfaces
 
-As interfaces definem como o sistema Celular Seguro se conecta com seus usuários, outros sistemas, dispositivos físicos e infraestruturas de rede. São fundamentais para garantir interoperabilidade, usabilidade e integração com parceiros institucionais (como Anatel, operadoras, Gov.br, etc.).
+As interfaces definem como o sistema Celular Seguro se conecta com seus usuários, outros sistemas, dispositivos físicos e infraestruturas de rede. São fundamentais para garantir interoperabilidade, usabilidade e integração com parceiros institucionais.
 
 ---
 
@@ -504,3 +435,4 @@ Segue o [Termo de Uso](../TermoUso.pdf) do Celular Seguro.
 | 1.0    | 09/05/2025         | Criação do documento                           |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 09/05/2025|
 | 1.1    | 11/05/2025         | Criação Introdutória dos temas de Funcionalidade, Usabilidade, Desempenho, Suportabilidade, Restrições do Projeto                          |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 11/05/2025|
 | 1.2    | 11/05/2025         | Adição de referências e termos de uso do aplicativo |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 11/05/2025|
+| 1.3    | 13/05/2025         | Correções relacionadas a referências de pdf e sugestões de correções da page |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Felipe das Neves</a>| 13/05/2025|
