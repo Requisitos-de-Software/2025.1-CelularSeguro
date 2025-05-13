@@ -50,7 +50,7 @@ Define requisitos para garantir que o sistema seja fácil de usar, acessível e 
 | USA02  | Tempo de resposta inferior a 2 segundos para consultas simples. | Tempo |
 | USA03  | O sistema deve apresentar cores compatíveis com a opções de contraste. | Acessibilidade (WCAG) |
 | USA04  | Fluxo de registro com no máximo 3 passos | Etapas |
-| USA04  | O tempo de adaptação ao sistema leva cerca de 1 a 3 dias ao seguir o guia de usuário | Tempo |
+| USA05  | O tempo de adaptação ao sistema leva cerca de 1 a 3 dias ao seguir o guia de usuário | Tempo |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
