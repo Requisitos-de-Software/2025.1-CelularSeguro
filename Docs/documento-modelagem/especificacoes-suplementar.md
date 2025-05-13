@@ -30,79 +30,7 @@ Para a elaboração deste artefato, será adotada uma versão adaptada do modelo
 
 ## Funcionalidade
 
-Os requisitos funcionais foram elicitados na seção de elicitação das seguintes técnicas: [Análise de Documentos](./AnalisedeDocumentos.md), [Questionário](./Questionario.md), [Brainstorming](./Brainstorming.md) e [Observação](./Observacao.md)
-
-A legenda para cada sigla abaixo:
-
-- **RFx**: Requisito Funcional nºx
-- **RNFx**: Requisito Não-Funcional nºx
-- **ADDx**: Requisito nºx elicitado pela Análise de Documentos
-- **QSx**: Requisito nºx elicitado pelo Questionário
-- **BSx**: Requisito nºx elicitado pelo Brainstorming
-- **OBSx**: Requisito nºx elicitado pela Observação
-
-### Requisitos Funcionais (RF)
-
-<font size="3">
-  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 1: Requisitos Funcionais do Celular Seguro<br>
-  </p>
-</font>
-
-| **ID** | **Requisito Elicitado**                                                                                                                                                | **Rastreabilidade** |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| RF01  | O sistema deve permitir autenticação via Gov.br utilizando CPF e senha.                                                | ADD01, BS09, OBS1, OBS2, OBS17           |
-| RF02  | O aplicativo deve exibir os Termos de Uso e requerer aceite na primeira abertura.                           | ADD02, OBS14           |
-| RF03  | O usuário poderá cadastrar múltiplos celulares vinculados ao CPF.                              | ADD03, OBS11           |
-| RF04  | O aplicativo deve permitir o cadastro de contatos de confiança para alertas em emergências.           | ADD04, BS12, OBS7            |
-| RF05  | O sistema deve emitir alertas de bloqueio rápidos, via botão de emergência. | ADD05, BS15, OBS9            |
-| RF06  | O usuário poderá selecionar o tipo de bloqueio: Modo Recuperação ou Bloqueio Total.     | ADD06            |
-| RF07  | O sistema deve gerar número de protocolo após emissão de alerta.               | ADD07            |
-| RF08  | O alerta deve ser enviado automaticamente para operadoras e instituições parceiras. | ADD08            |
-| RF09  | O aplicativo deve permitir consulta de status do IMEI antes da compra. | ADD09, OBS10           |
-| RF10  | O sistema deve estar disponível como aplicativo móvel (Android/iOS) e versão web, com as mesmas funcionalidades.    | ADD10, BS13           |
-| RF11  | O sistema deve permitir emitir mais de um alerta por linha telefônica.                         | ADD11            |
-| RF12  | O sistema deve notificar o usuário se um novo chip for inserido após modo Recuperação.                                  | ADD12, BS26            |
-| RF13  | O sistema deve exibir um tutorial passo a passo para o usuário.                                 | BS11, OBS6, QS04            |
-| RF14  | O aplicativo permite o registro de boletim de ocorrência.                                 | OBS8, QS02, QS09            |
-| RF15  | O aplicativo deve permitir localizar o celular perdido e rastrear localização.                                  | BS04, RF01, QS01, BS06, BS05, BS20, BS24, BS35            |
-| RF16  | O aplicativo deve exibir histórico de movimentação e permitir exportação em PDF.                                 | BS05, BS22, OBS5           |
-| RF17  | O aplicativo envia notificações push sobre eventos e atividades suspeitas.                                  | OBS4, QS08, RF06, BS07, BS21            |
-| RF18  | O usuário pode redefinir senha via e-mail.                                 | OBS3            |
-| RF19  | O aplicativo deve redirecionar para ferramentas nativas de localização (como “Buscar” do iCloud).                                 | OBS13           |
-| RF20  | O sistema deve permitir edição do perfil do usuário.                                 | OBS12           |
-| RF21  | O sistema deve permitir emissão de som remoto para facilitar localização.                                 | BS19           |
-| RF22  | O sistema deve registrar logs das ações remotas para auditoria.                                 | BS33           |
-| RF23  | O aplicativo deve permitir compartilhamento temporário de localização com contatos.                                  | BS30            |
-| RF24  | O sistema deve integrar com operadora para bloquear chip diretamente.                                  | BS08           |
-| RF25  | O sistema deve permitir a recuperação do aparelho bloqueado caso reencontrado.                                  | QS08          |
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-### Requisitos Não‑Funcionais (RNF)
-
-<font size="3">
-  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Tabela 2: Requisitos Não Funcionais do Celular Seguro
-  </p>
-</font>
-
-| **ID** | **Requisito Elicitado**                                                                                                                                                 | **Rastreabilidade** |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| RNF01  | O aplicativo deve apresentar interface intuitiva e acessível, com menus claros, ícones bem definidos e design acessível.                                                   | BS36, OBS15, OBS18, QS17, QS7, QS12, Q19          |
-| RNF02  | O tempo de carregamento das páginas deve ser inferior a 2 segundos em 4G.                     | OBS16, BS39, RNF23           |
-| RNF03  | O sistema deve estar disponível 24×7 para todos os cidadãos brasileiros. | ADD13, OBS21, BS40           |
-| RNF04  | Os alertas devem ser enviados em tempo mínimo (idealmente instantâneo) e bloqueios realizados em minutos.                | ADD14         |
-| RNF05  | O sistema deve seguir requisitos de segurança da informação (criptografia, LGPD, etc.).                                  | ADD15, BS47, BS48           |
-| RNF06  | O aplicativo deve apresentar feedback (confirmação) após ações importantes.                                                                           | OBS20, QS04          |
-| RNF07  | O sistema deve garantir compatibilidade com as principais versões de Android, iOS e navegadores.                                             | ADD17, BS57           |
-| RNF08  | O serviço deve ser gratuito, sem cobrança de uso ou download.                                            | ADD18        |
-| RNF09  | O sistema deve cumprir normas e legislação (Anatel, Febraban, LGPD).                                             | ADD19           |
-| RNF10  | O aplicativo deve oferecer acessibilidade: suporte a leitor de tela, VLibras, ajuste de contraste e fonte.                                             | BS42, BS43, OBS18          |
-| RNF11  | O sistema deve apresentar estabilidade e funcionamento adequado durante emergências.                                             | QS9, RNF03           |
-| RNF12  | O sistema deve possuir central de ajuda acessível online e offline.                                             | BS52           |
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+Os requisitos funcionais do projeto [Celular Seguro](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro) foram elicitados na seção de elicitação das seguintes técnicas: [Análise de Documentos](../documento-elicitacao/AnalisedeDocumentos.md), [Questionário](../documento-elicitacao/Questionario.md), [Brainstorming](../documento-elicitacao/Brainstorming.md), [Observação](../documento-elicitacao/Observacao.md) e [Storytelling](../documento-elicitacao//Storytelling.md). 
 
 ---
 
@@ -150,7 +78,7 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
 | CON04  | O sistema deve possuir backups dos dados dos usuários e eventos. |
 | CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | 
 | CON06  | Taxa de erro crítica inferior a 1 a cada 100 mil transações. | 
-| CON07  | O sistema deve impedir que o usuário realize atividades que possa colocar a integridade do sistema e de outros usuários em risco. | 
+| CON07  | Suspensão temporária dos serviços Bancários executados de forma remota em até 30 minutos | 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -255,11 +183,11 @@ Justificativa: garantir identidade visual unificada e experiência de uso padron
 
 O sistema deve oferecer integração com os seguintes parceiros institucionais:
 
-- [Anatel](https://www.gov.br/anatel/pt-br) – para consulta e bloqueio do IMEI.
-- Operadoras de telefonia – para bloqueio de chip.
-- [Secretarias de Segurança Pública (SSPs)](http://www.seguranca.sp.gov.br/institucional) – para compartilhamento de dados de boletins de ocorrência.
+- [Anatel](https://www.gov.br/anatel/pt-br) – Para consulta e bloqueio do IMEI.
+- [ABR TELECOM](https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg) – Recebimento e validação das informações de pedido de bloqueio de terminais telefônicos móveis para envio às prestadoras participantes (Algar Telecom, Claro, Sercomtel, Telefônica, Tim, Datora Telecom, Emnify Brasil e Surf Telecom).
+- [Secretarias de Segurança Pública (SSPs)](http://www.seguranca.sp.gov.br/institucional) – Para compartilhamento de dados de boletins de ocorrência.
 
-Essas integrações devem ser realizadas por meio de APIs REST autenticadas e seguras, e são obrigatórias para o funcionamento correto do fluxo de notificação e bloqueio.
+Segue o [PDF](./Lista%20de%20Parceiros%20—%20Ministério%20da%20Justiça%20e%20Segurança%20Pública.pdf) dos demais parceiros do Aplicativo **Celular Seguro**.
 
 ---
 
