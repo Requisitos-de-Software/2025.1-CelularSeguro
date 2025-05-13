@@ -176,6 +176,8 @@ A interface deve seguir obrigatoriamente o Design System do [Gov.br](https://www
 
 Justificativa: garantir identidade visual unificada e experiência de uso padronizada nos serviços públicos digitais.
 
+Segue o [PDF](./Padrão%20Digital%20de%20Governo%20-%20Introdução%20-%20Padrão%20Mínimo.pdf) dos padrões mínimos aplicados ao Design System do GOV.br.
+
 ---
 
 #### Integrações obrigatórias
@@ -184,7 +186,7 @@ O sistema deve oferecer integração com os seguintes parceiros institucionais:
 
 - [Anatel](https://www.gov.br/anatel/pt-br) – Para consulta e bloqueio do IMEI.
 - [ABR TELECOM](https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg) – Recebimento e validação das informações de pedido de bloqueio de terminais telefônicos móveis para envio às prestadoras participantes (Algar Telecom, Claro, Sercomtel, Telefônica, Tim, Datora Telecom, Emnify Brasil e Surf Telecom).
-- [Secretarias de Segurança Pública (SSPs)](http://www.seguranca.sp.gov.br/institucional) – Para compartilhamento de dados de boletins de ocorrência.
+- [Delegacias Virtuais](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/delegacias-virtuais-1/) – Compartilhamento de dados para realização de boletins de ocorrência.
 
 Segue o [PDF](./Lista%20de%20Parceiros%20—%20Ministério%20da%20Justiça%20e%20Segurança%20Pública.pdf) dos demais parceiros do Aplicativo **Celular Seguro**.
 
@@ -200,7 +202,7 @@ Esta seção documenta requisitos técnicos globais que não estão diretamente 
 
 São normas, leis e especificações técnicas que o sistema deve obrigatoriamente seguir, garantindo segurança jurídica, acessibilidade e interoperabilidade:
 
-- [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) **(Lei Geral de Proteção de Dados – Lei nº 13.709/2018)**:
+- [LGPD](./L13709.pdf) **(Lei Geral de Proteção de Dados – Lei nº 13.709/2018)**:
 O sistema deve proteger os dados pessoais dos usuários, garantindo base legal, consentimento, anonimização e direitos como acesso e exclusão de dados
 - [WCAG 2.1](https://www.w3.org/TR/WCAG21/) – Nível AA: 
 Toda interface deve estar em conformidade com as Diretrizes de Acessibilidade para Conteúdo Web (Web Content Accessibility Guidelines), permitindo uso por pessoas com deficiência.
@@ -289,11 +291,13 @@ Cada item abaixo pode envolver licenciamento, integração técnica ou acordos d
   
 ---
 
-#### [Biblioteca de Componentes Visuais do Gov.br](https://www.gov.br/governodigital/pt-br/design-system)
+#### [Biblioteca de Componentes Visuais do Gov.br](https://www.gov.br/ds/introducao/sobre)
 
 - Finalidade: Garantir padronização visual e conformidade com o Design System do Governo Federal.
 - Descrição: Biblioteca de CSS e componentes React que seguem diretrizes de identidade visual oficial.
 - Obrigatório: Sim, para padronização e reconhecimento visual de serviços públicos.
+
+Segue o [PDF](./Padrão%20Digital%20de%20Governo%20-%20Introdução%20-%20Padrão%20Mínimo.pdf) dos padrões mínimos aplicados ao Design System do GOV.br.
 
 ---
 
@@ -323,7 +327,7 @@ Justificativa: Permite cumprir exigências da LGPD e estratégias do Governo Dig
 
 ## Interfaces
 
-As interfaces definem como o sistema Celular Seguro se conecta com seus usuários, outros sistemas, dispositivos físicos e infraestruturas de rede. São fundamentais para garantir interoperabilidade, usabilidade e integração com parceiros institucionais (como Anatel, operadoras, Gov.br, etc.).
+As interfaces definem como o sistema Celular Seguro se conecta com seus usuários, outros sistemas, dispositivos físicos e infraestruturas de rede. São fundamentais para garantir interoperabilidade, usabilidade e integração com parceiros institucionais.
 
 ---
 
