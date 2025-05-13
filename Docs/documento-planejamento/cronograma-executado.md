@@ -85,7 +85,7 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
 | Diagrama de caso de uso                     | Mateus, Leonardo e Vitor         | Daniel e Gabriel     |  08/05  | 16/05 |
 | Definição do lexico                         | Mateus e Felipe           | Arhtur e Daniel    |  08/05  | 16/05 |          
-| Criação de cenários                         | Arhtur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
+| Criação de cenários                         | Arthur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
 | Especificação suplementar                   | Gabriel            | Leonardo e Vitor |  08/05  | 16/05 |
 | Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
 | *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/05  | 16/05 |
