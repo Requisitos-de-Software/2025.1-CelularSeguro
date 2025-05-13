@@ -72,9 +72,9 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 ---
 
 ## Etapa 3 – Modelagem  
-- Período: 28/04 a 13/05  
-- Entrega: 13/05  
-- Apresentação: 15/05  
+- Período: 08/05 a 18/05  
+- Entrega: 18/05  
+- Apresentação: 20/05  
 
 ### Duplas responsáveis pelas atas
 - Semana 7 (28/04 a 04/05): *Gabriel e Mateus*
@@ -86,14 +86,14 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
-| Diagrama de caso de uso                     | Mateus e Gabriel          | Daniel e Vitor     |  28/04  | 05/05 |
-| Definição do lexico                         | Mateus e Felipe           | Arhtur e Daniel    |  28/04  | 05/05 |          
-| Criação de cenários                         | Leonardo, Arhtur e Daniel | Mateus e Felipe    |  05/05  | 07/05 |
-| Especificação suplementar                   | Vitor e Felipe            | Gabriel e Leonardo |  05/05  | 11/05 |
-| Gravar e fazer upload da apresentação       | Daniel e Vitor            | Leonardo e Felipe  |  12/04  | 12/04 |
-| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  12/05  | 12/05 |
+| Diagrama de caso de uso                     | Mateus, Leonardo e Vitor         | Daniel e Gabriel     |  08/05  | 16/05 |
+| Definição do lexico                         | Mateus e Felipe           | Arhtur e Daniel    |  08/05  | 16/05 |          
+| Criação de cenários                         | Arhtur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
+| Especificação suplementar                   | Gabriel            | Leonardo e Vitor |  08/05  | 16/05 |
+| Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/05  | 16/05 |
 
-<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlim)._</p></font>
 
 ---
 
@@ -207,3 +207,4 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | 1.3    | 12/04/2025 | Adição das 5 etapas e atualização de tabelas | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 12/04/2025|
 | 1.4    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
 | 1.5    | 23/04/2025 | Padronização do Histórico de Versões e da Bibliografia| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 23/04/2025|
+| 2.0    | 13/05/2025 | Ajustes na tabela da etapa 3 - Modelagem - Planejado| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 13/05/2025|

@@ -83,14 +83,14 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
-| Diagrama de caso de uso                     | Mateus e Gabriel          | Daniel e Vitor     | 06/05  |  |
-| Definição do lexico                         | Mateus e Felipe           | Arhtur e Daniel    | 06/05 |  |          
-| Criação de cenários                         | Leonardo, Arhtur e Daniel | Mateus e Felipe    |  06/05  | |
-| Especificação suplementar                   | Vitor e Felipe            | Gabriel e Leonardo |  06/05  | |
-| Gravar e fazer upload da apresentação       | Daniel e Vitor            | Leonardo e Felipe  |  18/05  | |
-| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  18/05  |  |
+| Diagrama de caso de uso                     | Mateus, Leonardo e Vitor         | Daniel e Gabriel     |  08/05  | 16/05 |
+| Definição do lexico                         | Mateus e Felipe           | Arhtur e Daniel    |  08/05  | 16/05 |          
+| Criação de cenários                         | Arhtur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
+| Especificação suplementar                   | Gabriel            | Leonardo e Vitor |  08/05  | 16/05 |
+| Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/05  | 16/05 |
 
-<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+<font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlim)._</p></font>
 
 
 ## Bibliografia
@@ -108,4 +108,5 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
 | 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold; href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
 | 1.2    | 09/04/2025 | Padronização do Histórico de Versões e da Bibliografia | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
-| 2.0    | 09/05/2025 | Corrigindo datas de entregas 2 e 3 | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>           | 09/05/2025|
+| 1.3    | 09/05/2025 | Corrigindo datas de entregas 2 e 3 | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>           | 09/05/2025|
+| 2.0    | 13/05/2025 | Ajustes na tabela da etapa 3 - Modelagem - Executado | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>, <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| 13/05/2025|
