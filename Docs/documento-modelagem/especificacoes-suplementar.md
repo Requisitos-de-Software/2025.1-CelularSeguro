@@ -44,13 +44,13 @@ Define requisitos para garantir que o sistema seja fácil de usar, acessível e 
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| USA01  | Interface responsiva compatível com smartphones e tablets. | 
-| USA02  | O tempo de carregamento das páginas deve ser inferior a 2 segundos em 4G. |
-| USA03  | Tempo de resposta inferior a 2 segundos para consultas simples. |
-| USA04  | O sistema deve apresentar cores compatíveis com a opção de alto contraste. |
-| USA05  | Fluxo de registro com no máximo 3 passos para usuários finais. |
+| **ID** | **Descrição** | **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------|
+| USA01  | O tempo de carregamento das páginas inferior a 2 segundos em aparelhos com 4G/5G. | Tempo |
+| USA02  | Tempo de resposta inferior a 2 segundos para consultas simples. | Tempo |
+| USA03  | O sistema deve apresentar cores compatíveis com a opções de contraste. | Acessibilidade (WCAG) |
+| USA04  | Fluxo de registro com no máximo 3 passos | Etapas |
+| USA04  | O tempo de adaptação ao sistema leva cerca de 1 a 3 dias ao seguir o guia de usuário | Tempo |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -70,15 +70,15 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CON01  | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD). | 
-| CON02  | Precisão de 99% nos dados retornados. |
-| CON03  | O sistema deve possuir as informações atualizadas e condizentes com a realidade. |
-| CON04  | O sistema deve possuir backups dos dados dos usuários e eventos. |
-| CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | 
-| CON06  | Taxa de erro crítica inferior a 1 a cada 100 mil transações. | 
-| CON07  | Suspensão temporária dos serviços Bancários executados de forma remota em até 30 minutos | 
+| **ID** | **Descrição** | **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| CON01  | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD). | Checklist |
+| CON02  | Precisão de 99% nos dados retornados. | Porcentagem |
+| CON03  | Falhas críticas devem ser detectadas automaticamente em até 30 segundos. | Tempo |
+| CON04  | O sistema deve possuir backups dos dados com até 30 minutos dos usuários e eventos. | Tempo |
+| CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | Tempo |
+| CON06  | Taxa de erro crítica < 1/100.000 transações. | Logs |
+| CON07  | Suspensão temporária dos serviços Bancários executados de forma remota em até 30 minutos | Tempo |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -98,14 +98,13 @@ Define metas relacionadas à eficiência do sistema, como tempo de resposta, nú
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DES01  | Suporte a até 1 milhão de acessos simultâneos. | 
-| DES02  | Tempo máximo de resposta: 3 segundos. |
-| DES03  | Tempo de carregamento inicial: até 200ms. |
-| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos que possa atrapalhar ações. |
-| DES05  | Escalabilidade horizontal automática. | 
-| DES06  | Uso máximo de CPU por serviço: até 70%. | 
+| **ID** | **Descrição** |  **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------|
+| DES01  | O sistema deve ser capaz de manter tempo de resposta inferior a 3 segundos sob carga de até 1 milhão de acessos simultâneos, com uso de CPU ≤ 80%. | Porcentagem |
+| DES02  | Tempo máximo de resposta: 3 segundos. | Tempo |
+| DES03  | Tempo de carregamento inicial: até 200ms. | Tempo |
+| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos além de 10 segundos que possa atrapalhar ações. | Tempo |
+| DES05  | O sistema deve escalar horizontalmente de forma automática em no máximo 60 segundos sempre que o uso de CPU ultrapassar 70% | Porcentagem, Tempo | 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -125,16 +124,16 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Estabel
   </p>
 </font>
 
-| **ID** | **Descrição** | 
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SUP01  | Documentação técnica disponível via Swagger e README. | 
-| SUP02  | O sistema deve possuir uma capacidade de extensão para adicionar novas funcionalidades e acompanhar as mudanças. |
-| SUP03  | Monitoramento com alertas em tempo real via Grafana. |
-| SUP04  | Ambiente de staging para validações pré-produção. |
-| SUP05  | Canal de suporte com SLA de até 8h úteis. | 
-| SUP06  | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações. | 
-| SUP07  | O sistema deve possuir uma tolerância a falhas para garantir que o sistema possa lidar com falhas adequadamente, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, backups regulares e restauração rápida em caso de falhas. | 
-| SUP08  | Código modular com testes automatizados (>90% de cobertura). | 
+| **ID** | **Descrição** |  **Verificação** |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| SUP01  | Documentação técnica disponível via Swagger e README. | Documentação |
+| SUP02  | O sistema deve permitir a adição de novos módulos com tempo médio de integração ≤ 8h, desde que respeitem os contratos definidos pelas **APIs**. | Tempo |
+| SUP03  | Monitoramento com alertas em tempo real via Grafana. | Logs |
+| SUP04  | Ambiente de staging para validações pré-produção. | Deploy, Testes |
+| SUP05  | Canal de suporte com SLA de até 8h úteis. | Tempo |
+| SUP06  | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações. | Versionamneto |
+| SUP07  | 	Após falhas, a integridade dos dados deve ser garantida com 0% de corrupção em logs de validação | Porcentagem | 
+| SUP08  | Código modular com testes automatizados (>90% de cobertura). | Porcentagem |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -209,7 +208,7 @@ Toda interface deve estar em conformidade com as Diretrizes de Acessibilidade pa
 As APIs devem seguir o padrão OpenAPI (Swagger), garantindo documentação estruturada, integração fácil e testes automatizados.
 - [HTTPS com TLS 1.3](https://datatracker.ietf.org/doc/html/rfc8446):
 Toda comunicação entre cliente e servidor deve ser criptografada com protocolo HTTPS moderno (TLS 1.3 ou superior) para prevenir interceptações.
-- RESTful API Design:
+- [RESTful API Design]():
 As APIs devem seguir o estilo REST, com uso de verbos HTTP corretos, URIs significativas, retorno em JSON e versionamento de endpoints.
 
 ---
@@ -227,7 +226,7 @@ Compatibilidade com navegadores:
 - Microsoft Edge
 - Safari
 
-Hospedagem: Infraestrutura de nuvem compatível com escalabilidade horizontal (ex: Kubernetes ou auto-scaling EC2), localizada no Brasil.
+Hospedagem: Infraestrutura de nuvem compatível com escalabilidade horizontal, localizada no Brasil.
 
 Autenticação: Integração com a plataforma [Gov.br](https://www.gov.br/pt-br) via OAuth2, usando login social e validação de nível de segurança (prata ou ouro).
 
