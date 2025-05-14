@@ -54,7 +54,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   </p>
 </font>
 
-<figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](../assets/usecase/uzcase.svg)</figure>
+![Diagrama de Caso de Uso – Celular Seguro](../assets/usecase/uzcasee.png)
 
 **Autor da figura 1:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
@@ -62,7 +62,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especialização dos casos de uso
 
----
 ## Emitir alerta de roubo
 
 <font size="3">
