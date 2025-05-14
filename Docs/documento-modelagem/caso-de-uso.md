@@ -33,6 +33,115 @@ Além disso, no diagrama de casos de uso é possível especificar:
 - Os requisitos impostos pelo sistema ao ambiente em que está inserido, definindo como o sistema interage com o ambiente para realizar suas funções.
 
 ---
+## Especialização dos casos de uso
+
+
+| UC01             | Informações                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| **Descrição**     | O usuário é capaz de emitir um alerta imediato de roubo do dispositivo.     |
+| **Ator**          | Usuário                                                                     |
+| **Pré-condições** | Usuário autenticado; dispositivo previamente registrado no sistema.         |
+| **Ação**          | O usuário emite um alerta de roubo via aplicativo.                          |
+| **Fluxo principal** | - O usuário acessa o app.  
+- Seleciona “Emitir Alerta de Roubo”.  
+- Sistema exibe popup de confirmação.  
+- Usuário confirma.  
+- Sistema registra alerta, aciona “Registrar Boletim” e “Notificar Autoridades”. |
+| **Fluxo alternativo** | - O usuário cancela no popup de confirmação.  
+- Sistema retorna ao painel. |
+| **Fluxo de exceção** | - Falha na notificação às autoridades.  
+- Sistema exibe mensagem de erro e registra falha. |
+| **Pós-condições**  | Alerta de roubo registrado, boletim iniciado e autoridades notificadas.    |
+| **Data de Criação**| 13/05/2025                                                                 |
+| **Rastreabilidade**| RF01, RF02, RF05                                                           |
+
+
+----
+
+| UC02             | Informações                                                                  |
+|------------------|-------------------------------------------------------------------------------|
+| **Descrição**     | O usuário registra formalmente um boletim de ocorrência detalhando o roubo. |
+| **Ator**          | Usuário                                                                      |
+| **Pré-condições** | Usuário autenticado com login gov.br; dispositivo com conexão ativa.         |
+| **Ação**          | O usuário preenche o formulário e envia o boletim.                           |
+| **Fluxo principal** | - Usuário seleciona “Registrar Boletim”.  
+- Sistema exibe formulário.  
+- Usuário preenche os campos e envia.  
+- Sistema valida e exibe protocolo. |
+| **Fluxo alternativo** | - Usuário tenta enviar sem preencher todos os campos.  
+- Sistema bloqueia envio e exibe aviso. |
+| **Fluxo de exceção** | - Erro no servidor ao registrar.  
+- Sistema exibe mensagem de falha. |
+| **Pós-condições**  | Boletim registrado com número de protocolo.                                 |
+| **Data de Criação**| 13/05/2025                                                                  |
+| **Rastreabilidade**| RF02, RF06                                                                  |
+
+---
+
+| UC03             | Informações                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| **Descrição**     | Permite ao usuário localizar a posição atual ou última conhecida do dispositivo. |
+| **Ator**          | Usuário                                                                     |
+| **Pré-condições** | Boletim registrado; dispositivo com rastreamento ativado e online.          |
+| **Ação**          | O usuário solicita a localização do aparelho.                               |
+| **Fluxo principal** | - Usuário acessa “Localizar Celular”.  
+- Sistema verifica pré-condições.  
+- Solicita coordenadas ao provedor.  
+- Exibe mapa com marcador da localização. |
+| **Fluxo alternativo** | - Dispositivo offline.  
+- Sistema exibe última localização conhecida. |
+| **Fluxo de exceção** | - Erro na API de localização.  
+- Sistema exibe mensagem de indisponibilidade. |
+| **Pós-condições**  | Localização exibida no mapa ou mensagem de erro apresentada.               |
+| **Data de Criação**| 13/05/2025                                                                 |
+| **Rastreabilidade**| RF03, RF07, RF10                                                           |
+
+---
+
+| UC04             | Informações                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| **Descrição**     | O usuário bloqueia o aparelho remotamente para impedir seu uso.             |
+| **Ator**          | Usuário                                                                     |
+| **Pré-condições** | Boletim registrado; dispositivo localizado anteriormente.                   |
+| **Ação**          | O usuário envia comando de bloqueio remoto.                                 |
+| **Fluxo principal** | - Usuário acessa “Bloqueio Remoto”.  
+- Sistema solicita confirmação.  
+- Usuário confirma.  
+- Sistema envia comando à operadora e registra ação. |
+| **Fluxo alternativo** | - Usuário cancela confirmação.  
+- Sistema retorna ao painel. |
+| **Fluxo de exceção** | - Falha na comunicação com operadora.  
+- Sistema exibe mensagem de erro. |
+| **Pós-condições**  | Dispositivo bloqueado ou falha registrada.                                 |
+| **Data de Criação**| 13/05/2025                                                                 |
+| **Rastreabilidade**| RF04, RF08                                                                 |
+
+---
+
+| UC05             | Informações                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| **Descrição**     | O usuário solicita envio de backup de dados por email com link seguro.      |
+| **Ator**          | Usuário                                                                     |
+| **Pré-condições** | Usuário autenticado; backup disponível.                                     |
+| **Ação**          | O usuário seleciona um backup e envia por email.                            |
+| **Fluxo principal** | - Usuário acessa “Backup de Dados”.  
+- Sistema mostra backups disponíveis.  
+- Usuário seleciona e clica em “Enviar”.  
+- Sistema envia email com link seguro. |
+| **Fluxo alternativo** | - Email inválido ou não cadastrado.  
+- Sistema exibe aviso para atualização do cadastro. |
+| **Fluxo de exceção** | - Erro no envio do email.  
+- Sistema exibe falha e orienta nova tentativa. |
+| **Pós-condições**  | Email enviado com sucesso ou falha registrada.                             |
+| **Data de Criação**| 13/05/2025                                                                 |
+| **Rastreabilidade**| RF09, RF11                                                                 |
+
+
+
+
+
+
+
 
 ## Bibliografia
 
