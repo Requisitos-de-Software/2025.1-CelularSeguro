@@ -222,9 +222,12 @@ Legenda:
 ---
 ## Histórico de Versões 
 
-| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0    | 29/04/2025         | Desenvolvimento do tópico                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 29/04/2025|
-| 1.1    | 04/05/2025         | Inserção dos gráficos do questionário e desenvolvimento da elicitação dos requisitos                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 29/04/2025|
-| 1.2    | 04/05/2025         | Correção no gráfico e inserção de mais requisitos funcionais e não funcionais                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansetee" target="_blank">Mateus</a>| 29/04/2025|
-| 1.3   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
+## Histórico de Versões 
+
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)                                                                 | Revisor(es)                                                               | Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------: |
+| 1.0    | 29/04/2025         | Criação da estrutura inicial da documentação          | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>                    | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 29/04/2025      |
+| 1.1    | 04/05/2025         | Inserção dos gráficos do questionário e desenvolvimento da elicitação dos requisitos | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>        | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>               | 04/05/2025      |
+| 1.2    | 04/05/2025         | Correção no gráfico e inserção de mais requisitos funcionais e não funcionais | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>        | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>               | 04/05/2025      |
+| 1.3    | 08/05/2025         | Padronização do Histórico de Versões                  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>             | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>      | 08/05/2025      |
+
