@@ -51,10 +51,10 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 
 | Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
 |---------------------------------------------|---------------------------|--------------------|---------| ----- |
-| Elaborar questionário geral ( personas, perfil do usuário e técnica questionário) | Felipe das Neves  | Mateus Bastos e Arthur Carvalho   |  14/04  | 04/05 |
-| Traçar perfil de usuário                    | Mateus Bastos | Felipe Freire |  14/04  | 04/05 |
-| Criar elenco de personas                    | Mateus Bastos      | Felipe Freire e Vitor Bessa  |  16/04  | 02/05 |
-| Análise de Documentos (Técnica de Elicitação)     | Leonado de Melo e Arthur Carvalho| Leonardo de Melo    |  19/04  | 04/05 |
+| Elaborar questionário geral ( personas, perfil do usuário e técnica questionário) | Vitor Pereira Felipe das Neves  | Mateus Bastos e Arthur Carvalho   |  21/04  | 05/05 |
+| Traçar perfil de usuário                    | Mateus Bastos, Gabriel Lima e Daniel Rodrigues | Leonardo de Melo e Arthur Carvalho |  14/04  | 04/05 |
+| Criar elenco de personas                    | Mateus Bastos      | Leonardo de Melo e Vitor Pereira  |  16/04  | 30/04 |
+| Análise de Documentos (Técnica de Elicitação)     | Leonado de Melo e Arthur Carvalho| Mateus Bastos e Arthur Carvalho    |  21/04  | 04/04 |
 | Questionário (Técnica de Elicitação) | Vitor Pereira e Felipe das Neves  | Daniel Rodrigues e Gabriel Lima   |  23/04  | 04/05 |
 | Brainstorm (Técnica de Elicitação) | Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 04/05 |
 | Storytelling (Técnica de Elicitação) | Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 04/05 |
