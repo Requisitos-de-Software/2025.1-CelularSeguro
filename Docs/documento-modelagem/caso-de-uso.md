@@ -208,6 +208,240 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 7: Caso de Uso UC06 – Gerar Relatório de Movimentação em PDF<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC06 para geração de relatório de movimentação e download em PDF.
+    </span>
+  </p>
+</font>
+
+| UC06                 | Informações                                                                                                                        |
+|:---------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**        | Permite ao usuário gerar um relatório de movimentação de dados e fazer o download em formato PDF.                                 |
+| **Ator**             | Usuário                                                                                                                            |
+| **Pré-condições**    | Usuário autenticado; existem registros de movimentação disponíveis no sistema.                                                     |
+| **Ação**             | O usuário seleciona o período ou filtros e solicita a geração do relatório.                                                        |
+| **Fluxo principal**  | 1. Usuário acessa “Relatórios” no menu.<br>2. Seleciona “Movimentação”.<br>3. Define intervalo de datas e filtros.<br>4. Clica em “Gerar PDF”.<br>5. Sistema valida parâmetros, compila os dados e disponibiliza link de download.<br>6. Usuário faz o download do arquivo PDF. |
+| **Fluxo alternativo**| 1. Parâmetros inválidos (datas invertidas ou filtros inconsistentes).<br>2. Sistema exibe aviso “Verifique os filtros e tente novamente”. |
+| **Fluxo de exceção** | 1. Erro durante a compilação do relatório ou geração do PDF.<br>2. Sistema exibe “Falha ao gerar relatório, tente mais tarde”.     |
+| **Pós-condições**    | Arquivo PDF com relatório de movimentação disponível para download ou mensagem de erro apresentada.                                |
+| **Data de Criação**  | 15/05/2025                                                                                                                         |
+| **Rastreabilidade**  | [BS22](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                                                               |
+
+**Autor do tabela 7:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 8: Caso de Uso UC07 – Definir Dispositivo de Confiança<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC07 para cadastrar um dispositivo autorizado como secundário para controle remoto.
+    </span>
+  </p>
+</font>
+
+| UC07                  | Informações                                                                                                                                          |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**         | Permite ao usuário registrar um “dispositivo de confiança” que possa receber comandos remotos secundários.                                            |
+| **Ator**              | Usuário                                                                                                                                              |
+| **Pré-condições**     | Usuário autenticado; dispositivo principal ativo e sincronizado com o sistema.                                                                       |
+| **Ação**              | O usuário escolhe um dispositivo já registrado (ex.: tablet, outro celular) e marca como confiável para receber ordens remotas.                      |
+| **Fluxo principal**   | 1. Usuário acessa “Configurações de Segurança”.<br>2. Seleciona “Dispositivos de Confiança”.<br>3. Sistema exibe lista de dispositivos vinculados.<br>4. Usuário escolhe dispositivo secundário e clica em “Definir como Confiável”.<br>5. Sistema envia código de verificação ao dispositivo secundário.<br>6. Usuário insere o código no app principal.<br>7. Sistema valida o código e marca o dispositivo como confiável. |
+| **Fluxo alternativo** | 1. Dispositivo não aparece na lista (não vinculado).<br>2. Sistema exibe aviso “Vincule o dispositivo antes de defini-lo como confiável”.               |
+| **Fluxo de exceção**  | 1. Código de verificação inválido ou expirado.<br>2. Sistema exibe “Código incorreto ou expirado” e oferece opção de reenviar código.               |
+| **Pós-condições**     | Dispositivo secundário passa a receber comandos remotos autorizados.                                                                                  |
+| **Data de Criação**   | 15/05/2025                                                                                                                                            |
+| **Rastreabilidade**   | [BS23](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                                                                                  |
+
+**Autor do tabela 8:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 9: Caso de Uso UC08 – Limpeza Remota com Autenticação Forte<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC08 para execução de limpeza remota somente após verificação de identidade reforçada.
+    </span>
+  </p>
+</font>
+
+| UC08                 | Informações                                                                                                                                                    |
+|:---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**        | Executar limpeza completa do dispositivo de forma remota somente após autenticação de múltiplos fatores (MFA).                                                  |
+| **Ator**             | Usuário                                                                                                                                                        |
+| **Pré-condições**    | Boletim registrado; dispositivo localizado e online; usuário autenticado; métodos de MFA configurados (SMS, app autenticador ou biometria).                   |
+| **Ação**             | O usuário solicita o comando de limpeza remota e fornece credenciais adicionais de segurança.                                                                  |
+| **Fluxo principal**  | 1. Usuário acessa “Limpeza Remota” no painel.<br>2. Sistema avisa sobre necessidade de autenticação forte.<br>3. Usuário insere código MFA ou utiliza biometria.<br>4. Sistema valida MFA.<br>5. Sistema envia comando de wipe ao fornecedor do OS.<br>6. Fornecedor confirma início da limpeza.<br>7. Sistema exibe “Limpeza iniciada” e registra data/hora. |
+| **Fluxo alternativo**| 1. Usuário insere credencial MFA inválida.<br>2. Sistema exibe “Código incorreto” e permite nova tentativa até X vezes.<br>3. Após X falhas, aborta operação e notifica usuário. |
+| **Fluxo de exceção** | 1. Dispositivo offline ao tentar enviar comando.<br>2. Sistema armazena solicitação e notifica usuário de pendência.<br>3. Erro técnico na API de wipe.<br>4. Sistema exibe “Falha ao iniciar limpeza, tente novamente” e registra erro. |
+| **Pós-condições**    | Comando de limpeza enviado ou pendente; registro de tentativa de limpeza com status de sucesso ou falha.                                                        |
+| **Data de Criação**  | 15/05/2025                                                                                                                                                     |
+| **Rastreabilidade**  | [BS32](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                                                                                           |
+
+**Autor do tabela 9:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 10: Caso de Uso UC09 – Editar Perfil via Aba<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC09 para edição de perfil do usuário através de uma aba dedicada no aplicativo.
+    </span>
+  </p>
+</font>
+
+| UC09                 | Informações                                                                                                              |
+|:---------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**        | Permite ao usuário alterar seus dados pessoais (nome, foto, contato etc.) através de uma aba de perfil no aplicativo.    |
+| **Ator**             | Usuário                                                                                                                  |
+| **Pré-condições**    | Usuário autenticado; conexão com a internet; perfil existente no sistema.                                                 |
+| **Ação**             | O usuário acessa a aba “Meu Perfil” e atualiza as informações desejadas.                                                  |
+| **Fluxo principal**  | 1. Usuário abre o menu e seleciona “Meu Perfil”.<br>2. Sistema exibe formulário com os dados atuais.<br>3. Usuário edita campos e clica em “Salvar”.<br>4. Sistema valida entradas e atualiza o perfil.<br>5. Sistema confirma “Perfil atualizado com sucesso”. |
+| **Fluxo alternativo**| 1. Usuário navega para outra aba sem salvar.<br>2. Sistema pergunta “Deseja descartar alterações?”.<br>3. Usuário confirma ou retorna ao formulário. |
+| **Fluxo de exceção** | 1. Dados inválidos (formato de e-mail incorreto, campos obrigatórios vazios).<br>2. Sistema exibe mensagem de erro específica e não salva. |
+| **Pós-condições**    | Perfil do usuário atualizado no sistema; alterações refletidas nas próximas sessões.                                      |
+| **Data de Criação**  | 15/05/2025                                                                                                               |
+| **Rastreabilidade**  | [OBS12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais)                                                                                                                     |
+
+**Autor do tabela 10:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 11: Caso de Uso UC10 – Gerenciar Contas Bancárias Vinculadas<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC10 para visualização e cancelamento de contas bancárias associadas ao aparelho.
+    </span>
+  </p>
+</font>
+
+| UC10                 | Informações                                                                                                                     |
+|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**        | Permite ao usuário consultar detalhes ou cancelar a vinculação de contas bancárias associadas ao aparelho.                     |
+| **Ator**             | Usuário                                                                                                                         |
+| **Pré-condições**    | Usuário autenticado; existe ao menos uma conta bancária vinculada ao aparelho.                                                  |
+| **Ação**             | O usuário acessa a área de “Contas Bancárias” e opta por visualizar ou desvincular uma conta.                                   |
+| **Fluxo principal**  | 1. Usuário seleciona “Contas Bancárias” no menu de configurações.<br>2. Sistema lista todas as contas vinculadas.<br>3. Usuário clica em uma conta para ver detalhes.<br>4. Sistema exibe informações da conta.<br>5. Usuário seleciona “Cancelar Vinculação”.<br>6. Sistema solicita confirmação.<br>7. Usuário confirma e sistema remove a conta vinculada, exibindo mensagem de sucesso. |
+| **Fluxo alternativo**| 1. Usuário visualiza detalhes e opta por não cancelar.<br>2. Sistema retorna à lista de contas sem alterações.                  |
+| **Fluxo de exceção** | 1. Erro ao obter lista de contas ou detalhes (timeout, falha de API).<br>2. Sistema exibe “Não foi possível carregar as contas, tente novamente”.<br>3. Usuário tenta novamente mais tarde. |
+| **Pós-condições**    | Conta bancária desvinculada com sucesso, ou visualização concluída sem alterações.                                             |
+| **Data de Criação**  | 15/05/2025                                                                                                                      |
+| **Rastreabilidade**  | [QS03](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados)                                                                                                                      |
+
+**Autor do tabela 11:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 12: Caso de Uso UC11 – Guia de Ações Pós-Furto<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC11 para apresentar ao usuário o passo a passo de procedimentos após furto ou roubo do aparelho.
+    </span>
+  </p>
+</font>
+
+| UC11                 | Informações                                                                                                          |
+|:---------------------|:---------------------------------------------------------------------------------------------------------------------|
+| **Descrição**        | O aplicativo fornece um guia interativo com orientações detalhadas sobre o que fazer após o furto ou roubo do aparelho. |
+| **Ator**             | Usuário                                                                                                               |
+| **Pré-condições**    | Usuário autenticado; boletim de ocorrência registrado; conexão à internet.                                            |
+| **Ação**             | O usuário acessa a seção “Guia Pós-Furto” para visualizar instruções passo a passo.                                   |
+| **Fluxo principal**  | 1. Usuário abre o menu e seleciona “Guia Pós-Furto”.<br>2. Sistema carrega a lista de etapas recomendadas.<br>3. Usuário navega pelas etapas (contatar polícia, bloquear chip, limpar dados etc.).<br>4. Sistema exibe explicação detalhada de cada etapa e links diretos para ações (Registrar Boletim, Bloqueio Remoto, Limpeza Remota).<br>5. Caso de uso finalizado quando o usuário completa todas as etapas ou sai da seção. |
+| **Fluxo alternativo**| 1. Usuário inicia o guia mas perde a conexão.<br>2. Sistema exibe versão offline simplificada com passos básicos.<br>3. Usuário retoma conexão para conteúdo completo. |
+| **Fluxo de exceção** | 1. Falha ao carregar o conteúdo do guia (erro de API).<br>2. Sistema exibe mensagem “Não foi possível carregar as instruções, tente novamente mais tarde”. |
+| **Pós-condições**    | Guia exibido; acesso rápido às funcionalidades de urgência disponível; registro de acesso ao guia para auditoria.    |
+| **Data de Criação**  | 15/05/2025                                                                                                            |
+| **Rastreabilidade**  | [QS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados)                                                                                                                  |
+
+**Autor do tabela 12:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 13: Caso de Uso UC12 – Cadastrar Pessoa de Confiança<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC12 para permitir ao usuário cadastrar contatos autorizados a emitir alertas em situações de emergência.
+    </span>
+  </p>
+</font>
+
+| UC12                  | Informações                                                                                                                                                          |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**         | O aplicativo permite ao usuário definir “pessoas de confiança” que possam enviar alertas em seu nome durante emergências.                                             |
+| **Ator**              | Usuário                                                                                                                                                             |
+| **Pré-condições**     | Usuário autenticado; lista de contatos do dispositivo disponível; autorização de acesso aos contatos concedida pelo usuário.                                         |
+| **Ação**              | O usuário seleciona contatos da sua agenda e cadastra-os como confiáveis para emissão de alertas remotos.                                                            |
+| **Fluxo principal**   | 1. Usuário acessa “Configurações de Emergência”.<br>2. Seleciona “Pessoas de Confiança”.<br>3. Sistema exibe lista de contatos.<br>4. Usuário marca os contatos desejados e clica em “Salvar”.<br>5. Sistema confirma “Contatos de confiança cadastrados com sucesso”. |
+| **Fluxo alternativo** | 1. Usuário não seleciona nenhum contato e tenta salvar.<br>2. Sistema exibe aviso “Selecione ao menos um contato para continuar”.                                     |
+| **Fluxo de exceção**  | 1. Falha na leitura da lista de contatos (permissão negada pelo sistema operacional).<br>2. Sistema exibe “Permissão de acesso aos contatos negada” e orienta a habilitar nas configurações. |
+| **Pós-condições**     | Contatos selecionados armazenados como pessoas de confiança; podem ser usados para envio de alertas em casos de emergência.                                           |
+| **Data de Criação**   | 15/05/2025                                                                                                                                                           |
+| **Rastreabilidade**   | [ADD04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1)                                                                                                                                                           |
+
+**Autor do tabela 13:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 14: Caso de Uso UC13 – Backup Periódico de Dados<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC13 para realização automática de backup periódico dos dados do dispositivo.
+    </span>
+  </p>
+</font>
+
+| UC13                 | Informações                                                                                                                                                                     |
+|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**        | Como usuário, desejo que o sistema realize backups automáticos e periódicos dos dados do meu celular (contatos, fotos etc.) para garantir recuperação em caso de roubo ou perda. |
+| **Ator**             | Usuário                                                                                                                                                                         |
+| **Pré-condições**    | Usuário autenticado; espaço de armazenamento disponível no servidor; permissão de backup concedida.                                                                            |
+| **Ação**             | O sistema agenda e executa backups periódicos conforme configuração do usuário.                                                                                                 |
+| **Fluxo principal**  | 1. Usuário acessa “Configurações de Backup”.<br>2. Define frequência (diária, semanal etc.) e tipo de dados a serem incluídos.<br>3. Clica em “Ativar Backup Automático”.<br>4. Sistema agenda tarefas de backup.<br>5. Em cada execução, sistema realiza backup e notifica o usuário.<br>6. Caso de uso finalizado. |
+| **Fluxo alternativo**| 1. Usuário cancela configuração de backup automático.<br>2. Sistema desativa backups programados e confirma “Backup automático desativado”.                                       |
+| **Fluxo de exceção** | 1. Falha ao acessar dados (erro de permissão ou I/O).<br>2. Sistema registra erro, notifica usuário “Falha no backup, verifique permissões” e mantém agendamento.             |
+| **Pós-condições**    | Backups periódicos executados com sucesso ou registro de falhas mantendo histórico de tentativas.                                                                               |
+| **Data de Criação**  | 15/05/2025                                                                                                                                                                      |
+| **Rastreabilidade**  | [ST4](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)                                                                                                                                                                        |
+
+**Autor do tabela 14:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
+<font size="3">
+  <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 15: Caso de Uso UC14 – Feedback Visual ao Usuário<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC14 para exibir confirmação visual após ações críticas no aplicativo.
+    </span>
+  </p>
+</font>
+
+| UC14                 | Informações                                                                                           |
+|:---------------------|:------------------------------------------------------------------------------------------------------|
+| **Descrição**        | O aplicativo deve fornecer confirmação visual (feedback) ao usuário após realizar ações importantes.  |
+| **Ator**             | Usuário                                                                                               |
+| **Pré-condições**    | Usuário autenticado; ação executável (registro, envio, bloqueio etc.) concluída pelo sistema.         |
+| **Ação**             | O sistema exibe elemento visual (banner, toast, modal) indicando sucesso ou falha da operação.         |
+| **Fluxo principal**  | 1. Usuário executa ação crítica (ex.: enviar boletim, bloquear dispositivo).<br>2. Sistema processa a solicitação.<br>3. Sistema exibe feedback visual de sucesso.<br>4. Feedback permanece visível por tempo predefinido ou até dismiss. |
+| **Fluxo alternativo**| 1. Ação é concluída com aviso informativo (ex.: dados salvos com observações).<br>2. Sistema exibe feedback informativo em vez de sucesso genérico. |
+| **Fluxo de exceção** | 1. Operação falha (erro de rede, validação, servidor).<br>2. Sistema exibe feedback visual de erro e orienta nova tentativa. |
+| **Pós-condições**    | Usuário visualmente informado sobre o resultado da ação; interface retorna ao estado padrão.         |
+| **Data de Criação**  | 15/05/2025                                                                                            |
+| **Rastreabilidade**  | [Q12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados)                                                                                                  |
+
+**Autor do tabela 15:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
+
+---
+
 ## Bibliografia
 
 > <a name="ref1">[ 1 ]</a> **MICROSOFT.** Criar um diagrama de caso de uso UML. Disponível em: [https://support.microsoft.com/pt-br/topic/criar-um-diagrama-de-caso-de-uso-uml-92cc948d-fc74-466c-9457-e82d62ee1298](https://support.microsoft.com/pt-br/topic/criar-um-diagrama-de-caso-de-uso-uml-92cc948d-fc74-466c-9457-e82d62ee1298). Acesso em 14 de Maio.
@@ -229,3 +463,4 @@ No diagrama de caso de uso, também é possível detalhar:
 | 1.1    | 13/05/2025         | Inicialização do Casos de Uso                        | <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | <a  href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a  href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 13/05/2025 |
 | 1.2    | 13/05/2025         | Ajuste nos Casos de Uso e adição de novos detalhes   | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a  href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a  href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 13/05/2025 |
 | 1.3    | 14/05/2025         | Adição das referências                               | <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>    | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 14/05/2025 |
+| 1.4    | 15/05/2025         | Inclusão de novas tabelas UC's                               | <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>    | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 15/05/2025 |
