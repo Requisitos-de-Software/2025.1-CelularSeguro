@@ -6,8 +6,12 @@
 A construção do léxico, denominado *Language Extended Lexicon* (LEL), é um componente central na estratégia de aquisição de conhecimento proposta. O LEL é uma estrutura que visa descrever o vocabulário específico de uma aplicação, permitindo que tanto usuários quanto engenheiros de software compreendam a linguagem do problema sem a necessidade de entender completamente o problema em si.
 
 ---
+## Metodologia
+<br>
 
-## Estrutura do LEL
+
+
+# Estrutura do LEL
 
 O LEL é definido por um conjunto de postulados que organizam suas entradas. Cada entrada no léxico é composta por:
 
@@ -19,13 +23,13 @@ A estrutura do LEL é projetada para ser auto-contida, minimizando a dependênci
 
 ---
 
-## Aquisição e Validação do Léxico
+# Aquisição e Validação do Léxico
 
 A aquisição do léxico é realizada através de um processo que utiliza dicionários e heurísticas para identificar e validar os sinais e seus significados. A validação do léxico ocorreu da seguinte maneira:
 
 - **Verificação Informal**: Envolvendo a leitura e comentários de atores do domínio de aplicação (UofD).
 
----
+
 
 ## Léxico de Verbos
 
