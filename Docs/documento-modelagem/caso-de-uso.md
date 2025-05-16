@@ -60,7 +60,7 @@ No diagrama de caso de uso, também é possível detalhar:
   </p>
 </font>
 
-![Diagrama de Caso de Uso – Celular Seguro](../assets/usecase/uzcasee.png)
+![Diagrama de Caso de Uso – Celular Seguro](../assets/usecase/uzcase.svg)
 
 **Autor da figura 1:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
