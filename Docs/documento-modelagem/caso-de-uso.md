@@ -53,9 +53,9 @@ No diagrama de caso de uso, também é possível detalhar:
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
-    Figura 1: Diagrama de Caso de Uso – Celular Seguro<br>
+    Figura 1 – Diagrama de Caso de Uso do Celular Seguro<br>
     <span style="font-size:0.85em; font-style:italic;">
-      Visão geral dos casos de uso do sistema Celular Seguro, mostrando o ator principal, os casos de uso principais (emitir alerta de roubo, registrar boletim, localizar celular, bloqueio remoto e backup de dados via e-mail) e as funcionalidades auxiliares relacionadas por meio das relações «include» e «extend».
+      Visão geral dos casos de uso do sistema Celular Seguro, destacando o ator principal, os casos de uso essenciais (emitir alerta de roubo, registrar boletim, localizar celular, bloqueio remoto e backup de dados por e-mail) e as relações de inclusão («include») e extensão («extend») que conectam funcionalidades auxiliares.
     </span>
   </p>
 </font>
