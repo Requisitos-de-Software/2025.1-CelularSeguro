@@ -32,7 +32,7 @@ Essa estrutura é exemplificada na tabela 1 a seguir:
 
 <font size="3"><p style="text-align: center">Fonte: <a href="../Aula_10_lexicos_milene.pdf" target="_blank">SERRANO, Maurício e SERRANO, Milene [1]</a></p></font>
 
-Para a obtenção dos requisitos não implementados utilizamos as referências do <a href="documento-elicitacao/Questionario.md" target="_blank">questionário</a>.
+Para a obtenção dos requisitos não implementados utilizamos as referências do [questionário](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/).
 
 ---
 

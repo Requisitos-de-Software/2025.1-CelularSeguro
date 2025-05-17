@@ -39,16 +39,33 @@
 
 ---
 
-A desenvolver
+#### 2.1 Verificação Léxicos
+<font size="3"><p style="text-align: center">Tabela 2: Checklist para a Verificação dos léxicos.</p></font> 
+
+| ID | Item de Verificação | Autor(es) | Referência |
+|------|-------|------|---------|
+| <a href="#REF08">1</a> | Possui a descrição da notação utilizada? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">2</a> | Cada entrada no léxio pertence a um e somente um tipo? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">3</a> | Cada simbolo possui zero ou mais sinônimos? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">4</a> | Cada simbolo possui tem uma ou mais noções? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">5</a> | Cada simbolo possui tem uma ou mais noções? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">6</a> | Cada simbolo possui suas respectivas referências dos requisitos? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">7</a> | O desenvolvimento dos léxicos seguem a regra verbo, objeto e estado? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+
+<font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
 ---
 
 
 ## Bibliografia
 
+> <a name="ref1"></a> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 16/05/2023.
+
+---
 
 ## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 09/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 09/05/2025|
+| 1.1  | 17/05/2025 | Desenvolvimento da lista de verificação dos léxicos.  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/05/2025|
