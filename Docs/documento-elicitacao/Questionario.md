@@ -1,18 +1,33 @@
 ## Metodologia
 
-O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, o que implica que a maioria das pessoas que responderam são universitários. Essa informação é relevante, pois os universitários provavelmente estão familiarizados e frequentemente utilizam o aplicativo. Portanto, há maiores chances de que as pessoas que responderam sejam usuárias ativas desse aplicativo, o que pode contribuir para uma maior representatividade dos dados coletados em relação ao uso e experiência dos usuários com essas plataformas.
+O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, grupos de familias dos membros do grupo, grupos de condomínios, bem como perfis do instagram, o que implica uma grande diversidade nas respostas obtidas. Essa informação é relevante, pois todas as pessoas estão sucetiveis e perder seu celular e queriamos atender nos nossos requisitos desde um adulto jovem universitário acostumado com tecnologia até pessoas que possui dificuldades com o uso de celulares e afins. Portanto, há maiores chances de que as pessoas que responderam sejam usuários que ao menos possui um celular, o que pode contribuir para uma maior representatividade dos dados coletados em relação ao uso e experiência dos com a plataforma do celular seguro.
 
 
 ## Resultados
 
-Os resultados da análise dos dados que o grupo coletou por meio de um questionário online, no qual foi exposto previamente um [termo de consentimento](../termoConsentimento.pdf) e aceito pelos participantes antes de inicia-lo. O questionário obteve 48 respostas no período em que ficou disponível (entre 28/04/25 e 04/05/25) e apresentava 17 perguntas voltadas para definir o perfil do usuário, personas e os requisitos. As 6 primeiras perguntas são referentes ao perfil de usuário sendo enunciadas nas figuras de 1 a 6 a seguir:
+Os resultados da análise dos dados que o grupo coletou por meio de um questionário online, representado na tabela 1 a seguir:  
+
+<font size="3"><p style="text-align: center">Tabela 1: Informações gerais do questionário</p></font>
+
+| **Item**                     | **Descrição**                                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------------------------- |
+| **Tipo de instrumento**      | Questionário online                                                                           |
+| **Termo de consentimento**   | Apresentado previamente e aceito pelos participantes ([ver termo](../termoConsentimento.pdf)) |
+| **Período de coleta**        | De 28/04/2025 a 04/05/2025                                                                    |
+| **Total de respostas**       | 48                                                                                            |
+| **Total de perguntas**       | 17                                                                                            |
+| **Objetivos das perguntas**  | Definir o perfil dos usuários, criar personas e identificar requisitos                        |
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
+
+As 6 primeiras perguntas são referentes ao perfil de usuário sendo enunciadas nas figuras de 1 a 6 a seguir:
 
 ### Se mora no Distrito Federal:
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Pergunta nº 1 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1699546572&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Em que região administrativa do Distrito Federal/outra cidade reside:
@@ -20,7 +35,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº 2 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1319026324&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Faixa Etária:
@@ -28,7 +43,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Pergunta nº 3 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=35061410&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Gênero:
@@ -36,7 +51,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Pergunta nº 4 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=703963018&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Possui Celular:
@@ -44,7 +59,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 5</b> - Pergunta nº 5 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1074180720&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Frequência de Uso de Aplicativos de Celular:
@@ -52,7 +67,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 6</b> - Pergunta nº 6 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1737294109&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ## Experiência de ter Perdido o Celular:
@@ -64,7 +79,7 @@ As Figuras 7, 8 e 9 são referentes às dificuldades pós perda do celular. Que 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 7</b> - Pergunta nº 7 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=629375075&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Maior dificuldade após o ocorrido:
@@ -72,7 +87,7 @@ As Figuras 7, 8 e 9 são referentes às dificuldades pós perda do celular. Que 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 8</b> - Pergunta nº 8 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=2043712913&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 
@@ -81,19 +96,19 @@ As Figuras 7, 8 e 9 são referentes às dificuldades pós perda do celular. Que 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 9</b> - Pergunta nº 16 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1554268289&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ## Sobre o Aplicativo Celular Seguro:
 
-As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram a definir melhor os requisitos do aplicativo.
+As figuras 10 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram a definir melhor os requisitos do aplicativo.
 
 ### Como conheceu o aplicativo:
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 10</b> - Pergunta nº 9 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1081851550&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a>s</font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Facilidade de uso do aplicativo:
@@ -101,7 +116,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 11</b> - Pergunta nº 10 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1733870079&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Interface visual do aplicativo:
@@ -109,7 +124,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 12</b> - Pergunta nº 11 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1006772169&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Encontrar as ferramentas do aplicativo:
@@ -117,7 +132,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 13</b> - Pergunta nº 12 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1209058234&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ### Sentimento de ter os dados protegidos usando o aplicativo:
@@ -125,7 +140,7 @@ As figuras 9 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudaram
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 14</b> - Pergunta nº 15 do questionário.</p></font>
 <iframe style="border:3px solid gray" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvgwa3GXYJ6nSMrG3Pu8jkeQCyVQSsaEnB3V5ZlOBF6UhnJTYLBrKSqR1PLGVq0gaXFOwu5ZewSpth/pubchart?oid=1108067307&format=interactive"></iframe>
-<figcaption><font size="3">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></font></figcaption>
+<figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
 ## Respostas Descritivas:
@@ -146,12 +161,12 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 | 6  | Como informaram que há a possibilidade de fazer o boletim de ocorrência, fiquei na dúvida se eu realmente poderia fazer, só fuçando o aplicativo vi a funcionalidade nos pontinhos escondidos |
 
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
 
 ### Novas funcionalidades do aplicativo:
 
-<font size="3"><p style="text-align: center">Tabela 2: Algumas respostas a respeito de novas funcionalidades mais relevantes da pesquisa  sendo ela a pergunta de número 14</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Algumas respostas a respeito de novas funcionalidades mais relevantes da pesquisa  sendo ela a pergunta de número 14</p></font>
 
 | Nº | Sugestão de Funcionalidade                                                 |
 | -- | ---------------------------------------------------------------------------|
@@ -165,7 +180,7 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 | 8  | Modo de alto contraste e legibilidade                      |
 | 9  | Notificações de atividade suspeita                         |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
 
 
@@ -182,7 +197,7 @@ Legenda:
 ### Requisitos Funcionais
 
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Requisitos Funcionais.</p></font>
 
 | Tipo  | Descrição                                                                                  | ID   | Implementado |
 |-------|----------------------------------------------------------------------------------------------|------|--------------|
@@ -195,13 +210,13 @@ Legenda:
 | RF07  | O aplicativo deve permitir a recuperação do aparelho bloqueado caso reencontrado.  | QS08 | Não          |
 | RF08  | O aplicativo deve permitir que o usuário registre um boletim de ocorrência. | QS09  | Sim          |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
 
 ### Requisitos Não Funcionais
 
 
-<font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais.</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Requisitos Não Funcionais.</p></font>
 
 | Tipo   | Descrição                                                                                                   | ID   | Implementado |
 |--------|-------------------------------------------------------------------------------------------------------------|------|--------------|
@@ -212,7 +227,7 @@ Legenda:
 | RNF05  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.      | QS9  | Não         |
 | RNF06  | O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.      | QS12  | Sim         |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a></p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
 
 ## Bibliografia
@@ -220,11 +235,15 @@ Legenda:
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 
 ---
+
 ## Histórico de Versões 
 
-| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0    | 29/04/2025         | Desenvolvimento do tópico                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 29/04/2025|
-| 1.1    | 04/05/2025         | Inserção dos gráficos do questionário e desenvolvimento da elicitação dos requisitos                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>| 29/04/2025|
-| 1.2    | 04/05/2025         | Correção no gráfico e inserção de mais requisitos funcionais e não funcionais                            |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>    | <a style="color:gold;" href="https://github.com/MateuSansetee" target="_blank">Mateus</a>| 29/04/2025|
-| 1.3   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)                                                                 | Revisor(es)                                                               | Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------: |
+| 1.0    | 29/04/2025         | Criação da estrutura inicial da documentação          | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>                    | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 29/04/2025      |
+| 1.1    | 04/05/2025         | Inserção dos gráficos do questionário e desenvolvimento da elicitação dos requisitos | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>        | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>               | 04/05/2025      |
+| 1.2    | 04/05/2025         | Correção no gráfico e inserção de mais requisitos funcionais e não funcionais | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>        | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a>               | 04/05/2025      |
+| 1.3    | 08/05/2025         | Padronização do Histórico de Versões                  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>             | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>      | 08/05/2025      |
+| 1.4    | 16/05/2025         | Correção no histórico de versão: "título do tópico duplicado"                  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
+| 1.5    | 16/05/2025         | Desenvolvimento da tabela inicial com as informações gerais do questionário                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
+
