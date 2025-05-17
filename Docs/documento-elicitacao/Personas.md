@@ -169,14 +169,14 @@ Dessa forma, acreditamos que o número atual de personas é adequado para repres
 
 ---
 
-## Bibliografia
+## Referências Bibliográficas
 
 > <a name="ref1">[ 1 ]</a> Cooper, A., Reimann, R., & Cronin, D. (2007). *About Face 3: The Essentials of Interaction Design*. Third Edition.
 
 > <a name="ref1">[ 2 ]</a> Imagem gerada através da aplicação *This Person Doesn't Exist*. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/). Acesso em: 01 de Mai. de 2025.
 
 
-
+---
 
 ## Histórico de Versões
 
