@@ -68,7 +68,7 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ## Especialização dos casos de uso
 
-## Emitir alerta de roubo
+##  Emitir alerta de roubo
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -96,7 +96,7 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ----
 
-## Registrar Boletim
+##  Registrar Boletim
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -124,6 +124,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+##  Localizar Celular
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 4: Caso de Uso UC03 – Localizar Celular<br>
@@ -132,8 +134,6 @@ No diagrama de caso de uso, também é possível detalhar:
     </span>
   </p>
 </font>
-
-##  Localizar Celular
 
 | UC03                 | Informações                                                                                     |
 |:---------------------|:------------------------------------------------------------------------------------------------|
@@ -152,6 +152,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+##  Bloqueio Remoto do Aparelho
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 5: Caso de Uso UC04 – Bloqueio Remoto do Aparelho<br>
@@ -160,8 +162,6 @@ No diagrama de caso de uso, também é possível detalhar:
     </span>
   </p>
 </font>
-
-## Bloqueio Remoto do Aparelho
 
 | UC04                 | Informações                                                                                   |
 |:---------------------|:----------------------------------------------------------------------------------------------|
@@ -208,6 +208,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+##  Gerar Relatório de Movimentação em PDF
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 7: Caso de Uso UC06 – Gerar Relatório de Movimentação em PDF<br>
@@ -233,6 +235,8 @@ No diagrama de caso de uso, também é possível detalhar:
 **Autor do tabela 7:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
 ---
+
+##  Definir Dispositivo de Confiança
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -260,6 +264,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+## Limpeza Remota com Autenticação Forte
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 9: Caso de Uso UC08 – Limpeza Remota com Autenticação Forte<br>
@@ -285,6 +291,8 @@ No diagrama de caso de uso, também é possível detalhar:
 **Autor do tabela 9:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
 ---
+
+##  Editar Perfil via Aba
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -312,6 +320,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+##  Gerenciar Contas Bancárias Vinculadas
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 11: Caso de Uso UC10 – Gerenciar Contas Bancárias Vinculadas<br>
@@ -337,6 +347,8 @@ No diagrama de caso de uso, também é possível detalhar:
 **Autor do tabela 11:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
 ---
+
+##  Guia de Ações Pós-Furto
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -364,6 +376,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+##  Cadastrar Pessoa de Confiança
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 13: Caso de Uso UC12 – Cadastrar Pessoa de Confiança<br>
@@ -390,6 +404,8 @@ No diagrama de caso de uso, também é possível detalhar:
 
 ---
 
+##  Backup Periódico de Dados
+
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
     Tabela 14: Caso de Uso UC13 – Backup Periódico de Dados<br>
@@ -415,6 +431,8 @@ No diagrama de caso de uso, também é possível detalhar:
 **Autor do tabela 14:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
 ---
+
+##  Feedback Visual ao Usuário
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
