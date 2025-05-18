@@ -38,7 +38,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF06">06-</a> Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | 24/04/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | Conforme | 
 | <a href="#REF07">07-</a> Possui opção de contraste de cores? | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | 24/04/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
 
 
 #### 2.2.2 Itens do Desenvolvimento do Projeto
@@ -56,7 +57,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF15">15-</a> A gravação da reunião do grupo. | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 24/04/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 | <a href="#REF16">16-</a> Vídeo de apresentação na categoria “ listado” no YouTube? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 24/04/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
 
 #### 2.2.3 Itens do conteúdo da Disciplina 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo da Disciplina </p></font> 
@@ -67,7 +69,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF18">18-</a> Todos os 5 componentes de um "Rich Picture" estão presentes no artefato apresentado pelo grupo? | [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 24/04/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 | <a href="#REF19">19-</a> Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 24/04/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Inconforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
 
 
 ## 3. Gravação

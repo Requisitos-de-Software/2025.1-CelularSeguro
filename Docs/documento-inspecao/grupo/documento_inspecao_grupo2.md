@@ -8,6 +8,7 @@
 
 A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) na Etapa 2.
 
+---
 
 ## 2. Inspeção
 
@@ -21,6 +22,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 <li>Mateus Bastos;
 <li>Vitor Pereira.
 </ul>
+
+---
 
 ### 2.2 Lista de Inspeção
 
@@ -39,7 +42,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF15">08-</a> A gravação da reunião do grupo. | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 | <a href="#REF16">09-</a> Vídeo de apresentação na categoria “ listado” no YouTube? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 ### 3. Itens do conteúdo da Disciplina 
 
@@ -59,7 +64,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF19">19-</a> A participação do cliente e/ou persona no processo de priorização? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 | <a href="#REF19">20-</a> A gravação e o(s) registro(s) da atividade de priorização dos requisitos? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.1 Verificação Perfil de Usuário
 <font size="3"><p style="text-align: center">Tabela 3: Verificação Perfil de Usuário</p></font> 
@@ -71,7 +78,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF10">23-</a> Os perfis de usuário são agrupados por faixa etária, experiência com o produto, atitude perante tecnologia e tarefas primárias no sistema? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 | <a href="#REF11">24-</a> As porcentagens de usuários em cada faixa de características foram determinadas? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.2 Verificação de Persona
 
@@ -89,7 +98,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF19">32-</a> Possui objetivos pessoais, corporativos e práticos? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 | <a href="#REF19">33-</a> Há algum objetivo de experiência da persona? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.3 Verificação Análise de Documento
 <font size="3"><p style="text-align: center">Tabela 5: Verificação Análise de Documento</p></font> 
@@ -104,7 +115,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF11">39-</a> Os documentos analisados possuem relação direta com o escopo atual do projeto? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 | <a href="#REF11">40-</a> Existe uma boa abrangência de documentos? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.4 Verificação de Brainstorm
 
@@ -118,7 +131,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF19">44-</a> Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 | <a href="#REF19">45-</a> Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.5 Verificação Observação
 <font size="3"><p style="text-align: center">Tabela 7: Verificação Observação</p></font> 
@@ -132,7 +147,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF11">50-</a> As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  Conforme | 
 | <a href="#REF11">51-</a> Os requisitos elicitados durante a observação foram registrados de forma precisa e completa? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  Conforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.6 Verificação de Storytelling
 
@@ -146,7 +163,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF19">55-</a> As personas ou personagens foram desenvolvidos de maneira consistente e representam adequadamente os usuários do sistema? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 | <a href="#REF19">56-</a> As histórias são capazes de transmitir claramente a visão e as necessidades dos usuários aos membros da equipe de desenvolvimento? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.7 Verificação Moscow
 <font size="3"><p style="text-align: center">Tabela 9: Verificação Moscow</p></font> 
@@ -159,7 +178,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF11">60-</a> A participação do cliente e/ou persona no processo de priorização? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 | <a href="#REF11">61-</a> Foi feita uma revisão para garantir que nenhum requisito importante tenha sido negligenciado ou erroneamente classificado? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.8 Verificação QFD
 
@@ -173,7 +194,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF19">65-</a> A equipe envolveu o cliente ou persona durante a elaboração da matriz QFD? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 | <a href="#REF19">66-</a> O QFD gerou insights que influenciaram mudanças nas decisões de projeto? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 #### 3.9 Verificação First Thing First
 <font size="3"><p style="text-align: center">Tabela 11: Verificação First Thing First</p></font> 
@@ -189,7 +212,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF11">72-</a> Houve discussão entre cliente e desenvolvedor para definição dos critérios atribuídos? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Inconforme | 
 | <a href="#REF11">73-</a> A técnica foi utilizada em uma sessão documentada e reproduzível? | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258) | 05/05/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Inconforme | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 
 #### 3.9.1 Verificação do 100$
@@ -207,7 +232,9 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF19">80-</a> Os requisitos de menor prioridade foram corretamente identificados como candidatos para versões futuras? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 | <a href="#REF19">81-</a> Foi realizada uma análise e interpretação dos resultados após a priorização? |  [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs) | 05/05/2025 | [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | Conforme |
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 ## 4. Gravação
 
