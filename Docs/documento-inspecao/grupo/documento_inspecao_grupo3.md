@@ -125,8 +125,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 ## 4. Gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo: </strong> <a href="https://youtu.be/gpXk0tgKFa0"> Grupo 03 – Inspeção grupo 03</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gpXk0tgKFa0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/vor_S3Pgb2s"> Grupo 03 – Inspeção grupo 03</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vor_S3Pgb2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Histórico de Versões 
@@ -136,4 +136,5 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |1.0     |09/05/2025|Criação do documento|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 09/05/2025|
 |1.1     |18/05/2025| Desenvolvimento das tabelas de inspeção |[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
 |1.2     |18/05/2025| Desenvolvimento das tabelas de inspeção de cenários |[<span style="color:gold;">Vitor Bessa</span>](https://github.com/bessazs)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
-|1.2     |19/05/2025| Preenchimento da tabela |[<span style="color:gold;">Vitor Bessa</span>](https://github.com/bessazs)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 19/05/2025 |
+|1.3     |18/05/2025| Preenchimento da tabela | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/bessazs)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
+|1.4     |18/05/2025| Adição do link do vídeo | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
