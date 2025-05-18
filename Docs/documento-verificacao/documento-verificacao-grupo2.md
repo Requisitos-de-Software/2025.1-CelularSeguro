@@ -33,7 +33,8 @@
 | <a href="#REF15">8</a> | A gravação da reunião do grupo. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF16">9</a> | Vídeo de apresentação na categoria “ listado” no YouTube? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
 
 ### 2. Itens do Conteúdo do Projeto
 
