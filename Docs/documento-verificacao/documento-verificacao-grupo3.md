@@ -33,14 +33,34 @@
 | <a href="#REF15">8</a> | A gravação da reunião do grupo. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF16">9</a> | Vídeo de apresentação na categoria “ listado” no YouTube? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
 ### 2. Itens do Conteúdo do Projeto
 
 ---
 
-#### 2.1 Verificação Léxicos
-<font size="3"><p style="text-align: center">Tabela 2: Checklist para a Verificação dos léxicos.</p></font> 
+#### 2.1 Verificação Diagrama de Casos de Uso
+<font size="3"><p style="text-align: center">Tabela 2: Checklist para a Verificação do Diagrama de Casos de Uso.</p></font> 
+
+| ID | Item de Verificação | Autor(es) | Referência |
+|------|-------|------|---------|
+| <a href="#REF08">1</a> | O caso de uso fornece um resultado observável e de valor para os atores ou outros interessados no sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">2</a> | Há o uso de verbos no infinitivo e não substantivos? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">3</a> | O caso de uso representa o usuário e suas interações com o sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">4</a> | Há uso adequado de relacionamentos como extend, include e generalization? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">5</a> | O  caso de uso apresenta fluxos principais, alternativos e de exceção bem definidos? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">6</a> | A especificação do caso de uso detalha adequadamente a execução, incluindo pré-condições e pós-condições?| [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">7</a> | O caso de uso produzido é uma funcionalidade completa que entrega algum valor? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">8</a> | O ator principal está posicionado ao lado esquerdo do sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">9</a> | Os casos de uso são de requisitos funcionais? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">10</a> | 	Existem fluxos como: principal, alternativo e de exceção? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
+
+#### 2.2 Verificação Léxicos
+<font size="3"><p style="text-align: center">Tabela 3: Checklist para a Verificação dos Léxicos.</p></font> 
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -48,18 +68,56 @@
 | <a href="#REF08">2</a> | Cada entrada no léxio pertence a um e somente um tipo? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
 | <a href="#REF08">3</a> | Cada simbolo possui zero ou mais sinônimos? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
 | <a href="#REF08">4</a> | Cada simbolo possui tem uma ou mais noções? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
-| <a href="#REF08">5</a> | Cada simbolo possui tem uma ou mais noções? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
-| <a href="#REF08">6</a> | Cada simbolo possui suas respectivas referências dos requisitos? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
-| <a href="#REF08">7</a> | O desenvolvimento dos léxicos seguem a regra verbo, objeto e estado? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">5</a> | Cada simbolo possui suas respectivas referências dos requisitos? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">6</a> | O desenvolvimento dos léxicos seguem a regra verbo, objeto e estado? | [Felipe das Neves](https://github.com/FelipeFreire-gf) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
 ---
 
+#### 2.3 Verificação Cenários
+<font size="3"><p style="text-align: center">Tabela 4: Checklist para a Verificação dos Cenários.</p></font> 
+
+| ID | Item de Verificação | Autor(es) | Referência |
+|------|-------|------|---------|
+| <a href="#REF08">1</a> | O cenário possui título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">2</a> |O título do cenário é claro e reflete seu conteúdo? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">3</a> | O contexto descreve local, tempo e pré-condições de forma adequada? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">4</a> | O cenário descreve situações realistas e relevantes de interação com o sistema? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">5</a> | Os episódios seguem uma ordem lógica para atingir o objetivo do cenário? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">6</a> | Há referência aos termos definidos no léxico dentro do cenário?| [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">7</a> | O título do cenário é autoexplicativo? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
+
+#### 2.4 Especificação Suplementar
+<font size="3"><p style="text-align: center">Tabela 5: Checklist para a Verificação da Especificação Suplementar.</p></font> 
+
+| ID | Item de Verificação | Autor(es) | Referência |
+|------|-------|------|---------|
+| <a href="#REF08">1</a> | O documento segue o modelo FURPS+, abordando Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade? | [Gabriel Lima](https://github.com/gabriel-lima258) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">2</a> | Os requisitos apresentados são mensuráveis e passíveis de teste? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">3</a> | Há requisitos que aumentam a confiabilidade do sistema, incluindo aspectos de segurança? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">4</a> | Os requisitos de usabilidade facilitam as tarefas realizadas pelos usuários? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">5</a> | Estão especificados requisitos sobre tempos de resposta e disponibilidade do sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">6</a> | O documento possui um tópico de Suportabilidade? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF08">7</a> | Há requisitos que especificam ou restringem o design do sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">8</a> | Estão descritos requisitos específicos para a implementação do sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">9</a> | O documento aborda requisitos relacionados às interfaces do sistema? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+| <a href="#REF08">10</a> | São apresentadas as características físicas dos ambientes onde o sistema será utilizado? | [Gabriel Lima](https://github.com/gabriel-lima258) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
 
 ## Bibliografia
 
-> <a name="ref1"></a> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 16/05/2023.
+> BERGMANN, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. 2003. Tese de Doutorado (Departamento de Informática) - Pontifícia Universidade Católica do Rio de Janeiro, [S. l.], 2003. p. 47-50.
+
+> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2023.
+
+> SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
 
 ---
 
@@ -69,3 +127,4 @@
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 09/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 09/05/2025|
 | 1.1  | 17/05/2025 | Desenvolvimento da lista de verificação dos léxicos.  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/05/2025|
+| 1.2  | 18/05/2025 | Desenvolvimento da lista de verificação dos léxicos.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 18/05/2025|
