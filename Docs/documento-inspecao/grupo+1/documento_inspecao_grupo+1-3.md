@@ -1,7 +1,7 @@
 # Entrega 3 do Grupo +1: Inspeção
 
 **Data**: 19/05/2025 <br>
-**Horário**:  <br>
+**Horário**: 21:20min - 22h10min <br>
 **Local**: Microsoft Teams <br>
 
 ## 1. Introdução
