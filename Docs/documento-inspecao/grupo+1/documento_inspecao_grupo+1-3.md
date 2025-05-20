@@ -126,8 +126,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 ## 4. Gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo: </strong> <a href="https://youtu.be/gpXk0tgKFa0"> Grupo 03 – Inspeção grupo 03</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gpXk0tgKFa0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/hc6Ft1CGK_U"> Grupo 03 – Inspeção grupo 03</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hc6Ft1CGK_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Histórico de Versões 
@@ -137,4 +137,5 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |1.0     |09/05/2025|Criação do documento|[Gabriel Lima</span>](https://github.com/gabriel-lima258)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 09/05/2025|
 |1.1     |18/05/2025| Desenvolvimento das tabelas de inspeção |[Gabriel Lima</span>](https://github.com/gabriel-lima258)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
 |1.2     |18/05/2025| Desenvolvimento das tabelas de inspeção de cenários |[Vitor Bessa</span>](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
-|1.2     |19/05/2025| Preenchimento da tabela de inspeção |[Vitor Bessa](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
+|1.3     |19/05/2025| Preenchimento da tabela de inspeção |[Vitor Bessa](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 19/05/2025 |
+|1.4     |19/05/2025| Upload da gravação da inspeção 3 |[Gabriel Lima</span>](https://github.com/gabriel-lima258)| [Vitor Bessa](https://github.com/bessazs) | 19/05/2025 |
