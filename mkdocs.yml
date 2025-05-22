@@ -53,6 +53,12 @@ nav:
       - Léxicos: "documento-modelagem/lexico.md"
       - Cenários: "documento-modelagem/cenario.md"
       - Especificação Suplementar: "documento-modelagem/especificacoes-suplementar.md"
+
+      - Agil:
+          - NR Framework: "documento-modelagem/Agil/NR_Framework.md"
+          - Backlog: "documento-modelagem/Agil/Backlog.md"
+          - Histórias de usuário: "documento-modelagem/Agil/Historias_de_usuario.md"
+      
     
   - Verificação:
       - Introdução: "documento-verificacao/introducao-verificacao.md"
