@@ -35,6 +35,7 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
 
+---
 
 ## Etapa 2 – Elicitações - Técnicas e Priorizações 
 - Período: 15/04 a 04/05  
@@ -68,6 +69,8 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 
 <font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
 
+---
+
 ## Etapa 3 – Modelagem
 - Período: 06/05 a 18/05  
 - Entrega: 18/05  
@@ -92,6 +95,31 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 
 <font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlima)._</p></font>
 
+---
+
+## Etapa 4 – Ágil
+- Período: 18/05 a 27/05  
+- Entrega: 27/05  
+- Apresentação: 29/05  
+
+### Duplas responsáveis pelas atas
+- Semana 9 (18/05 a 25/05): *Felipe e Leonardo*
+     
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 4: Atividades planejadas para a etapa 4</p></font>
+
+| Tarefa                                      |      Responsáveis        |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|--------------------------|--------------------|---------| ----- |
+| Backlog do produto                          | Daniel, Gabriel e Leonardo |Vitor e Arthur     |  18/05  |  |
+| Elaboração de histórias de usuário          | Arthur, Vitor | Felipe e Gabriel   |  18/05  |  |          
+| Definição dos NFRs                          | Mateus e Felipe | Leonardo e Daniel  |  18/05  |  |
+| Gravar e fazer upload da apresentação       | Leonardo e Arthur | Felipe e Daniel     |  18/05  |  |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  27/05  |  |
+
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+
+---
 
 ## Bibliografia
 
@@ -110,3 +138,4 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | 1.2    | 09/04/2025 | Padronização do Histórico de Versões e da Bibliografia | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
 | 1.3    | 09/05/2025 | Corrigindo datas de entregas 2 e 3 | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>           | 09/05/2025|
 | 2.0    | 13/05/2025 | Ajustes na tabela da etapa 3 - Modelagem - Executado | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>, <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| 13/05/2025|
+| 2.1    | 22/05/2025 | Ajuste no cronograma da etapa 4 | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 22/05/2025|
