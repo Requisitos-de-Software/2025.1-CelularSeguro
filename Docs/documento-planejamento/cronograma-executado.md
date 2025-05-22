@@ -98,9 +98,9 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 ---
 
 ## Etapa 4 – Ágil
-- Período: 18/05 a 27/05  
-- Entrega: 27/05  
-- Apresentação: 29/05  
+- Período: 18/05 a 01/06  
+- Entrega: 01/06  
+- Apresentação: 03/06  
 
 ### Duplas responsáveis pelas atas
 - Semana 9 (18/05 a 25/05): *Felipe e Leonardo*
@@ -115,7 +115,7 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 | Elaboração de histórias de usuário          | Arthur, Vitor | Felipe e Gabriel   |  18/05  |  |          
 | Definição dos NFRs                          | Mateus e Felipe | Leonardo e Daniel  |  18/05  |  |
 | Gravar e fazer upload da apresentação       | Leonardo e Arthur | Felipe e Daniel     |  18/05  |  |
-| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  27/05  |  |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  01/06  |  |
 
 <font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
 
@@ -128,14 +128,16 @@ O cronograma Executado será atualizado ao fim de cada etapa.
 >ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação periódica científica impressa – Apresentação.
 
 ---
-## Histórico de Versões
 
+
+## Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
-| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold; href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
-| 1.2    | 09/04/2025 | Padronização do Histórico de Versões e da Bibliografia | <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold; href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
-| 1.3    | 09/05/2025 | Corrigindo datas de entregas 2 e 3 | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold; href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>           | 09/05/2025|
-| 2.0    | 13/05/2025 | Ajustes na tabela da etapa 3 - Modelagem - Executado | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold; href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>, <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| 13/05/2025|
-| 2.1    | 22/05/2025 | Ajuste no cronograma da etapa 4 | <a style="color:gold; href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 22/05/2025|
+| 1.0    | 09/04/2025 | Criação do documento                         | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
+| 1.1    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
+| 1.2    | 09/04/2025 | Padronização do Histórico de Versões e da Bibliografia | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>           | 09/04/2025|
+| 1.3    | 09/05/2025 | Corrigindo datas de entregas 2 e 3 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>           | 09/05/2025|
+| 2.0    | 13/05/2025 | Ajustes na tabela da etapa 3 - Modelagem - Executado | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>, <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| 13/05/2025|
+| 2.1    | 22/05/2025 | Ajuste no cronograma da etapa 4 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>| 22/05/2025|
+| 2.2    | 22/05/2025 | Revisão do documento, ajuste de datas | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Pereira</a>, <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 22/05/2025|
