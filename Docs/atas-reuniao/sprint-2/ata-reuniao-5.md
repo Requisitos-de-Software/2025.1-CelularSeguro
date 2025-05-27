@@ -14,7 +14,7 @@
 
 ## Participantes
 
-<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Presença</p></font>
 
 
 | Nome            | Presença |
@@ -28,7 +28,7 @@
 | Vitor Pereira Bessa         | ✔️    |
 
 
-<font size="3"><p style="text-align: left">Fonte: Gabriel Lima</p></font>
+<font size="3"><p style="text-align: center">Autor: Gabriel Lima</p></font>
 
 ---
 
@@ -78,3 +78,4 @@
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 24/03/2025 | Criação da ata da sprint 1    | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 27/04/2025|
+| 1.2    | 27/05/2025 | Centralização do texto "Tabela 1" dos participantes da reunião e troca de Fonte para Autor da Tabela de participação    | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 27/05/2025|
