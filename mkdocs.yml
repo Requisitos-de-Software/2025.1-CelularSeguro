@@ -42,11 +42,13 @@ nav:
         - Brainstorming: "documento-elicitacao/Brainstorming.md"
         - Storytelling: "documento-elicitacao/Storytelling.md"
         - Observação: "documento-elicitacao/Observacao.md"
+        - Requisitos Elicitados: "documento-elicitacao/requisitos_elicitados.md"
     - Técnicas de Priorização:
         - First Thing First: "documento-elicitacao/FirstThingFirst.md"
         - QFD: "documento-elicitacao/QFD.md"
         - MoSCoW: "documento-elicitacao/MoSCoW.md"
         - $100: "documento-elicitacao/100.md"
+        - Requisitos Priorizados: "documento-elicitacao/requisitos_priorizados.md"
 
   - Modelagem:
       - Casos de Uso: "documento-modelagem/caso-de-uso.md"
@@ -55,7 +57,7 @@ nav:
       - Especificação Suplementar: "documento-modelagem/especificacoes-suplementar.md"
 
       - Agil:
-          - NR Framework: "documento-modelagem/Agil/NR_Framework.md"
+          - NFR Framework: "documento-modelagem/Agil/NR_Framework.md"
           - Backlog: "documento-modelagem/Agil/Backlog.md"
           - Histórias de usuário: "documento-modelagem/Agil/Historias_de_usuario.md"
     

@@ -226,6 +226,8 @@ Legenda:
 | RNF04  | A interface deve ter design acessível a usuários com pouca familiaridade com tecnologia, como idosos.      | Q19  | Não         |
 | RNF05  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.      | QS9  | Não         |
 | RNF06  | O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.      | QS12  | Sim         |
+| RNF07  | O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.      | QS14  | Não         |
+| RNF08  | Suporte Técnico, como disponibilizar canais de suporte claros e responsivos para auxiliar os usuários.      | QS14  | Não         |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
