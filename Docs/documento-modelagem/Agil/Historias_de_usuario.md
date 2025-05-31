@@ -425,16 +425,25 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     </center>
 
 
-<p style="text-align: center">Entrevista 3</p>
+<p style="text-align: center">Entrevista 3.1</p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GiwWQzVdW44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/GiwWQzVdW44" target="blanket">clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
+<p style="text-align: center">Entrevista 3.2</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7ETUQPDKJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/A7ETUQPDKJc" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font> 
 ---
 
 ### US19 - Leitura do IMEI via câmera do celular
