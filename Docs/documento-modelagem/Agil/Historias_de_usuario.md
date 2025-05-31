@@ -304,137 +304,148 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-### US13 - [Título da US13]
+### US13 - Redefinir a senha via e-mail **(Não Implementado)**
 
-??? abstract "Tabela 15 - História de Usuário [Título da US13]"
-
-    <center>
-
-    <font size="3"><p style="text-align: center">Tabela 15 - História de Usuário [Título da US13].</p></font>
-
-    | **ID**                 | **Nome** |
-    | :--------------------- | :-------- |
-    | US13               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
-
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-    </center>
-
-### US14 - [Título da US14]
-
-??? abstract "Tabela 16 - História de Usuário [Título da US14]"
+??? abstract "Tabela 15 - História de Usuário Redefinir a senha via e-mail"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 16 - História de Usuário [Título da US14].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 15 - História de Usuário Redefinir a senha via e-mail.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US14               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US13                   | Redefinir a senha via e-mail |
+    | Descrição              | Eu, como usuário autenticado, desejo redefinir minha senha dentro do aplicativo, recebendo um código por e-mail, para manter o acesso caso eu esqueça ou deseje trocar a senha. |
+    | Critérios de Aceitação | - Dentro de Perfil deve existir a opção “Redefinir senha”.<br> - Ao selecionar, o app envia um código de verificação para o e-mail cadastrado (ou SMS, conforme escolha do usuário).<br> - O usuário informa o código no app e define uma nova senha (≥ 8 caracteres, contendo letras maiúsculas, minúsculas e números).<br> - Após a troca, o app exibe mensagem de sucesso e mantém a sessão ativa.<br> - Caso o e-mail/telefone não exista no cadastro, exibir “contato não encontrado”.<br> |
+    | Rastreabilidade        | [OBS3](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
+    | Prioridade             |  Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
     </center>
 
-### US15 - [Título da US15]
+### US14 - Editar o seu perfil por uma aba que é disponibilizada no aplicativo **(Não Implementado)**
 
-??? abstract "Tabela 17 - História de Usuário [Título da US15]"
+??? abstract "Tabela 16 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 17 - História de Usuário [Título da US15].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 16 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US15               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US14               | Editar o seu perfil por uma aba que é disponibilizada no aplicativo |
+    | Descrição              | 	Eu, como usuário, desejo acessar uma aba “Perfil” para editar meus dados pessoais sem sair do aplicativo. |
+    | Critérios de Aceitação | - Aba “Perfil” fixa no menu. <br> -  Campos editáveis: nome, e-mail, telefones, senha. <br> - Validação de formato em tempo real (e-mail, DDD+telefone). <br> - Botão “Salvar” persiste dados e mostra toast de sucesso; erro de rede mantém dados locais. <br> - Mudanças sincronizam com servidor sem encerrar sessão. |
+    | Rastreabilidade        | [OBS12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
     </center>
 
-### US16 - [Título da US16]
+    
 
-??? abstract "Tabela 18 - História de Usuário [Título da US16]"
+### US15 - Alterar a foto de perfil
+
+??? abstract "Tabela 17 - História de Usuário Alterar a foto de perfil"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 18 - História de Usuário [Título da US16].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 17 - História de Usuário Alterar a foto de perfil.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US16               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US15               | Alterar a foto de perfil |
+    | Descrição              | 	Eu, como usuário, desejo alterar minha foto de perfil para personalizar minha identificação no aplicativo. |
+    | Critérios de Aceitação |  - Botão “Alterar foto” disponível na aba Perfil.<br> - Usuário escolhe entre Galeria ou Câmera.<br> - App permite corte/ajuste e redimensiona a imagem .<br> - Preview + opções Confirmar/Cancelar.<br> - Foto atualiza instantaneamente no app; falha exibe mensagem e mantém foto anterior. |
+    | Rastreabilidade        | - |
+    | Prioridade             | Médio |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
     </center>
 
-### US17 - [Título da US17]
+### US16 - Registrar documentos
 
-??? abstract "Tabela 19 - História de Usuário [Título da US17]"
+??? abstract "Tabela 18 - História de Usuário Registrar documentos"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 19 - História de Usuário [Título da US17].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 18 - História de Usuário Registrar documentos.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US17               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US16               | Registrar documentos |
+    | Descrição              | 	Eu, como usuário, desejo registrar documentos (CPF, RG etc.) para agilizar autenticações e aumentar a segurança em caso de perda ou roubo do aparelho. |
+    | Critérios de Aceitação | - No menu Perfil, deve aparecer a opção “Documentos”.<br> - Ao acessar “Documentos”, o usuário pode inserir número do CPF (11 dígitos) e do RG (9 dígitos) em campos distintos.<br> - O sistema valida o formato (quantidade de dígitos) antes de salvar.<br> - Documentos cadastrados aparecem em lista na mesma tela, com botão “Remover” ao lado de cada item.<br> - Se o CPF ou RG já estiver registrado, exibir “Documento já registrado”.<br> |
+    | Rastreabilidade        | - |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
     </center>
 
-### US18 - [Título da US18]
+### US17 - Definir dispositivo seguro
 
-??? abstract "Tabela 20 - História de Usuário [Título da US18]"
+??? abstract "Tabela 19 - História de Usuário Definir dispositivo seguro"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 20 - História de Usuário [Título da US18].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 19 - História de Usuário Definir dispositivo seguro.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US18               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US17               | Definir dispositivo seguro |
+    | Descrição              | 	Eu, como usuário, desejo marcar meu smartphone como dispositivo seguro para impedir acessos não autorizados caso seja roubado ou troque de aparelho. |
+    | Critérios de Aceitação | - No menu Perfil, exibir botão “Definir dispositivo seguro”.<br> - Ao tocar em “Definir dispositivo seguro”, o app salva localmente o status de “dispositivo confiável”.<br> - Enquanto marcado como seguro, não solicitar autenticação extra em logins futuros.<br> - O usuário pode desmarcar “Dispositivo seguro” no mesmo local, retornando ao estado padrão.<br> |
+    | Rastreabilidade        | - |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
+
+    </center>
+
+### US18 - Fazer download do Termos de Uso do aplicativo
+
+??? abstract "Tabela 20 - História de Usuário Fazer download do Termos de Uso do aplicativo"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 20 - História de Usuário Fazer download do Termos de Uso do aplicativo.</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US18               | Fazer download do Termos de Uso do aplicativo |
+    | Descrição              | Eu, como usuário, desejo baixar os Termos de Uso em PDF para consultá-los offline e comprovar meus direitos e deveres. |
+    | Critérios de Aceitação | - Na aba “Termos de Uso” deve existir botão “Baixar Termos de Uso (PDF)”. <br> - Ao tocar, o arquivo é baixado para a pasta padrão de downloads do sistema. <br> - O PDF deve conter versão e data visíveis na primeira página. <br> - Falta de conexão exibe aviso “Não foi possível baixar. Tente novamente.” |
+    | Rastreabilidade        | - |
+    | Prioridade             | Média |
+
+    <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
     </center>
 
 
-<p style="text-align: center">Entrevista 3</p>
+<p style="text-align: center">Entrevista 3.1</p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GiwWQzVdW44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/GiwWQzVdW44" target="blanket">clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
+<p style="text-align: center">Entrevista 3.2</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7ETUQPDKJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/A7ETUQPDKJc" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font> 
 ---
 
 ### US19 - Leitura do IMEI via câmera do celular
@@ -988,3 +999,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
 | 1.1 | 30/05/2025 | Criação do scopo da documentação US | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
 | 1.2 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
+| 1.3 | 31/05/2025 | Criação dos US 13 a 18 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
