@@ -437,121 +437,121 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-### US19 - [Título da US19]
+### US19 - Leitura do IMEI via câmera do celular
 
-??? abstract "Tabela 21 - História de Usuário [Título da US19]"
+??? abstract "Tabela 21 - História de Usuário Leitura do IMEI via câmera do celular"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 21 - História de Usuário [Título da US19].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 21 - História de Usuário Leitura do IMEI via câmera do celular.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US19               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US19                   | Leitura do IMEI via câmera do celular |
+    | Descrição              | Eu, como usuário, desejo escanear o código do IMEI com a câmera do celular para evitar o preenchimento manual. |
+    | Critérios de Aceitação | - O aplicativo deve ativar a câmera do celular para escanear o código de barras do IMEI. <br> - O IMEI deve ser identificado automaticamente e preenchido no campo correspondente. |
+    | Rastreabilidade        | [ADD09](../../documento-elicitacao/AnalisedeDocumentos.md) |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
     </center>
 
-### US20 - [Título da US20]
+### US20 - Concessão de permissão para leitura do IMEI pelo próprio dispositivo **(Não Implementado)**
 
-??? abstract "Tabela 22 - História de Usuário [Título da US20]"
+??? abstract "Tabela 22 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 22 - História de Usuário [Título da US20].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 22 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US20               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US20                   | Concessão de permissão para leitura do IMEI pelo próprio dispositivo |
+    | Descrição              | Eu, como usuário, desejo que o aplicativo identifique automaticamente o IMEI do meu dispositivo, sem que eu precise digitá-lo ou consultar manualmente. |
+    | Critérios de Aceitação | - O aplicativo deve solicitar e utilizar permissões do sistema para acessar o número IMEI do dispositivo. <br> - A leitura deve ser automática e segura, sem necessidade de acesso à galeria ou digitação. |
+    | Rastreabilidade        | - |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
     </center>
 
-### US21 - [Título da US21]
+### US21 - Guia de detalhes adicionais sobre consulta de celulares com restrições
 
-??? abstract "Tabela 23 - História de Usuário [Título da US21]"
+??? abstract "Tabela 23 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 23 - História de Usuário [Título da US21].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 23 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US21               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US21                   | Guia de detalhes adicionais sobre consulta de celulares com restrições |
+    | Descrição              | Eu, como usuário, desejo acessar um guia informativo sobre o que significa ter um celular com restrição, para entender melhor o resultado da consulta. |
+    | Critérios de Aceitação | - O aplicativo deve exibir uma seção com explicações sobre os diferentes tipos de restrição de IMEI. <br> - Deve fornecer orientações sobre o que fazer em caso de restrição. |
+    | Rastreabilidade        | [Q17](../../documento-elicitacao/Questionario.md) |
+    | Prioridade             | Média |
 
     <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
     </center>
 
-### US22 - [Título da US22]
+### US22 - Consulta manual e direta do IMEI
 
-??? abstract "Tabela 24 - História de Usuário [Título da US22]"
+??? abstract "Tabela 24 - História de Usuário Consulta manual e direta do IMEI"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 24 - História de Usuário [Título da US22].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 24 - História de Usuário Consulta manual e direta do IMEI.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US22               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US22                   | Consulta manual e direta do IMEI |
+    | Descrição              | Eu, como usuário, desejo inserir manualmente o número IMEI para verificar se o aparelho está bloqueado ou com restrição. |
+    | Critérios de Aceitação | - O aplicativo deve permitir entrada manual do número IMEI. <br> - Ao inserir e confirmar o IMEI, o aplicativo deve exibir imediatamente o status do dispositivo. |
+    | Rastreabilidade        | [OBS10](../../documento-elicitacao/Observacao.md) |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
     </center>
 
-### US23 - [Título da US23]
+### US23 - Validações de erro claras e rápidas
 
-??? abstract "Tabela 25 - História de Usuário [Título da US23]"
+??? abstract "Tabela 25 - História de Usuário Validações de erro claras e rápidas"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 25 - História de Usuário [Título da US23].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 25 - História de Usuário Validações de erro claras e rápidas.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US23               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US23                   | Validações de erro claras e rápidas |
+    | Descrição              | Eu, como usuário, desejo receber mensagens claras e imediatas quando um erro ocorre, para saber como corrigi-lo facilmente. |
+    | Critérios de Aceitação | - O aplicativo deve exibir mensagens de erro descritivas (ex: “IMEI inválido” ou “Campo obrigatório”). <br> - As mensagens devem aparecer em até 2 segundos após a detecção do erro. |
+    | Rastreabilidade        | [OBS19](../../documento-elicitacao/Observacao.md) |
+    | Prioridade             | Média |
 
     <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
     </center>
 
-### US24 - [Título da US24]
+### US24 - Interface clara com instruções para realização das etapas de consulta
 
-??? abstract "Tabela 26 - História de Usuário [Título da US24]"
+??? abstract "Tabela 26 - História de Usuário Interface clara com instruções para realização das etapas de consulta"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 26 - História de Usuário [Título da US24].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 26 - História de Usuário Interface clara com instruções para realização das etapas de consulta.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US24               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US24                   | Interface clara com instruções para realização das etapas de consulta |
+    | Descrição              | Eu, como usuário, desejo que a interface do aplicativo seja clara e me guie durante o processo de consulta, para que eu não tenha dúvidas sobre como realizar cada etapa. |
+    | Critérios de Aceitação | - A interface deve apresentar instruções visuais ou textuais em cada etapa. <br> - As instruções devem ser breves, acessíveis e de fácil compreensão. |
+    | Rastreabilidade        | [OBS15](../../documento-elicitacao/Observacao.md) |
+    | Prioridade             | Média |
 
     <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -561,10 +561,10 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <p style="text-align: center">Entrevista 4</p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M8CNqx5xESw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/M8CNqx5xESw" target="blanket">clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
 
@@ -987,3 +987,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
 | 1.1 | 30/05/2025 | Criação do scopo da documentação US | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
+| 1.2 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
