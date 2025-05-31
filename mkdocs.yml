@@ -4,6 +4,24 @@ repo_name: 2025.1-Celular Seguro
 
 site_name: Celular Seguro
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 nav:
   - Landing Page: landing.html
   - Home: index.md
@@ -18,6 +36,8 @@ nav:
         - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-5.md"
     - Sprint 3:
         - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-6.md"
+    - Sprint 4:
+        - Ata 1: "atas-reuniao/sprint-4/ata-reuniao-7.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"

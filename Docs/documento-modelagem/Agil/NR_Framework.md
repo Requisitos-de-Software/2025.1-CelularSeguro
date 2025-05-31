@@ -35,9 +35,44 @@ Aliada a essa especificação de trabalho de cada integrante, separamos pelas re
 
 Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks. 
 
+
+<font size="3"><p style="text-align: center">Tabela 1: Cartão de Especificação 1</p></font>
+
+| Campo               | RNF01                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| Nº Requisito        | RNF01                                                                                                  |
+| Classificação       | Usabilidade                                                                                            |
+| Descrição           | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos. |
+| Justificativa       | Garantir que o usuário compreenda que o boletim foi enviado com sucesso e que possa anotar ou copiar o número de protocolo sem pressa, melhorando a experiência e a confiança no sistema. |
+| Origem do Requisito | Entrevista com usuário (Arthur)                                                                        |
+| Critério de Aceitação | Após o envio do boletim, o número de protocolo deve ser exibido em destaque, com opção de cópia e visibilidade mínima de 10 segundos. |
+| Dependências        | Envio bem-sucedido do boletim de ocorrência                                                           |
+| Prioridade          | Alta (4,2)                                                                                            |
+| Conflitos           | Nenhum                                                                                                |
+| História            | 30/05/2025    
+
+
+
+<font size="3"><p style="text-align: center">Tabela 2: Cartão de Especificação 2</p></font>
+
+| Campo               | RNF02                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| Nº Requisito        | RNF02                                                                                                  |
+| Classificação       | Desempenho / Confiabilidade                                                                             |
+| Descrição           | O sistema deve permitir o envio de anexos com limite máximo de 10 MB por arquivo, aceitando os formatos JPG, PNG e PDF. |
+| Justificativa       | Evitar sobrecarga no sistema e garantir que os arquivos anexados sejam compatíveis e leves o suficiente para envio eficiente e seguro. |
+| Origem do Requisito | Entrevista com usuário (Arthur) e análise técnica                                                      |
+| Critério de Aceitação | O sistema deve bloquear arquivos que ultrapassem o limite ou estejam em formato não aceito, exibindo mensagem clara e impedindo o envio. |
+| Dependências        | Funcionalidade de envio de boletim com anexos                                                          |
+| Prioridade          | Média (3,8)                                                                                            |
+| Conflitos           | Nenhum                                                                                                |
+| História            | 30/05/2025    
+
+
+
 As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confiança. Critério do QFD para a criterização da prioridade, aliada os RNFs obtidos do questionário.
 
-<font size="3"><p style="text-align: center">Tabela 3: Cartão de Especificação 1</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Cartão de Especificação 3</p></font>
 
 | Nº Requisito: 3 (<a id="anchor_RNF03" href="#RNF03">RNF03</a>)| Classificação: Funcional |
 |---------------| ------------|
@@ -46,7 +81,7 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 | Origem do Requisisto: [RNF08 Questionario](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)
 | Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
 | Dependências: Nenhum
-| Prioridade: 4.2
+| Prioridade: Alta (4.2)
 | Conflitos: Pode gerar custos adicionais de SMS.
 | História: 31/05/2023
 
@@ -62,7 +97,7 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 | Origem do Requisisto: [RNF05 Questionario](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)
 | Critério de Aceitação: O aplicativo deve possuir uma opção nas configurações que permita ao usuário alternar entre o tema claro (padrão) e o modo escuro. Todos os textos, ícones e elementos interativos devem manter boa legibilidade e contraste adequado no modo escuro, conforme as diretrizes de acessibilidade (ex: WCAG AA). A transição entre os modos deve ser suave e todas as telas do aplicativo devem ser compatíveis.
 | Dependências: Definição da paleta de cores para o modo claro e escuro.
-| Prioridade: 3.8
+| Prioridade: Baixa (2.8)
 | Conflitos: Nenhum
 | História: 31/05/2023
 
@@ -146,9 +181,6 @@ obs cada integrante complete a tabela com o seus requisitos
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
-
-
-
 ---
 
 ## Bibliografia
@@ -157,9 +189,11 @@ obs cada integrante complete a tabela com o seus requisitos
 
 > <a name="ref2"></a>CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
 
+---
+
 ## Histórico de Versões
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
-| 1.1    | 31/05/2025         | Desenvolvimento do Tópico Introdução, Metodologia,                            | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 31/05/2025 |
+| 1.1    | 31/05/2025         | Desenvolvimento do Tópico Introdução, Metodologia, Carta de Especificação, NFR 0                            | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> e <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |

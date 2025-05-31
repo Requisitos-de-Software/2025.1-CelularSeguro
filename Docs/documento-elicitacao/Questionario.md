@@ -1,6 +1,32 @@
+## Introdução
+
+Este documento apresenta os resultados do questionário online aplicado para coletar informações sobre o perfil dos usuários, personas, requisitos e suas experiências com o aplicativo Celular Seguro. O objetivo principal foi entender as necessidades e expectativas dos usuários, visando aprimorar a plataforma e identificar requisitos relevantes para o desenvolvimento. O questionário abordou desde dados demográficos dos respondentes até suas percepções sobre a usabilidade, funcionalidades e possíveis melhorias no aplicativo.
+
 ## Metodologia
 
-O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, grupos de familias dos membros do grupo, grupos de condomínios, bem como perfis do instagram, o que implica uma grande diversidade nas respostas obtidas. Essa informação é relevante, pois todas as pessoas estão sucetiveis e perder seu celular e queriamos atender nos nossos requisitos desde um adulto jovem universitário acostumado com tecnologia até pessoas que possui dificuldades com o uso de celulares e afins. Portanto, há maiores chances de que as pessoas que responderam sejam usuários que ao menos possui um celular, o que pode contribuir para uma maior representatividade dos dados coletados em relação ao uso e experiência dos com a plataforma do celular seguro.
+O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, grupos de familias dos membros do grupo, grupos de condomínios, bem como perfis do instagram, o que implica uma grande diversidade nas respostas obtidas. Essa informação é relevante, pois todas as pessoas estão sucetiveis e perder seu celular e queriamos atender nos nossos requisitos desde um adulto jovem universitário acostumado com tecnologia até pessoas que possui dificuldades com o uso de celulares e afins. Portanto, há maiores chances de que as pessoas que responderam sejam usuários que ao menos possui um celular, o que pode contribuir para uma maior representatividade dos dados coletados em relação ao uso e experiência dos com a plataforma do celular seguro, logo abaixo está listado os grupos que foram enviados: 
+
+Grupos que foram enviados:
+
+Whatsapp:
+
+- UnB - FGA 2/2020;
+- UnB - FGA 2/2022;
+- UnB - FGA 1/2024;
+- UnB - FGA 2/2023;
+- Condomínio Planalto;
+- Grupos da familia do Arthur;
+- Grupos da familia do Vitor;
+- Grupos da familia do Felipe;
+
+Telegram:
+
+- Eng de software UnB;
+- FGA - UnB;
+
+Intagram:
+
+- Mateus Bastos.
 
 
 ## Resultados
@@ -17,6 +43,7 @@ Os resultados da análise dos dados que o grupo coletou por meio de um question�
 | **Total de respostas**       | 48                                                                                            |
 | **Total de perguntas**       | 17                                                                                            |
 | **Objetivos das perguntas**  | Definir o perfil dos usuários, criar personas e identificar requisitos                        |
+| **Local de aplicação do questionário**  | Grupos de Whatsapp e telegram da faculdade, grupos de condomínio, familia e perfis do instagram                        |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -182,8 +209,6 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
-
-
 ## Requisitos Elicitados
 
 Nas Tabelas 3 e 4 estão disponibilizados os requisitos funcionais e não funcionais elicitados por meio do questionário realizado com os usuários do aplicativo. Através desse resultado, será possível realizar a priorização de requisitos do aplicativo.
@@ -209,6 +234,7 @@ Legenda:
 | RF06  | O aplicativo deve notificar o usuário em caso de atividade suspeita relacionada ao dispositivo.  | QS08 | Não          |
 | RF07  | O aplicativo deve permitir a recuperação do aparelho bloqueado caso reencontrado.  | QS08 | Não          |
 | RF08  | O aplicativo deve permitir que o usuário registre um boletim de ocorrência. | QS09  | Sim          |
+| RF09  | Modo Falso Desligamento/Fake Shutdown. Simular que o celular foi desligado quando, na verdade, continua rastreável e operacional para comandos remotos. | QS14  | Não          |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -220,14 +246,18 @@ Legenda:
 
 | Tipo   | Descrição                                                                                                   | ID   | Implementado |
 |--------|-------------------------------------------------------------------------------------------------------------|------|--------------|
-| RNF01  | O aplicativo deve apresentar menus com estrutura intuitiva, agrupando funcionalidades de forma lógica.    | QS17  | Parcialmente |
-| RNF02  | O aplicativo deve permitir navegação intuitiva, com ferramentas e opções fáceis de localizar.              | QS7  | Parcialmente |
+| RNF01  | O aplicativo deve apresentar menus com estrutura intuitiva, agrupando funcionalidades de forma lógica.    | QS17  | Não |
+| RNF02  | O aplicativo deve permitir navegação intuitiva, com ferramentas e opções fáceis de localizar.              | QS7  | Não |
 | RNF03  | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência.                      | QS9  | Não           |
 | RNF04  | A interface deve ter design acessível a usuários com pouca familiaridade com tecnologia, como idosos.      | Q19  | Não         |
 | RNF05  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.      | QS9  | Não         |
 | RNF06  | O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.      | QS12  | Sim         |
+<<<<<<< HEAD
 | RNF07  | O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.      | QS14  | Não         |
 | RNF08  | Suporte Técnico, como disponibilizar canais de suporte claros e responsivos para auxiliar os usuários.      | QS14  | Não         |
+=======
+| RNF07  | Suporte Técnico, como disponibilizar canais de suporte claros e responsivos para auxiliar os usuários.      | QS14  | Não         |
+>>>>>>> fdaf89662af6a17d7b0120b0a77c88e539ad5205
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -248,4 +278,4 @@ Legenda:
 | 1.3    | 08/05/2025         | Padronização do Histórico de Versões                  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>             | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>      | 08/05/2025      |
 | 1.4    | 16/05/2025         | Correção no histórico de versão: "título do tópico duplicado"                  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
 | 1.5    | 16/05/2025         | Desenvolvimento da tabela inicial com as informações gerais do questionário                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
-
+| 1.6    | 27/05/2025         | Inserção da Introdução do artefato                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 27/05/2025      |
