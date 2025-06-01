@@ -177,6 +177,32 @@ Para elaborar o Backlog, iniciou-se pela elicitação de requisitos (entrevistas
       <td><a href="../Historias_de_usuario#us36">US36</a> – Remover Pessoa de Confiança</td>
       <td>Alta</td>
     </tr>
+    <tr>
+      <td rowspan="5"><strong>Épico 6 – Localização e Controle Remoto</strong></td>
+      <td>Feature 6.1 – Localizar o dispositivo em tempo real</td>
+      <td><a href="../Historias_de_usuario#us37">US37</a> – Localizar o dispositivo em tempo real</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Feature 6.2 – Fazer o dispositivo emitir som</td>
+      <td><a href="../Historias_de_usuario#us38">US38</a> – Fazer o dispositivo emitir som</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>Feature 6.3 – Bloquear dispositivo</td>
+      <td><a href="../Historias_de_usuario#us39">US39</a> – Bloquear dispositivo</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Feature 6.4 – Redefinir dispositivo para padrões de fábrica</td>
+      <td><a href="../Historias_de_usuario#us40">US40</a> – Redefinir dispositivo para padrões de fábrica</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Feature 6.5 – Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail</td>
+      <td><a href="../Historias_de_usuario#us41">US41</a> – Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail</td>
+      <td>Média</td>
+    </tr>
   </tbody>
 </table>
 
@@ -216,6 +242,7 @@ Após a definição dos temas, os requisitos de alto nível do Celular Seguro s�
 * **Épico 3 – Conta & Perfil**: inclui redefinir senha por e-mail, editar dados pessoais, alterar foto de perfil, registrar documentos, definir dispositivo confiável e acessar Termos de Uso.
 * **Épico 4 – Comunicação & Notificações**: trata do feedback visual no app, envio de SMS e notificações push em casos de atividade suspeita.
 * **Épico 5 – Pessoa de Confiança**: cobre o cadastro, importação, listagem, pesquisa e remoção de contatos de confiança.
+* **Épico 6 — Localização e Controle Remoto**: inclui localizar o dispositivo em tempo real, emitir som, bloquear, redefinir para padrões de fábrica. Envolve também garantir precisão e atualização rápida.
 
 ---
 
@@ -260,6 +287,17 @@ Definido cada épico, são geradas _features_, que descrevem de forma simplifica
     - **Feature 5.4 – Visualizar lista**: exibe todos os contatos de confiança cadastrados em uma lista organizada, com acesso rápido a detalhes.  
     - **Feature 5.5 – Pesquisar contato**: oferece campo de busca que filtra a lista de contatos em tempo real, facilitando encontrar um nome específico.  
     - **Feature 5.6 – Remover contato**: permite excluir um contato de confiança com confirmação explícita antes de remover da lista.  
+
+  6. **Épico 6 — Localização e Controle Remoto**
+
+    - **Feature 6.1 – Buscar dispositivo**: permite que o usuário visualize a localização atual do dispositivo em um mapa, com atualização em tempo real e precisão garantida. 
+    - **Feature 6.2 – Fazer o dispositivo emitir som**: possibilita acionar um som no dispositivo remotamente, mesmo que ele esteja no modo silencioso, para ajudar na sua localização em ambientes próximos.  
+    - **Feature 6.3 – Bloquear dispositivo**: permite bloquear o dispositivo remotamente, impedindo o acesso não autorizado, exibindo uma mensagem personalizada na tela de bloqueio.  
+    - **Feature 6.4 – Redefinir dispositivo para padrões de fábrica**: permite restaurar o dispositivo para as configurações de fábrica remotamente, apagando todos os dados pessoais para proteger as informações em caso de perda ou roubo.  
+    - **Feature 6.5 – Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail**: possibilita que o usuário realize o backup dos dados importantes do dispositivo remotamente e receba esse arquivo diretamente em seu e-mail cadastrado.  
+ 
+    
+    
 
 ---
 
@@ -313,6 +351,14 @@ Este épico enfatiza as funcionalidades que tornam o fluxo de emergência mais e
 > **"Como usuário do Celular Seguro, eu desejo cadastrar e gerenciar facilmente meus contatos de confiança para que, em caso de emergência, eu possa notificar rapidamente as pessoas certas."**
 </center>  
 
+### Épico 6 – Buscar Dispositivo
+
+Este épico enfatiza as funcionalidades que tornam o processo de localização e controle remoto do dispositivo eficiente, rápido e acessível. Ele permite que o usuário localize seu aparelho, acione sons, bloqueie ou redefina para os padrões de fábrica, além de realizar backups remotamente. As funcionalidades garantem que, em situações críticas, o acesso e o controle sobre o dispositivo sejam imediatos, reduzindo riscos, aumentando a segurança e a confiabilidade do sistema. A interface para executar essas ações é clara, objetiva e de fácil entendimento, mesmo em momentos de estresse.
+
+<center>  
+> **"Como usuário do Celular Seguro, eu desejo localizar e controlar meu dispositivo remotamente, para que, em caso de perda ou roubo, eu possa proteger meus dados e recuperar meu aparelho com mais facilidade."**
+</center>  
+
 ---
 ## Bibliografia
 
@@ -332,3 +378,4 @@ Este épico enfatiza as funcionalidades que tornam o fluxo de emergência mais e
 | 1.1 | 01/06/2025 | Criação do backlog | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 01/06/2025 |
 | 1.2 | 01/06/2025 | Padronização da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 01/06/2025 |
 | 1.3 | 01/06/2025 | Ajustes nos textos e mudanças de épicos | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 01/06/2025 |
+| 1.4 | 01/06/2025 | Adição do épico 6 | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank"> Mateus Bastos </a> | 01/06/2025 |
