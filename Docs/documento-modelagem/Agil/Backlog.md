@@ -4,13 +4,14 @@
 
 ## Introdução
 
-O Backlog de Produto, conforme Wiegers & Beatty, é uma lista ordenada de histórias de usuário e itens técnicos que sustentam o desenvolvimento em Scrum. Trata-se de um artefato dinâmico: toda vez que surge nova informação ou feedback, os itens são revisados, reordenados ou atualizados. Cabe ao Dono do Produto manter cada elemento com identificação única, critérios de aceitação claros, estimativa de esforço e prioridade (MoSCoW), de modo que a equipe saiba, em cada Sprint Planning, o que entregar para maximizar valor.
+O Backlog de Produto organiza todas as funcionalidades e requisitos do Celular Seguro em uma lista priorizada, servindo de base para o planejamento das Sprints no Scrum. Por ser um artefato dinâmico, ele é continuamente refinado sempre que surgem novas informações ou feedback. O Dono do Produto é responsável por manter cada item com identificação única, critérios de aceitação claros, estimativa de esforço e prioridade definida pelo método Three Level Scale (Alta, Média ou Baixa). Assim, em cada Sprint Planning, a equipe sabe exatamente o que deve ser entregue para gerar valor incremental, alinhando segurança e usabilidade ao longo do desenvolvimento.
+
 
 ---
 
 ## Metodologia
 
-Para elaborá-lo, inicia-se pela elicitação de requisitos (entrevistas, análise documental, questionários), levantando necessidades funcionais e não funcionais. Requisitos de alto nível são agrupados em épicos, depois decompostos em features e, em seguida, em histórias de usuário com critérios “Dado–Quando–Então”. O Dono do Produto e a equipe priorizam cada história pelo método MoSCoW, estimam esforço em horas e, a cada Sprint, refinam o Backlog em sessões de grooming, ajustando prioridades, detalhando itens e dividindo histórias conforme surgem novas informações.
+Para elaborar o Backlog, iniciou-se pela elicitação de requisitos (entrevistas, análise documental, questionários), levantando necessidades funcionais e não funcionais. Requisitos de alto nível foram agrupados em épicos, depois decompostos em features e, em seguida, em histórias de usuário com critérios “Dado–Quando–Então”. O Dono do Produto e a equipe priorizaram cada história pelo método Three Level Scale (Alta, Média, Baixa), estimaram esforço em horas e, a cada Sprint, refinaram o Backlog em sessões de grooming, ajustando prioridades, detalhando itens e dividindo histórias conforme surgem novas informações.
 
 ---
 
