@@ -265,6 +265,43 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a></p></font>
 
+
+
+<a id="rnf06"></a>
+<font size="3"><p style="text-align: center">Tabela 9: Cartão de Especificação (Emitir alerta-Alerta e Bloqueio)</p></font>
+
+| Nº Requisito: 9 (<a id="RNF09" href="#table09">RNF09</a>)    | Classificação: Desempenho|
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:**             | O sistema deve comunicar alertas aos parceiros com o menor tempo possível, idealmente de forma instantânea. Além disso, bloqueios de sistema ou ações de segurança devem ser efetuados em até 2 minutos após a detecção do evento. |
+| **Justificativa:**         | Em cenários críticos, como ameaças à segurança ou violação de dados, é essencial que o alerta seja comunicado imediatamente aos parceiros e que as ações preventivas (como bloqueios) ocorram em tempo adequado para mitigar riscos. |
+| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-naofuncionais-rnf)) |
+| **Critério de Aceitação:** | 1. Alertas devem ser enviados em até 1 segundo após o evento.<br>2. Bloqueios devem ocorrer em até 2 minutos da detecção automática ou comando humano. |
+| **Dependências:**          | Detecção de evento, canal de comunicação ativo. |
+| **Prioridade:**            | Alta |
+| **Conflitos:**             | Potencial impacto em consumo de rede e uso de CPU |
+| **História:**              | 01/06/2025 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
+
+<a id="rnf06"></a>
+<font size="3"><p style="text-align: center">Tabela 10: Cartão de Especificação (Páginas-Tempo de Carregamento)</p></font>
+
+| Nº Requisito: 10 (<a id="RNF10" href="#table09">RNF010</a>)    | Classificação: Desempenho |
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:**             | As páginas do sistema devem carregar completamente em até 2 segundos quando acessadas via conexão padrão 4G. |
+| **Justificativa:**         | Um tempo de carregamento rápido melhora a experiência do usuário, reduz abandono e é essencial em contextos móveis onde a responsividade é crítica. |
+| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais) ) |
+| **Critério de Aceitação:** | 1. Em testes com rede 4G padrão, 95% das páginas devem carregar em até 2 segundos. |
+| **Dependências:**          | Otimização de backend, compactação de conteúdo, rede 4G disponível |
+| **Prioridade:**            | Alta |
+| **Conflitos:**             | Pode entrar em conflito com carregamento de recursos pesados (como gráficos) |
+| **História:**              | 01/06/2025 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
 ---
 
 ### Vídeo de Validação com o Usuário
