@@ -344,9 +344,24 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 
     </center>
-
 ---
 <p style="text-align: center">Entrevista 2</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kL-Zt8jPkUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="youtube.com/watch?v=kL-Zt8jPkUA" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/gabriel-lima258)</p></font>
+
+---
+
+
+---
+
+---
+<p style="text-align: center">Entrevista 3</p>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -497,6 +512,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <p style="text-align: center">Entrevista 3.2</p>
 
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7ETUQPDKJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
@@ -646,8 +662,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-<a id="us25"></a>
-### US25 - Alertar automaticamente por comportamento suspeito (Não implementado) 
+### US25 - [Título da US25]
 
 ??? abstract "Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado)"
 
@@ -667,8 +682,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us26"></a>
-### US26 - Localizar aparelho via GPS em tempo real (Não implementado) 
+### US26 - [Título da US26]
 
 ??? abstract "Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado)"
 
@@ -688,8 +702,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us27"></a>
-### US27 - Confirmar antes da emissão do alerta
+### US27 - [Título da US27]
 
 ??? abstract "Tabela 29 - Confirmar antes da emissão do alerta"
 
@@ -709,8 +722,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us28"></a>
-### US28 - Escolher tipo de bloqueio
+### US28 - [Título da US28]
 
 ??? abstract "Tabela 30 - Escolher tipo de bloqueio"
 
@@ -730,8 +742,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us29"></a>
-### US29 - Permitir que pessoas de confiança emitam alerta
+### US29 - [Título da US29]
 
 ??? abstract "Tabela 31 - Permitir que pessoas de confiança emitam alerta"
 
@@ -751,8 +762,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us30"></a>
-### US30 - Gerar número de protocolo
+### US30 - [Título da US30]
 
 ??? abstract "Tabela 32 - Gerar número de protocolo"
 
@@ -924,7 +934,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-<a id="us37"></a>
 ### US37 - Localizar o dispositivo em tempo real
 
 
@@ -946,8 +955,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us38"></a>
 ### US38 - Fazer o dispositivo emitir som
 
 
@@ -969,8 +976,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us39"></a>
 ### US39 - Bloquear dispositivo
 
 
@@ -992,7 +997,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us40"></a>
 ### US40 - Redefinir dispositivo para padrões de fábrica
 
 
@@ -1014,8 +1018,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us41"></a>
 ### US41 - Deslogar contas de aplicativos selecionados previamente.
 
 
@@ -1037,8 +1039,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us42"></a>
 ### US42 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail
 
 

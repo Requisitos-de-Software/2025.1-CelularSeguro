@@ -393,15 +393,51 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 
 ### Propagação dos Impactos - Usabilidade
 
+---
 
-## NFR 02 - Eficiência
+## NFR 02 - Confiabilidade
 
-### Requisitos Não-Funcionais - Eficiência
+
+
+
+
+### Requisitos Não-Funcionais - Confiabilidade
+
+Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, levando em consideração aspectos como envio de informações sem falhas, criptografia segura dos dados e acionamento confiável de alertas em situações emergenciais. Esses requisitos foram elaborados com base na modelagem do NFR Framework para o aplicativo *Celular Seguro*.
+
+<center>
+
+**Tabela 12** - Requisitos Não-Funcionais: Confiabilidade
+
+| Código | Nome                                   | Descrição                                                                 |
+|--------|----------------------------------------|---------------------------------------------------------------------------|
+| RNF02  | Enviar Anexos com Confiabilidade       | O sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB, sem falhas ou perdas de dados. |
+| RNF08  | Garantir Segurança e Privacidade       | O sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados (ex: AES-256). |
+| RNF09  | Garantir Confiabilidade do Alerta      | O sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário. |
+
+</center>
+
 
 ### Propagação dos Impactos - Eficiência
 
 
-## NFR 03 - Desempenho
+| NFR / Softgoal                     | Impacto                           | Avaliador  |
+| :--------------------------------- | :-------------------------------- | :--------- |
+| Confiabilidade                     | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Garantir envio de anexos confiável | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Garantir criptografia de dados     | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Garantir acionamento confiável     | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Prevenção de falhas no envio       | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Comunicação de alertas em até 1s   | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Criptografia ponta-a-ponta (AES-256) | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Uso de protocolo HTTPS/TLS         | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Reação ao evento em até 2 minutos  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Arquivos até 10MB (JPG, PNG, PDF)  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Falha no envio acima de 10MB       |  X                                |    <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>       |
+
+
+## NFR 04 - Desempenho
+
 
 ### Requisitos Não-Funcionais - Desempenho
 
@@ -445,6 +481,57 @@ Na Tabela x, está presente a avaliação da propagação dos impactos referente
 
 
 Fonte: [Arthur de Melo](https://github.com/zDrNz)
+
+
+
+---
+
+## NFR 04 - Segurança
+
+
+### Requisitos Não-Funcionais - Segurança
+
+### Requisitos Não-Funcionais - Segurança
+
+Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabela 13:
+
+- **RNF08**: o sistema deve aplicar criptografia ponta-a-ponta com algoritmo AES-256 para proteger os dados enviados nos boletins.
+- **RNF10**: o sistema deve garantir que apenas pessoas autorizadas consigam emitir alertas de perigo, exigindo autenticação.
+- **RNF11**: o sistema deve impedir tentativas simultâneas de login malicioso através de mecanismos de limitação de tentativas e bloqueios automáticos.
+
+**Tabela 13 – Requisitos Não-Funcionais - Segurança**
+
+| ID     | Nome                         | Descrição                                                             |
+|--------|------------------------------|------------------------------------------------------------------------|
+| RNF08  | Criptografia AES-256         | Dados sensíveis dos boletins devem ser protegidos com criptografia forte |
+| RNF10  | Emissão Restrita de Alertas  | Apenas usuários autenticados podem emitir alertas                    |
+| RNF11  | Proteção contra Invasões     | Tentativas simultâneas de login são bloqueadas automaticamente       |
+
+
+
+
+### Propagação dos Impactos - Segurança
+
+Na Tabela 14, está presente a avaliação da propagação dos impactos referentes à Figura X (SIG da Segurança).
+
+**Tabela 14 – Impactos Segurança**
+
+| NFR                          | Impacto | Avaliador      |
+|-----------------------------|---------|----------------|
+| Segurança                   | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Criptografia AES-256        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Emissão Restrita de Alertas | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Proteção contra Invasões    | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Garantia de Autenticação    | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Bloqueio de Ataques         | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Prevenção de Vazamento      | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Tentativas de Login         | X       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+
+
+
+---
+
+
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
