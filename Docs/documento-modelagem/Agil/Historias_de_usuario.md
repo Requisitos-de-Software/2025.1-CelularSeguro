@@ -485,6 +485,16 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<p style="text-align: center">Entrevista 3.1</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GiwWQzVdW44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/GiwWQzVdW44" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
+
 <p style="text-align: center">Entrevista 3.2</p>
 
 <center>
@@ -493,7 +503,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <p style="text-align: center">Caso não abra <a href="https://youtu.be/A7ETUQPDKJc" target="blanket">clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font> 
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
 ---
 
@@ -650,7 +660,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     | US25               | Alertar automaticamente por comportamento suspeito |
     | Descrição              | Como um usuário do aplicativo Celular Seguro, quero que o sistema detecte automaticamente comportamentos suspeitos no meu dispositivo, para que um alerta seja disparado sem que eu precise intervir, aumentando minha segurança. |
     | Critérios de Aceitação | - O sistema deve identificar comportamentos como, múltiplas tentativas incorretas de desbloqueio, remoção do chip SIM, tentativa de desligar o dispositivo forçadamente, acesso não autorizado ao modo desenvolvedor ou redefinição de fábrica.  <br> - Ao identificar um comportamento suspeito, um alerta automático deve ser emitido e o usuário deve receber notificação por push ou e-mail.   <br> - O alerta deve ser registrado no histórico com data, hora e tipo de evento e disparar ações pré-configuradas (ex: rastreamento, bloqueio). <br> - O usuário deve conseguir ativar ou desativar essa funcionalidade nas configurações do app.  |
-    | Rastreabilidade        |  |
+    | Rastreabilidade        | Vídeo de validação da entrevista 05 |
     | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
@@ -671,7 +681,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     | US26               | Localizar aparelho via GPS em tempo real |
     | Descrição              | Como um usuário do aplicativo Celular Seguro, quero rastrear meu dispositivo em tempo real via GPS, para localizar seu paradeiro em caso de perda ou roubo.  |
     | Critérios de Aceitação | - A localização GPS deve ser ativada automaticamente após um alerta e poder ser consultada sob demanda pelo app ou portal do usuário autenticado.   <br> - O sistema deve exibir um mapa com a posição atual do dispositivo, data e hora da última atualização e um botão “Atualizar localização agora”.  <br> - A localização deve ser atualizada em tempo real (ou em intervalos configuráveis, ex: a cada 30 segundos).  <br> - A funcionalidade deve solicitar permissão de localização do dispositivo e permitir que o usuário desative o rastreamento a qualquer momento.   |
-    | Rastreabilidade        |  |
+    | Rastreabilidade        | Vídeo de validação da entrevista 05 |
     | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
@@ -692,7 +702,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     | US27               | Confirmar antes da emissão do alerta |
     | Descrição              | Como um usuário do aplicativo, quero ver uma janela pop-up de confirmação ao tentar emitir um alerta de roubo, para evitar o envio acidental da notificação.  |
     | Critérios de Aceitação | - O sistema exibe um pop-up com as opções “Confirmar” e “Cancelar”. <br> - O alerta só é disparado após o clique em “Confirmar”.   <br> - A mensagem deve informar claramente as consequências do alerta. |
-    | Rastreabilidade        |  |
+    | Rastreabilidade        | [OBS09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
     | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
@@ -713,7 +723,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     | US28               | Escolher tipo de bloqueio |
     | Descrição              | Como um usuário do aplicativo, quero poder escolher entre "Modo Recuperação" ou "Bloqueio Total" ao emitir um alerta, para controlar o nível de segurança de acordo com a situação.  |
     | Critérios de Aceitação | - O pop-up de confirmação inclui a seleção do tipo de bloqueio.  <br> - O “Modo Recuperação” bloqueia linha e contas, mas mantém o IMEI ativo. <br> - O “Bloqueio Total” impede o uso completo do aparelho. <br> - O sistema deve descrever resumidamente as consequências de cada opção.  |
-    | Rastreabilidade        |  |
+    | Rastreabilidade        | [ADD06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
     | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
@@ -734,7 +744,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     | US29               | Permitir que pessoas de confiança emitam alerta |
     | Descrição              | Como um usuário do aplicativo, quero cadastrar pessoas de confiança que possam emitir alertas em meu nome, para garantir que ações possam ser tomadas mesmo que eu esteja impossibilitado.  |
     | Critérios de Aceitação | - O usuário pode adicionar contatos (com nome, e-mail e telefone).   <br> - Cada pessoa de confiança deve confirmar sua autorização. <br> - A pessoa autorizada pode emitir alerta usando um código de autenticação ou login secundário.  <br> - O sistema deve registrar quem realizou o disparo do alerta. |
-    | Rastreabilidade        |  |
+    | Rastreabilidade        | [ADD04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
     | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
@@ -755,7 +765,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     | US30               | Gerar número de protocolo |
     | Descrição              | Como um usuário que emitiu um alerta, quero receber um número de protocolo exclusivo após a emissão, para usar como referência com autoridades ou parceiros.  |
     | Critérios de Aceitação | - Após o envio do alerta, o sistema gera e exibe um número de protocolo único. <br> - O protocolo deve ser enviado também por e-mail e armazenado no histórico de alertas.  <br> - O número deve conter informações rastreáveis (ex: data, hora, tipo de bloqueio). |
-    | Rastreabilidade        |  |
+    | Rastreabilidade        | [ADD07](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
     | Prioridade             | Média |
 
     <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
