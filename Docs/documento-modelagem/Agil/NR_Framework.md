@@ -49,7 +49,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | Dependências        | Envio bem-sucedido do boletim de ocorrência                                                           |
 | Prioridade          | Alta (4,2)                                                                                            |
 | Conflitos           | Nenhum                                                                                                |
-| História            | 30/05/2025    
+| História            | -    
 
 
 
@@ -66,7 +66,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | Dependências        | Funcionalidade de envio de boletim com anexos                                                          |
 | Prioridade          | Média (3,8)                                                                                            |
 | Conflitos           | Nenhum                                                                                                |
-| História            | 30/05/2025    
+| História            | -   
 
 
 
@@ -74,16 +74,16 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 
 <font size="3"><p style="text-align: center">Tabela 3: Cartão de Especificação 3</p></font>
 
-| Nº Requisito: 3 (<a id="anchor_RNF03" href="#RNF03">RNF03</a>)| Classificação: Funcional |
+| Nº Requisito: 3 (<a id="anchor_RF03" href="#RF03">RF03</a>)| Classificação: Funcional |
 |---------------| ------------|
-| Descrição: O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.
-| Justificativa: Garantir que a pessoa designada como 'de confiança' seja formalmente notificada sobre sua nomeação. Isso aumenta a transparência, permite que ela esteja ciente de seu papel e responsabilidades potenciais, e pode servir como um primeiro passo para seu engajamento ou consentimento.
-| Origem do Requisisto: [RNF08 Questionario](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)
-| Critério de Aceitação:  Após um usuário concluir o cadastro de uma nova "Pessoa de Confiança" com um número de telefone celular válido, um SMS deve ser disparado automaticamente para o número fornecido. 
-| Dependências: Nenhum
-| Prioridade: Alta (4.2)
-| Conflitos: Pode gerar custos adicionais de SMS.
-| História: 31/05/2023
+| Descrição: Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção (ex: um ícone de lixeira, um menu de opções ao manter pressionado). |
+| Justificativa: Permitir que o usuário mantenha sua lista de Pessoas de Confiança atualizada e relevante, removendo contatos que não são mais desejados ou apropriados para essa função, assegurando que apenas as pessoas corretas permaneçam com esse status. |
+| Origem do Requisito: Definição da Funcionalidade 'Gerenciar Pessoas de Confiança' / User Story US36 |
+| Critério de Aceitação: Para cada contato exibido na lista de Pessoas de Confiança, uma opção de remoção (ex: ícone de lixeira ou item em menu de contexto) deve estar acessível. Ao ser acionada, o sistema deve solicitar confirmação ao usuário e, se confirmada, o contato deve ser removido permanentemente do sistema e a lista atualizada. |
+| Dependências: Pessoas já cadastradas na lista de confiança |
+| Prioridade: Alta (4.1) |
+| Conflitos: Nenhum conflito direto identificado. O risco de remoção acidental deve ser mitigado pela etapa de confirmação. |
+| História: US36 |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -99,7 +99,7 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 | Dependências: Definição da paleta de cores para o modo claro e escuro.
 | Prioridade: Baixa (2.8)
 | Conflitos: Nenhum
-| História: 31/05/2023
+| História: -
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -159,7 +159,7 @@ A Tabela 8 a seguir lista os Requisitos Não-Funcionais utilizados para o desenv
 
 | ID                                            | Descrição                         | Rastreabilidade                                                                                                                            | Implementação |
 | :-------------------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
-| <a id="RNF03" href="#anchor_RNF01">RNF03</a> | O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.    | [RNF08](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-nao-funcionais)      | Não           |
+| <a id="RNF03" href="#anchor_RNF01">RNF03</a> | Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção    | [RNF08](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-nao-funcionais)      | Não           |
 | <a id="RNF04" href="#anchor_RNF02">RNF04</a> | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.    | [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-nao-funcionais)                                     | Não           |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
@@ -175,7 +175,7 @@ obs cada integrante complete a tabela com o seus requisitos
 
 |  ID  | Descrição |
 |------|---------|
-|NFR03| O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança. |
+|NFR03| Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção |
 |NFR04| O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.|
 
 
