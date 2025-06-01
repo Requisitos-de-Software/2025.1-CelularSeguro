@@ -350,9 +350,11 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 
 ---
 
-## NFR 02 - Eficiência
+## NFR 02 - Confiabilidade
 
-### Requisitos Não-Funcionais - Eficiência
+
+
+
 
 ### Requisitos Não-Funcionais - Confiabilidade
 
@@ -389,11 +391,63 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 | Falha no envio acima de 10MB       |  X                                |    <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>       |
 
 
-## NFR 03 - Desempenho
+## NFR 04 - Desempenho
+
 
 ### Requisitos Não-Funcionais - Desempenho
 
 ### Propagação dos Impactos - Desempenho
+
+
+
+
+---
+
+## NFR 04 - Segurança
+
+
+### Requisitos Não-Funcionais - Segurança
+
+### Requisitos Não-Funcionais - Segurança
+
+Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabela 13:
+
+- **RNF08**: o sistema deve aplicar criptografia ponta-a-ponta com algoritmo AES-256 para proteger os dados enviados nos boletins.
+- **RNF10**: o sistema deve garantir que apenas pessoas autorizadas consigam emitir alertas de perigo, exigindo autenticação.
+- **RNF11**: o sistema deve impedir tentativas simultâneas de login malicioso através de mecanismos de limitação de tentativas e bloqueios automáticos.
+
+**Tabela 13 – Requisitos Não-Funcionais - Segurança**
+
+| ID     | Nome                         | Descrição                                                             |
+|--------|------------------------------|------------------------------------------------------------------------|
+| RNF08  | Criptografia AES-256         | Dados sensíveis dos boletins devem ser protegidos com criptografia forte |
+| RNF10  | Emissão Restrita de Alertas  | Apenas usuários autenticados podem emitir alertas                    |
+| RNF11  | Proteção contra Invasões     | Tentativas simultâneas de login são bloqueadas automaticamente       |
+
+
+
+
+### Propagação dos Impactos - Segurança
+
+Na Tabela 14, está presente a avaliação da propagação dos impactos referentes à Figura X (SIG da Segurança).
+
+**Tabela 14 – Impactos Segurança**
+
+| NFR                          | Impacto | Avaliador      |
+|-----------------------------|---------|----------------|
+| Segurança                   | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Criptografia AES-256        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Emissão Restrita de Alertas | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Proteção contra Invasões    | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Garantia de Autenticação    | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Bloqueio de Ataques         | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Prevenção de Vazamento      | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Tentativas de Login         | X       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+
+
+
+---
+
 
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
