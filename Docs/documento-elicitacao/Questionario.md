@@ -279,7 +279,7 @@ Legenda:
 
 <p style="text-align: center">Caso não abra <a href="https://youtu.be/qy3vcKBe6IY" target="blanket">clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf)</p></font>
+<font size="3"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf)</p></font>
 
 ---
 

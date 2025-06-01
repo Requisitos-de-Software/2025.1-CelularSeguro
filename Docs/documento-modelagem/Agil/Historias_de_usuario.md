@@ -705,49 +705,49 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-### US31 - [Título da US31]
+### US31 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança (não implementado)
 
-??? abstract "Tabela 33 - História de Usuário [Título da US31]"
+??? abstract "Tabela 33 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança. (não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 33 - História de Usuário [Título da US31].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 33 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança (Não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US31               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US31               | Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança |
+    | Descrição              | Eu, como usuário do aplicativo Celular Seguro, desejo que o aplicativo envie automaticamente um SMS para a pessoa que adicionei como 'Pessoa de Confiança', para que ela seja formalmente informada sobre essa designação e suas possíveis responsabilidades. |
+    | Critérios de Aceitação | - Ao concluir o cadastro de uma nova "Pessoa de Confiança" com um número de telefone celular válido, um SMS é disparado automaticamente para o número fornecido. <br> - A mensagem SMS deve ter um conteúdo padrão, informando ao destinatário que foi adicionado(a) como Pessoa de Confiança no aplicativo Celular Seguro (o conteúdo exato deve ser definido e aprovado). <br> - Em caso de falha no envio do SMS (ex: número inválido, falha no gateway), o sistema deve registrar a falha. |
+    | Rastreabilidade        | [RNF08 Questionario](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/) |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 
     </center>
 
-### US32 - [Título da US32]
+### US32 - Cadastrar contatos com base nos números já existentes no celular (não implementado)
 
-??? abstract "Tabela 34 - História de Usuário [Título da US32]"
+??? abstract "Tabela 34 - Cadastrar contatos com base nos números já existentes no celular (não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 34 - História de Usuário [Título da US32].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 34 - Cadastrar contatos com base nos números já existentes no celular (não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US32               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US32               | Cadastrar contatos com base nos números já existentes no celular |
+    | Descrição              | Eu, como usuário do aplicativo Celular Seguro, desejo poder selecionar um contato diretamente da agenda do meu celular ao cadastrar uma Pessoa de Confiança, para agilizar o processo, evitar erros de digitação e tornar o cadastro mais conveniente. |
+    | Critérios de Aceitação | - Ao iniciar o processo de cadastro de uma nova Pessoa de Confiança, o aplicativo deve apresentar uma opção clara para 'Buscar na agenda' ou 'Selecionar dos contatos'. <br> - Ao escolher essa opção, o aplicativo deve solicitar permissão ao usuário para acessar os contatos do dispositivo, se essa permissão ainda não tiver sido concedida. <br> - Se o usuário negar a permissão, ele deve ser informado sobre a impossibilidade de usar a funcionalidade e ter a opção de prosseguir com o cadastro manual. <br> - Com a permissão concedida, o aplicativo deve exibir uma lista de contatos da agenda do dispositivo, permitindo que o usuário role e/ou pesquise para encontrar o contato desejado.|
+    | Rastreabilidade        | Vídeo de validação da entrevista 6 |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 
     </center>
 
-### US33 - [Título da US33]
+### US33 - Cadastrar manualmente uma nova Pessoa de Confiança
 
-??? abstract "Tabela 35 - História de Usuário [Título da US33]"
+??? abstract "Tabela 35 - Cadastrar manualmente uma nova Pessoa de Confiança"
 
     <center>
 
@@ -755,71 +755,71 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US33               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US33               | 	Cadastrar manualmente uma nova Pessoa de Confiança |
+    | Descrição              | 	Eu, como usuário do aplicativo Celular Seguro, desejo poder inserir manualmente os dados de uma Pessoa de Confiança (como nome e telefone), para registrá-la no sistema mesmo que ela não esteja na minha agenda ou eu prefira não importar os dados. |
+    | Critérios de Aceitação | - Na tela "Pessoa de Confiança", deve existir um botão ou opção clara para "+ Cadastrar Contato". <br> - Ao acionar a opção de cadastrar, o usuário deve ser direcionado para um formulário com campos para, no mínimo, Nome e Número de Telefone da Pessoa de Confiança. <br>  |
+    | Rastreabilidade        | Vídeo de validação da entrevista 6 |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 
     </center>
 
-### US34 - [Título da US34]
+### US34 - Visualizar lista de Pessoas de Confiança cadastradas
 
-??? abstract "Tabela 36 - História de Usuário [Título da US34]"
+??? abstract "Tabela 36 - Visualizar lista de Pessoas de Confiança cadastradas"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 36 - História de Usuário [Título da US34].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 36 - Visualizar lista de Pessoas de Confiança cadastradas.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US34               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US34               | Visualizar lista de Pessoas de Confiança cadastradas |
+    | Descrição              | Eu, como usuário do aplicativo Celular Seguro, desejo poder visualizar uma lista clara e organizada com todas as minhas Pessoas de Confiança já cadastradas, para que eu possa rapidamente identificar quem são e acessar opções de gerenciamento para elas. |
+    | Critérios de Aceitação | - Ao acessar a funcionalidade "Pessoa de Confiança", se houver contatos previamente cadastrados, eles devem ser exibidos em formato de lista. <br> - Cada item na lista deve apresentar informações chave da Pessoa de Confiança, como Nome e, opcionalmente, parte do telefone ou um avatar/ícone distintivo. <br> - Se não houver nenhuma Pessoa de Confiança cadastrada, a mensagem "Nenhum registro encontrado" (ou similar) deve ser exibida, acompanhada de uma sugestão ou botão para adicionar um novo contato. |
+    | Rastreabilidade        | Vídeo de validação da entrevista 6 |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 
     </center>
 
-### US35 - [Título da US35]
+### US35 - Pesquisar uma Pessoa de Confiança específica na lista
 
-??? abstract "Tabela 37 - História de Usuário [Título da US35]"
+??? abstract "Tabela 37 - Pesquisar uma Pessoa de Confiança específica na lista"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 37 - História de Usuário [Título da US35].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 37 - Pesquisar uma Pessoa de Confiança específica na lista.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US35               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US35               | Pesquisar uma Pessoa de Confiança específica na lista |
+    | Descrição              | Eu, como usuário do aplicativo Celular Seguro que possui várias Pessoas de Confiança cadastradas, desejo poder pesquisar por um nome ou telefone na minha lista, para localizar rapidamente um contato específico sem precisar percorrer toda a lista manualmente. |
+    | Critérios de Aceitação | - Na tela "Pessoa de Confiança", um campo de busca "Pesquisar contato" deve estar disponível e funcional. <br> - Conforme o usuário digita no campo de busca (ex: nome, parte do nome, número de telefone), a lista de Pessoas de Confiança deve ser filtrada em tempo real para exibir apenas os contatos que correspondem ao critério da pesquisa. <br> - A pesquisa deve ser, preferencialmente, insensível a maiúsculas/minúsculas e acentos. <br> - Se a pesquisa não retornar nenhum resultado, uma mensagem como "Nenhum contato encontrado para '[termo pesquisado]'" deve ser exibida.|
+    | Rastreabilidade        | Vídeo de validação da entrevista 6 |
+    | Prioridade             | Média |
 
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 
     </center>
 
-### US36 - [Título da US36]
+### US36 - Remover uma Pessoa de Confiança da lista
 
-??? abstract "Tabela 38 - História de Usuário [Título da US36]"
+??? abstract "Tabela 38 - Remover uma Pessoa de Confiança da lista"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 38 - História de Usuário [Título da US36].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 38 - Remover uma Pessoa de Confiança da lista.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US36               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US36               | Remover uma Pessoa de Confiança da lista |
+    | Descrição              | Eu, como usuário do aplicativo Celular Seguro, desejo poder remover uma Pessoa de Confiança cadastrada que não é mais relevante ou apropriada, para manter minha lista de contatos de emergência sempre atualizada. |
+    | Critérios de Aceitação | - Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção (ex: um ícone de lixeira, um menu de opções ao manter pressionado). <br> - Antes da remoção efetiva, o sistema deve exibir uma mensagem de confirmação ao usuário, perguntando se ele realmente deseja remover "[Nome da Pessoa de Confiança]". <br> - Se o usuário confirmar a remoção, a Pessoa de Confiança selecionada deve ser permanentemente excluída do sistema. <br> - Após a remoção, a lista de Pessoas de Confiança deve ser atualizada automaticamente, não exibindo mais o contato removido. <br> - Se o usuário cancelar a ação na etapa de confirmação, a Pessoa de Confiança não deve ser removida e deve permanecer na lista.|
+    | Rastreabilidade        | Vídeo de validação da entrevista 6  |
+    | Prioridade             | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 

@@ -79,7 +79,7 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 | Descrição: O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.
 | Justificativa: Garantir que a pessoa designada como 'de confiança' seja formalmente notificada sobre sua nomeação. Isso aumenta a transparência, permite que ela esteja ciente de seu papel e responsabilidades potenciais, e pode servir como um primeiro passo para seu engajamento ou consentimento.
 | Origem do Requisisto: [RNF08 Questionario](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)
-| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Critério de Aceitação:  Após um usuário concluir o cadastro de uma nova "Pessoa de Confiança" com um número de telefone celular válido, um SMS deve ser disparado automaticamente para o número fornecido. 
 | Dependências: Nenhum
 | Prioridade: Alta (4.2)
 | Conflitos: Pode gerar custos adicionais de SMS.
