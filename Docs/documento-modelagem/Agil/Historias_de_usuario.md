@@ -14,7 +14,7 @@ Durante a entrevista, os critérios de aceitação foram formalizados, refletind
 
 | Nome                                                    | Função                                     | Entrevistado                                | Data       | Hora |
 | ------------------------------------------------------- | -------------------------------------------|---------------------------------------------|------------|------|
-| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | [Lucas](https://github.com/gabriel-lima258) | 29/05/2025 | 19:05 |
+| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | Lucas | 29/05/2025 | 19:05 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | Tauanne                                     | 30/05/2025 | 11:00 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | João Marcos                                 | 31/05/2025 | 15:30 |
 
