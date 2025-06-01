@@ -225,6 +225,100 @@ As tabelas 5 e 6 descrevem, respectivamente, o RNF de manter o layout da tela de
 
 ---
 
+As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e segurança no menu "Registrar Telefone", com foco em interface intuitiva e criptografia dos dados, priorizados para garantir uma experiência confiável ao usuário.
+
+<a id="rnf07"></a>
+<font size="3"><p style="text-align: center">Tabela 7: Cartão de Especificação (Registrar Celular – Acessibilidade e Estrutras Claras)</p></font>
+
+
+| Campo               | RNF07                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| Nº Requisito: 7 (<a id="RNF07" href="#table09">RNF07</a>)      | RNF07                                                                                                  |
+| Classificação       | Usabilidade / Acessibilidade                                                                           |
+| Descrição           | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, como adicionar, editar ou remover um número , com a ideia principal focada no tempo de resposta para o usuário. |
+| Justificativa       | Facilitar o uso da funcionalidade por usuários de diferentes perfis (inclusive idosos e pessoas sob estresse), reduzindo ambiguidade visual,  evitando erros de uso ao registrar o telefone e ajustando o tempo de resposta visual mais criterioso. |
+| Origem do Requisito | [Brainstorming - BS36](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais) |
+| Critério de Aceitação | O usuário deve conseguir realizar o cadastro ou exclusão de um telefone utilizando apenas os ícones e textos da interface, sem necessidade de tutorial, com confirmação visual imediata ao final de cada ação e com um tempo de resposta realtivamente bom ( entre 1.4 a 2.4 milesegundos). |
+| Dependências        | Tela de Registro de Telefone; Interface gráfica consistente                                             |
+| Prioridade          | Alta (4.3)                                                                                              |
+| Conflitos           | Nenhum identificado                                                                                     |
+| História            | [US01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us01---cadastro-de-múltiplos-celulares), [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a></p></font>
+
+---
+<a id="rnf08"></a>
+<font size="3"><p style="text-align: center">Tabela 8: Cartão de Especificação (Registrar Celular – Segurança e Criptografia)</p></font>
+
+| Campo               | RNF08                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| Nº Requisito: 8 (<a id="RNF08" href="#table09">RNF08</a>) | RNF08                                                                                                  |
+| Classificação       | Segurança / Confiabilidade                                                                             |
+| Descrição           | O aplicativo deve garantir criptografia ponta-a-ponta (como AES-256) nos dados transmitidos e armazenados durante o processo de registro de telefone, incluindo o número, código de verificação e identificação do usuário. Nenhuma informação sensível deve ser transmitida em texto claro. |
+| Justificativa       | Proteger os dados pessoais e garantir que o número de telefone cadastrado e validado não seja interceptado ou alterado por terceiros, alinhando-se à LGPD e às boas práticas de segurança da informação. |
+| Origem do Requisito | [Análise de Documentos - ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/) |
+| Critério de Aceitação | Toda a comunicação relacionada ao registro de telefone deve utilizar protocolo HTTPS com TLS atualizado. As informações sensíveis devem ser criptografadas e não podem ser recuperadas por interceptação direta da rede. |
+| Dependências        | Integração com servidor seguro e sistema de autenticação                                               |
+| Prioridade          | Alta (4.6)                                                                                              |
+| Conflitos           | Nenhum                                                                                                  |
+| História            | [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a></p></font>
+
+
+
+<a id="rnf06"></a>
+<font size="3"><p style="text-align: center">Tabela 9: Cartão de Especificação (Emitir alerta-Alerta e Bloqueio)</p></font>
+
+| Nº Requisito: 9 (<a id="RNF09" href="#table09">RNF09</a>)    | Classificação: Desempenho|
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:**             | O sistema deve comunicar alertas aos parceiros com o menor tempo possível, idealmente de forma instantânea. Além disso, bloqueios de sistema ou ações de segurança devem ser efetuados em até 2 minutos após a detecção do evento. |
+| **Justificativa:**         | Em cenários críticos, como ameaças à segurança ou violação de dados, é essencial que o alerta seja comunicado imediatamente aos parceiros e que as ações preventivas (como bloqueios) ocorram em tempo adequado para mitigar riscos. |
+| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-naofuncionais-rnf)) |
+| **Critério de Aceitação:** | 1. Alertas devem ser enviados em até 1 segundo após o evento.<br>2. Bloqueios devem ocorrer em até 2 minutos da detecção automática ou comando humano. |
+| **Dependências:**          | Detecção de evento, canal de comunicação ativo. |
+| **Prioridade:**            | Alta |
+| **Conflitos:**             | Potencial impacto em consumo de rede e uso de CPU |
+| **História:**              | 01/06/2025 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
+
+<a id="rnf06"></a>
+<font size="3"><p style="text-align: center">Tabela 10: Cartão de Especificação (Páginas-Tempo de Carregamento)</p></font>
+
+| Nº Requisito: 10 (<a id="RNF10" href="#table09">RNF010</a>)    | Classificação: Desempenho |
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:**             | As páginas do sistema devem carregar completamente em até 2 segundos quando acessadas via conexão padrão 4G. |
+| **Justificativa:**         | Um tempo de carregamento rápido melhora a experiência do usuário, reduz abandono e é essencial em contextos móveis onde a responsividade é crítica. |
+| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais) ) |
+| **Critério de Aceitação:** | 1. Em testes com rede 4G padrão, 95% das páginas devem carregar em até 2 segundos. |
+| **Dependências:**          | Otimização de backend, compactação de conteúdo, rede 4G disponível |
+| **Prioridade:**            | Alta |
+| **Conflitos:**             | Pode entrar em conflito com carregamento de recursos pesados (como gráficos) |
+| **História:**              | 01/06/2025 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
+---
+
+### Vídeo de Validação com o Usuário
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKZyAkc5Bms" title="Vídeo de Validação - Registrar Telefone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso o vídeo não carregue, <a href="https://youtu.be/aKZyAkc5Bms" target="_blank">clique aqui para assistir no YouTube</a>.</p>
+
+---
+
+### Termo de Compromisso Assinado
+
+> **PDF – 01/06/2025 – Termo de Compromisso e Imagem Assinado**  
+> Arquivo disponível em: [Cópia do Termo de Consentimento Celular Seguro (PDF)](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro/blob/main/Docs/assets/pdf/verificacao/Copia_de_Termo_Consentimento_CelularSeguro_assinado%20(1).pdf)
+
 ## NFR 0 - Geral
 
 A Figura 1 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
@@ -315,4 +409,7 @@ A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de P
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
 | 1.1    | 31/05/2025         | Desenvolvimento do Tópico Introdução, Metodologia, Carta de Especificação, NFR 0                            | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> e <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
-| 1.2    | 01/06/2025         | Desenvolvimento do Softgoal Interdependency Graph  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
+| 1.2    | 01/06/2025         | Adição de tabelas  | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
+| 1.3    | 01/06/2025         | Desenvolvimento do Softgoal Interdependency Graph  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
+| 1.4    | 01/06/2025         | Desenvolvimento das tabelas 7 e 8 do Cartão de especificação  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
+

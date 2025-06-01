@@ -6,7 +6,7 @@
 
 ## 1. Introdução
 
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo asConforme, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) na Etapa 3.
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) na Etapa 3.
 
 ---
 

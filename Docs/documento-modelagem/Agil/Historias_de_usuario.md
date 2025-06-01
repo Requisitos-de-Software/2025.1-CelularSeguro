@@ -14,7 +14,7 @@ Durante a entrevista, os critérios de aceitação foram formalizados, refletind
 
 | Nome                                                    | Função                                     | Entrevistado                                | Data       | Hora |
 | ------------------------------------------------------- | -------------------------------------------|---------------------------------------------|------------|------|
-| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | Lucas | 29/05/2025 | 19:05 |
+| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | [Lucas](https://github.com/gabriel-lima258) | 29/05/2025 | 19:05 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | Tauanne                                     | 30/05/2025 | 11:00 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | João Marcos                                 | 31/05/2025 | 15:30 |
 
@@ -637,128 +637,128 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ---
 
 <a id="us25"></a>
-### US25 - [Título da US25]
+### US25 - Alertar automaticamente por comportamento suspeito (Não implementado) 
 
-??? abstract "Tabela 27 - História de Usuário [Título da US25]"
+??? abstract "Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 27 - História de Usuário [Título da US25].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US25               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US25               | Alertar automaticamente por comportamento suspeito |
+    | Descrição              | Como um usuário do aplicativo Celular Seguro, quero que o sistema detecte automaticamente comportamentos suspeitos no meu dispositivo, para que um alerta seja disparado sem que eu precise intervir, aumentando minha segurança. |
+    | Critérios de Aceitação | - O sistema deve identificar comportamentos como, múltiplas tentativas incorretas de desbloqueio, remoção do chip SIM, tentativa de desligar o dispositivo forçadamente, acesso não autorizado ao modo desenvolvedor ou redefinição de fábrica.  <br> - Ao identificar um comportamento suspeito, um alerta automático deve ser emitido e o usuário deve receber notificação por push ou e-mail.   <br> - O alerta deve ser registrado no histórico com data, hora e tipo de evento e disparar ações pré-configuradas (ex: rastreamento, bloqueio). <br> - O usuário deve conseguir ativar ou desativar essa funcionalidade nas configurações do app.  |
+    | Rastreabilidade        | Vídeo de validação da entrevista 05 |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
     </center>
 
 <a id="us26"></a>
-### US26 - [Título da US26]
+### US26 - Localizar aparelho via GPS em tempo real (Não implementado) 
 
-??? abstract "Tabela 28 - História de Usuário [Título da US26]"
+??? abstract "Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 28 - História de Usuário [Título da US26].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US26               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US26               | Localizar aparelho via GPS em tempo real |
+    | Descrição              | Como um usuário do aplicativo Celular Seguro, quero rastrear meu dispositivo em tempo real via GPS, para localizar seu paradeiro em caso de perda ou roubo.  |
+    | Critérios de Aceitação | - A localização GPS deve ser ativada automaticamente após um alerta e poder ser consultada sob demanda pelo app ou portal do usuário autenticado.   <br> - O sistema deve exibir um mapa com a posição atual do dispositivo, data e hora da última atualização e um botão “Atualizar localização agora”.  <br> - A localização deve ser atualizada em tempo real (ou em intervalos configuráveis, ex: a cada 30 segundos).  <br> - A funcionalidade deve solicitar permissão de localização do dispositivo e permitir que o usuário desative o rastreamento a qualquer momento.   |
+    | Rastreabilidade        | Vídeo de validação da entrevista 05 |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
     </center>
 
 <a id="us27"></a>
-### US27 - [Título da US27]
+### US27 - Confirmar antes da emissão do alerta
 
-??? abstract "Tabela 29 - História de Usuário [Título da US27]"
+??? abstract "Tabela 29 - Confirmar antes da emissão do alerta"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 29 - História de Usuário [Título da US27].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 29 - Confirmar antes da emissão do alerta.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US27               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US27               | Confirmar antes da emissão do alerta |
+    | Descrição              | Como um usuário do aplicativo, quero ver uma janela pop-up de confirmação ao tentar emitir um alerta de roubo, para evitar o envio acidental da notificação.  |
+    | Critérios de Aceitação | - O sistema exibe um pop-up com as opções “Confirmar” e “Cancelar”. <br> - O alerta só é disparado após o clique em “Confirmar”.   <br> - A mensagem deve informar claramente as consequências do alerta. |
+    | Rastreabilidade        | [OBS09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
     </center>
 
 <a id="us28"></a>
-### US28 - [Título da US28]
+### US28 - Escolher tipo de bloqueio
 
-??? abstract "Tabela 30 - História de Usuário [Título da US28]"
+??? abstract "Tabela 30 - Escolher tipo de bloqueio"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 30 - História de Usuário [Título da US28].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 30 - Escolher tipo de bloqueio.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US28               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US28               | Escolher tipo de bloqueio |
+    | Descrição              | Como um usuário do aplicativo, quero poder escolher entre "Modo Recuperação" ou "Bloqueio Total" ao emitir um alerta, para controlar o nível de segurança de acordo com a situação.  |
+    | Critérios de Aceitação | - O pop-up de confirmação inclui a seleção do tipo de bloqueio.  <br> - O “Modo Recuperação” bloqueia linha e contas, mas mantém o IMEI ativo. <br> - O “Bloqueio Total” impede o uso completo do aparelho. <br> - O sistema deve descrever resumidamente as consequências de cada opção.  |
+    | Rastreabilidade        | [ADD06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
     </center>
 
 <a id="us29"></a>
-### US29 - [Título da US29]
+### US29 - Permitir que pessoas de confiança emitam alerta
 
-??? abstract "Tabela 31 - História de Usuário [Título da US29]"
+??? abstract "Tabela 31 - Permitir que pessoas de confiança emitam alerta"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 31 - História de Usuário [Título da US29].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 31 - Permitir que pessoas de confiança emitam alerta.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US29               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US29               | Permitir que pessoas de confiança emitam alerta |
+    | Descrição              | Como um usuário do aplicativo, quero cadastrar pessoas de confiança que possam emitir alertas em meu nome, para garantir que ações possam ser tomadas mesmo que eu esteja impossibilitado.  |
+    | Critérios de Aceitação | - O usuário pode adicionar contatos (com nome, e-mail e telefone).   <br> - Cada pessoa de confiança deve confirmar sua autorização. <br> - A pessoa autorizada pode emitir alerta usando um código de autenticação ou login secundário.  <br> - O sistema deve registrar quem realizou o disparo do alerta. |
+    | Rastreabilidade        | [ADD04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
     </center>
 
 <a id="us30"></a>
-### US30 - [Título da US30]
+### US30 - Gerar número de protocolo
 
-??? abstract "Tabela 32 - História de Usuário [Título da US30]"
+??? abstract "Tabela 32 - Gerar número de protocolo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 32 - História de Usuário [Título da US30].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 32 - Gerar número de protocolo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US30               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US30               | Gerar número de protocolo |
+    | Descrição              | Como um usuário que emitiu um alerta, quero receber um número de protocolo exclusivo após a emissão, para usar como referência com autoridades ou parceiros.  |
+    | Critérios de Aceitação | - Após o envio do alerta, o sistema gera e exibe um número de protocolo único. <br> - O protocolo deve ser enviado também por e-mail e armazenado no histórico de alertas.  <br> - O número deve conter informações rastreáveis (ex: data, hora, tipo de bloqueio). |
+    | Rastreabilidade        | [ADD07](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
+    | Prioridade             | Média |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz).</p></font>
 
     </center>
 
@@ -766,12 +766,12 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <p style="text-align: center">Entrevista 5</p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnnAO72y6zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/nnnAO72y6zA" target="blanket">clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
 
 ---
 
@@ -1099,3 +1099,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.5 | 31/05/2025 | Criação dos US 00 a 06 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
 | 1.6 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
 | 1.7 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+| 1.8 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
