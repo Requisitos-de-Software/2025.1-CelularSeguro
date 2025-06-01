@@ -41,6 +41,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us00"></a>
 ### US00 - Cadastro de múltiplos celulares
 
 ??? abstract "Tabela 3 - História de Usuário [Cadastro de múltiplos celulares]"
@@ -63,6 +64,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us01"></a>
 ### US01 - Confirmação visual após ações
 
 ??? abstract "Tabela 4 - História de Usuário [Confirmação visual após ações]"
@@ -85,6 +87,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us02"></a>
 ### US02 - Notificação de atividade suspeita
 
 ??? abstract "Tabela 5 - História de Usuário [Notificação de atividade suspeita]"
@@ -107,6 +110,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us03"></a>
 ### US03 - SMS após ação remota
 
 ??? abstract "Tabela 6 - História de Usuário [SMS após ação remota]"
@@ -129,6 +133,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us04"></a>
 ### US04 - Registro de logs para auditoria
 
 ??? abstract "Tabela 7 - História de Usuário [Registro de logs para auditoria]"
@@ -151,6 +156,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us05"></a>
 ### US05 - Validação do número de celular
 
 ??? abstract "Tabela 8 - História de Usuário [Validação do número de celular]"
@@ -173,6 +179,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us06"></a>
 ### US06 - Buscar dispositivo pelo app
 
 ??? abstract "Tabela 9 - História de Usuário [Buscar dispositivo pelo app]"
@@ -206,7 +213,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite)</p></font>
 
-
+<a id="us07"></a>
 ### US07 -  Confirmar envio do boletim com protocolo visível
 
 ??? abstract "Tabela 9 - Confirmar envio do boletim com protocolo visível (Não implementado)"
@@ -227,7 +234,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
+<a id="us08"></a>
 ### US08 - Usuário Anexar arquivos ao boletim
 
 ??? abstract "Tabela 10 - Usuário Anexar arquivos ao boletim"
@@ -250,7 +257,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
+<a id="us09"></a>
 ### US09 -  Registrar boletim de ocorrência
 
 ??? abstract "Tabela 11 - Registrar boletim de ocorrência"
@@ -272,6 +279,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us10"></a>
 ### US10 - Validar campos obrigatórios do boletim
 
 ??? abstract "Tabela 12 - Validar campos obrigatórios do boletim"
@@ -294,6 +302,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us11"></a>
 ### US11 -  Exibir mensagem de erro em falha de envio
 
 ??? abstract "Tabela 12 - Exibir mensagem de erro em falha de envio"
@@ -314,7 +323,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
+<a id="us12"></a>
 ### US12 - Notificação de confirmação após envio do boletim
 
 ??? abstract "Notificação de confirmação após envio do boletim"
@@ -349,6 +358,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us13"></a>
 ### US13 - Redefinir a senha via e-mail **(Não Implementado)**
 
 ??? abstract "Tabela 15 - História de Usuário Redefinir a senha via e-mail"
@@ -369,6 +379,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us14"></a>
 ### US14 - Editar o seu perfil por uma aba que é disponibilizada no aplicativo **(Não Implementado)**
 
 ??? abstract "Tabela 16 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo"
@@ -389,8 +400,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-    
-
+<a id="us15"></a>
 ### US15 - Alterar a foto de perfil
 
 ??? abstract "Tabela 17 - História de Usuário Alterar a foto de perfil"
@@ -411,6 +421,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us16"></a>
 ### US16 - Registrar documentos
 
 ??? abstract "Tabela 18 - História de Usuário Registrar documentos"
@@ -431,6 +442,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us17"></a>
 ### US17 - Definir dispositivo seguro
 
 ??? abstract "Tabela 19 - História de Usuário Definir dispositivo seguro"
@@ -451,6 +463,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us18"></a>
 ### US18 - Fazer download do Termos de Uso do aplicativo
 
 ??? abstract "Tabela 20 - História de Usuário Fazer download do Termos de Uso do aplicativo"
@@ -484,6 +497,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us19"></a>
 ### US19 - Leitura do IMEI via câmera do celular
 
 ??? abstract "Tabela 21 - História de Usuário Leitura do IMEI via câmera do celular"
@@ -504,6 +518,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us20"></a>
 ### US20 - Concessão de permissão para leitura do IMEI pelo próprio dispositivo **(Não Implementado)**
 
 ??? abstract "Tabela 22 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo"
@@ -524,6 +539,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us21"></a>
 ### US21 - Guia de detalhes adicionais sobre consulta de celulares com restrições
 
 ??? abstract "Tabela 23 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições"
@@ -544,6 +560,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us22"></a>
 ### US22 - Consulta manual e direta do IMEI
 
 ??? abstract "Tabela 24 - História de Usuário Consulta manual e direta do IMEI"
@@ -564,6 +581,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us23"></a>
 ### US23 - Validações de erro claras e rápidas
 
 ??? abstract "Tabela 25 - História de Usuário Validações de erro claras e rápidas"
@@ -584,6 +602,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us24"></a>
 ### US24 - Interface clara com instruções para realização das etapas de consulta
 
 ??? abstract "Tabela 26 - História de Usuário Interface clara com instruções para realização das etapas de consulta"
@@ -617,6 +636,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us25"></a>
 ### US25 - [Título da US25]
 
 ??? abstract "Tabela 27 - História de Usuário [Título da US25]"
@@ -637,6 +657,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us26"></a>
 ### US26 - [Título da US26]
 
 ??? abstract "Tabela 28 - História de Usuário [Título da US26]"
@@ -657,6 +678,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us27"></a>
 ### US27 - [Título da US27]
 
 ??? abstract "Tabela 29 - História de Usuário [Título da US27]"
@@ -677,6 +699,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us28"></a>
 ### US28 - [Título da US28]
 
 ??? abstract "Tabela 30 - História de Usuário [Título da US28]"
@@ -697,6 +720,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us29"></a>
 ### US29 - [Título da US29]
 
 ??? abstract "Tabela 31 - História de Usuário [Título da US29]"
@@ -717,6 +741,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us30"></a>
 ### US30 - [Título da US30]
 
 ??? abstract "Tabela 32 - História de Usuário [Título da US30]"
@@ -750,6 +775,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us31"></a>
 ### US31 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança (não implementado)
 
 ??? abstract "Tabela 33 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança. (não implementado)"
@@ -770,6 +796,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us32"></a>
 ### US32 - Cadastrar contatos com base nos números já existentes no celular (não implementado)
 
 ??? abstract "Tabela 34 - Cadastrar contatos com base nos números já existentes no celular (não implementado)"
@@ -790,6 +817,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us33"></a>
 ### US33 - Cadastrar manualmente uma nova Pessoa de Confiança
 
 ??? abstract "Tabela 35 - Cadastrar manualmente uma nova Pessoa de Confiança"
@@ -810,6 +838,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us34"></a>
 ### US34 - Visualizar lista de Pessoas de Confiança cadastradas
 
 ??? abstract "Tabela 36 - Visualizar lista de Pessoas de Confiança cadastradas"
@@ -830,6 +859,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us35"></a>
 ### US35 - Pesquisar uma Pessoa de Confiança específica na lista
 
 ??? abstract "Tabela 37 - Pesquisar uma Pessoa de Confiança específica na lista"
@@ -850,6 +880,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us36"></a>
 ### US36 - Remover uma Pessoa de Confiança da lista
 
 ??? abstract "Tabela 38 - Remover uma Pessoa de Confiança da lista"
@@ -883,7 +914,9 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+<a id="us37"></a>
 ### US37 - Localizar o dispositivo em tempo real
+
 
 ??? abstract "Tabela 39 - Localizar o dispositivo em tempo real"
 
@@ -903,7 +936,10 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+
+<a id="us38"></a>
 ### US38 - Fazer o dispositivo emitir som
+
 
 ??? abstract "Tabela 40 - Fazer o dispositivo emitir som"
 
@@ -923,7 +959,10 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+
+<a id="us39"></a>
 ### US39 - Bloquear dispositivo
+
 
 ??? abstract "Tabela 41 - Bloquear dispositivo"
 
@@ -943,7 +982,9 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+<a id="us40"></a>
 ### US40 - Redefinir dispositivo para padrões de fábrica
+
 
 ??? abstract "Tabela 42 - Redefinir dispositivo para padrões de fábrica"
 
@@ -963,7 +1004,10 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+
+<a id="us41"></a>
 ### US41 - Deslogar contas de aplicativos selecionados previamente.
+
 
 ??? abstract "Tabela 43 - Deslogar contas de aplicativos selecionados previamente."
 
@@ -983,7 +1027,10 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
+
+<a id="us42"></a>
 ### US42 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail
+
 
 ??? abstract "Tabela 44 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail"
 
