@@ -185,11 +185,14 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
+---
+
 As tabelas 5 e 6 descrevem, respectivamente, o RNF de manter o layout da tela de Perfil consistente com o restante do app e o RNF de oferecer alto contraste e fonte ajustável, ambos priorizados para melhorar usabilidade e acessibilidade.
 
+<a id="rnf05"></a>
 <font size="3"><p style="text-align: center">Tabela 5: Cartão de Especificação (Perfil – Layout Consistente)</p></font>
 
-| Nº Requisito: 5 (RNF05)    | Classificação: Usabilidade, Aparência |
+| Nº Requisito: 5 (<a id="RNF05" href="#table09">RNF05</a>)    | Classificação: Usabilidade, Aparência |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Descrição:**             | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto. |
 | **Justificativa:**         | Usar o mesmo padrão em todas as telas faz com que o usuário saiba onde estão as informações e botões, evitando confusão e facilitando o uso. |
@@ -203,11 +206,10 @@ As tabelas 5 e 6 descrevem, respectivamente, o RNF de manter o layout da tela de
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
----
-
+<a id="rnf06"></a>
 <font size="3"><p style="text-align: center">Tabela 6: Cartão de Especificação (Perfil – Alto Contraste e Fonte Ajustável)</p></font>
 
-| Nº Requisito: 6 (RNF06)    | Classificação: Acessibilidade, Legibilidade |
+| Nº Requisito: 6 (<a id="RNF06" href="#table09">RNF06</a>)    | Classificação: Acessibilidade, Legibilidade |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Descrição:**             | A tela de Perfil deve oferecer opção de alto contraste e permitir aumentar ou reduzir o tamanho da fonte. |
 | **Justificativa:**         | Isso ajuda quem tem dificuldade para enxergar letras pequenas ou usar o aplicativo em ambientes muito claros ou muito escuros. |
@@ -285,19 +287,17 @@ A Tabela 8 a seguir lista os Requisitos Não-Funcionais utilizados para o desenv
 
 ---
 
-A Tabela 9 lista os Requisitos Não-Funcionais elicitados pelo NFR Framework.
+A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
 
-obs cada integrante complete a tabela com o seus requisitos
+<a id="table09"></a>
+<p style="text-align: center"><b>Tabela 9</b> - Requisitos Não-Funcionais (Tela de Perfil)</p>
 
-<p style="text-align: center"><b>Tabela 9</b> - Requisitos Não-Funcionais</p>
+| ID                                           | Descrição                                                                                                                                            | Rastreabilidade                                                                                                                                                                                          | Implementação |
+| :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| <a id="RNF05" href="#rnf05">RNF05</a> | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo (posição de título, espaçamento, cores e tamanho de texto). | [BS38](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) “Layout consistente seguindo heurísticas de Nielsen”       | Não           |
+| <a id="RNF06" href="#rnf06">RNF06</a> | A tela de Perfil deve oferecer opção de alto contraste e permitir aumentar ou reduzir o tamanho da fonte.                                            | [BS43](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) “Opção de contraste de cores e ajuste de tamanho de fonte” | Não           |
 
-|  ID  | Descrição |
-|------|---------|
-|NFR03| Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção |
-|NFR04| O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.|
-
-
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
 ---
 
