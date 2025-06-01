@@ -171,127 +171,136 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-### US07 - [Título da US07]
+### US07 -  Confirmar envio do boletim com protocolo visível
 
-??? abstract "Tabela 9 - História de Usuário [Título da US07]"
-
-    <center>
-
-    <font size="3"><p style="text-align: center">Tabela 9 - História de Usuário [Título da US07].</p></font>
-
-    | **ID**                 | **Nome** |
-    | :--------------------- | :-------- |
-    | US07               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
-
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-    </center>
-
-### US08 - [Título da US08]
-
-??? abstract "Tabela 10 - História de Usuário [Título da US08]"
+??? abstract "Tabela 9 - Confirmar envio do boletim com protocolo visível (Não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 10 - História de Usuário [Título da US08].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 9 - Confirmar envio do boletim com protocolo visível.</p></font>
 
-    | **ID**                 | **Nome** |
+    |    **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US08               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US01                   | Confirmar envio do boletim com protocolo visível |
+    | **Descrição**          | Eu, como usuário, desejo visualizar uma confirmação clara e acessível com o  número de protocolo após o envio do boletim, para garantir que ele foi registrado corretamente. |
+    | **Critérios de Aceitação** | - Após o envio bem-sucedido, o número de protocolo deve ser exibido em   destaque por no mínimo 10 segundos. <br> - Deve haver opção para copiar o número do protocolo. <br> - A   mensagem de confirmação deve utilizar linguagem clara e acessível. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS4</a>, <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS15</a>, <a href="../Questionario/">OBS20</a>|
+    | **Prioridade**         | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-    </center>
-
-### US09 - [Título da US09]
-
-??? abstract "Tabela 11 - História de Usuário [Título da US09]"
-
-    <center>
-
-    <font size="3"><p style="text-align: center">Tabela 11 - História de Usuário [Título da US09].</p></font>
-
-    | **ID**                 | **Nome** |
-    | :--------------------- | :-------- |
-    | US09               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
-
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-    </center>
-
-### US10 - [Título da US10]
-
-??? abstract "Tabela 12 - História de Usuário [Título da US10]"
-
-    <center>
-
-    <font size="3"><p style="text-align: center">Tabela 12 - História de Usuário [Título da US10].</p></font>
-
-    | **ID**                 | **Nome** |
-    | :--------------------- | :-------- |
-    | US10               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
-
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-    </center>
-
-### US11 - [Título da US11]
-
-??? abstract "Tabela 13 - História de Usuário [Título da US11]"
-
-    <center>
-
-    <font size="3"><p style="text-align: center">Tabela 13 - História de Usuário [Título da US11].</p></font>
-
-    | **ID**                 | **Nome** |
-    | :--------------------- | :-------- |
-    | US11               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
-
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
-
-    </center>
-
-### US12 - [Título da US12]
-
-??? abstract "Tabela 14 - História de Usuário [Título da US12]"
-
-    <center>
-
-    <font size="3"><p style="text-align: center">Tabela 14 - História de Usuário [Título da US12].</p></font>
-
-    | **ID**                 | **Nome** |
-    | :--------------------- | :-------- |
-    | US12               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
-
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
 
     </center>
 
 
+### US08 - Usuário Anexar arquivos ao boletim
+
+??? abstract "Tabela 10 - Usuário Anexar arquivos ao boletim"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 10 - Usuário Anexar arquivos ao boletim.</p></font>
+
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US02                   | Anexar arquivos ao boletim |
+    | **Descrição**          | Eu, como usuário, desejo anexar arquivos como imagens ou documentos ao boletim para fornecer provas adicionais do roubo. |
+    | **Critérios de Aceitação** | - O sistema deve aceitar arquivos JPG, PNG e PDF. <br> - O tamanho máximo permitido por arquivo deve ser 10 MB. <br> - Arquivos fora dos padrões devem gerar mensagem de erro    clara. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS19</a>|
+    | **Prioridade**         | Média |
+
+
+    <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
+    </center>
+
+
+### US09 -  Registrar boletim de ocorrência
+
+??? abstract "Tabela 11 - Registrar boletim de ocorrência"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 11 -  Registrar boletim de ocorrência.</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US03                   | Registrar boletim de ocorrência |
+    | **Descrição**          | Eu, como usuário, desejo registrar um boletim de ocorrência pelo aplicativo para formalizar o roubo do meu celular de forma rápida e prática. |
+    | **Critérios de Aceitação** | - O sistema deve disponibilizar um formulário com campos para dados do roubo. <br> - O botão “Registrar Boletim” deve estar acessível após o login com gov.br. <br> - Após o envio, o boletim deve ser processado pelo sistema. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS2</a>, <a href="../Questionario/">OBS8</a>|
+    | **Prioridade**         | Alta |
+
+    <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
+
+    </center>
+
+### US10 - Validar campos obrigatórios do boletim
+
+??? abstract "Tabela 12 - Validar campos obrigatórios do boletim"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 12 - Validar campos obrigatórios do boletim.</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US04                   | Validar campos obrigatórios do boletim |
+    | **Descrição**          | Eu, como usuário, desejo ser impedido de enviar o boletim se campos obrigatórios não forem preenchidos, para garantir que as informações estejam completas. |
+    | **Critérios de Aceitação** | - O sistema deve identificar campos obrigatórios não preenchidos. <br> - O botão de envio deve ser desabilitado ou gerar aviso se houver campos faltando. <br> - A mensagem de erro deve informar quais campos precisam ser preenchidos. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS2</a>, <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS19</a>|
+    |    **Prioridade**         | Alta |
+
+    <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
+
+
+    </center>
+
+### US11 -  Exibir mensagem de erro em falha de envio
+
+??? abstract "Tabela 12 - Exibir mensagem de erro em falha de envio"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 12 - Exibir mensagem de erro em falha de envio.</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US05                   | Exibir mensagem de erro em falha de envio |
+    | **Descrição**          | Eu, como usuário, desejo ver uma mensagem clara e amigável quando o sistema não conseguir registrar o boletim, para entender o problema e tentar novamente mais tarde. |
+    | **Critérios de Aceitação** | - Em caso de falha no servidor, o sistema deve exibir mensagem amigável ao usuário. <br> - A mensagem deve informar que houve uma falha no envio e sugerir nova tentativa. <br> - A interface não deve fechar ou apagar os dados preenchidos. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS19</a>, <a href="../Questionario/">OBS20</a>|
+    | **Prioridade**         | Média |
+
+    <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
+    </center>
+
+
+### US12 - Notificação de confirmação após envio do boletim
+
+??? abstract "Notificação de confirmação após envio do boletim"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 14 - Notificação de confirmação após envio do boletim.</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US06                   | Notificação de confirmação após envio do boletim |
+    | **Descrição**          | Eu, como usuário, desejo receber uma notificação no celular confirmando que o boletim foi enviado, mesmo se o app for fechado, para ter certeza de que o registro foi concluído. |
+    | **Critérios de Aceitação** | - O sistema deve enviar uma notificação local confirmando o envio do boletim. <br> - A notificação deve incluir o número de protocolo. <br> - A notificação deve persistir até que o usuário interaja com ela. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS4</a>, <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS15</a>, <a href="../Questionario/">OBS20</a>|
+    | **Prioridade**         | Média |
+
+    <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
+
+    </center>
+
+---
 <p style="text-align: center">Entrevista 2</p>
 
 <center>
