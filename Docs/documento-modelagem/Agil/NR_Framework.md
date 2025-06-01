@@ -118,70 +118,74 @@ Aliada a essa especificação de trabalho de cada integrante, separamos pelas re
 Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks. 
 
 
-<font size="3"><p style="text-align: center">Tabela 1: Cartão de Especificação 1</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Cartão de Especificação (Boletim de ocorrência - Usabilidade)</p></font>
 
 | Campo               | RNF01                                                                                                   |
 |---------------------|--------------------------------------------------------------------------------------------------------|
-| Nº Requisito        | RNF01                                                                                                  |
-| Classificação       | Usabilidade                                                                                            |
-| Descrição           | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos. |
-| Justificativa       | Garantir que o usuário compreenda que o boletim foi enviado com sucesso e que possa anotar ou copiar o número de protocolo sem pressa, melhorando a experiência e a confiança no sistema. |
-| Origem do Requisito | Entrevista com usuário (Arthur)                                                                        |
-| Critério de Aceitação | Após o envio do boletim, o número de protocolo deve ser exibido em destaque, com opção de cópia e visibilidade mínima de 10 segundos. |
-| Dependências        | Envio bem-sucedido do boletim de ocorrência                                                           |
-| Prioridade          | Alta (4,2)                                                                                            |
-| Conflitos           | Nenhum                                                                                                |
-| História            | -    
+| **Nº Requisito:**        | 1                                                                                                  |
+| **Classificação:**       | Usabilidade                                                                                            |
+| **Descrição:**           | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos. |
+| **Justificativa:**       | Garantir que o usuário compreenda que o boletim foi enviado com sucesso e que possa anotar ou copiar o número de protocolo sem pressa, melhorando a experiência e a confiança no sistema. |
+| **Origem do Requisito:** | Entrevista com usuário (Arthur)                                                                        |
+| **Critério de Aceitação:** | Após o envio do boletim, o número de protocolo deve ser exibido em destaque, com opção de cópia e visibilidade mínima de 10 segundos. |
+| **Dependências:**        | Envio bem-sucedido do boletim de ocorrência                                                           |
+| **Prioridade:**          | Alta (4,2)                                                                                            |
+| **Conflitos:**           | Nenhum                                                                                                |
+| **História:**            | -    
 
 
 
-<font size="3"><p style="text-align: center">Tabela 2: Cartão de Especificação 2</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Cartão de Especificação (Boletim de ocorrência - Desempenho e Confiabilidade)</p></font>
 
 | Campo               | RNF02                                                                                                   |
 |---------------------|--------------------------------------------------------------------------------------------------------|
-| Nº Requisito        | RNF02                                                                                                  |
-| Classificação       | Desempenho / Confiabilidade                                                                             |
-| Descrição           | O sistema deve permitir o envio de anexos com limite máximo de 10 MB por arquivo, aceitando os formatos JPG, PNG e PDF. |
-| Justificativa       | Evitar sobrecarga no sistema e garantir que os arquivos anexados sejam compatíveis e leves o suficiente para envio eficiente e seguro. |
-| Origem do Requisito | Entrevista com usuário (Arthur) e análise técnica                                                      |
-| Critério de Aceitação | O sistema deve bloquear arquivos que ultrapassem o limite ou estejam em formato não aceito, exibindo mensagem clara e impedindo o envio. |
-| Dependências        | Funcionalidade de envio de boletim com anexos                                                          |
-| Prioridade          | Média (3,8)                                                                                            |
-| Conflitos           | Nenhum                                                                                                |
-| História            | -   
+| **Nº Requisito:**         | 2                                                                                                  |
+| **Classificação:**        | Desempenho / Confiabilidade                                                                             |
+| **Descrição:**            | O sistema deve permitir o envio de anexos com limite máximo de 10 MB por arquivo, aceitando os formatos JPG, PNG e PDF. |
+| **Justificativa:**        | Evitar sobrecarga no sistema e garantir que os arquivos anexados sejam compatíveis e leves o suficiente para envio eficiente e seguro. |
+| **Origem do Requisito:**  | Entrevista com usuário (Arthur) e análise técnica                                                      |
+| **Critério de Aceitação:** | O sistema deve bloquear arquivos que ultrapassem o limite ou estejam em formato não aceito, exibindo mensagem clara e impedindo o envio. |
+| **Dependências:**         | Funcionalidade de envio de boletim com anexos                                                          |
+| **Prioridade:**           | Média                                                                                            |
+| **Conflitos:**            | Nenhum                                                                                                |
+| **História:**             | -   
 
 
 
 As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confiança. Critério do QFD para a criterização da prioridade, aliada os RNFs obtidos do questionário.
 
-<font size="3"><p style="text-align: center">Tabela 3: Cartão de Especificação 3</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Cartão de Especificação (Pessoa de confiança - Funcionalidade)</p></font>
 
-| Nº Requisito: 3 (<a id="anchor_RF03" href="#RF03">RF03</a>)| Classificação: Funcional |
-|---------------| ------------|
-| Descrição: Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção (ex: um ícone de lixeira, um menu de opções ao manter pressionado). |
-| Justificativa: Permitir que o usuário mantenha sua lista de Pessoas de Confiança atualizada e relevante, removendo contatos que não são mais desejados ou apropriados para essa função, assegurando que apenas as pessoas corretas permaneçam com esse status. |
-| Origem do Requisito: Definição da Funcionalidade 'Gerenciar Pessoas de Confiança' / User Story US36 |
-| Critério de Aceitação: Para cada contato exibido na lista de Pessoas de Confiança, uma opção de remoção (ex: ícone de lixeira ou item em menu de contexto) deve estar acessível. Ao ser acionada, o sistema deve solicitar confirmação ao usuário e, se confirmada, o contato deve ser removido permanentemente do sistema e a lista atualizada. |
-| Dependências: Pessoas já cadastradas na lista de confiança |
-| Prioridade: Alta (4.1) |
-| Conflitos: Nenhum conflito direto identificado. O risco de remoção acidental deve ser mitigado pela etapa de confirmação. |
-| História: US36 |
+| Campo               | RNF03                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Nº Requisito:**          | 3                                                                                                 |
+| **Classificação:**         | Funcionalidade                                                                       |
+| **Descrição:** | Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção (ex: um ícone de lixeira, um menu de opções ao manter pressionado). |
+| **Justificativa:** | Permitir que o usuário mantenha sua lista de Pessoas de Confiança atualizada e relevante, removendo contatos que não são mais desejados ou apropriados para essa função, assegurando que apenas as pessoas corretas permaneçam com esse status. |
+| **Origem do Requisito:** | Definição da Funcionalidade 'Gerenciar Pessoas de Confiança' / User Story US36 |
+| **Critério de Aceitação:** | Para cada contato exibido na lista de Pessoas de Confiança, uma opção de remoção (ex: ícone de lixeira ou item em menu de contexto) deve estar acessível. Ao ser acionada, o sistema deve solicitar confirmação ao usuário e, se confirmada, o contato deve ser removido permanentemente do sistema e a lista atualizada. |
+| **Dependências:** | Pessoas já cadastradas na lista de confiança |
+| **Prioridade:** | Alta  |
+| **Conflitos:** | Nenhum conflito direto identificado. O risco de remoção acidental deve ser mitigado pela etapa de confirmação. |
+| **História:** | US36 |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 4: Cartão de Especificação 4</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Cartão de Especificação (Acessibilidade - Dark Mode)</p></font>
 
-| Nº Requisito: 4 (<a id="anchor_RNF04" href="#RNF04">RNF04</a>)| Classificação: Usabilidade, Acessibilidade e Funcionalidade |
-|---------------| ------------|
-| Descrição: O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.
-| Justificativa:  Proporcionar uma melhor experiência de uso em ambientes com pouca luminosidade, reduzir o cansaço visual, atender às preferências de uma parcela de usuário, mesmo que esse requisito tenha sido verificado apenas para a funcionalidade: Registrar pessoa de confiança, tal requisito se extende ou sistema completo.
-| Origem do Requisisto: [RNF05 Questionario](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)
-| Critério de Aceitação: O aplicativo deve possuir uma opção nas configurações que permita ao usuário alternar entre o tema claro (padrão) e o modo escuro. Todos os textos, ícones e elementos interativos devem manter boa legibilidade e contraste adequado no modo escuro, conforme as diretrizes de acessibilidade (ex: WCAG AA). A transição entre os modos deve ser suave e todas as telas do aplicativo devem ser compatíveis.
-| Dependências: Definição da paleta de cores para o modo claro e escuro.
-| Prioridade: Baixa (2.8)
-| Conflitos: Nenhum
-| História: -
+| Campo               | RNF04                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Nº Requisito:**          | 4                                                                                                 |
+| **Classificação:**         | Usabilidade / Acessibilidade / Funcionalidade                                                                        |
+| **Descrição:** | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.|
+| **Justificativa:** |  Proporcionar uma melhor experiência de uso em ambientes com pouca luminosidade, reduzir o cansaço visual, atender às preferências de uma parcela de usuário, mesmo que esse requisito tenha sido verificado apenas para a funcionalidade: Registrar pessoa de confiança, tal requisito se extende ou sistema completo.|
+| **Origem do Requisisto:** | [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)|
+| **Critério de Aceitação:** | O aplicativo deve possuir uma opção nas configurações que permita ao usuário alternar entre o tema claro (padrão) e o modo escuro. Todos os textos, ícones e elementos interativos devem manter boa legibilidade e contraste adequado no modo escuro, conforme as diretrizes de acessibilidade (ex: WCAG AA). A transição entre os modos deve ser suave e todas as telas do aplicativo devem ser compatíveis.|
+| **Dependências:** | Definição da paleta de cores para o modo claro e escuro. |
+| **Prioridade:** | Baixa                                                                                 |
+| **Conflitos:** | Nenhum                           |
+| **História:** | - |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -189,36 +193,39 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 
 As tabelas 5 e 6 descrevem, respectivamente, o RNF de manter o layout da tela de Perfil consistente com o restante do app e o RNF de oferecer alto contraste e fonte ajustável, ambos priorizados para melhorar usabilidade e acessibilidade.
 
-<a id="rnf05"></a>
 <font size="3"><p style="text-align: center">Tabela 5: Cartão de Especificação (Perfil – Layout Consistente)</p></font>
 
-| Nº Requisito: 5 (<a id="RNF05" href="#table09">RNF05</a>)    | Classificação: Usabilidade, Aparência |
-| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Campo               | RNF05                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Nº Requisito:**          | 5                                                                                                 |
+| **Classificação:**         | Usabilidade / Aparência                                                                          |
 | **Descrição:**             | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto. |
 | **Justificativa:**         | Usar o mesmo padrão em todas as telas faz com que o usuário saiba onde estão as informações e botões, evitando confusão e facilitando o uso. |
-| **Origem:**                | Brainstorming ([BS38](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) ) – “Layout consistente seguindo heurísticas de Nielsen” |
+| **Origem:**                | [BS38](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) |
 | **Critério de Aceitação:** | 1. O título “Perfil” aparece com a mesma fonte e cor que os títulos de outras páginas.<br>2. Foto, nome, e-mail e botão “Editar Perfil gov.br” ocupam posições semelhantes às de outras telas.<br>3. Botões na tela de Perfil têm aparência e comportamento iguais aos da Home e Configurações (mesma cor e feedback ao clicar).<br>4. Espaços entre elementos seguem o guia de estilo do aplicativo (distâncias iguais às de outras telas). |
 | **Dependências:**          | Guia de estilo do app (cores, fontes, espaçamentos) aprovado pela equipe de design. |
-| **Prioridade:**            | Média (3,5) |
+| **Prioridade:**            | Média  |
 | **Conflitos:**             | Se for necessário adicionar novos elementos (gráficos, listas), será preciso ajustar o layout sem perder a consistência. |
-| **História:**              | <a href="../Historias_de_usuario#us14">US14</a> – “Eu, como usuário, desejo acessar uma aba ‘Perfil’ para editar meus dados pessoais sem sair do aplicativo.” |
+| **História:**              | <a href="../Historias_de_usuario#us14">US14</a>  |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
-<a id="rnf06"></a>
+
 <font size="3"><p style="text-align: center">Tabela 6: Cartão de Especificação (Perfil – Alto Contraste e Fonte Ajustável)</p></font>
 
-| Nº Requisito: 6 (<a id="RNF06" href="#table09">RNF06</a>)    | Classificação: Acessibilidade, Legibilidade |
-| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Campo               | RNF06                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Nº Requisito:**       | 6                                                                                                 |
+| **Classificação:**       | Acessibilidade / Legibilidade                                                                          |
 | **Descrição:**             | A tela de Perfil deve oferecer opção de alto contraste e permitir aumentar ou reduzir o tamanho da fonte. |
 | **Justificativa:**         | Isso ajuda quem tem dificuldade para enxergar letras pequenas ou usar o aplicativo em ambientes muito claros ou muito escuros. |
-| **Origem:**                | Brainstorming ([BS43](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) ) – “Opção de contraste de cores e ajuste de tamanho de fonte” |
+| **Origem:**                | [BS43](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) |
 | **Critério de Aceitação:** | 1. Nas configurações, o usuário escolhe “Contraste Padrão” ou “Alto Contraste” e, imediatamente, a tela de Perfil muda as cores.<br>2. Nas configurações, o usuário escolhe “Fonte Pequena”, “Fonte Média” ou “Fonte Grande” e o texto do Perfil (nome, e-mail, botões) muda sem cortar nada.<br>3. No modo “Alto Contraste”, o texto e o fundo na tela de Perfil têm cores claramente diferentes para facilitar a leitura.<br>4. Ao mudar contraste ou fonte, a tela de Perfil atualiza em até 0,2 segundos, sem precisar fechar o aplicativo. |
 | **Dependências:**          | Guia de cores para “Alto Contraste” e opções de tamanho de fonte definidas no guia de estilo. |
-| **Prioridade:**            | Baixa (2,7) |
+| **Prioridade:**            | Baixa |
 | **Conflitos:**             | Se alguns ícones não tiverem versão para alto contraste, será necessário trocar esses ícones. Ajustar fonte para “Grande” pode exigir mais espaço na tela. |
-| **História:**              | <a href="../Historias_de_usuario#us14">US14</a> – “Eu, como usuário, desejo acessar uma aba ‘Perfil’ para editar meus dados pessoais sem sair do aplicativo.” |
+| **História:**              | <a href="../Historias_de_usuario#us14">US14</a>  |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
@@ -227,54 +234,56 @@ As tabelas 5 e 6 descrevem, respectivamente, o RNF de manter o layout da tela de
 
 As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e segurança no menu "Registrar Telefone", com foco em interface intuitiva e criptografia dos dados, priorizados para garantir uma experiência confiável ao usuário.
 
-<a id="rnf07"></a>
+
 <font size="3"><p style="text-align: center">Tabela 7: Cartão de Especificação (Registrar Celular – Acessibilidade e Estrutras Claras)</p></font>
 
 
 | Campo               | RNF07                                                                                                   |
 |---------------------|--------------------------------------------------------------------------------------------------------|
-| Nº Requisito: 7 (<a id="RNF07" href="#table09">RNF07</a>)      | RNF07                                                                                                  |
-| Classificação       | Usabilidade / Acessibilidade                                                                           |
-| Descrição           | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, como adicionar, editar ou remover um número , com a ideia principal focada no tempo de resposta para o usuário. |
-| Justificativa       | Facilitar o uso da funcionalidade por usuários de diferentes perfis (inclusive idosos e pessoas sob estresse), reduzindo ambiguidade visual,  evitando erros de uso ao registrar o telefone e ajustando o tempo de resposta visual mais criterioso. |
-| Origem do Requisito | [Brainstorming - BS36](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais) |
-| Critério de Aceitação | O usuário deve conseguir realizar o cadastro ou exclusão de um telefone utilizando apenas os ícones e textos da interface, sem necessidade de tutorial, com confirmação visual imediata ao final de cada ação e com um tempo de resposta realtivamente bom ( entre 1.4 a 2.4 milesegundos). |
-| Dependências        | Tela de Registro de Telefone; Interface gráfica consistente                                             |
-| Prioridade          | Alta (4.3)                                                                                              |
-| Conflitos           | Nenhum identificado                                                                                     |
-| História            | [US01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us01---cadastro-de-múltiplos-celulares), [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) |
+| **Nº Requisito:**       | 7                                                                                                  |
+| **Classificação:**       | Usabilidade / Acessibilidade                                                                           |
+| **Descrição:**           | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, como adicionar, editar ou remover um número , com a ideia principal focada no tempo de resposta para o usuário. |
+| **Justificativa:**       | Facilitar o uso da funcionalidade por usuários de diferentes perfis (inclusive idosos e pessoas sob estresse), reduzindo ambiguidade visual,  evitando erros de uso ao registrar o telefone e ajustando o tempo de resposta visual mais criterioso. |
+| **Origem do Requisito:** | [BS36](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais) |
+| **Critério de Aceitação:** | O usuário deve conseguir realizar o cadastro ou exclusão de um telefone utilizando apenas os ícones e textos da interface, sem necessidade de tutorial, com confirmação visual imediata ao final de cada ação e com um tempo de resposta realtivamente bom ( entre 1.4 a 2.4 milesegundos). |
+| **Dependências:**        | Tela de Registro de Telefone; Interface gráfica consistente                                             |
+| **Prioridade:**          | Alta                                                                                               |
+| **Conflitos:**           | Nenhum identificado                                                                                     |
+| **História:**            | [US01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us01---cadastro-de-múltiplos-celulares), [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a></p></font>
 
 ---
-<a id="rnf08"></a>
+
 <font size="3"><p style="text-align: center">Tabela 8: Cartão de Especificação (Registrar Celular – Segurança e Criptografia)</p></font>
 
 | Campo               | RNF08                                                                                                   |
 |---------------------|--------------------------------------------------------------------------------------------------------|
-| Nº Requisito: 8 (<a id="RNF08" href="#table09">RNF08</a>) | RNF08                                                                                                  |
-| Classificação       | Segurança / Confiabilidade                                                                             |
-| Descrição           | O aplicativo deve garantir criptografia ponta-a-ponta (como AES-256) nos dados transmitidos e armazenados durante o processo de registro de telefone, incluindo o número, código de verificação e identificação do usuário. Nenhuma informação sensível deve ser transmitida em texto claro. |
-| Justificativa       | Proteger os dados pessoais e garantir que o número de telefone cadastrado e validado não seja interceptado ou alterado por terceiros, alinhando-se à LGPD e às boas práticas de segurança da informação. |
-| Origem do Requisito | [Análise de Documentos - ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/) |
-| Critério de Aceitação | Toda a comunicação relacionada ao registro de telefone deve utilizar protocolo HTTPS com TLS atualizado. As informações sensíveis devem ser criptografadas e não podem ser recuperadas por interceptação direta da rede. |
-| Dependências        | Integração com servidor seguro e sistema de autenticação                                               |
-| Prioridade          | Alta (4.6)                                                                                              |
-| Conflitos           | Nenhum                                                                                                  |
-| História            | [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) |
+| **Nº Requisito:**   | 8                                                                                                      |
+| **Classificação**   | Segurança / Confiabilidade                                                                             |
+| **Descrição**       | O aplicativo deve garantir criptografia ponta-a-ponta (como AES-256) nos dados transmitidos e armazenados durante o processo de registro de telefone, incluindo o número, código de verificação e identificação do usuário. Nenhuma informação sensível deve ser transmitida em texto claro. |
+| **Justificativa**       | Proteger os dados pessoais e garantir que o número de telefone cadastrado e validado não seja interceptado ou alterado por terceiros, alinhando-se à LGPD e às boas práticas de segurança da informação. |
+| **Origem do Requisito** | [ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/) |
+| **Critério de Aceitação** | Toda a comunicação relacionada ao registro de telefone deve utilizar protocolo HTTPS com TLS atualizado. As informações sensíveis devem ser criptografadas e não podem ser recuperadas por interceptação direta da rede. |
+| **Dependências**       | Integração com servidor seguro e sistema de autenticação                                               |
+| **Prioridade**       | Alta                                                                                             |
+| **Conflitos**       | Nenhum                                                                                                  |
+| **História**       | [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a></p></font>
 
 
 
-<a id="rnf06"></a>
+<a id="rnf09"></a>
 <font size="3"><p style="text-align: center">Tabela 9: Cartão de Especificação (Emitir alerta-Alerta e Bloqueio)</p></font>
 
-| Nº Requisito: 9 (<a id="RNF09" href="#table09">RNF09</a>)    | Classificação: Desempenho|
-| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Campo                      | RNF09                                         |
+| :------------------------- |                                                                  |
+| **Nº Requisito:**          | 9                                                                                                            |
+| **Classificação:**         | Desempenho                                                                                               |
 | **Descrição:**             | O sistema deve comunicar alertas aos parceiros com o menor tempo possível, idealmente de forma instantânea. Além disso, bloqueios de sistema ou ações de segurança devem ser efetuados em até 2 minutos após a detecção do evento. |
 | **Justificativa:**         | Em cenários críticos, como ameaças à segurança ou violação de dados, é essencial que o alerta seja comunicado imediatamente aos parceiros e que as ações preventivas (como bloqueios) ocorram em tempo adequado para mitigar riscos. |
-| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-naofuncionais-rnf)) |
+| **Origem:**                | [OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-naofuncionais-rnf) |
 | **Critério de Aceitação:** | 1. Alertas devem ser enviados em até 1 segundo após o evento.<br>2. Bloqueios devem ocorrer em até 2 minutos da detecção automática ou comando humano. |
 | **Dependências:**          | Detecção de evento, canal de comunicação ativo. |
 | **Prioridade:**            | Alta |
@@ -285,14 +294,15 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
 
 
-<a id="rnf06"></a>
 <font size="3"><p style="text-align: center">Tabela 10: Cartão de Especificação (Páginas-Tempo de Carregamento)</p></font>
 
-| Nº Requisito: 10 (<a id="RNF10" href="#table09">RNF010</a>)    | Classificação: Desempenho |
-| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Campo                      | RNF10                                         |
+| :------------------------- |                                                                  |
+| **Nº Requisito:**          | 10                                                                                                  |
+| **Classificação:**             | Desempenho                                                                                               |
 | **Descrição:**             | As páginas do sistema devem carregar completamente em até 2 segundos quando acessadas via conexão padrão 4G. |
 | **Justificativa:**         | Um tempo de carregamento rápido melhora a experiência do usuário, reduz abandono e é essencial em contextos móveis onde a responsividade é crítica. |
-| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais) ) |
+| **Origem:**                | [OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais)  |
 | **Critério de Aceitação:** | 1. Em testes com rede 4G padrão, 95% das páginas devem carregar em até 2 segundos. |
 | **Dependências:**          | Otimização de backend, compactação de conteúdo, rede 4G disponível |
 | **Prioridade:**            | Alta |
@@ -301,6 +311,41 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 
 
 <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 11: Cartão de Especificação (Localização - Precisão da localização)</p></font>
+
+| Campo               | RNF11                                                                                                  |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Nº Requisito:**   | 11                                                                                                  |
+| **Classificação:**  |  Usabilidade e Funcionalidade                                                                           |
+| **Descrição:**      |  O sistema deve fornecer informações de localização do dispositivo com alta precisão, garantindo que os dados exibidos representem fielmente o posicionamento real do dispositivo no mapa.  
+| **Justificativa:**  |  Garantir a precisão da localização é fundamental para que funcionalidades como rastrear, bloquear ou recuperar o dispositivo sejam eficazes. Isso contribui diretamente para a confiança do usuário no sistema, reduzindo frustrações causadas por erros de posicionamento e garantindo a usabilidade do serviço, especialmente em situações críticas, como perda ou roubo do dispositivo. |
+| **Origem do Requisito:**  |  [BS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais), [QS01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)   |
+| **Critério de Aceitação:**  |  O sistema deve utilizar fontes de localização de alta precisão, como GPS, Wi-Fi e redes móveis, combinadas quando necessário. A margem de erro aceitável deve ser inferior a 10 metros em ambientes externos e tão precisa quanto possível em ambientes internos. A localização deve ser atualizada em tempo real ou com atraso máximo de 5 segundos. Além disso, o sistema deve informar claramente ao usuário se a precisão da localização está comprometida no momento. |
+| **Dependências:**   |  Disponibilidade dos serviços de GPS, Wi-Fi e dados móveis no dispositivo e   Permissões de localização ativas no dispositivo. |
+| **Prioridade:**     |  Alta                                                                                            |
+| **Conflitos:**      |  Nenhum                                                                                                |
+| **História:**       |  01/06/2025                                                                                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 12: Cartão de Especificação (Localização- Segurança)</p></font>
+
+| Campo               | RNF12                                                                                                  |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Nº Requisito:**   | 12                                                                                                  |
+| **Classificação:**  |  Usabilidade e Funcionalidade                                                                           |
+| **Descrição:**      |  Os dados de localização do dispositivo devem ser protegidos contra acessos não autorizados, utilizando criptografia tanto na transmissão quanto no armazenamento. |
+| **Justificativa:**  | Informações de localização são altamente sensíveis, pois podem revelar a posição exata do usuário em tempo real. Proteger esses dados garante a privacidade, evita riscos de segurança pessoal e aumenta a confiança dos usuários no sistema. Além disso, estar em conformidade com leis de proteção de dados, como a LGPD, é essencial. |
+| **Origem do Requisito:**  |  [BS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais), [QS01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)   |
+| **Critério de Aceitação:**  | - Todos os dados de localização devem ser criptografados em trânsito (durante a comunicação entre cliente e servidor) e em repouso (armazenados no servidor). <br> - O acesso às informações de localização deve ser restrito apenas aos usuários autenticados e autorizados. <br> - Caso haja tentativa de acesso não autorizado, o sistema deve bloquear a tentativa e registrar um log de segurança. <br> - O sistema deve fornecer ao usuário opções para gerenciar as permissões de compartilhamento da sua localização. |
+| **Dependências:**   |  Implementação de protocolos de segurança e infraestrutura de backend compatível com armazenamento seguro (criptografia de banco de dados, gerenciamento de chaves). |
+| **Prioridade:**     |  Alta                                                                                            |
+| **Conflitos:**      |  Nenhum                                                                                                |
+| **História:**       |  01/06/2025                                                                                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
 
 ---
 
@@ -412,4 +457,5 @@ A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de P
 | 1.2    | 01/06/2025         | Adição de tabelas  | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
 | 1.3    | 01/06/2025         | Desenvolvimento do Softgoal Interdependency Graph  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
 | 1.4    | 01/06/2025         | Desenvolvimento das tabelas 7 e 8 do Cartão de especificação  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
+| 1.5    | 01/06/2025         | Desenvolvimento das tabelas 11 e 12 do Cartão de especificação e padronização  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>  |  <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 01/06/2025 |
 
