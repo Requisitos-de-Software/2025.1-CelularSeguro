@@ -223,6 +223,41 @@ As tabelas 5 e 6 descrevem, respectivamente, o RNF de manter o layout da tela de
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
+<a id="rnf06"></a>
+<font size="3"><p style="text-align: center">Tabela 7: Cartão de Especificação (Emitir alerta-Alerta e Bloqueio)</p></font>
+
+| Nº Requisito: 7 (<a id="RNF07" href="#table09">RNF07</a>)    | Classificação: Desempenho|
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:**             | O sistema deve comunicar alertas aos parceiros com o menor tempo possível, idealmente de forma instantânea. Além disso, bloqueios de sistema ou ações de segurança devem ser efetuados em até 2 minutos após a detecção do evento. |
+| **Justificativa:**         | Em cenários críticos, como ameaças à segurança ou violação de dados, é essencial que o alerta seja comunicado imediatamente aos parceiros e que as ações preventivas (como bloqueios) ocorram em tempo adequado para mitigar riscos. |
+| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-naofuncionais-rnf)) |
+| **Critério de Aceitação:** | 1. Alertas devem ser enviados em até 1 segundo após o evento.<br>2. Bloqueios devem ocorrer em até 2 minutos da detecção automática ou comando humano. |
+| **Dependências:**          | Detecção de evento, canal de comunicação ativo. |
+| **Prioridade:**            | Alta |
+| **Conflitos:**             | Potencial impacto em consumo de rede e uso de CPU |
+| **História:**              | 01/06/2025 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
+
+<a id="rnf06"></a>
+<font size="3"><p style="text-align: center">Tabela 8: Cartão de Especificação (Páginas-Tempo de Carregamento)</p></font>
+
+| Nº Requisito: 8 (<a id="RNF08" href="#table09">RNF08</a>)    | Classificação: Desempenho |
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:**             | As páginas do sistema devem carregar completamente em até 2 segundos quando acessadas via conexão padrão 4G. |
+| **Justificativa:**         | Um tempo de carregamento rápido melhora a experiência do usuário, reduz abandono e é essencial em contextos móveis onde a responsividade é crítica. |
+| **Origem:**                | Observação ([OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais) ) |
+| **Critério de Aceitação:** | 1. Em testes com rede 4G padrão, 95% das páginas devem carregar em até 2 segundos. |
+| **Dependências:**          | Otimização de backend, compactação de conteúdo, rede 4G disponível |
+| **Prioridade:**            | Alta |
+| **Conflitos:**             | Pode entrar em conflito com carregamento de recursos pesados (como gráficos) |
+| **História:**              | 01/06/2025 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
+
 ---
 
 ## NFR 0 - Geral
@@ -317,3 +352,4 @@ A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de P
 | 1.1    | 31/05/2025         | Desenvolvimento do Tópico Introdução, Metodologia, Carta de Especificação, NFR 0                            | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> e <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
 | 1.2    | 01/06/2025         | Adição de tabelas  | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
 | 1.3    | 01/06/2025         | Desenvolvimento do Softgoal Interdependency Graph  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
+| 1.4    | 01/06/2025         | Adição de Cartões de Especificação  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
