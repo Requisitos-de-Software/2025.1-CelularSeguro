@@ -368,7 +368,7 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 
 A Figura 1 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
 
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
 
 
 ![SIG GERAL](../../assets/nfr/geralL.png)
@@ -377,16 +377,39 @@ A Figura 1 a seguir demonstra o Softgoal Interdependency Graph para se ter uma v
 
 No entanto, como o foco é trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, conforme a figura 2:
 
-<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral Adaptado</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
 
 
-![SIG GERAL](../../assets/nfr/geralAdaptado.png)
+![SIG GERAL](../../assets/nfr/geralAdaptado.jpeg)
 
 <font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
+
+---
+
+Legendas:
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Legendas SIG </p></font>
+
+
+![SIG GERAL](../../assets/nfr/legendas.jpeg)
+
+<font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
+
+
 
 ## NFR 01 - Usabilidade
 
 Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabela 9:
+
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Legendas SIG </p></font>
+
+
+![SIG GERAL](../../assets/nfr/usabilidade.png)
+
+<font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
+
+
 
 ### Requisitos Não-Funcionais - Usabilidade
 
@@ -398,6 +421,16 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 ## NFR 02 - Confiabilidade
 
 
+
+
+A Figura 1 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Confiabilidade</p></font>
+
+
+![SIG GERAL](../../assets/nfr/confiabilidade.png)
+
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
 
 
@@ -437,6 +470,17 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 
 
 ## NFR 04 - Desempenho
+
+
+
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Legendas SIG </p></font>
+
+
+![SIG GERAL](../../assets/nfr/desempenho.png)
+
+<font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
+
 
 
 ### Requisitos Não-Funcionais - Desempenho
@@ -486,10 +530,10 @@ Fonte: [Arthur de Melo](https://github.com/zDrNz)
 
 ---
 
-## NFR 04 - Segurança
+## NFR 05 - Segurança
 
 
-### Requisitos Não-Funcionais - Segurança
+
 
 ### Requisitos Não-Funcionais - Segurança
 
