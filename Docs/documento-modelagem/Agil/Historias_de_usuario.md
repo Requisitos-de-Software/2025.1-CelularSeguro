@@ -304,6 +304,124 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
+### US13 - [Título da US13]
+
+??? abstract "Tabela 15 - História de Usuário [Título da US13]"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 15 - História de Usuário [Título da US13].</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US13               |  |
+    | Descrição              |  |
+    | Critérios de Aceitação |  |
+    | Rastreabilidade        |  |
+    | Prioridade             |  |
+
+    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+    </center>
+
+### US14 - [Título da US14]
+
+??? abstract "Tabela 16 - História de Usuário [Título da US14]"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 16 - História de Usuário [Título da US14].</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US14               |  |
+    | Descrição              |  |
+    | Critérios de Aceitação |  |
+    | Rastreabilidade        |  |
+    | Prioridade             |  |
+
+    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+    </center>
+
+### US15 - [Título da US15]
+
+??? abstract "Tabela 17 - História de Usuário [Título da US15]"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 17 - História de Usuário [Título da US15].</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US15               |  |
+    | Descrição              |  |
+    | Critérios de Aceitação |  |
+    | Rastreabilidade        |  |
+    | Prioridade             |  |
+
+    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+    </center>
+
+### US16 - [Título da US16]
+
+??? abstract "Tabela 18 - História de Usuário [Título da US16]"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 18 - História de Usuário [Título da US16].</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US16               |  |
+    | Descrição              |  |
+    | Critérios de Aceitação |  |
+    | Rastreabilidade        |  |
+    | Prioridade             |  |
+
+    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+    </center>
+
+### US17 - [Título da US17]
+
+??? abstract "Tabela 19 - História de Usuário [Título da US17]"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 19 - História de Usuário [Título da US17].</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US17               |  |
+    | Descrição              |  |
+    | Critérios de Aceitação |  |
+    | Rastreabilidade        |  |
+    | Prioridade             |  |
+
+    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+    </center>
+
+### US18 - [Título da US18]
+
+??? abstract "Tabela 20 - História de Usuário [Título da US18]"
+
+    <center>
+
+    <font size="3"><p style="text-align: center">Tabela 20 - História de Usuário [Título da US18].</p></font>
+
+    | **ID**                 | **Nome** |
+    | :--------------------- | :-------- |
+    | US18               |  |
+    | Descrição              |  |
+    | Critérios de Aceitação |  |
+    | Rastreabilidade        |  |
+    | Prioridade             |  |
+
+    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+=======
 ### US13 - Redefinir a senha via e-mail **(Não Implementado)**
 
 ??? abstract "Tabela 15 - História de Usuário Redefinir a senha via e-mail"
@@ -424,9 +542,22 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
+
     </center>
 
 
+
+<p style="text-align: center">Entrevista 3</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+
+=======
 <p style="text-align: center">Entrevista 3.1</p>
 
 <center>
@@ -446,6 +577,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <p style="text-align: center">Caso não abra <a href="https://youtu.be/A7ETUQPDKJc" target="blanket">clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font> 
+
 ---
 
 ### US19 - Leitura do IMEI via câmera do celular
@@ -1000,3 +1132,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.1 | 30/05/2025 | Criação do scopo da documentação US | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
 | 1.2 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
 | 1.3 | 31/05/2025 | Criação dos US 13 a 18 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+

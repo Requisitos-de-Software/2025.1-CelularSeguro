@@ -52,8 +52,8 @@ A legenda para cada sigla é a seguinte:
 
 | ID    | Descrição                                                                                              | Rastreabilidade                                      | Implementação |
 | ----- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------- |
-| RNF01 | O aplicativo deve apresentar menus com estrutura intuitiva, agrupando funcionalidades de forma lógica. | <a href="../Questionario/">Q17</a> | Parcialmente  |
-| RNF02 | O aplicativo deve permitir navegação intuitiva, com ferramentas e opções fáceis de localizar.          | <a href="../Questionario/">Q07</a> | Parcialmente  |
+| RNF01 | O aplicativo deve apresentar menus com estrutura intuitiva, agrupando funcionalidades de forma lógica. | <a href="../Questionario/">Q17</a> | Não  |
+| RNF02 | O aplicativo deve permitir navegação intuitiva, com ferramentas e opções fáceis de localizar.          | <a href="../Questionario/">Q07</a> | Não  |
 | RNF03 | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência.                  | <a href="../Questionario/">Q09</a> | Não           |
 | RNF04 | A interface deve ter design acessível a usuários com pouca familiaridade com tecnologia, como idosos.  | <a href="../Questionario/">Q19</a> | Não           |
 | RNF05 | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.                      | <a href="../Questionario/">Q09</a> | Não           |
