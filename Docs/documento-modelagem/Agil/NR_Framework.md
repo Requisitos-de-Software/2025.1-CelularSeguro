@@ -9,6 +9,88 @@ Este framework é utilizado neste trabalho para representar os requisitos não-f
 
 ---
 
+## Softgoal Interdependency Graph
+
+O **Softgoal Interdependency Graph (SIG)** é uma representação visual do funcionamento do NFR Framework. Ele serve para registrar graficamente o posicionamento da equipe de desenvolvimento em relação aos softgoals (objetivos não funcionais) e demonstrar, de forma clara, as interdependências entre eles.
+
+---
+
+### Tipos de Softgoal
+
+Para entender o SIG, é essencial compreender o que é um NFR Softgoal: trata-se de um objetivo que não possui critérios de satisfação claramente definidos. Em outras palavras, é uma meta abstrata, cuja realização é avaliada posteriormente.
+
+Esses softgoals podem assumir formas distintas:
+
+- **Softgoals NFR**: são metas genéricas como segurança, usabilidade ou desempenho.
+- **Softgoals de Operacionalização**: representam maneiras concretas de atingir um softgoal abstrato, podendo ser tratados como funcionalidades do sistema.
+- **Softgoals de Afirmação**: são declarações em linguagem natural que reforçam ou justificam determinadas decisões no modelo.
+
+A Figura 1 ilustra esses diferentes tipos de softgoal.
+
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
+<figure markdown class="usecaseElement">
+
+![TIPOS](../../assets/nfr/tipos.png){width: 300}
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
+
+---
+
+### Interdependências
+
+As interdependências representam as conexões entre os softgoals e podem ser divididas em duas categorias principais: **decomposições** e **contribuições**.
+
+#### Decomposições
+
+Decomposições são divisões de softgoals em partes menores, podendo ocorrer em todos os níveis: softgoals NFR, de operacionalização ou de afirmação. Elas ajudam a esclarecer objetivos e detalhar soluções. Existem quatro tipos principais:
+
+- **Decomposição NFR**: permite subdividir grandes metas em componentes mais simples e claros, facilitando a priorização.
+- **Decomposição de Operacionalização**: especifica uma solução genérica em soluções mais detalhadas.
+- **Decomposição de Afirmação**: reforça ou refuta argumentos utilizados no projeto.
+- **Decomposição de Priorização**: especial, pois refina um softgoal em outro de mesma natureza, atribuindo, porém, diferentes prioridades.
+
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Tipos de Decomposição</p></font>
+<figure markdown class="usecaseElement">
+
+![DECOMPOSIÇÃO](../../assets/nfr/decompL.png){width: 300}
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
+
+---
+
+#### Contribuições
+
+No modelo NFR, os softgoals podem influenciar outros — essa influência pode ser positiva ou negativa, total ou parcial. Os principais tipos de contribuição são:
+
+- **AND**: todos os sub-softgoals precisam ser satisfeitos para que o objetivo principal seja alcançado.
+- **OR**: basta que um dos sub-softgoals seja satisfeito.
+- **MAKE (++)**: contribuição fortemente positiva.
+- **BREAK (--)**: contribuição fortemente negativa.
+- **HELP (+)**: contribuição positiva parcial.
+- **HURT (-)**: contribuição negativa parcial.
+- **UNKNOWN (?)**: o tipo de contribuição é desconhecido.
+- **EQUALS**: existe uma equivalência entre a satisfação dos softgoals.
+- **SOME**: sabe-se a direção da contribuição, mas não sua intensidade.
+
+---
+
+### Propagação de Impactos
+
+A propagação de impactos diz respeito à forma como alterações em um softgoal podem influenciar outros requisitos não funcionais interligados. Compreender essas relações é crucial para avaliar prioridades, resolver conflitos e tomar decisões mais embasadas.
+
+Os impactos podem ser representados por:
+
+- **✓ (satisfeito)**: contribuição positiva direta.
+- **𝒲+ (fracamente satisfeito)**: impacto positivo, mas com menor intensidade.
+- **X (negado)**: impacto negativo que inviabiliza outro requisito.
+- **𝒲- (fracamente negado)**: impacto negativo moderado.
+- **🗲 (conflitante)**: existe um conflito entre os objetivos, com efeitos positivos e negativos simultâneos.
+- **u (indeterminado)**: não há informações suficientes para avaliar o impacto.
+
+---
+
 ## Metodologia
 
 Cada integrante do projeto obteve dois requisitos não-funcionais obtido através das técnicas de [priorização](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/introducao) e validados com um usuário do aplicativo, onde cada integrante fez de forma remota ou presencial. Houve também uma criterização a respeito de cada funcionalidade do aplicativo que cada integrante ficou responsável que pode ser analisada na tabela 1 a seguir:
@@ -197,3 +279,4 @@ obs cada integrante complete a tabela com o seus requisitos
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
 | 1.1    | 31/05/2025         | Desenvolvimento do Tópico Introdução, Metodologia, Carta de Especificação, NFR 0                            | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> e <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+| 1.2    | 01/06/2025         | Desenvolvimento do Softgoal Interdependency Graph  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
