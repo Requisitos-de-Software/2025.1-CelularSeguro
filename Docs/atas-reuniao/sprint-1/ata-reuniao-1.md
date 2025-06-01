@@ -15,7 +15,7 @@
 ## Participantes
 
 
-<font size="3"><p style="text-align: left">Tabela 1: Presença</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Presença</p></font>
 
 
 | Nome            | Presença |
@@ -30,7 +30,7 @@
 
 
 
-<font size="3"><p style="text-align: left">Fonte: Felipe das Neves Freire e Leonardo de Melo Lima</p></font>
+<font size="3"><p style="text-align: center">Autor: Felipe das Neves Freire e Leonardo de Melo Lima</p></font>
 
 ---
 ## Discussões
@@ -68,3 +68,4 @@
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 27/03/2025 | Desenvolvimento do artefato conforme a reunião    | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
 | 1.1    | 23/04/2025 | Padronização do Histórico de Versões | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/04/2025|
+| 1.2    | 27/05/2025 | Centralização do texto "Tabela 1" dos participantes da reunião e troca de Fonte para Autor da Tabela de participação    | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 27/05/2025|

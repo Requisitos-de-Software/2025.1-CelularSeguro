@@ -115,7 +115,7 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Backlog do produto                          | Daniel, Gabriel e Leonardo |Vitor e Arthur     |  14/05  | 21/05 |
 | Elaboração de histórias de usuário          | Arthur, Vitor | Felipe e Gabriel   |  14/05  | 21/05 |          
 | Definição dos NFRs                          | Mateus e Felipe | Leonardo e Daniel  |  21/05  | 23/05 |
-| Gravar e fazer upload da apresentação       | Leonardo e Arthur | Felipe e Daniel     |  12/04  | 12/04 |
+| Gravar e fazer upload da apresentação       | Leonardo e Arthur | Felipe e Daniel     |  24/05  | 24/05 |
 | *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  24/05  | 24/05 |
 
 <font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>

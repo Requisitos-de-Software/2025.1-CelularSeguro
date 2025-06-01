@@ -4,6 +4,24 @@ repo_name: 2025.1-Celular Seguro
 
 site_name: Celular Seguro
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 nav:
   - Landing Page: landing.html
   - Home: index.md
@@ -18,6 +36,8 @@ nav:
         - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-5.md"
     - Sprint 3:
         - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-6.md"
+    - Sprint 4:
+        - Ata 1: "atas-reuniao/sprint-4/ata-reuniao-7.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
@@ -42,17 +62,24 @@ nav:
         - Brainstorming: "documento-elicitacao/Brainstorming.md"
         - Storytelling: "documento-elicitacao/Storytelling.md"
         - Observação: "documento-elicitacao/Observacao.md"
+        - Requisitos Elicitados: "documento-elicitacao/requisitos_elicitados.md"
     - Técnicas de Priorização:
         - First Thing First: "documento-elicitacao/FirstThingFirst.md"
         - QFD: "documento-elicitacao/QFD.md"
         - MoSCoW: "documento-elicitacao/MoSCoW.md"
         - $100: "documento-elicitacao/100.md"
+        - Requisitos Priorizados: "documento-elicitacao/requisitos_priorizados.md"
 
   - Modelagem:
       - Casos de Uso: "documento-modelagem/caso-de-uso.md"
       - Léxicos: "documento-modelagem/lexico.md"
       - Cenários: "documento-modelagem/cenario.md"
       - Especificação Suplementar: "documento-modelagem/especificacoes-suplementar.md"
+
+      - Agil:
+          - NFR Framework: "documento-modelagem/Agil/NR_Framework.md"
+          - Backlog: "documento-modelagem/Agil/Backlog.md"
+          - Histórias de usuário: "documento-modelagem/Agil/Historias_de_usuario.md"
     
   - Verificação:
       - Introdução: "documento-verificacao/introducao-verificacao.md"
@@ -60,6 +87,7 @@ nav:
         - Entrega 1: "documento-verificacao/documento-verificacao-grupo.md" 
         - Entrega 2: "documento-verificacao/documento-verificacao-grupo2.md" 
         - Entrega 3: "documento-verificacao/documento-verificacao-grupo3.md" 
+        - Entrega 4: "documento-verificacao/documento-verificacao-grupo4.md" 
 
   - Inspeção:
       - Grupo:
@@ -76,6 +104,7 @@ nav:
       - Apresentação 1: "documento-apresentacao/apresentacao-1.md" 
       - Apresentação 2: "documento-apresentacao/apresentacao-2.md"
       - Apresentação 3: "documento-apresentacao/apresentacao-3.md"
+      - Apresentação 4: "documento-apresentacao/apresentacao-4.md"
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
   
 
