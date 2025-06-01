@@ -405,8 +405,46 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 
 ### Requisitos Não-Funcionais - Desempenho
 
+Na Tabela x, estão listados os RNF presentes no NFR Famework de Desempenho :
+
+<center>
+
+<b>Tabela x</b> - Requisitos Não-Funcionais 
+
+| RNF (Fonte) | Descrição | Classificação | Origem |
+|-------------|---------|-------|-------|
+| Tempo de Resposta (<a id="anchor_FE1" href="#FE1">FE1</a> e <a id="anchor_FE2" href="#FE2">FE2</a>) |  O sistema deve possuir uma limitação superior do tempo de processamento de uma requisição. | Desempenho | Desempenho |
+| Infraestrutura (<a id="anchor_FE2" href="#FE2">FE2</a>) | O sistema deve possuir uma infraestrutura para processar os dados. | Desempenho | Tempo de Resposta |
+| Servidores (<a id="anchor_FE2" href="#FE2">FE2</a>) | O sistema deve possuir servidores para perdurar os dados. | Desempenho | Infraestrutura |
+| Manutenção em tempo real (<a id="anchor_FE1" href="#FE1">FE1</a> e <a id="anchor_FE2" href="#FE2">FE2</a>) | O sistema deve ser capaz de realizar a manutenção dos servidores e de outros aspectos da infraestrutura. | Desempenho | Servidores e Infraestrutura |
+
+Fonte: [Daniel Rodrigues](https://github.com/zDrNz)
+
 ### Propagação dos Impactos - Desempenho
 
+Na Tabela x, está presente a avaliação da propagação dos impactos referentes à Figura x.
+
+<center>
+
+<b>Tabela x</b> - Impactos Desempenho
+
+| NFR                        | Impacto| Avaliador         |
+|----------------------------------|-------------|------------------------|
+| Desempenho                       | ⚡          | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Envio de Alertas Imediato        | ⚡          | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Bloqueio em até 2 minutos        | ✓           | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Carregamento em até 2s (4G)      | ⚡          | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Precisão da Detecção             | ↘/-         | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Segurança                        | ↘/+         | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Infraestrutura Móvel             | ↘/+         | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Consumo de Bateria               | ✗           | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Processamento Offline            | ↘/-         | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Usabilidade em Redes Lentas      | ✗           | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Manutenção em Tempo Real         | ✓           | [Daniel Rodrigues](https://github.com/zDrNz) |
+| Escalabilidade (Crescimento)     | ↘/+         | [Daniel Rodrigues](https://github.com/zDrNz) |
+
+
+Fonte: [Arthur de Melo](https://github.com/zDrNz)
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
@@ -440,6 +478,22 @@ A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de P
 
 ---
 
+## Fontes Externas
+
+Por fim, a Tabela x explicita as Fontes Externas como revisão na literatura.
+
+<center>
+<b>Tabela x</b> - Fontes Externas
+
+| ID  | Autores | Título |
+|-----|---------|--------|
+| <a id="FE1" href="#anchor_FE1">FE1</a> |  SILVA  | NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados |
+| <a id="FE2" href="#anchor_FE2">FE2</a> |  PAIM, et al | Enhancing Data Warehouse Design with the NFR Framework |
+| <a id="FE3" href="#anchor_FE3">FE3</a> |  CHUNG, et al | Non-functional requirementsin software engineering |
+
+Fonte: [Daniel Rodrigues Nascimento](https://github.com/zDrNz)
+</center>
+
 ## Bibliografia
 
 > <a name="ref1"></a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 31/05/2025.
@@ -457,5 +511,7 @@ A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de P
 | 1.2    | 01/06/2025         | Adição de tabelas  | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
 | 1.3    | 01/06/2025         | Desenvolvimento do Softgoal Interdependency Graph  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
 | 1.4    | 01/06/2025         | Desenvolvimento das tabelas 7 e 8 do Cartão de especificação  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
-| 1.5    | 01/06/2025         | Desenvolvimento das tabelas 11 e 12 do Cartão de especificação e padronização  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>  |  <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 01/06/2025 |
+| 1.5    | 01/06/2025         | Desenvolvimento das tabelas 9 e 10 do Cartão de especificação e Desempenho | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
+| 1.6    | 01/06/2025         | Desenvolvimento das tabelas 11 e 12 do Cartão de especificação e padronização  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>  |  <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 01/06/2025 |
+
 
