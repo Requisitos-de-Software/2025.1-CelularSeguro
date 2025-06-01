@@ -2,6 +2,8 @@
 
 Este documento apresenta os resultados do questionário online aplicado para coletar informações sobre o perfil dos usuários, personas, requisitos e suas experiências com o aplicativo Celular Seguro. O objetivo principal foi entender as necessidades e expectativas dos usuários, visando aprimorar a plataforma e identificar requisitos relevantes para o desenvolvimento. O questionário abordou desde dados demográficos dos respondentes até suas percepções sobre a usabilidade, funcionalidades e possíveis melhorias no aplicativo.
 
+---
+
 ## Metodologia
 
 O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, grupos de familias dos membros do grupo, grupos de condomínios, bem como perfis do instagram, o que implica uma grande diversidade nas respostas obtidas. Essa informação é relevante, pois todas as pessoas estão sucetiveis e perder seu celular e queriamos atender nos nossos requisitos desde um adulto jovem universitário acostumado com tecnologia até pessoas que possui dificuldades com o uso de celulares e afins. Portanto, há maiores chances de que as pessoas que responderam sejam usuários que ao menos possui um celular, o que pode contribuir para uma maior representatividade dos dados coletados em relação ao uso e experiência dos com a plataforma do celular seguro, logo abaixo está listado os grupos que foram enviados: 
@@ -28,6 +30,7 @@ Intagram:
 
 - Mateus Bastos.
 
+---
 
 ## Resultados
 
@@ -170,6 +173,8 @@ As figuras 10 a 13 são referentes ao aplicativo Celular Seguro. Que nos ajudara
 <figcaption><font size="3">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></font></figcaption>
 </figure>
 
+---
+
 ## Respostas Descritivas:
 
 As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela equipe ao levantar os requisitos do aplicativo Celular Seguro. Que nos ajudaram a definir melhor os requisitos do mesmo.
@@ -209,6 +214,8 @@ As tabelas 1 e 2 são referentes às respostas mais relevantes analisadas pela e
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
+---
+
 ## Requisitos Elicitados
 
 Nas Tabelas 3 e 4 estão disponibilizados os requisitos funcionais e não funcionais elicitados por meio do questionário realizado com os usuários do aplicativo. Através desse resultado, será possível realizar a priorização de requisitos do aplicativo.
@@ -218,6 +225,8 @@ Legenda:
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
 - Qx: Requisito nºx elicitado pelo questionário
+
+---
 
 ### Requisitos Funcionais
 
@@ -238,6 +247,7 @@ Legenda:
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
+---
 
 ### Requisitos Não Funcionais
 
@@ -257,6 +267,21 @@ Legenda:
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
+---
+
+## Validação dos Requisitos Elicitados no Questionário
+
+<p style="text-align: center">Entrevista 1</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy3vcKBe6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/qy3vcKBe6IY" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf)</p></font>
+
+---
 
 ## Bibliografia
 
@@ -275,3 +300,4 @@ Legenda:
 | 1.4    | 16/05/2025         | Correção no histórico de versão: "título do tópico duplicado"                  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
 | 1.5    | 16/05/2025         | Desenvolvimento da tabela inicial com as informações gerais do questionário                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
 | 1.6    | 27/05/2025         | Inserção da Introdução do artefato                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 27/05/2025      |
+| 1.7    | 31/05/2025         | Validação dos requisitos elicitados do questionário                | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 31/05/2025      |
