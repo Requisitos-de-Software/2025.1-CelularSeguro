@@ -267,7 +267,7 @@ Definido cada épico, são geradas _features_, que descrevem de forma simplifica
 
 As Histórias de Usuário no Celular Seguro detalham ainda mais as funcionalidades descritas nas features e estão todas reunidas na seção de [Histórias de Usuário](../Historias_de_usuario). Cada história apresenta de forma concisa o que o usuário deseja realizar e por que isso é importante, seguindo sempre o formato:
 
-> “Como \[Perfil], eu quero \[Ação] para que \[Benefício]”
+> **“Como \[Perfil], eu quero \[Ação] para que \[Benefício]”**
 
 Por meio dessas narrativas, descrevem-se cenários como redefinir senha, editar perfil, registrar documentos, consultar IMEI, enviar boletim de ocorrência, notificar pessoa de confiança e receber alertas de atividade suspeita, todos com critérios de aceitação que garantem quando cada funcionalidade pode ser considerada concluída.
 
@@ -278,7 +278,7 @@ Por meio dessas narrativas, descrevem-se cenários como redefinir senha, editar 
 Este épico reúne as funcionalidades que permitem ao usuário registrar, validar e consultar seus aparelhos móveis dentro do aplicativo. Abrange desde o cadastro de múltiplos celulares associados ao mesmo CPF até a leitura de IMEI, seja por câmera ou manualmente. A história de usuário a seguir o generaliza:
 
 <center>
-*"Como usuário do Celular Seguro, eu desejo registrar e validar meus dispositivos para que eu possa consultar o IMEI e garantir a segurança em caso de perda ou roubo."*
+> **"Como usuário do Celular Seguro, eu desejo registrar e validar meus dispositivos para que eu possa consultar o IMEI e garantir a segurança em caso de perda ou roubo."**
 </center>
 
 ### Épico 2 – Boletim de Ocorrência
@@ -286,7 +286,7 @@ Este épico reúne as funcionalidades que permitem ao usuário registrar, valida
 Este épico reúne as funcionalidades que permitem ao usuário registrar formalmente a perda ou o roubo de um dispositivo, anexar documentos comprobatórios e receber confirmação com número de protocolo.
 
 <center>  
-*"Como usuário do Celular Seguro, eu desejo registrar um boletim de ocorrência por meio do aplicativo para que eu possa formalizar o incidente e obter um protocolo de atendimento."*  
+> **"Como usuário do Celular Seguro, eu desejo registrar um boletim de ocorrência por meio do aplicativo para que eu possa formalizar o incidente e obter um protocolo de atendimento."**  
 </center>
 
 ### Épico 3 – Conta & Perfil
@@ -294,7 +294,7 @@ Este épico reúne as funcionalidades que permitem ao usuário registrar formalm
 Este épico engloba as funcionalidades que permitem ao usuário gerenciar suas credenciais e informações pessoais dentro do aplicativo Celular Seguro. Inclui desde redefinir senha e editar dados de perfil até alterar foto, cadastrar documentos e definir dispositivo confiável, garantindo que o usuário mantenha suas informações seguras e atualizadas.
 
 <center>  
-*"Como usuário do Celular Seguro, eu desejo gerenciar meus dados de conta e perfil para que eu possa manter minhas informações atualizadas e aumentar a segurança de acesso."*  
+> **"Como usuário do Celular Seguro, eu desejo gerenciar meus dados de conta e perfil para que eu possa manter minhas informações atualizadas e aumentar a segurança de acesso."**  
 </center>  
 
 ### Épico 4 – Comunicação & Notificações
@@ -302,7 +302,7 @@ Este épico engloba as funcionalidades que permitem ao usuário gerenciar suas c
 Este épico agrupa as funcionalidades que garantem a segurança do usuário por meio de alertas, feedback visual e envio de mensagens em situações críticas, evitando que ele deixe passar ações suspeitas ou falhas no processo.
 
 <center>  
-*"Como usuário do Celular Seguro, eu desejo receber notificações e feedback imediato em casos de atividade suspeita ou erro, para que eu possa tomar providências rapidamente e evitar consequências indesejáveis."*  
+> **"Como usuário do Celular Seguro, eu desejo receber notificações e feedback imediato em casos de atividade suspeita ou erro, para que eu possa tomar providências rapidamente e evitar consequências indesejáveis."**
 </center>  
 
 ### Épico 5 – Pessoa de Confiança
@@ -310,7 +310,7 @@ Este épico agrupa as funcionalidades que garantem a segurança do usuário por 
 Este épico enfatiza as funcionalidades que tornam o fluxo de emergência mais eficiente e intuitivo, permitindo ao usuário designar contatos de confiança de forma rápida e organizada. As características garantem que, em situações críticas, o acesso a essa informação seja imediato, reduzindo o tempo de resposta e aumentando a confiabilidade do sistema. Além disso, a interface para gerenciar esses contatos é clara e simples, facilitando o uso sem curva de aprendizado.
 
 <center>  
-*"Como usuário do Celular Seguro, eu desejo cadastrar e gerenciar facilmente meus contatos de confiança para que, em caso de emergência, eu possa notificar rapidamente as pessoas certas."*  
+> **"Como usuário do Celular Seguro, eu desejo cadastrar e gerenciar facilmente meus contatos de confiança para que, em caso de emergência, eu possa notificar rapidamente as pessoas certas."**
 </center>  
 
 ---
@@ -329,4 +329,6 @@ Este épico enfatiza as funcionalidades que tornam o fluxo de emergência mais e
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
-| 1.1 | 01/06/2025 | Criação do backlog | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 31/05/2025 |
+| 1.1 | 01/06/2025 | Criação do backlog | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 01/06/2025 |
+| 1.2 | 01/06/2025 | Padronização da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 01/06/2025 |
+| 1.3 | 01/06/2025 | Ajustes nos textos e mudanças de épicos | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 01/06/2025 |
