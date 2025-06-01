@@ -15,6 +15,9 @@ Durante a entrevista, os critérios de aceitação foram formalizados, refletind
 | Nome                                                    | Função                                     | Entrevistado                                | Data       | Hora |
 | ------------------------------------------------------- | -------------------------------------------|---------------------------------------------|------------|------|
 | [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | [Lucas](https://github.com/gabriel-lima258) | 29/05/2025 | 19:05 |
+| [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | Tauanne                                     | 30/05/2025 | 11:00 |
+| [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | João Marcos                                 | 31/05/2025 | 15:30 |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -866,8 +869,8 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     <font size="3"><p style="text-align: center">Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf).</p></font>
 
     </center>
-
-
+    
+  
 <p style="text-align: center">Entrevista 6</p>
 
 <center>
@@ -880,9 +883,9 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-### US37 - [Título da US37]
+### US37 - Localizar o dispositivo em tempo real
 
-??? abstract "Tabela 39 - História de Usuário [Título da US37]"
+??? abstract "Tabela 39 - Localizar o dispositivo em tempo real"
 
     <center>
 
@@ -890,19 +893,19 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US37               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US37               | Localizar o dispositivo em tempo real |
+    | Descrição              | Eu, como usuário, desejo visualizar a localização do meu dispositivo em tempo real em um mapa, para que eu possa saber exatamente onde ele está em caso de perda ou roubo. |
+    | Critérios de Aceitação | - O sistema deve exibir a localização atual do dispositivo em um mapa interativo. <br> - A localização deve ser atualizada em tempo real, com uma taxa de atualização adequada. <br> - Caso o dispositivo esteja desligado ou sem conexão, o sistema deve informar a última localização registrada. <br> - O usuário deve visualizar informações básicas como nome do dispositivo, status de conexão e nível de bateria (se possível). |
+    | Rastreabilidade        | [BS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais), [QS01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais) |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs).</p></font>
 
     </center>
 
-### US38 - [Título da US38]
+### US38 - Fazer o dispositivo emitir som
 
-??? abstract "Tabela 40 - História de Usuário [Título da US38]"
+??? abstract "Tabela 40 - Fazer o dispositivo emitir som"
 
     <center>
 
@@ -910,19 +913,19 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US38               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US38               | Fazer o dispositivo emitir som |
+    | Descrição              | Eu, como usuário, quero poder fazer meu dispositivo emitir um som alto remotamente, para que eu possa localizá-lo facilmente em caso de perda nas proximidades, mesmo que ele esteja no modo silencioso. |
+    | Critérios de Aceitação | - O usuário deve conseguir ativar o som remotamente através da plataforma. <br> - O som deve ser emitido no volume máximo, independentemente das configurações de volume ou modo silencioso do dispositivo. <br> - O som deve ter duração definida (ex.: 1 a 2 minutos) ou até o usuário interrompê-lo manualmente. <br> - Deve haver uma confirmação visual de que o comando foi enviado e executado com sucesso. |
+    | Rastreabilidade        | Vídeo de validação da entrevista 8 |
+    | Prioridade             | Baixa |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs).</p></font>
 
     </center>
 
-### US39 - [Título da US39]
+### US39 - Bloquear dispositivo
 
-??? abstract "Tabela 41 - História de Usuário [Título da US39]"
+??? abstract "Tabela 41 - Bloquear dispositivo"
 
     <center>
 
@@ -930,19 +933,19 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US39               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US39               | Bloquear dispositivo |
+    | Descrição              | Eu, como usuário, quero poder bloquear meu dispositivo remotamente, para impedir que terceiros acessem meus dados pessoais caso o dispositivo seja perdido ou roubado. |
+    | Critérios de Aceitação | - O sistema deve permitir que o usuário ative o bloqueio remoto do dispositivo. <br> - Ao ser bloqueado, o dispositivo deve exibir uma tela com uma mensagem personalizada inserida pelo usuário (ex.: "Dispositivo perdido. Favor devolver.") <br> - O desbloqueio só pode ser feito mediante senha, PIN ou autenticação definida previamente. <br> - O sistema deve confirmar que o bloqueio foi aplicado com sucesso. |
+    | Rastreabilidade        | Vídeo de validação da entrevista 8  |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs).</p></font>
 
     </center>
 
-### US40 - [Título da US40]
+### US40 - Redefinir dispositivo para padrões de fábrica
 
-??? abstract "Tabela 42 - História de Usuário [Título da US40]"
+??? abstract "Tabela 42 - Redefinir dispositivo para padrões de fábrica"
 
     <center>
 
@@ -950,19 +953,19 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US40               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US40               | Redefinir dispositivo para padrões de fábrica |
+    | Descrição              | EU, como usuário, quero poder redefinir meu dispositivo remotamente para os padrões de fábrica, a fim de proteger meus dados pessoais em caso de perda ou roubo, apagando todas as informações do dispositivo. |
+    | Critérios de Aceitação |  - O sistema deve permitir que o usuário execute a redefinição de fábrica remotamente. <br> - Antes da execução, deve haver um alerta de confirmação informando que todos os dados do dispositivo serão apagados e não poderão ser recuperados. <br> - Após o reset, o dispositivo deve retornar ao estado de fábrica, apagando aplicativos, dados, contas e configurações. <br> - O sistema deve informar se o comando foi executado com sucesso ou se houve falha (ex.: dispositivo desconectado). |
+    | Rastreabilidade        | [BS32](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais) |
+    | Prioridade             | Média |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs).</p></font>
 
     </center>
 
-### US41 - [Título da US41]
+### US41 - Deslogar contas de aplicativos selecionados previamente.
 
-??? abstract "Tabela 43 - História de Usuário [Título da US41]"
+??? abstract "Tabela 43 - Deslogar contas de aplicativos selecionados previamente."
 
     <center>
 
@@ -970,19 +973,19 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US41               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US41               | Deslogar contas de aplicativos selecionados previamente. |
+    | Descrição              | Eu, como usuário, quero poder deslogar remotamente minhas contas dos aplicativos que eu selecionar previamente, para garantir que terceiros não acessem minhas informações caso o dispositivo seja perdido ou roubado. |
+    | Critérios de Aceitação |  - O sistema deve listar os aplicativos que suportam o logout remoto. <br> - O usuário deve selecionar quais aplicativos deseja deslogar remotamente. <br> - Ao confirmar, o sistema deve enviar o comando de logout para cada aplicativo selecionado. <br> - O sistema deve exibir um relatório informando quais aplicativos foram deslogados com sucesso e quais apresentaram falha. <br> - Caso o dispositivo esteja desconectado, o sistema deve tentar executar o comando assim que ele se reconectar. |
+    | Rastreabilidade        | Vídeo de validação da entrevista 7  |
+    | Prioridade             | Alta |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs).</p></font>
 
     </center>
 
-### US42 - [Título da US42]
+### US42 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail
 
-??? abstract "Tabela 44 - História de Usuário [Título da US42]"
+??? abstract "Tabela 44 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail"
 
     <center>
 
@@ -990,13 +993,13 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US42               |  |
-    | Descrição              |  |
-    | Critérios de Aceitação |  |
-    | Rastreabilidade        |  |
-    | Prioridade             |  |
+    | US42               | Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail |
+    | Descrição              | Eu, como usuário, desejo realizar o backup dos dados do meu dispositivo remotamente e receber esse backup por e-mail, para garantir que minhas informações estejam seguras caso o dispositivo seja perdido, roubado ou precise ser restaurado. |
+    | Critérios de Aceitação | - O sistema deve permitir que o usuário solicite o backup remoto do dispositivo. <br> - O backup deve incluir dados como fotos, vídeos, contatos, documentos e outros arquivos definidos como elegíveis. <br> - O sistema deve compactar os dados em um arquivo (ex.: .zip) e enviá-lo para o e-mail cadastrado pelo usuário. <br> - Deve haver uma confirmação na interface de que o processo de backup foi iniciado e concluído. <br> - Se o backup falhar (ex.: falta de conexão, armazenamento insuficiente ou problema no envio por e-mail), o sistema deve notificar o usuário. <br> - O usuário deve ser informado sobre o tamanho estimado do backup antes de confirmar a operação. <br> - Deve existir uma política clara sobre quais dados podem ou não ser incluídos no backup, respeitando questões de segurança e privacidade. |
+    | Rastreabilidade        | [ST4](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais) |
+    | Prioridade             | Média |
 
-    <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs).</p></font>
 
     </center>
 
@@ -1004,14 +1007,26 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <p style="text-align: center">Entrevista 7</p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oN6U6pNRG90?si=VS6jA8Be7hVRtBxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/oN6U6pNRG90" target="blanket">clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
+
+<p style="text-align: center">Entrevista 8</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nW3cYrsDQLw?si=beFKtgPRD6fcVIuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/nW3cYrsDQLw" target="blanket">clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
 
 ---
+
+
 
 ## Bibliografia
 
@@ -1036,4 +1051,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.4 | 31/05/2025 | Criação dos US 31 a 36 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
 | 1.5 | 31/05/2025 | Criação dos US 00 a 06 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
 | 1.6 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-
+| 1.7 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
