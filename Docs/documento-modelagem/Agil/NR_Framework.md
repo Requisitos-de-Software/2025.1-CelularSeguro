@@ -366,7 +366,7 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 
 ## NFR 0 - Geral
 
-A Figura 1 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
 
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
 
@@ -388,7 +388,7 @@ No entanto, como o foco é trabalhar apenas com Requisitos Não-Funcionais ainda
 
 Legendas:
 
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - Legendas SIG </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - Legendas SIG </p></font>
 
 
 ![SIG GERAL](../../assets/nfr/legendas.jpeg)
@@ -399,10 +399,10 @@ Legendas:
 
 ## NFR 01 - Usabilidade
 
-Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabela 9:
+Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 9:
 
 
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - Legendas SIG </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - Legendas SIG </p></font>
 
 
 ![SIG GERAL](../../assets/nfr/usabilidade.png)
@@ -414,18 +414,63 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 ### Requisitos Não-Funcionais - Usabilidade
 
 
+<center>
+
+*Tabela X* - Requisitos Não-Funcionais: Usabilidade
+
+| Código  | Nome                                                              | Descrição                                                                                                                                                                                                                            |
+| :------ | :---------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF_U01 | Confirmação Clara e Acessível de Envio                            | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos.                                                                        |
+| RNF_U02 | Modo Escuro para Conforto Visual                                  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.                                                                                                                                                   |
+| RNF_U03 | Consistência Visual e Organizacional da Interface                 | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto.                                                                  |
+| RNF_U04 | Clareza e Responsividade em Menus/Botões (Registro de Telefone) | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, com a ideia principal focada no tempo de resposta para o usuário. |
+
+</center>
+
+
+
 ### Propagação dos Impactos - Usabilidade
 
----
-
-## NFR 02 - Confiabilidade
+A tabela a seguir detalha os softgoals de Usabilidade e como os requisitos e operacionalizações específicas impactam esses objetivos.
 
 
+<center>
+
+*Tabela Y* - Propagação dos Impactos: Usabilidade
+
+| NFR / Softgoal                                                        | Impacto | Avaliador                                                                                                |
+| :-------------------------------------------------------------------- | :------ | :------------------------------------------------------------------------------------------------------- |
+| Usabilidade [Aplicativo Celular Seguro]                               | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| FeedbackClaroEAcessivel [Interface]                         | ✓      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| LinguagemClaraEAcessivelNaConfirmacao [ConfirmaçãoBoletim]                  | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| NumeroProtocoloVisivelTempoSuficiente [plataformaTerceira]                  | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| ConfortoVisualEPreferencias [darkMode]                        | 𝒲-      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| ModoEscuroDisponivel [Interface]                                 | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| ConsistenciaVisualOrganizacional [LayoutBotõesRegistroTelefone]                | 𝒲-      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| PadronizacaoDaTelaDePerfil [layoutPerfil]                        | 𝒲-       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+| PadrõesDeHeuristicaseAffordance [layout]                        | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+
+</center>
 
 
-A Figura 1 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
 
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Confiabilidade</p></font>
+
+
+
+## NFR 03 - Confiabilidade
+
+Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabela Y:
+
+- **RNF02:** o sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB sem falhas ou perdas de dados, assegurando a integridade das informações anexadas.
+- **RNF08:** o sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados, utilizando algoritmos seguros como AES-256, para manter a confidencialidade e integridade das informações.
+- **RNF09:** o sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário, garantindo a confiabilidade da ação crítica.
+
+
+
+
+A Figura 6 a seguir demonstra o Softgoal Interdependency Graph de Confiabilidade.
+
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Confiabilidade</p></font>
 
 
 ![SIG GERAL](../../assets/nfr/confiabilidade.png)
@@ -451,7 +496,7 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 </center>
 
 
-### Propagação dos Impactos - Eficiência
+### Propagação dos Impactos - Confiabilidade
 
 
 | NFR / Softgoal                     | Impacto                           | Avaliador  |
@@ -485,7 +530,7 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 
 ### Requisitos Não-Funcionais - Desempenho
 
-Na Tabela x, estão listados os RNF presentes no NFR Famework de Desempenho :
+Na Tabela 7, estão listados os RNF presentes no NFR Famework de Desempenho :
 
 <center>
 
@@ -502,7 +547,7 @@ Fonte: [Daniel Rodrigues](https://github.com/zDrNz)
 
 ### Propagação dos Impactos - Desempenho
 
-Na Tabela x, está presente a avaliação da propagação dos impactos referentes à Figura x.
+Na Tabela 7, está presente a avaliação da propagação dos impactos referentes à Figura x.
 
 <center>
 
@@ -528,10 +573,10 @@ Fonte: [Arthur de Melo](https://github.com/zDrNz)
 
 
 
----
+
+
 
 ## NFR 05 - Segurança
-
 
 
 
@@ -573,7 +618,6 @@ Na Tabela 14, está presente a avaliação da propagação dos impactos referent
 
 
 
----
 
 
 
