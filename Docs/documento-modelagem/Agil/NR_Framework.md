@@ -415,11 +415,12 @@ Diagrama de SIG de usabilidade, figura 5:
 
 | Código  | Nome                                                              | Descrição                                                                                                                                                                                                                            |
 | :------ | :---------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RNF_U01 | Confirmação Clara e Acessível de Envio                            | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos.                                                                        |
-| RNF_U02 | Modo Escuro para Conforto Visual                                  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.                                                                                                                                                   |
-| RNF_U03 | Consistência Visual e Organizacional da Interface                 | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto.                                                                  |
-| RNF_U04 | Clareza e Responsividade em Menus/Botões (Registro de Telefone) | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, com a ideia principal focada no tempo de resposta para o usuário. |
+| <a href="../Historias_de_usuario#us36">US36</a> | Confirmação Clara e Acessível de Envio                            | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos.                                                                        |
+| <a href="documento-elicitacao/Questionario/#requisitos-nao-funcionais">RNF05</a> | Modo Escuro para Conforto Visual                                  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.                                                                                                                                                   |
+| <a href="../Historias_de_usuario#us14">US14</a>  | Consistência Visual e Organizacional da Interface                 | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto.                                                                  |
+| [US01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us01---cadastro-de-múltiplos-celulares), [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) | Clareza e Responsividade em Menus/Botões (Registro de Telefone) | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, com a ideia principal focada no tempo de resposta para o usuário. |
 
+Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf)
 
 ### Propagação dos Impactos - Usabilidade
 
@@ -438,6 +439,8 @@ A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e 
 | ConsistenciaVisualOrganizacional [LayoutBotõesRegistroTelefone]                | 𝒲-      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
 | PadronizacaoDaTelaDePerfil [layoutPerfil]                        | 𝒲-       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
 | PadrõesDeHeuristicaseAffordance [layout]                        | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+
+Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf)
 
 ## NFR 03 - Confiabilidade
 
@@ -462,6 +465,7 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 | RNF08  | Garantir Segurança e Privacidade       | O sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados (ex: AES-256). |
 | RNF09  | Garantir Confiabilidade do Alerta      | O sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário. |
 
+Fonte: [Mateus](https://github.com/zDrNz)
 
 ### Propagação dos Impactos - Confiabilidade
 
@@ -481,6 +485,7 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 | Arquivos até 10MB (JPG, PNG, PDF)  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 | Falha no envio acima de 10MB       |  X                                |    <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>       |
 
+Fonte: [Mateus Bastos](https://github.com/zDrNz)
 
 ## NFR 04 - Desempenho
 
@@ -494,13 +499,9 @@ A figura 7 a seguir demonstra o SIG de Desempenho:
 
 <font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
 
-
-
 ### Requisitos Não-Funcionais - Desempenho
 
 Na Tabela 17, estão listados os RNF presentes no NFR Famework de Desempenho:
-
-
 
 <b>Tabela 17</b> - Requisitos Não-Funcionais 
 
