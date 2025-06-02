@@ -7,10 +7,10 @@ As histórias de usuário são uma técnica essencial na elicitação de requisi
 
 ## Metodologia
 
-A elaboração deste artefato adotou uma abordagem empírica de elicitação baseada na entrevista estruturada com o Product Owner (PO), o qual representou a visão do cliente no projeto. A sessão foi conduzida por meio da plataforma Teams, com entrevistas separadas organizadas conforme a [Tabela 1]() abaixo, configurando uma interação síncrona e informal — alinhada às boas práticas de desenvolvimento ágil descritas por Sommerville (2019).
+A elaboração deste artefato adotou uma abordagem empírica de elicitação baseada na entrevista estruturada com o Product Owner (PO), o qual representou a visão do cliente no projeto. A sessão foi conduzida por meio da plataforma Teams, com entrevistas separadas organizadas conforme a [Tabela 0]() abaixo, configurando uma interação síncrona e informal — alinhada às boas práticas de desenvolvimento ágil descritas por Sommerville (2019).
 Durante a entrevista, os critérios de aceitação foram formalizados, refletindo os comportamentos esperados do sistema em cada cenário de uso. Para fins de planejamento e gestão, foi adotado o método de priorização Three-Level Scale, que classifica as histórias de usuário em prioridades Alta, Média e Baixa (Leffingwell, 2011). Tal método é simples, porém eficaz, para equipes que operam sob ciclos curtos de entrega.
 
-<font size="3"><p style="text-align: center">Tabela 1 - Cronograma dos participantes da entrevista.</p></font>
+<font size="3"><p style="text-align: center">Tabela 0 - Cronograma dos participantes da entrevista.</p></font>
 
 | Nome                                                    | Função                                     | Entrevistado                                | Data       | Hora |
 | ------------------------------------------------------- | -------------------------------------------|---------------------------------------------|------------|------|
@@ -25,6 +25,24 @@ Durante a entrevista, os critérios de aceitação foram formalizados, refletind
 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+### Tabela de Contribuição História de Usuário
+
+A modelagem das Histórias de Usuário foi realizada por todos os membros da equipe, cada um elaborando 4 requisitos funcionais e 2 requisitos não funcionais, todos validados com seus respectivos usuários. No entanto, a estruturação geral do submenu foi feita de forma individual por um dos membros conforme a [Tabela 1]() a baixo.
+
+#### Tabela 1 – Participação dos membros na construção do submenu História de Usuário
+
+| Membro da Equipe | Contribuições |
+|------------------|---------------|
+| [Arthur Carvalho](https://github.com/arthurlleite) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Leonardo de Melo](https://github.com/leozinlima) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Elaborou 4 RFs e 2 RNIs validados com o usuário; Estruturou todo o submenu |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Daniel Rodrigues](https://github.com/zDrNz) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Mateus Bastos](https://github.com/MateuSansete) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Vitor Pereira](https://github.com/Bessazs) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+
+<font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
 
 ### Modelo
 
