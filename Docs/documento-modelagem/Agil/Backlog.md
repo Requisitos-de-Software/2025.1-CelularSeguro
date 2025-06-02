@@ -29,7 +29,7 @@ Na modelagem do Backlog do projeto, todos os membros, com exceção de Daniel Ro
 | [Mateus Bastos](https://github.com/MateuSansete) | Desenvolveu seu respectivo backlog |
 | [Vitor Pereira](https://github.com/Bessazs) | Desenvolveu seu respectivo backlog |
 
-<font size="3"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite)</p></font>
+<font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
 ---
 
 <center>
