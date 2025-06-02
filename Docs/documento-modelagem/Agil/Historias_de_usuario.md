@@ -14,9 +14,14 @@ Durante a entrevista, os critérios de aceitação foram formalizados, refletind
 
 | Nome                                                    | Função                                     | Entrevistado                                | Data       | Hora |
 | ------------------------------------------------------- | -------------------------------------------|---------------------------------------------|------------|------|
-| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | [Lucas](https://github.com/gabriel-lima258) | 29/05/2025 | 19:05 |
+| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | Lucas | 29/05/2025 | 19:05 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | Tauanne                                     | 30/05/2025 | 11:00 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | João Marcos                                 | 31/05/2025 | 15:30 |
+| [Leonardo de Melo](https://github.com/leozinlima)               | Elaborador das histórias                   | Karoline                                | 31/05/2025 | 14:45 |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf)              | Elaborador das histórias                   | Ana Victoria                                | 31/05/2025 | 13:45 |
+| [Mateus Bastos](https://github.com/MateuSansete)               | Elaborador das histórias                   | Arthur                                | 01/06/2025 | 15:30 |
+| [Arthur Carvalho](https://github.com/arthurlleite)              | Elaborador das histórias                   | Luiza                                | 01/06/2025 | 16:20 |
+| [Daniel Rodrigues](https://github.com/zDrNz)              | Elaborador das histórias                   | Gabriel                                 | 01/06/2025 | 18:10 |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
@@ -1098,4 +1103,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.6 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
 | 1.7 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
 | 1.8 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
-| 1.9 | 01/06/2025 | Mudanças de padrões de video | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
+| 1.9 | 01/06/2025 | Mudanças de padrões de video e tabela de entrevistados| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
