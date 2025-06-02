@@ -397,7 +397,6 @@ Legendas estão conforma a figura 4:
 <font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
 
 
-
 ## NFR 01 - Usabilidade
 
 Diagrama de SIG de usabilidade, figura 5:
@@ -410,12 +409,7 @@ Diagrama de SIG de usabilidade, figura 5:
 <font size="3"><p style="text-align: center">Autor: Felipe das Neves</p></font>
 
 
-
 ### Requisitos Não-Funcionais - Usabilidade
-
-
-
-<center>
 
 *Tabela 13* - Requisitos Não-Funcionais: Usabilidade
 
@@ -426,16 +420,10 @@ Diagrama de SIG de usabilidade, figura 5:
 | RNF_U03 | Consistência Visual e Organizacional da Interface                 | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto.                                                                  |
 | RNF_U04 | Clareza e Responsividade em Menus/Botões (Registro de Telefone) | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, com a ideia principal focada no tempo de resposta para o usuário. |
 
-</center>
-
-
 
 ### Propagação dos Impactos - Usabilidade
 
 A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e operacionalizações específicas impactam esses objetivos.
-
-
-<center>
 
 *Tabela 14* - Propagação dos Impactos: Usabilidade
 
@@ -451,8 +439,6 @@ A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e 
 | PadronizacaoDaTelaDePerfil [layoutPerfil]                        | 𝒲-       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
 | PadrõesDeHeuristicaseAffordance [layout]                        | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
 
-</center>
-
 ## NFR 03 - Confiabilidade
 
 A figura 6 a seguir demonstra o SIG de Confiabilidade:
@@ -464,13 +450,9 @@ A figura 6 a seguir demonstra o SIG de Confiabilidade:
 
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
-
-
 ### Requisitos Não-Funcionais - Confiabilidade
 
 Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, levando em consideração aspectos como envio de informações sem falhas, criptografia segura dos dados e acionamento confiável de alertas em situações emergenciais. Esses requisitos foram elaborados com base na modelagem do NFR Framework para o aplicativo *Celular Seguro*.
-
-<center>
 
 **Tabela 15** - Requisitos Não-Funcionais: Confiabilidade
 
@@ -479,8 +461,6 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 | RNF02  | Enviar Anexos com Confiabilidade       | O sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB, sem falhas ou perdas de dados. |
 | RNF08  | Garantir Segurança e Privacidade       | O sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados (ex: AES-256). |
 | RNF09  | Garantir Confiabilidade do Alerta      | O sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário. |
-
-</center>
 
 
 ### Propagação dos Impactos - Confiabilidade
@@ -520,7 +500,7 @@ A figura 7 a seguir demonstra o SIG de Desempenho:
 
 Na Tabela 17, estão listados os RNF presentes no NFR Famework de Desempenho:
 
-<center>
+
 
 <b>Tabela 17</b> - Requisitos Não-Funcionais 
 
@@ -537,7 +517,7 @@ Fonte: [Daniel Rodrigues](https://github.com/zDrNz)
 
 Na Tabela 18, está presente a avaliação da propagação dos impactos referentes à Figura x.
 
-<center>
+
 
 <b>Tabela 18</b> - Impactos Desempenho
 
