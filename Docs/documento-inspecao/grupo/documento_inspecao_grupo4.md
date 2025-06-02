@@ -152,12 +152,13 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3yEi7D9Jwds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Histórico de Versões 
+## Histórico de Versões
 
-| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-|1.0     | 01/06/2025 |Criação do documento|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
-|1.1     | 01/06/2025 |Adição de novos itens de validação e padronização|[<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
-|1.2     | 01/06/2025 |Adição de novos itens de validação e padronização|[<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
-|1.3     | 01/06/2025 |Adição do video de inspeção |[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
-|1.4     | 01/06/2025 |Anotações da lista |[<span style="color:gold;">Seu Nome</span>](https://github.com/seu-usuario-github)| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 01/06/2025 |
+| Versão | Data de Produção | Descrição da Alteração                              | Autor(es)                                                                 | Revisor(es)                                                               | Data de Revisão |
+|:------:|:----------------:|:---------------------------------------------------:|:-------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------:|
+| 1.0    | 01/06/2025       | Criação do documento                                | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 01/06/2025      |
+| 1.1    | 01/06/2025       | Adição de novos itens de validação e padronização   | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 01/06/2025      |
+| 1.2    | 01/06/2025       | Adição de novos itens de validação e padronização   | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 01/06/2025      |
+| 1.3    | 01/06/2025       | Adição do vídeo de inspeção                         | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 01/06/2025      |
+| 1.4    | 01/06/2025       | Anotações da lista                                  | [<span style="color:gold;">Seu Nome</span>](https://github.com/seu-usuario-github) | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 01/06/2025      |
+
