@@ -93,9 +93,9 @@ Os impactos podem ser representados por:
 
 ## Metodologia
 
-Cada integrante do projeto obteve dois requisitos não-funcionais obtido através das técnicas de [priorização](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/introducao) e validados com um usuário do aplicativo, onde cada integrante fez de forma remota ou presencial. Houve também uma criterização a respeito de cada funcionalidade do aplicativo que cada integrante ficou responsável que pode ser analisada na tabela 1 a seguir:
+Cada integrante do projeto obteve dois requisitos não-funcionais obtido através das técnicas de [priorização](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/introducao) e validados com um usuário do aplicativo, onde cada integrante fez de forma remota ou presencial. Houve também uma criterização a respeito de cada funcionalidade do aplicativo que cada integrante ficou responsável que pode ser analisada na tabela 0 a seguir:
 
-<font size="3"><p style="text-align: center">Tabela 1: Separação das Funcionalidades do aplicativo por integrante</p></font>
+<font size="3"><p style="text-align: center">Tabela 0: Separação das Funcionalidades do aplicativo por integrante</p></font>
 
 | Funcionalidade                | Integrante Responsável |
 |-------------------------------|------------------------|
@@ -111,6 +111,23 @@ Cada integrante do projeto obteve dois requisitos não-funcionais obtido atravé
 
 Aliada a essa especificação de trabalho de cada integrante, separamos pelas respecivas funcionalidades os NFRs gerados pelo framework. 
 
+### Tabela de Contribuição NFR Framework
+
+Na modelagem de requisitos não funcionais por meio do NFR Framework, todos os membros da equipe desenvolveram 2 cartões de especificação com validação de seus usuários. Contudo, a estruturação do conteúdo no projeto foi feita exclusivamente por dois integrantes segundo a Tabela 1 a seguir.
+
+#### Tabela 2 – Participação dos membros na construção do submenu NFR Framework
+
+| Membro da Equipe | Contribuições |
+|------------------|---------------|
+| [Arthur Carvalho](https://github.com/arthurlleite) | Desenvolveu 2 cartões validados com o usuário |
+| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolveu 2 cartões validados com o usuário |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Desenvolveu 2 cartões validados com o usuário |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolveu 2 cartões validados com o usuário; Estruturou o submenu |
+| [Daniel Rodrigues](https://github.com/zDrNz) | Desenvolveu 2 cartões validados com o usuário |
+| [Mateus Bastos](https://github.com/MateuSansete) | Desenvolveu 2 cartões validados com o usuário; Estruturou o submenu |
+| [Vitor Pereira](https://github.com/Bessazs) | Desenvolveu 2 cartões validados com o usuário |
+
+<font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
 ---
 
 ## Cartão de Especificação
