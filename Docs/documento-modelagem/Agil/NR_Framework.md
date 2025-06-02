@@ -413,6 +413,8 @@ Diagrama de SIG de usabilidade, figura 5:
 
 *Tabela 13* - Requisitos Não-Funcionais: Usabilidade
 
+<font size="3"><p style="text-align: center">Tabela 13 - Requisitos Não-Funcionais: Usabilidade</p></font>
+
 | Código  | Nome                                                              | Descrição                                                                                                                                                                                                                            |
 | :------ | :---------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="../Historias_de_usuario#us36">US36</a> | Confirmação Clara e Acessível de Envio                            | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos.                                                                        |
@@ -420,7 +422,7 @@ Diagrama de SIG de usabilidade, figura 5:
 | <a href="../Historias_de_usuario#us14">US14</a>  | Consistência Visual e Organizacional da Interface                 | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto.                                                                  |
 | [US01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us01---cadastro-de-múltiplos-celulares), [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) | Clareza e Responsividade em Menus/Botões (Registro de Telefone) | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, com a ideia principal focada no tempo de resposta para o usuário. |
 
-Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf)
+<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
 ### Propagação dos Impactos - Usabilidade
 
@@ -440,7 +442,7 @@ A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e 
 | PadronizacaoDaTelaDePerfil [layoutPerfil]                        | 𝒲-       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
 | PadrõesDeHeuristicaseAffordance [layout]                        | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
 
-Fonte: [Felipe das Neves](https://github.com/FelipeFreire-gf)
+<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
 ## NFR 03 - Confiabilidade
 
@@ -457,7 +459,9 @@ A figura 6 a seguir demonstra o SIG de Confiabilidade:
 
 Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, levando em consideração aspectos como envio de informações sem falhas, criptografia segura dos dados e acionamento confiável de alertas em situações emergenciais. Esses requisitos foram elaborados com base na modelagem do NFR Framework para o aplicativo *Celular Seguro*.
 
-**Tabela 15** - Requisitos Não-Funcionais: Confiabilidade
+
+
+<font size="3"><p style="text-align: center">Tabela 15 - Requisitos Não-Funcionais: Confiabilidade</p></font>
 
 | Código | Nome                                   | Descrição                                                                 |
 |--------|----------------------------------------|---------------------------------------------------------------------------|
@@ -465,11 +469,13 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 | RNF08  | Garantir Segurança e Privacidade       | O sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados (ex: AES-256). |
 | RNF09  | Garantir Confiabilidade do Alerta      | O sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário. |
 
-Fonte: [Mateus](https://github.com/zDrNz)
+<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
 
 ### Propagação dos Impactos - Confiabilidade
 
-*Tabela 16* - Propagação dos Impactos: Confiabilidade
+
+
+<font size="3"><p style="text-align: center">Tabela 16 - Propagação dos Impactos: Confiabilidade</p></font>
 
 | NFR / Softgoal                     | Impacto                           | Avaliador  |
 | :--------------------------------- | :-------------------------------- | :--------- |
@@ -485,7 +491,8 @@ Fonte: [Mateus](https://github.com/zDrNz)
 | Arquivos até 10MB (JPG, PNG, PDF)  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 | Falha no envio acima de 10MB       |  X                                |    <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>       |
 
-Fonte: [Mateus Bastos](https://github.com/zDrNz)
+<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
+
 
 ## NFR 04 - Desempenho
 
@@ -497,7 +504,7 @@ A figura 7 a seguir demonstra o SIG de Desempenho:
 
 ![SIG GERAL](../../assets/nfr/desempenho.png)
 
-<font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
+<font size="3"><p style="text-align: center">Fonte: Daniel Rodrigues</p></font>
 
 ### Requisitos Não-Funcionais - Desempenho
 
@@ -512,13 +519,11 @@ Na Tabela 17, estão listados os RNF presentes no NFR Famework de Desempenho:
 | Servidores  | O sistema deve possuir servidores para perdurar os dados. | Desempenho | Infraestrutura |
 | Manutenção em tempo real  | O sistema deve ser capaz de realizar a manutenção dos servidores e de outros aspectos da infraestrutura. | Desempenho | Servidores e Infraestrutura |
 
-Fonte: [Daniel Rodrigues](https://github.com/zDrNz)
+<font size="3"><p style="text-align: center">Fonte: Daniel Rodrigues</p></font>
 
 ### Propagação dos Impactos - Desempenho
 
 Na Tabela 18, está presente a avaliação da propagação dos impactos referentes à Figura x.
-
-
 
 <b>Tabela 18</b> - Impactos Desempenho
 
@@ -538,7 +543,7 @@ Na Tabela 18, está presente a avaliação da propagação dos impactos referent
 | Escalabilidade (Crescimento)     | ↘/+         | [Daniel Rodrigues](https://github.com/zDrNz) |
 
 
-Fonte: [Arthur de Melo](https://github.com/zDrNz)
+<font size="3"><p style="text-align: center">Fonte: Daniel Rodrigues</p></font>
 
 ## NFR 05 - Segurança
 
@@ -546,28 +551,38 @@ Fonte: [Arthur de Melo](https://github.com/zDrNz)
 
 A figura 8 a seguir demonstra o SIG de Segurança:
 
-![SIG GERAL](../../assets/nfr/seguranca.png)
+![SIG GERAL](../../assets/nfr/seguranca.jpeg)
 
-**Tabela 19 – Requisitos Não-Funcionais - Segurança**
+Os Requisitos utilizados para a confecção da Figura 8 estão presentes na Tabela 19:
+
+<font size="3"><p style="text-align: center">Tabela 19 – Requisitos Não-Funcionais - Segurança</p></font>
 
 | ID     | Nome                         | Descrição                                                             |
 |--------|------------------------------|------------------------------------------------------------------------|
 | RNF08  | Criptografia AES-256         | Dados sensíveis dos boletins devem ser protegidos com criptografia forte |
+| RNF10  | Emissão Restrita de Alertas  | Apenas usuários autenticados podem emitir alertas                    |
+| RNF11  | Proteção contra Invasões     | Tentativas simultâneas de login são bloqueadas automaticamente       |
 
+<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
 
 ### Propagação dos Impactos - Segurança
 
 Na Tabela 20, está presente a avaliação da propagação dos impactos referentes à Figura 8 (SIG da Segurança).
 
-**Tabela 20 – Impactos Segurança**
+<font size="3"><p style="text-align: center">Tabela 20 – Impactos Segurança</p></font>
 
 | NFR                          | Impacto | Avaliador      |
 |-----------------------------|---------|----------------|
-| Segurança                   | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Criptografia AES-256        | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| NumerosCadastrados | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| CadastrarNovoNumero   | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| HistoricoDeNuemrosCadastrados   | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Segurança                   | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Criptografia AES-256        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Emissão Restrita de Alertas | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Proteção contra Invasões    | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Garantia de Autenticação    | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Bloqueio de Ataques         | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Prevenção de Vazamento      | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Tentativas de Login         | X       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+
+<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
