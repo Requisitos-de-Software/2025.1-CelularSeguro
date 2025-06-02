@@ -13,6 +13,23 @@ O Backlog de Produto organiza todas as funcionalidades e requisitos do Celular S
 
 Para elaborar o Backlog, iniciou-se pela elicitação de requisitos (entrevistas, análise documental, questionários), levantando necessidades funcionais e não funcionais. Requisitos de alto nível foram agrupados em épicos, depois decompostos em features e, em seguida, em histórias de usuário com critérios “Dado–Quando–Então”. O Dono do Produto e a equipe priorizaram cada história pelo método Three Level Scale (Alta, Média, Baixa), estimaram esforço em horas e, a cada Sprint, refinaram o Backlog em sessões de grooming, ajustando prioridades, detalhando itens e dividindo histórias conforme surgem novas informações.
 
+### Tabela Contribuição Backlog
+
+Na modelagem do Backlog do projeto, todos os membros, com exceção de Daniel Rodrigues, elaboraram seus respectivos backlogs. A estruturação completa deste submenu ficou sob responsabilidade de um único integrante.
+
+#### Tabela 0 – Participação dos membros na construção do submenu Backlog
+
+| Membro da Equipe | Contribuições |
+|------------------|---------------|
+| [Arthur Carvalho](https://github.com/arthurlleite) | Desenvolveu seu respectivo backlog |
+| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolveu seu respectivo backlog; Estruturou o submenu |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Desenvolveu seu respectivo backlog |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolveu seu respectivo backlog |
+| [Daniel Rodrigues](https://github.com/zDrNz) | Não contribuiu neste submenu |
+| [Mateus Bastos](https://github.com/MateuSansete) | Desenvolveu seu respectivo backlog |
+| [Vitor Pereira](https://github.com/Bessazs) | Desenvolveu seu respectivo backlog |
+
+**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)
 ---
 
 <center>
