@@ -115,7 +115,7 @@ Aliada a essa especificação de trabalho de cada integrante, separamos pelas re
 
 Na modelagem de requisitos não funcionais por meio do NFR Framework, todos os membros da equipe desenvolveram 2 cartões de especificação com validação de seus usuários. Contudo, a estruturação do conteúdo no projeto foi feita exclusivamente por dois integrantes segundo a Tabela 1 a seguir.
 
-#### Tabela 2 – Participação dos membros na construção do submenu NFR Framework
+#### Tabela 1 – Participação dos membros na construção do submenu NFR Framework
 
 | Membro da Equipe | Contribuições |
 |------------------|---------------|
@@ -128,6 +128,7 @@ Na modelagem de requisitos não funcionais por meio do NFR Framework, todos os m
 | [Vitor Pereira](https://github.com/Bessazs) | Desenvolveu 2 cartões validados com o usuário |
 
 <font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
+
 ---
 
 ## Cartão de Especificação
