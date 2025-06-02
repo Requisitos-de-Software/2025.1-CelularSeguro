@@ -319,7 +319,7 @@ As Tabelas 11 e 12 apresentam os requisitos não funcionais (RNF) de usabilidade
 | Campo               | RNF11                                                                                                  |
 |---------------------|--------------------------------------------------------------------------------------------------------|
 | **Nº Requisito:**   | 11                                                                                                  |
-| **Classificação:**  |  Usabilidade e Funcionalidade                                                                           |
+| **Classificação:**  |  Segurança                                                                           |
 | **Descrição:**      |  O sistema deve fornecer informações de localização do dispositivo com alta precisão, garantindo que os dados exibidos representem fielmente o posicionamento real do dispositivo no mapa.  
 | **Justificativa:**  |  Garantir a precisão da localização é fundamental para que funcionalidades como rastrear, bloquear ou recuperar o dispositivo sejam eficazes. Isso contribui diretamente para a confiança do usuário no sistema, reduzindo frustrações causadas por erros de posicionamento e garantindo a usabilidade do serviço, especialmente em situações críticas, como perda ou roubo do dispositivo. |
 | **Origem do Requisito:**  |  [BS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais), [QS01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)   |
@@ -336,7 +336,7 @@ As Tabelas 11 e 12 apresentam os requisitos não funcionais (RNF) de usabilidade
 | Campo               | RNF12                                                                                                  |
 |---------------------|--------------------------------------------------------------------------------------------------------|
 | **Nº Requisito:**   | 12                                                                                                  |
-| **Classificação:**  |  Usabilidade e Funcionalidade                                                                           |
+| **Classificação:**  |  Segurança                                                                         |
 | **Descrição:**      |  Os dados de localização do dispositivo devem ser protegidos contra acessos não autorizados, utilizando criptografia tanto na transmissão quanto no armazenamento. |
 | **Justificativa:**  | Informações de localização são altamente sensíveis, pois podem revelar a posição exata do usuário em tempo real. Proteger esses dados garante a privacidade, evita riscos de segurança pessoal e aumenta a confiança dos usuários no sistema. Além disso, estar em conformidade com leis de proteção de dados, como a LGPD, é essencial. |
 | **Origem do Requisito:**  |  [BS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais), [QS01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)   |
@@ -526,10 +526,10 @@ Na Tabela 17, estão listados os RNF presentes no NFR Famework de Desempenho:
 
 | RNF (Fonte) | Descrição | Classificação | Origem |
 |-------------|---------|-------|-------|
-| Tempo de Resposta (<a id="anchor_FE1" href="#FE1">FE1</a> e <a id="anchor_FE2" href="#FE2">FE2</a>) |  O sistema deve possuir uma limitação superior do tempo de processamento de uma requisição. | Desempenho | Desempenho |
-| Infraestrutura (<a id="anchor_FE2" href="#FE2">FE2</a>) | O sistema deve possuir uma infraestrutura para processar os dados. | Desempenho | Tempo de Resposta |
-| Servidores (<a id="anchor_FE2" href="#FE2">FE2</a>) | O sistema deve possuir servidores para perdurar os dados. | Desempenho | Infraestrutura |
-| Manutenção em tempo real (<a id="anchor_FE1" href="#FE1">FE1</a> e <a id="anchor_FE2" href="#FE2">FE2</a>) | O sistema deve ser capaz de realizar a manutenção dos servidores e de outros aspectos da infraestrutura. | Desempenho | Servidores e Infraestrutura |
+| Tempo de Resposta  |  O sistema deve possuir uma limitação superior do tempo de processamento de uma requisição. | Desempenho | Desempenho |
+| Infraestrutura  | O sistema deve possuir uma infraestrutura para processar os dados. | Desempenho | Tempo de Resposta |
+| Servidores  | O sistema deve possuir servidores para perdurar os dados. | Desempenho | Infraestrutura |
+| Manutenção em tempo real  | O sistema deve ser capaz de realizar a manutenção dos servidores e de outros aspectos da infraestrutura. | Desempenho | Servidores e Infraestrutura |
 
 Fonte: [Daniel Rodrigues](https://github.com/zDrNz)
 
@@ -565,33 +565,28 @@ Fonte: [Arthur de Melo](https://github.com/zDrNz)
 
 A figura 8 a seguir demonstra o SIG de Segurança:
 
+![SIG GERAL](../../assets/nfr/seguranca.png)
 
 **Tabela 19 – Requisitos Não-Funcionais - Segurança**
 
 | ID     | Nome                         | Descrição                                                             |
 |--------|------------------------------|------------------------------------------------------------------------|
 | RNF08  | Criptografia AES-256         | Dados sensíveis dos boletins devem ser protegidos com criptografia forte |
-| RNF10  | Emissão Restrita de Alertas  | Apenas usuários autenticados podem emitir alertas                    |
-| RNF11  | Proteção contra Invasões     | Tentativas simultâneas de login são bloqueadas automaticamente       |
+
 
 ### Propagação dos Impactos - Segurança
 
-Na Tabela 20, está presente a avaliação da propagação dos impactos referentes à Figura X (SIG da Segurança).
+Na Tabela 20, está presente a avaliação da propagação dos impactos referentes à Figura 8 (SIG da Segurança).
 
 **Tabela 20 – Impactos Segurança**
 
 | NFR                          | Impacto | Avaliador      |
 |-----------------------------|---------|----------------|
-| Segurança                   | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Criptografia AES-256        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Emissão Restrita de Alertas | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Proteção contra Invasões    | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Garantia de Autenticação    | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Bloqueio de Ataques         | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Prevenção de Vazamento      | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Tentativas de Login         | X       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-
-
+| Segurança                   | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Criptografia AES-256        | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| NumerosCadastrados | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| CadastrarNovoNumero   | ✓      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| HistoricoDeNuemrosCadastrados   | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
