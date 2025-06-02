@@ -151,8 +151,8 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 ## 4. Gravação
 
 <div style="text-align: center;">
-  <p><strong>Vídeo: </strong> <a href="https://youtu.be/vor_S3Pgb2s"> Grupo 03 – Inspeção grupo 03</a></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vor_S3Pgb2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/3yEi7D9Jwds"> Grupo 03 – Inspeção grupo 03</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3yEi7D9Jwds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Histórico de Versões 
@@ -162,3 +162,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |1.0     | 01/06/2025 |Criação do documento|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
 |1.1     | 01/06/2025 |Adição de novos itens de validação e padronização|[<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
 |1.2     | 01/06/2025 |Adição de novos itens de validação e padronização|[<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
+|1.3     | 01/06/2025 |Adição do video de inspeção |[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 01/06/2025 |
