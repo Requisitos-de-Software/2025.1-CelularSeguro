@@ -547,6 +547,22 @@ Na Tabela 18, está presente a avaliação da propagação dos impactos referent
 
 ## NFR 05 - Segurança
 
+Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabela Y:
+
+- **RNF02:** o sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB sem falhas ou perdas de dados, assegurando a integridade das informações anexadas.
+- **RNF08:** o sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados, utilizando algoritmos seguros como AES-256, para manter a confidencialidade e integridade das informações.
+- **RNF09:** o sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário, garantindo a confiabilidade da ação crítica.
+
+
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Segurança </p></font>
+
+
+![SIG GERAL](../../assets/nfr/seguranca.png)
+
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
+
+
+
 ### Requisitos Não-Funcionais - Segurança
 
 A figura 8 a seguir demonstra o SIG de Segurança:
