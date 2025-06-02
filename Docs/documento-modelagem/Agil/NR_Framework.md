@@ -129,9 +129,9 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | **Origem do Requisito:** | Entrevista com usuário (Arthur)                                                                        |
 | **Critério de Aceitação:** | Após o envio do boletim, o número de protocolo deve ser exibido em destaque, com opção de cópia e visibilidade mínima de 10 segundos. |
 | **Dependências:**        | Envio bem-sucedido do boletim de ocorrência                                                           |
-| **Prioridade:**          | Alta (4,2)                                                                                            |
+| **Prioridade:**          | Alta                                                                                            |
 | **Conflitos:**           | Nenhum                                                                                                |
-| **História:**            | -    
+| **História:**            | 30/06/2025     
 
 
 
@@ -148,7 +148,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | **Dependências:**         | Funcionalidade de envio de boletim com anexos                                                          |
 | **Prioridade:**           | Média                                                                                            |
 | **Conflitos:**            | Nenhum                                                                                                |
-| **História:**             | -   
+| **História:**             | 30/06/2025   
 
 
 
@@ -167,7 +167,7 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 | **Dependências:** | Pessoas já cadastradas na lista de confiança |
 | **Prioridade:** | Alta  |
 | **Conflitos:** | Nenhum conflito direto identificado. O risco de remoção acidental deve ser mitigado pela etapa de confirmação. |
-| **História:** | US36 |
+| **História:** |  <a href="../Historias_de_usuario#us36">US36</a> |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -180,12 +180,12 @@ As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confia
 | **Classificação:**         | Usabilidade / Acessibilidade / Funcionalidade                                                                        |
 | **Descrição:** | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.|
 | **Justificativa:** |  Proporcionar uma melhor experiência de uso em ambientes com pouca luminosidade, reduzir o cansaço visual, atender às preferências de uma parcela de usuário, mesmo que esse requisito tenha sido verificado apenas para a funcionalidade: Registrar pessoa de confiança, tal requisito se extende ou sistema completo.|
-| **Origem do Requisisto:** | [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)|
+| **Origem do Requisisto:** | Obtido da técnica de elicitação do questionário: [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/)|
 | **Critério de Aceitação:** | O aplicativo deve possuir uma opção nas configurações que permita ao usuário alternar entre o tema claro (padrão) e o modo escuro. Todos os textos, ícones e elementos interativos devem manter boa legibilidade e contraste adequado no modo escuro, conforme as diretrizes de acessibilidade (ex: WCAG AA). A transição entre os modos deve ser suave e todas as telas do aplicativo devem ser compatíveis.|
 | **Dependências:** | Definição da paleta de cores para o modo claro e escuro. |
 | **Prioridade:** | Baixa                                                                                 |
 | **Conflitos:** | Nenhum                           |
-| **História:** | - |
+| **História:** | 30/06/2025 |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
@@ -272,7 +272,7 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a></p></font>
 
-
+As Tabelas 9 e 10 apresentam os requisitos não funcionais (RNF) de usabilidade e segurança no menu "Emitir Alerta".
 
 <a id="rnf09"></a>
 <font size="3"><p style="text-align: center">Tabela 9: Cartão de Especificação (Emitir alerta-Alerta e Bloqueio)</p></font>
@@ -312,6 +312,7 @@ As Tabelas 7 e 8 apresentam os requisitos não funcionais (RNF) de usabilidade e
 
 <font size="3"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz)</p></font>
 
+As Tabelas 11 e 12 apresentam os requisitos não funcionais (RNF) de usabilidade e segurança no menu "Buscar Aplicativo".
 
 <font size="3"><p style="text-align: center">Tabela 11: Cartão de Especificação (Localização - Precisão da localização)</p></font>
 
@@ -375,7 +376,7 @@ A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma v
 
 <font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
 
-No entanto, como o foco é trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, conforme a figura 2:
+No entanto, como o foco é trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, conforme a figura 3:
 
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
 
@@ -386,7 +387,7 @@ No entanto, como o foco é trabalhar apenas com Requisitos Não-Funcionais ainda
 
 ---
 
-Legendas:
+Legendas estão conforma a figura 4:
 
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Legendas SIG </p></font>
 
@@ -399,24 +400,24 @@ Legendas:
 
 ## NFR 01 - Usabilidade
 
-Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 9:
+Diagrama de SIG de usabilidade, figura 5:
 
-
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - Legendas SIG </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 5</b> SIG Usabilidade</p></font>
 
 
 ![SIG GERAL](../../assets/nfr/usabilidade.png)
 
-<font size="3"><p style="text-align: center">Fonte: (SILVA, 2019)</p></font>
+<font size="3"><p style="text-align: center">Autor: Felipe das Neves</p></font>
 
 
 
 ### Requisitos Não-Funcionais - Usabilidade
 
 
+
 <center>
 
-*Tabela X* - Requisitos Não-Funcionais: Usabilidade
+*Tabela 13* - Requisitos Não-Funcionais: Usabilidade
 
 | Código  | Nome                                                              | Descrição                                                                                                                                                                                                                            |
 | :------ | :---------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -431,12 +432,12 @@ Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabe
 
 ### Propagação dos Impactos - Usabilidade
 
-A tabela a seguir detalha os softgoals de Usabilidade e como os requisitos e operacionalizações específicas impactam esses objetivos.
+A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e operacionalizações específicas impactam esses objetivos.
 
 
 <center>
 
-*Tabela Y* - Propagação dos Impactos: Usabilidade
+*Tabela 14* - Propagação dos Impactos: Usabilidade
 
 | NFR / Softgoal                                                        | Impacto | Avaliador                                                                                                |
 | :-------------------------------------------------------------------- | :------ | :------------------------------------------------------------------------------------------------------- |
@@ -452,25 +453,11 @@ A tabela a seguir detalha os softgoals de Usabilidade e como os requisitos e ope
 
 </center>
 
-
-
-
-
-
 ## NFR 03 - Confiabilidade
 
-Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabela Y:
+A figura 6 a seguir demonstra o SIG de Confiabilidade:
 
-- **RNF02:** o sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB sem falhas ou perdas de dados, assegurando a integridade das informações anexadas.
-- **RNF08:** o sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados, utilizando algoritmos seguros como AES-256, para manter a confidencialidade e integridade das informações.
-- **RNF09:** o sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário, garantindo a confiabilidade da ação crítica.
-
-
-
-
-A Figura 6 a seguir demonstra o Softgoal Interdependency Graph de Confiabilidade.
-
-<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Confiabilidade</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 6</b> SIG Confiabilidade</p></font>
 
 
 ![SIG GERAL](../../assets/nfr/confiabilidade.png)
@@ -481,11 +468,11 @@ A Figura 6 a seguir demonstra o Softgoal Interdependency Graph de Confiabilidade
 
 ### Requisitos Não-Funcionais - Confiabilidade
 
-Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, levando em consideração aspectos como envio de informações sem falhas, criptografia segura dos dados e acionamento confiável de alertas em situações emergenciais. Esses requisitos foram elaborados com base na modelagem do NFR Framework para o aplicativo *Celular Seguro*.
+Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, levando em consideração aspectos como envio de informações sem falhas, criptografia segura dos dados e acionamento confiável de alertas em situações emergenciais. Esses requisitos foram elaborados com base na modelagem do NFR Framework para o aplicativo *Celular Seguro*.
 
 <center>
 
-**Tabela 12** - Requisitos Não-Funcionais: Confiabilidade
+**Tabela 15** - Requisitos Não-Funcionais: Confiabilidade
 
 | Código | Nome                                   | Descrição                                                                 |
 |--------|----------------------------------------|---------------------------------------------------------------------------|
@@ -498,6 +485,7 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 
 ### Propagação dos Impactos - Confiabilidade
 
+*Tabela 16* - Propagação dos Impactos: Confiabilidade
 
 | NFR / Softgoal                     | Impacto                           | Avaliador  |
 | :--------------------------------- | :-------------------------------- | :--------- |
@@ -516,10 +504,10 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 
 ## NFR 04 - Desempenho
 
+A figura 7 a seguir demonstra o SIG de Desempenho:
 
 
-
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - Legendas SIG </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 7</b> - SIG Desempenho </p></font>
 
 
 ![SIG GERAL](../../assets/nfr/desempenho.png)
@@ -530,11 +518,11 @@ Na Tabela a seguir, são descritos os Requisitos Não-Funcionais relacionados à
 
 ### Requisitos Não-Funcionais - Desempenho
 
-Na Tabela 7, estão listados os RNF presentes no NFR Famework de Desempenho :
+Na Tabela 17, estão listados os RNF presentes no NFR Famework de Desempenho:
 
 <center>
 
-<b>Tabela x</b> - Requisitos Não-Funcionais 
+<b>Tabela 17</b> - Requisitos Não-Funcionais 
 
 | RNF (Fonte) | Descrição | Classificação | Origem |
 |-------------|---------|-------|-------|
@@ -547,11 +535,11 @@ Fonte: [Daniel Rodrigues](https://github.com/zDrNz)
 
 ### Propagação dos Impactos - Desempenho
 
-Na Tabela 7, está presente a avaliação da propagação dos impactos referentes à Figura x.
+Na Tabela 18, está presente a avaliação da propagação dos impactos referentes à Figura x.
 
 <center>
 
-<b>Tabela x</b> - Impactos Desempenho
+<b>Tabela 18</b> - Impactos Desempenho
 
 | NFR                        | Impacto| Avaliador         |
 |----------------------------------|-------------|------------------------|
@@ -571,24 +559,14 @@ Na Tabela 7, está presente a avaliação da propagação dos impactos referente
 
 Fonte: [Arthur de Melo](https://github.com/zDrNz)
 
-
-
-
-
-
 ## NFR 05 - Segurança
-
-
 
 ### Requisitos Não-Funcionais - Segurança
 
-Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabela 13:
+A figura 8 a seguir demonstra o SIG de Segurança:
 
-- **RNF08**: o sistema deve aplicar criptografia ponta-a-ponta com algoritmo AES-256 para proteger os dados enviados nos boletins.
-- **RNF10**: o sistema deve garantir que apenas pessoas autorizadas consigam emitir alertas de perigo, exigindo autenticação.
-- **RNF11**: o sistema deve impedir tentativas simultâneas de login malicioso através de mecanismos de limitação de tentativas e bloqueios automáticos.
 
-**Tabela 13 – Requisitos Não-Funcionais - Segurança**
+**Tabela 19 – Requisitos Não-Funcionais - Segurança**
 
 | ID     | Nome                         | Descrição                                                             |
 |--------|------------------------------|------------------------------------------------------------------------|
@@ -596,14 +574,11 @@ Os Requisitos utilizados para a confecção da Figura X estão presentes na Tabe
 | RNF10  | Emissão Restrita de Alertas  | Apenas usuários autenticados podem emitir alertas                    |
 | RNF11  | Proteção contra Invasões     | Tentativas simultâneas de login são bloqueadas automaticamente       |
 
-
-
-
 ### Propagação dos Impactos - Segurança
 
-Na Tabela 14, está presente a avaliação da propagação dos impactos referentes à Figura X (SIG da Segurança).
+Na Tabela 20, está presente a avaliação da propagação dos impactos referentes à Figura X (SIG da Segurança).
 
-**Tabela 14 – Impactos Segurança**
+**Tabela 20 – Impactos Segurança**
 
 | NFR                          | Impacto | Avaliador      |
 |-----------------------------|---------|----------------|
@@ -618,14 +593,9 @@ Na Tabela 14, está presente a avaliação da propagação dos impactos referent
 
 
 
-
-
-
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
-obs cada integrante complete a tabela com o seus requisitos
-
-A Tabela 8 a seguir lista os Requisitos Não-Funcionais utilizados para o desenvolvimento do NFR Framework.
+A Tabela 21 a seguir lista os Requisitos Não-Funcionais utilizados para o desenvolvimento do NFR Framework.
 
 <p style="text-align: center"><b>Tabela 8</b> - Requisitos Não-Funcionais</p>
 
@@ -639,7 +609,7 @@ A Tabela 8 a seguir lista os Requisitos Não-Funcionais utilizados para o desenv
 
 ---
 
-A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
+A Tabela 22 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
 
 <a id="table09"></a>
 <p style="text-align: center"><b>Tabela 9</b> - Requisitos Não-Funcionais (Tela de Perfil)</p>
@@ -652,22 +622,6 @@ A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de P
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
 ---
-
-## Fontes Externas
-
-Por fim, a Tabela x explicita as Fontes Externas como revisão na literatura.
-
-<center>
-<b>Tabela x</b> - Fontes Externas
-
-| ID  | Autores | Título |
-|-----|---------|--------|
-| <a id="FE1" href="#anchor_FE1">FE1</a> |  SILVA  | NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados |
-| <a id="FE2" href="#anchor_FE2">FE2</a> |  PAIM, et al | Enhancing Data Warehouse Design with the NFR Framework |
-| <a id="FE3" href="#anchor_FE3">FE3</a> |  CHUNG, et al | Non-functional requirementsin software engineering |
-
-Fonte: [Daniel Rodrigues Nascimento](https://github.com/zDrNz)
-</center>
 
 ## Bibliografia
 
@@ -688,5 +642,6 @@ Fonte: [Daniel Rodrigues Nascimento](https://github.com/zDrNz)
 | 1.4    | 01/06/2025         | Desenvolvimento das tabelas 7 e 8 do Cartão de especificação  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
 | 1.5    | 01/06/2025         | Desenvolvimento das tabelas 9 e 10 do Cartão de especificação e Desempenho | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/06/2025 |
 | 1.6    | 01/06/2025         | Desenvolvimento das tabelas 11 e 12 do Cartão de especificação e padronização  | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>  |  <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 01/06/2025 |
+| 1.7    | 01/06/2025         | Padronização das tabelas e figuras  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Mateus Bastos</a> | 01/06/2025 |
 
 
