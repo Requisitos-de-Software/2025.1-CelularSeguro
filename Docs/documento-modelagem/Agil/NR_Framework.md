@@ -590,7 +590,7 @@ Na Tabela 20, está presente a avaliação da propagação dos impactos referent
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
-A Tabela 21 a seguir lista os Requisitos Não-Funcionais utilizados para o desenvolvimento do NFR Framework.
+A Tabela 21 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela Registar Pessoa de Confiança.
 
 <p style="text-align: center"><b>Tabela 8</b> - Requisitos Não-Funcionais</p>
 
@@ -600,7 +600,6 @@ A Tabela 21 a seguir lista os Requisitos Não-Funcionais utilizados para o desen
 | <a id="RNF04" href="#anchor_RNF02">RNF04</a> | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.    | [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-nao-funcionais)                                     | Não           |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
-
 
 ---
 
