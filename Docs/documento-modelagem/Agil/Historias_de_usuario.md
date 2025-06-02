@@ -357,22 +357,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-
----
-
----
-<p style="text-align: center">Entrevista 3</p>
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
-
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
-
----
-
 <a id="us13"></a>
 ### US13 - Redefinir a senha via e-mail **(Não Implementado)**
 
@@ -509,6 +493,8 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <p style="text-align: center">Caso não abra <a href="https://youtu.be/GiwWQzVdW44" target="blanket">clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
+
+---
 
 <p style="text-align: center">Entrevista 3.2</p>
 
@@ -1061,7 +1047,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     </center>
 
 
-<p style="text-align: center">Entrevista 7</p>
+<p style="text-align: center">Entrevista 7.1</p>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oN6U6pNRG90?si=VS6jA8Be7hVRtBxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -1071,7 +1057,9 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
 
-<p style="text-align: center">Entrevista 8</p>
+---
+
+<p style="text-align: center">Entrevista 7.2</p>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nW3cYrsDQLw?si=beFKtgPRD6fcVIuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -1110,3 +1098,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.6 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
 | 1.7 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
 | 1.8 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
+| 1.9 | 01/06/2025 | Mudanças de padrões de video | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
