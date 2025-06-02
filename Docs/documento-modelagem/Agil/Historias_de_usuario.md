@@ -653,7 +653,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-### US25 - [Título da US25]
+### US25 - Alertar automaticamente por comportamento suspeito (Não implementado)
 
 ??? abstract "Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado)"
 
@@ -673,7 +673,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-### US26 - [Título da US26]
+### US26 - Localizar aparelho via GPS em tempo real (Não implementado)
 
 ??? abstract "Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado)"
 
@@ -693,7 +693,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-### US27 - [Título da US27]
+### US27 - Confirmar antes da emissão do alerta
 
 ??? abstract "Tabela 29 - Confirmar antes da emissão do alerta"
 
@@ -713,7 +713,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-### US28 - [Título da US28]
+### US28 - Escolher tipo de bloqueio
 
 ??? abstract "Tabela 30 - Escolher tipo de bloqueio"
 
@@ -733,7 +733,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-### US29 - [Título da US29]
+### US29 - Permitir que pessoas de confiança emitam alerta
 
 ??? abstract "Tabela 31 - Permitir que pessoas de confiança emitam alerta"
 
@@ -753,7 +753,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-### US30 - [Título da US30]
+### US30 - Gerar número de protocolo
 
 ??? abstract "Tabela 32 - Gerar número de protocolo"
 

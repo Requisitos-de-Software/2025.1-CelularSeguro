@@ -444,7 +444,7 @@ A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e 
 
 <font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
-## NFR 03 - Confiabilidade
+## NFR 02 - Confiabilidade
 
 A figura 6 a seguir demonstra o SIG de Confiabilidade:
 
@@ -494,7 +494,7 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 <font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
 
 
-## NFR 04 - Desempenho
+## NFR 03 - Desempenho
 
 A figura 7 a seguir demonstra o SIG de Desempenho:
 
@@ -545,7 +545,7 @@ Na Tabela 18, está presente a avaliação da propagação dos impactos referent
 
 <font size="3"><p style="text-align: center">Fonte: Daniel Rodrigues</p></font>
 
-## NFR 05 - Segurança
+## NFR 04 - Segurança
 
 ### Requisitos Não-Funcionais - Segurança
 
