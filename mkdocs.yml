@@ -85,7 +85,9 @@ nav:
 
   - Rastreabilidade:
       - Matriz Geral: "documento-rastreabilidade/matriz.md"
-      - Pós rastreabilidade: "documento-rastreabilidade/pos-rastreabilidade.md"
+      - Pós-Rastreabilidade: "documento-rastreabilidade/pos-rastreabilidade.md"
+      - Backward-form: "documento-rastreabilidade/backward-form.md"
+      - Forward-form: "documento-rastreabilidade/Forward-form.md"
     
   - Verificação:
       - Introdução: "documento-verificacao/introducao-verificacao.md"

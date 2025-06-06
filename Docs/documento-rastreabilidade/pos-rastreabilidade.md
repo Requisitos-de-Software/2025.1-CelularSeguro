@@ -29,8 +29,17 @@ A rastreabilidade foi aplicada exclusivamente aos requisitos que **não foram im
 | -                  | -                        | Alocado                | -                       |
 | -                  | -                        | Agregação              | -                       |
 
-<sub>Fonte: Adaptado do Meta-modelo de Toranzo (TORANZO, 2002).</sub>
+<sub>Fonte: (TORANZO, 2002).</sub>
 
 ### Rastreabilidade
 
 As tabelas a seguir detalham os elos identificados entre os artefatos e os requisitos, tanto funcionais quanto não funcionais, implementados ou não pela Bilheteria Digital. 
+
+
+---
+# Histórico de Versões
+
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      | Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  | :-------------: |
+| 1.0    | 06/02/2025         | Criação inicial do documento                         | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/02/2025 |
+| 1.1    | 06/02/2025         | Adição das seções de Introdução e Metodologia | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 08/02/2025 |

@@ -1,33 +1,54 @@
-# Matriz Geral
----
+## Matriz Geral de Rastreabilidade
+
 ### Introdução
 
-A **matriz geral** é um documento que permite a apresentação dos **requisitos** elicitados no projeto juntamente com sua **pré e pós rastreabilidade**. Essa matriz, estruturada em forma de tabela, estabelece uma **conexão cruzada** entre os requisitos e os documentos correspondentes.
+A **matriz geral de rastreabilidade** é um artefato essencial na engenharia de requisitos que permite representar, de forma consolidada, os requisitos funcionais identificados ao longo do projeto, juntamente com sua **pré e pós-rastreabilidade**. A proposta é fornecer uma **visão integrada e sistemática** dos vínculos entre os requisitos, suas origens (como técnicas de elicitação) e os artefatos derivados ou relacionados.
 
-Ao utilizar essa técnica de **referências e documentos cruzados**, é possível identificar e destacar as **dependências** existentes entre os requisitos. Além disso, a matriz geral também permite a inclusão de **elos** que evidenciam o relacionamento entre os **artefatos** criados ao longo do projeto.
+De acordo com Sayão e Leite (2005), a rastreabilidade é o mecanismo que viabiliza a ligação entre os diversos elementos envolvidos no ciclo de vida de um sistema, incluindo requisitos, documentos, decisões e implementações. A matriz geral viabiliza essa conexão por meio de **referências cruzadas e elos rastreáveis**, revelando **dependências**, **origens documentais** e **impactos** que cada requisito pode ter em diferentes fases do desenvolvimento.
 
-Em suma, a matriz geral, por meio de sua abordagem estruturada e de sua capacidade de estabelecer referências cruzadas e elos, desempenha um papel fundamental na **análise e compreensão dos requisitos**, fornecendo uma visão completa e detalhada das relações entre os elementos do projeto.
+Dessa forma, a matriz não apenas favorece a **compreensão e análise sistêmica dos requisitos**, como também contribui para a **gestão de mudanças**, o **controle de qualidade** e a **manutenção evolutiva** do sistema ao longo do tempo.
 
 ---
 
 ### Objetivos
 
-Esse artefato tem como objetivo agregar os resultados obtidos nos artefatos de **Backward-From** e **Forward-From** em uma única **matriz de rastreabilidade**.
+O objetivo da matriz geral é consolidar as informações dos artefatos de **Backward-Form** (rastreabilidade retroativa) e **Forward-Form** (rastreabilidade prospectiva), proporcionando uma **visão unificada** do ciclo de vida dos requisitos. Através dessa unificação, é possível:
+
+- Verificar se todos os requisitos têm origem justificada (pré-rastreabilidade);
+- Avaliar o estado de implementação de cada funcionalidade;
+- Mapear os artefatos técnicos relacionados a cada requisito;
+- Identificar **elos** e **interdependências** que auxiliam na análise de impacto.
+
+Essa estrutura oferece um ponto central de consulta, facilitando o acompanhamento e a validação dos requisitos em todas as fases do projeto.
 
 ---
 
 ### Metodologia
 
-Os requisitos apresentados são os elicitados no artefato de **Requisitos Elicitados** que não tinham sua implementação completa no momento de análise.
+A construção da matriz geral partiu dos **requisitos elicitados** no projeto, especialmente aqueles que ainda não estavam completamente implementados no momento da análise. Esses requisitos foram cruzados com os dados coletados nos artefatos de rastreabilidade backward e forward, permitindo a composição de uma tabela unificada.
 
-A matriz é apresentada com 7 colunas, sendo elas:
+A matriz geral é organizada em **sete colunas**, com os seguintes significados:
 
-* **ID**: apresenta o identificador relacionado ao requisito;
-* **Descrição**: apresenta a descrição do requisito;
-* **Pré-Rastreabilidade**: apresenta a origem da elicitação do requisito;
-* **Implementado?**: indica se o requisito está ou não implementado no aplicativo (Sim, Não ou Parcialmente).
-* **Artefatos**: apresenta os artefatos relacionados ao requisito;
-* **Elos**: ligação entre os requisitos e artefatos.
+- **ID**: Identificador único do requisito funcional.
+- **Descrição**: Texto descritivo que expressa claramente o comportamento esperado do sistema.
+- **Pré-Rastreabilidade**: Técnicas e artefatos de elicitação (como questionários, storytelling ou análise de documentos) que fundamentam o requisito.
+- **Implementado?**: Indicação do status de implementação no aplicativo (Sim, Não, Parcialmente).
+- **Artefatos**: Representações técnicas ou documentais que detalham ou se relacionam diretamente com o requisito.
+- **Elos**: Ligações semânticas entre os requisitos e outros elementos (outros requisitos, funcionalidades, testes, etc.), indicando dependência, influência ou refinamento.
+
+Esta matriz representa, portanto, uma peça-chave no processo de **documentação e rastreamento completo dos requisitos**, apoiando práticas de desenvolvimento ágil, melhoria contínua e validação sistemática.
+
+---
+
+### Referência
+
+SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. **Rastreabilidade de Requisitos**. Monografias em Ciência da Computação, Nº 20/05. Departamento de Informática, PUC-Rio, 2005.
+
+---
+
+
+
+
 
 ---
 # Histórico de Versões
