@@ -80,6 +80,12 @@ nav:
           - NFR Framework: "documento-modelagem/Agil/NR_Framework.md"
           - Backlog: "documento-modelagem/Agil/Backlog.md"
           - Histórias de usuário: "documento-modelagem/Agil/Historias_de_usuario.md"
+
+
+
+  - Rastreabilidade:
+      - Matriz Geral: "documento-rastreabilidade/matriz.md"
+      - Pós rastreabilidade: "documento-rastreabilidade/pos-rastreabilidade.md"
     
   - Verificação:
       - Introdução: "documento-verificacao/introducao-verificacao.md"

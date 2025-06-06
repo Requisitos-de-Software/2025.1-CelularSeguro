@@ -1,5 +1,5 @@
 # Cenários de Uso – Celular Seguro
-
+---
 ## Introdução
 
 <div style="text-align: justify;">
