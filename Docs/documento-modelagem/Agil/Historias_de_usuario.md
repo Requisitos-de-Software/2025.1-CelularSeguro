@@ -367,7 +367,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 
     </center>
----
+
 <p style="text-align: center">Entrevista 2</p>
 
 <center>
@@ -375,6 +375,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 </center>
 
 <p style="text-align: center">Caso não abra <a href="youtube.com/watch?v=kL-Zt8jPkUA" target="blanket">clique aqui</a></p>
+>PDF (30 maio. 2025): [Termo de Compromisso](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro/blob/main/Docs/assets/pdf/verificacao/mateus-arthur-Termo_Consentimento_CelularSeguro.assinado.pdf)
 
 <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/gabriel-lima258)</p></font>
 
@@ -1114,11 +1115,12 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
 | 1.1 | 30/05/2025 | Criação do scopo da documentação US | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
-| 1.2 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
-| 1.3 | 31/05/2025 | Criação dos US 13 a 18 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
-| 1.4 | 31/05/2025 | Criação dos US 31 a 36 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-| 1.5 | 31/05/2025 | Criação dos US 00 a 06 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-| 1.6 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-| 1.7 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
-| 1.8 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
-| 1.9 | 01/06/2025 | Mudanças de padrões de video e tabela de entrevistados| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
+| 1.2 | 30/05/2025 | Criação dos US 07 a 12 |<a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |  <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| 30/05/2025 |
+| 1.3 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
+| 1.4 | 31/05/2025 | Criação dos US 13 a 18 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+| 1.5 | 31/05/2025 | Criação dos US 31 a 36 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
+| 1.6 | 31/05/2025 | Criação dos US 00 a 06 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
+| 1.7 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
+| 1.8 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+| 1.9 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
+| 2.0 | 01/06/2025 | Mudanças de padrões de video e tabela de entrevistados| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
