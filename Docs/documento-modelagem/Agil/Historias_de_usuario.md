@@ -367,7 +367,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 
     </center>
----
+
 <p style="text-align: center">Entrevista 2</p>
 
 <center>
@@ -375,6 +375,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 </center>
 
 <p style="text-align: center">Caso não abra <a href="youtube.com/watch?v=kL-Zt8jPkUA" target="blanket">clique aqui</a></p>
+>PDF (30 maio. 2025): [Termo de Compromisso](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro/blob/main/Docs/assets/pdf/verificacao/mateus-arthur-Termo_Consentimento_CelularSeguro.assinado.pdf)
 
 <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/gabriel-lima258)</p></font>
 
