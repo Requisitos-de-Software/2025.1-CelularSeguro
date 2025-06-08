@@ -12,7 +12,7 @@ Dessa forma, a matriz não apenas favorece a **compreensão e análise sistêmic
 
 ### Objetivos
 
-O objetivo da matriz geral é consolidar as informações dos artefatos de **Backward-Form** (rastreabilidade retroativa) e **Forward-Form** (rastreabilidade prospectiva), proporcionando uma **visão unificada** do ciclo de vida dos requisitos. Através dessa unificação, é possível:
+O objetivo da matriz geral é consolidar as informações dos artefatos de **Backward-From** (rastreabilidade retroativa) e **Forward-From** (rastreabilidade prospectiva), proporcionando uma **visão unificada** do ciclo de vida dos requisitos. Através dessa unificação, é possível:
 
 - Verificar se todos os requisitos têm origem justificada (pré-rastreabilidade);
 - Avaliar o estado de implementação de cada funcionalidade;
@@ -114,3 +114,4 @@ SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. **Rastreabilidade de Requis
 | 1.0    | 06/02/2025         | Criação inicial do documento                         | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
 | 1.1    | 06/02/2025         | Adição das seções de Introdução, Objetivos e Metodologia | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 
 | 1.2    | 07/06/2025         | Atualização da rastreabilidade dos artefatos | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> , <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 08/02/2025 |
+| 1.3    | 08/06/2025         | Atualização de termos utilizados | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> , <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>  | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 08/06/2025 |
