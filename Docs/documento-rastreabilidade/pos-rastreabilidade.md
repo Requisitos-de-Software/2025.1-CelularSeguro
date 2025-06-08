@@ -40,7 +40,7 @@ As tabelas a seguir detalham os elos identificados entre os artefatos e os requi
 
 <details>
 
-<summary> O aplicativo filtra os eventos por Estado e por Município. </summary>
+<summary> O aplicativo deve permitir localizar o celular perdido. </summary>
 
 <center>
 
@@ -91,7 +91,7 @@ Tabela 2 - RF01
 
 <details>
 
-<summary> O aplicativo filtra os eventos por data e por horário. </summary>
+<summary> O aplicativo deve tornar visível e acessível a opção de registro de boletim de ocorrência. </summary>
 
 <center>
 
@@ -142,7 +142,7 @@ Tabela 3 - RF02
 
 <details>
 
-<summary> O aplicativo filtra os eventos por idade mínima de entrada. </summary>
+<summary> O aplicativo permite acessar ou cancelar contas bancárias vinculadas ao aparelho. </summary>
 
 <center>
 
@@ -193,7 +193,7 @@ Tabela 4 - RF03
 
 <details>
 
-<summary> O aplicativo permite realizar a compra do ingresso. </summary>
+<summary> O aplicativo deve oferecer o passo a passo do que fazer após um furto ou roubo. </summary>
 
 <center>
 
@@ -244,7 +244,7 @@ Tabela 5 - RF04
 
 <details>
 
-<summary> O aplicativo permite o cadastro e o login do usuário. </summary>
+<summary> O aplicativo deve fornecer confirmação visual (feedback) ao usuário após realizar ações importantes. </summary>
 
 <center>
 
@@ -295,7 +295,7 @@ Tabela 6 - RF05
 
 <details>
 
-<summary> O aplicativo permite excluir cadastro. </summary>
+<summary> O aplicativo deve notificar o usuário em caso de atividade suspeita relacionada ao dispositivo. </summary>
 
 <center>
 
@@ -346,7 +346,7 @@ Tabela 7 - RF06
 
 <details>
 
-<summary>O aplicativo permite cadastrar métodos de pagamento. </summary>
+<summary> O aplicativo deve permitir a recuperação do aparelho bloqueado caso reencontrado. </summary>
 
 <center>
 
@@ -397,7 +397,7 @@ Tabela 8 - RF07
 
 <details>
 
-<summary>O aplicativo permite cancelar compras.</summary>
+<summary> O aplicativo deve permitir que o usuário registre um boletim de ocorrência. </summary>
 
 <center>
 
@@ -448,7 +448,7 @@ Tabela 9 - RF08
 
 <details>
 
-<summary>O aplicativo possui um mecanismo de busca.</summary>
+<summary> Modo Falso Desligamento/Fake Shutdown. Simular que o celular foi desligado quando, na verdade, continua rastreável e operacional para comandos remotos. </summary>
 
 <center>
 
@@ -499,7 +499,7 @@ Tabela 10 - RF09
 
 <details>
 
-<summary>O aplicativo filtra eventos por categorias.</summary>
+<summary> O sistema deve permitir autenticação do usuário via conta Gov.br, utilizando CPF e senha, como pré‑requisito de acesso. </summary>
 
 <center>
 
@@ -550,7 +550,7 @@ Tabela 11 - RF10
 
 <details>
 
-<summary>O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.</summary>
+<summary> O aplicativo deve exibir os Termos de Uso e Privacidade na primeira vez que for aberto e requerer que o usuário os aceite para prosseguir. </summary>
 
 <center>
 
@@ -601,7 +601,7 @@ Tabela 12 - RF11
 
 <details>
 
-<summary>O aplicativo tem palavras-chave ou tags associadas a eventos para facilitar a busca.</summary>
+<summary> O usuário poderá cadastrar múltiplos telefones celulares em sua conta no Celular Seguro, vinculando cada número de telefone ao seu CPF. </summary>
 
 <center>
 
@@ -652,7 +652,7 @@ Tabela 13 - RF12
 
 <details>
 
-<summary>O aplicativo notifica usuário sobre eventos, quando permitido.</summary>
+<summary> O aplicativo deve permitir o cadastro de “pessoas de confiança”, autorizando contatos escolhidos a emitir alertas em nome do usuário em caso de emergência. </summary>
 
 <center>
 
@@ -703,7 +703,7 @@ Tabela 14 - RF13
 
 <details>
 
-<summary>O usuário é capaz de filtrar eventos.</summary>
+<summary> O sistema deve fornecer uma função de emissão de alerta de bloqueio em caso de roubo, furto ou perda do aparelho, acionada por um botão de emergência de forma rápida. </summary>
 
 <center>
 
@@ -754,7 +754,7 @@ Tabela 15 - RF14
 
 <details>
 
-<summary>O usuário pode salvar os dados do cartão no app.</summary>
+<summary> Ao emitir um alerta, o usuário deverá selecionar o tipo de bloqueio desejado: Modo Recuperação (bloqueia linha e contas, mantendo o IMEI ativo) ou Bloqueio Total. </summary>
 
 <center>
 
@@ -805,7 +805,7 @@ Tabela 16 - RF15
 
 <details>
 
-<summary>O usuário pode fornecer sua localização.</summary>
+<summary> Após o disparo do alerta, o sistema deve gerar um número de protocolo único e apresentá‑lo ao usuário, para referência junto às autoridades e parceiros. </summary>
 
 <center>
 
@@ -856,7 +856,7 @@ Tabela 17 - RF16
 
 <details>
 
-<summary>O usuário pode acessar o calendário de eventos.</summary>
+<summary> O alerta emitido pelo Celular Seguro deverá ser enviado automaticamente às operadoras de telefonia e instituições financeiras parceiras para os bloqueios necessários. </summary>
 
 <center>
 
@@ -907,7 +907,7 @@ Tabela 18 - RF17
 
 <details>
 
-<summary>O usuário pode responder a pesquisa de perfil sobre seus gostos.</summary>
+<summary> O aplicativo deve oferecer a funcionalidade de consultar se um aparelho possui restrição, permitindo verificar pelo IMEI se um celular é bloqueado antes de comprá‑lo. </summary>
 
 <center>
 
@@ -958,7 +958,7 @@ Tabela 19 - RF18
 
 <details>
 
-<summary>O usuário consegue acessar as informações do evento.</summary>
+<summary> O Celular Seguro deve estar disponível tanto como aplicativo móvel (Android/iOS) quanto via versão web, oferecendo as mesmas funcionalidades em ambas plataformas. </summary>
 
 <center>
 
@@ -1009,7 +1009,7 @@ Tabela 20 - RF19
 
 <details>
 
-<summary>O usuário é capaz de acessar as atrações do evento.</summary>
+<summary> O sistema deve possibilitar a emissão de mais de um alerta para a mesma linha telefônica, permitindo novos alertas após ocorrências distintas. </summary>
 
 <center>
 
@@ -1060,7 +1060,7 @@ Tabela 21 - RF20
 
 <details>
 
-<summary>O usuário possui acesso a pré-venda.</summary>
+<summary> Em modo Recuperação, o sistema deve receber notificações de quando um novo chip for inserido no aparelho e enviar alerta ao usuário. </summary>
 
 <center>
 
@@ -1111,7 +1111,7 @@ Tabela 22 - RF21
 
 <details>
 
-<summary>O usuário recebe a cópia do ingresso por e-mail.</summary>
+<summary> Bloquear remotamente o aparelho. </summary>
 
 <center>
 
@@ -1162,7 +1162,7 @@ Tabela 23 - RF22
 
 <details>
 
-<summary>O usuário é capaz de conectar uma carteira digital.</summary>
+<summary> Apagar todos os dados do dispositivo </summary>
 
 <center>
 
@@ -1213,7 +1213,7 @@ Tabela 24 - RF23
 
 <details>
 
-<summary>O usuário é capaz de mudar o idioma do app.</summary>
+<summary> Contatar autoridades automaticamente com relatório de segurança. </summary>
 
 <center>
 
@@ -1264,7 +1264,7 @@ Tabela 25 - RF24
 
 <details>
 
-<summary>O usuário é capaz de aumentar a fonte.</summary>
+<summary> Rastrear em tempo real a localização do dispositivo. </summary>
 
 <center>
 
@@ -1315,7 +1315,7 @@ Tabela 26 - RF25
 
 <details>
 
-<summary>O usuário é capaz de dar zoom.</summary>
+<summary> Exibir histórico de movimentação no mapa. </summary>
 
 <center>
 
@@ -1366,7 +1366,7 @@ Tabela 27 - RF26
 
 <details>
 
-<summary>O usuário é capaz de acessar a assistente virtual.</summary>
+<summary> Informar localização exata via coordenadas e mapa </summary>
 
 <center>
 
@@ -1417,7 +1417,7 @@ Tabela 28 - RF27
 
 <details>
 
-<summary>O  usuário é capaz de compartilhar o evento.</summary>
+<summary> Emitir alerta S.O.S. automático para contatos de emergência. </summary>
 
 <center>
 
@@ -1468,7 +1468,7 @@ Tabela 29 - RF28
 
 <details>
 
-<summary>O aplicativo permite escolher a quantidade de ingressos que o usuário deseja comprar.</summary>
+<summary> Bloquear chip por integração direta com a operadora. </summary>
 
 <center>
 
@@ -1519,7 +1519,7 @@ Tabela 30 - RF29
 
 <details>
 
-<summary>O aplicativo permite selecionar as poltronas para pessoas idosas, crianças, obesas ou com deficiência, caso as tenha.	</summary>
+<summary> Guia de usuário passo a passo embutido no app. </summary>
 
 <center>
 
@@ -1570,7 +1570,7 @@ Tabela 31 - RF30
 
 <details>
 
-<summary>O aplicativo permite selecionar as poltronas especiais.</summary>
+<summary> Cadastro de contatos de segurança e envio de notificações prioritárias. </summary>
 
 <center>
 
@@ -1621,7 +1621,7 @@ Tabela 32 - RF31
 
 <details>
 
-<summary>Na seleção de ingresso, o aplicativo permite adicionar um cupom de desconto.</summary>
+<summary> Portal web para controle remoto das mesmas funções do app. </summary>
 
 <center>
 
@@ -1672,7 +1672,7 @@ Tabela 33 - RF32
 
 <details>
 
-<summary>Caso o local disponibilize, o aplicativo disponibiliza uma visão prévia da poltrona.</summary>
+<summary> Sincronizar notificações push e e‑mail entre app e portal. </summary>
 
 <center>
 
@@ -1723,7 +1723,7 @@ Tabela 34 - RF33
 
 <details>
 
-<summary>O aplicativo permite a doação por parte do usuário para fundações.</summary>
+<summary> Botão de “bloqueio rápido” sempre acessível na tela principal. </summary>
 
 <center>
 
@@ -1774,7 +1774,7 @@ Tabela 35 - RF34
 
 <details>
 
-<summary>O aplicativo possui uma função para entrar em contato com o suporte.</summary>
+<summary> Comandos por voz para funções críticas (bloqueio, rastreamento, SOS). </summary>
 
 <center>
 
@@ -1825,7 +1825,7 @@ Tabela 36 - RF35
 
 <details>
 
-<summary>O aplicativo permite ao usuário alterar seus dados.</summary>
+<summary> Efetuar backup automático de contatos, fotos e mensagens antes do bloqueio remoto </summary>
 
 <center>
 
@@ -1876,7 +1876,7 @@ Tabela 37 - RF36
 
 <details>
 
-<summary>O aplicativo possui uma função que auxilia na recuperação da conta do usuário.</summary>
+<summary> Restaurar dados de backup via e‑mail. </summary>
 
 <center>
 
@@ -1927,7 +1927,7 @@ Tabela 38 - RF37
 
 <details>
 
-<summary>O aplicativo possui uma função que auxilia na recuperação da conta do usuário.</summary>
+<summary> Emissão de som remoto para facilitar localização. </summary>
 
 <center>
 
@@ -1978,7 +1978,7 @@ Tabela 38 - RF37
 
 <details>
 
-<summary>O aplicativo possui uma função que auxilia na recuperação da conta do usuário.</summary>
+<summary> Oferecer rastreamento via satélite em áreas sem cobertura de celular. </summary>
 
 <center>
 
@@ -2029,7 +2029,7 @@ Tabela 38 - RF37
 
 <details>
 
-<summary>O aplicativo possui uma função que auxilia na recuperação da conta do usuário.</summary>
+<summary> Enviar notificação por e‑mail com detalhes da tentativa de acesso suspeito. </summary>
 
 <center>
 
@@ -2080,7 +2080,7 @@ Tabela 38 - RF37
 
 <details>
 
-<summary>O aplicativo possui uma função que auxilia na recuperação da conta do usuário.</summary>
+<summary> Gerar relatório de movimentação para download em PDF. </summary>
 
 <center>
 
@@ -2131,7 +2131,7 @@ Tabela 38 - RF37
 
 <details>
 
-<summary>O aplicativo possui uma função que auxilia na recuperação da conta do usuário.</summary>
+<summary> Definir “dispositivo de confiança” para controle remoto secundário. </summary>
 
 <center>
 
@@ -2178,517 +2178,6 @@ Tabela 38 - RF37
 
 </details>
 
-### RNF01
-
-<details>
-
-<summary>O app deve encriptar as informações do usuário.</summary>
-
-<center>
-
-Tabela 39 - RNF01
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF01</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - CON03, CON04, CON07, CON08 e SUP08</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-1-categorizar">Épico 4 - Feature 8</a> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us12">História de Usuário - US11 e US24</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q10</a> e <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS31</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF02
-
-<details>
-
-<summary>O app deve fornecer eventos de forma personalizada, levando em consideração a atividade e preferências do usuário.</summary>
-
-<center>
-
-Tabela 40 - RNF02
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF02</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, CON02, DES01 e DES05</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RNF02.gif" height="500" width="250"><br></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l02-sugestoes-de-eventos">Léxico 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-1-categorizar">Épico 5 - Features 4 e 10</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR - Usabilidade</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us12">História de Usuário - US21 e US12</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS10</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q11</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS35</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS36</a> e <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS22</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF03
-
-<details>
-
-<summary>O app deve disponibilizar todas as informações do evento em uma página.</summary>
-
-<center>
-
-Tabela 41 - RNF03
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF03</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01 ,CON02 e DES05</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR - Eficiência</a><br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-1-categorizar">Épico 5 - Feature 10</a> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us12">História de Usuário - US13 e US29</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS11</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS25</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS26</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS27</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS28</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS29</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS30</a>, <a href="(../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS15</a>&gt;) e <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS16</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF04
-
-<details>
-
-<summary>A compra deve ser feita em no máximo 5 páginas.</summary>
-
-<center>
-
-Tabela 42 - RNF04
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF04</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, USA04, USA05, USA06 e DES04</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR - Eficiência</a><br></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS13</a>, <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS16</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q14</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS17</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS18</a> e <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS14</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF05
-
-<details>
-
-<summary>O app deve permitir a resolução de problemas sem uma interação com um humano.</summary>
-
-<center>
-
-Tabela 43 - RNF05
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF05</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, USA04, USA06, CON01, CON02, CON05, CON08, CON09, DES03, DES04, DES05, RAU01 e RAU04 </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS12</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q15</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q16</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS19</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS33</a> e <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS34</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF06
-
-<details>
-
-<summary>O app deve fornecer uma experiência de login com apenas 2 cliques.</summary>
-
-<center>
-
-Tabela 44 - RNF06
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF06</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, USA02, USA03, USA04, USA06, CON01, CON02, CON05, DES02, DES03, DES04 e DES05</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-4-seguranca">Épicos 3 e 5 - Features 6 e 11</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us12">História de Usuário - US27 e US25</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS15</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF07
-
-<details>
-
-<summary>O app não deve ter tempo de resposta superior a 200 ms.</summary>
-
-<center>
-
-Tabela 45 - RNF07
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF07</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - DES02</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR - Eficiência</a> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q12</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF08
-
-<details>
-
-<summary>Os eventos devem estar organizados no banco de dados de acordo com suas categorias para facilitar a filtragem.</summary>
-
-<center>
-
-Tabela 46 - RNF08
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF08</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, DES01 e DES05</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/">Casos de Uso - UC01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-1">Cenário 01, 02, 03 e 04</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01 e 03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-1-categorizar">Épicos 1 e 5 - Features 1, 2 e 10</a> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us12">História de Usuário - US01, US02, US04, US12, US13</a> <br> Requisitos:  <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q13</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF09
-
-<details>
-
-<summary>O app deve mostrar as informações de compras do usuário em uma única tela.</summary>
-
-<center>
-
-Tabela 47 - RNF09
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF09</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, CON01, CON02, CON06, CON07, DES05</a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-1-categorizar">Épico 5 - Feature 10</a> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us12">História de Usuário - US019</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS32</a> e <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS21</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
-### RNF10
-
-<details>
-
-<summary>O app deve permitir o acesso às informações do usuário em até 3 cliques.</summary>
-
-<center>
-
-Tabela 48 - RNF10
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RNF10</a></th>
-<th>Desenvolvimento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar - USA01, USA04, USA06, CON02, CON08, DES04, </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td> <br></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td>-</td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS20</a></td>
-</tr>
-</tbody>
-</table>
-
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
-
-</center>
-
-</details>
-
----
 # Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      | Data de Revisão |
@@ -2696,3 +2185,4 @@ Tabela 48 - RNF10
 | 1.0    | 06/02/2025         | Criação inicial do documento                         | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
 | 1.1    | 06/02/2025         | Adição das seções de Introdução e Metodologia | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
 | 1.2    | 08/02/2025         | Inicialização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
+| 1.3    | 08/02/2025         | Atualização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
