@@ -144,7 +144,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | **Classificação:**       | Usabilidade                                                                                            |
 | **Descrição:**           | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos. |
 | **Justificativa:**       | Garantir que o usuário compreenda que o boletim foi enviado com sucesso e que possa anotar ou copiar o número de protocolo sem pressa, melhorando a experiência e a confiança no sistema. |
-| **Origem do Requisito:** | Entrevista com usuário (Arthur)                                                                        |
+| **Origem do Requisito:** | [US07](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us07-confirmar-envio-do-boletim-com-protocolo-visivel)                                                                |
 | **Critério de Aceitação:** | Após o envio do boletim, o número de protocolo deve ser exibido em destaque, com opção de cópia e visibilidade mínima de 10 segundos. |
 | **Dependências:**        | Envio bem-sucedido do boletim de ocorrência                                                           |
 | **Prioridade:**          | Alta                                                                                            |
@@ -161,7 +161,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | **Classificação:**        | Desempenho / Confiabilidade                                                                             |
 | **Descrição:**            | O sistema deve permitir o envio de anexos com limite máximo de 10 MB por arquivo, aceitando os formatos JPG, PNG e PDF. |
 | **Justificativa:**        | Evitar sobrecarga no sistema e garantir que os arquivos anexados sejam compatíveis e leves o suficiente para envio eficiente e seguro. |
-| **Origem do Requisito:**  | Entrevista com usuário (Arthur) e análise técnica                                                      |
+| **Origem do Requisito:**  | [US08](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us07-confirmar-envio-do-boletim-com-protocolo-visivel)                                                        |
 | **Critério de Aceitação:** | O sistema deve bloquear arquivos que ultrapassem o limite ou estejam em formato não aceito, exibindo mensagem clara e impedindo o envio. |
 | **Dependências:**         | Funcionalidade de envio de boletim com anexos                                                          |
 | **Prioridade:**           | Média                                                                                            |
@@ -604,7 +604,7 @@ Na Tabela 20, está presente a avaliação da propagação dos impactos referent
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
-A Tabela 21 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela Registar Pessoa de Confiança.
+A Tabela 8 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela Registar Pessoa de Confiança.
 
 <p style="text-align: center"><b>Tabela 8</b> - Requisitos Não-Funcionais</p>
 
@@ -617,7 +617,7 @@ A Tabela 21 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela Reg
 
 ---
 
-A Tabela 22 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
+A Tabela 9 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
 
 <a id="table09"></a>
 <p style="text-align: center"><b>Tabela 9</b> - Requisitos Não-Funcionais (Tela de Perfil)</p>
