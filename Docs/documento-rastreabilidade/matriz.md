@@ -12,7 +12,7 @@ Dessa forma, a matriz não apenas favorece a **compreensão e análise sistêmic
 
 ### Objetivos
 
-O objetivo da matriz geral é consolidar as informações dos artefatos de **Backward-Form** (rastreabilidade retroativa) e **Forward-Form** (rastreabilidade prospectiva), proporcionando uma **visão unificada** do ciclo de vida dos requisitos. Através dessa unificação, é possível:
+O objetivo da matriz geral é consolidar as informações dos artefatos de **Backward-From** (rastreabilidade retroativa) e **Forward-From** (rastreabilidade prospectiva), proporcionando uma **visão unificada** do ciclo de vida dos requisitos. Através dessa unificação, é possível:
 
 - Verificar se todos os requisitos têm origem justificada (pré-rastreabilidade);
 - Avaliar o estado de implementação de cada funcionalidade;
