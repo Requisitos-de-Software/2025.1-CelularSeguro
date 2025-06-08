@@ -2144,15 +2144,14 @@ Tabela 43 - RF42
 
 # Requisitos não funcionais
 
+<!-- ============================= RNF 01 ============================= -->
 ### RNF01
-
 <details>
-
 <summary>O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência.</summary>
 
 <center>
 
-Tabela 44 - RNF01
+Tabela 44 - RNF01  
 
 <table>
 <thead>
@@ -2162,48 +2161,36 @@ Tabela 44 - RNF01
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS40</a>, <a href="../Storytelling/">ST11</a>, <a href="../AnalisedeDocumentos/">ADD13</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Confiabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar – CON01, CON02 & CON05</a>; 
+<a href="../Questionario/">QS09</a>; <a href="../Observacao/">OBS21</a>; <a href="../Brainstorming/">BS40</a>; <a href="../Storytelling/">ST11</a>; <a href="../AnalisedeDocumentos/">ADD13</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC01 Emitir Alerta, UC02 Registrar Boletim & UC04 Bloqueio Remoto</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – Localizar • Bloquear • Notificar</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 2 – Selecionar ações de segurança</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Confiabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS40</a>, <a href="../Storytelling/">ST11</a>, <a href="../AnalisedeDocumentos/">ADD13</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 02 ============================= -->
 ### RNF02
-
 <details>
-
 <summary>A interface deve ter design acessível a usuários com pouca familiaridade com tecnologia, como idosos.</summary>
 
 <center>
 
-Tabela 45 - RNF02
+Tabela 45 - RNF02  
 
 <table>
 <thead>
@@ -2213,48 +2200,36 @@ Tabela 45 - RNF02
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">Q19</a>, <a href="../Observacao/">OBS18</a>, <a href="../Brainstorming/">BS42</a>/<a href="../Brainstorming/">BS43</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar – USA03, USA04 & USA05</a>; 
+<a href="../Questionario/">Q19</a>; <a href="../Observacao/">OBS18</a>; <a href="../Brainstorming/">BS42</a>/<a href="../Brainstorming/">BS43</a>; <a href="../Storytelling/">ST8</a>; <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – verbos “Solicitar” & objetos de navegação</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 1 – Filtrar por tipo de celular</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC11 Guia Pós-Furto (passo a passo simplificado)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Usabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Questionario/">Q19</a>, <a href="../Observacao/">OBS18</a>, <a href="../Brainstorming/">BS42</a>/<a href="../Brainstorming/">BS43</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 03 ============================= -->
 ### RNF03
-
 <details>
-
 <summary>O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.</summary>
 
 <center>
 
-Tabela 46 - RNF03
+Tabela 46 - RNF03  
 
 <table>
 <thead>
@@ -2264,48 +2239,35 @@ Tabela 46 - RNF03
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../Brainstorming/">BS43</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar – USA03</a>; 
+<a href="../Questionario/">QS09</a>; <a href="../Brainstorming/">BS43</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC09 Editar Perfil (preferência de tema)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 2 – Selecionar ações (painel com alternância de tema)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF04 (Modo Escuro)</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../Brainstorming/">BS43</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 04 ============================= -->
 ### RNF04
-
 <details>
-
 <summary>O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.</summary>
 
 <center>
 
-Tabela 47 - RNF04
+Tabela 47 - RNF04  
 
 <table>
 <thead>
@@ -2315,48 +2277,35 @@ Tabela 47 - RNF04
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS12</a>, <a href="../Observacao/">OBS15</a>, <a href="../Brainstorming/">BS36</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar – USA03</a>; 
+<a href="../Questionario/">QS12</a>; <a href="../Observacao/">OBS15</a>; <a href="../Brainstorming/">BS36</a>; <a href="../Storytelling/">ST8</a>; <a href="../AnalisedeDocumentos/">ADD16</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – Padronização de termos de interface</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC14 Feedback Visual</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Usabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Questionario/">QS12</a>, <a href="../Observacao/">OBS15</a>, <a href="../Brainstorming/">BS36</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 05 ============================= -->
 ### RNF05
-
 <details>
-
 <summary>O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.</summary>
 
 <center>
 
-Tabela 48 - RNF05
+Tabela 48 - RNF05  
 
 <table>
 <thead>
@@ -2366,48 +2315,37 @@ Tabela 48 - RNF05
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS14</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Confiabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar – CON03</a>; 
+<a href="../Questionario/">QS14</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC12 Cadastrar Pessoa de Confiança</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – Contato de Segurança • Notificação</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF08 (SMS Pessoa de Confiança)</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31">História de Usuário – US31</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#epico-5-pessoa-de-confianca">Backlog – Épico 5 / Feature 5.1</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Questionario/">QS14</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 06 ============================= -->
 ### RNF06
-
 <details>
-
 <summary>Suporte Técnico, como disponibilizar canais de suporte claros e responsivos para auxiliar os usuários.</summary>
 
 <center>
 
-Tabela 49 - RNF06
+Tabela 49 - RNF06  
 
 <table>
 <thead>
@@ -2417,48 +2355,35 @@ Tabela 49 - RNF06
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS14</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS52</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Suportabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#suportabilidade">Especificação Suplementar – SUP05</a>; 
+<a href="../Questionario/">QS14</a>; <a href="../Observacao/">OBS21</a>; <a href="../Brainstorming/">BS52</a>; <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC11 Guia Pós-Furto (orientação ao usuário)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – Notificação & Estado “Notificação pendente”</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Suportabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Questionario/">QS14</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS52</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 07 ============================= -->
 ### RNF07
-
 <details>
-
 <summary>O serviço Celular Seguro deve estar disponível para todos os cidadãos brasileiros, 24×7, sem interrupções planejadas.</summary>
 
 <center>
 
-Tabela 50 - RNF07
+Tabela 50 - RNF07  
 
 <table>
 <thead>
@@ -2468,48 +2393,35 @@ Tabela 50 - RNF07
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD13</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS40</a>, <a href="../Storytelling/">ST11</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Confiabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar – CON05</a>; 
+<a href="../AnalisedeDocumentos/">ADD13</a>; <a href="../Observacao/">OBS21</a>; <a href="../Brainstorming/">BS40</a>; <a href="../Storytelling/">ST11</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – Estado “Aplicativo instalado” & “Sincronizado com o portal”</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 5 – Bloquear dispositivo remotamente (necessidade de uptime)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF07 (Disponibilidade 24×7)</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../AnalisedeDocumentos/">ADD13</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS40</a>, <a href="../Storytelling/">ST11</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 08 ============================= -->
 ### RNF08
-
 <details>
-
 <summary>O tempo de resposta para comunicação de um alerta aos parceiros deve ser mínimo – idealmente instantâneo – e os bloqueios devem ocorrer em minutos.</summary>
 
 <center>
 
-Tabela 51 - RNF08
+Tabela 51 - RNF08  
 
 <table>
 <thead>
@@ -2519,48 +2431,37 @@ Tabela 51 - RNF08
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD14</a>, <a href="../Storytelling/">ST9</a>, <a href="../Brainstorming/">BS41</a>, <a href="../Brainstorming/">BS58</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Desempenho</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar – DES02 & DES04</a>; 
+<a href="../AnalisedeDocumentos/">ADD14</a>; <a href="../Storytelling/">ST9</a>; <a href="../Brainstorming/">BS41</a>; <a href="../Brainstorming/">BS58</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC01 Emitir Alerta</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – verbo “Emitir” & objeto “Notificação”</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 5 – Bloquear remotamente</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF09 (Tempo de Resposta)</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us29">História de Usuário – US29</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../AnalisedeDocumentos/">ADD14</a>, <a href="../Storytelling/">ST9</a>, <a href="../Brainstorming/">BS41</a>, <a href="../Brainstorming/">BS58</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 09 ============================= -->
 ### RNF09
-
 <details>
-
 <summary>O aplicativo e a plataforma devem seguir requisitos de segurança da informação: conexão criptografada, proteção de dados conforme LGPD.</summary>
 
 <center>
 
-Tabela 52 - RNF09
+Tabela 52 - RNF09  
 
 <table>
 <thead>
@@ -2570,48 +2471,36 @@ Tabela 52 - RNF09
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD15</a>, <a href="../Storytelling/">ST10</a>, <a href="../Brainstorming/">BS47</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Segurança</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#seguranca">Especificação Suplementar – SEG01</a>; 
+<a href="../AnalisedeDocumentos/">ADD15</a>; <a href="../Storytelling/">ST10</a>; <a href="../Brainstorming/">BS47</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC08 Limpeza Remota com MFA</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objetos “Backup” & “Notificação” (criptografia / LGPD)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 2 – Selecionar ações de segurança</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF08 (Segurança / LGPD)</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../AnalisedeDocumentos/">ADD15</a>, <a href="../Storytelling/">ST10</a>, <a href="../Brainstorming/">BS47</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 10 ============================= -->
 ### RNF10
-
 <details>
-
 <summary>O serviço deverá ser oferecido gratuitamente, sem cobrança pelo download ou uso do aplicativo.</summary>
 
 <center>
 
-Tabela 53 - RNF10
+Tabela 53 - RNF10  
 
 <table>
 <thead>
@@ -2621,48 +2510,31 @@ Tabela 53 - RNF10
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD18</a> </td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Legal / +</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td><a href="../AnalisedeDocumentos/">ADD18</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – verbo “Solicitar” (sem custos)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 3 – Registrar novo aparelho (fluxo sem cobrança)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>-</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../AnalisedeDocumentos/">ADD18</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 11 ============================= -->
 ### RNF11
-
 <details>
-
 <summary>O sistema deve cumprir a legislação e normas vigentes, incluindo portarias, resoluções da Anatel e diretrizes da Febraban.</summary>
 
 <center>
 
-Tabela 54 - RNF11
+Tabela 54 - RNF11  
 
 <table>
 <thead>
@@ -2672,48 +2544,32 @@ Tabela 54 - RNF11
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD19</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Legal / +</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar – CON05</a>; <a href="../AnalisedeDocumentos/">ADD19</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC10 Gerenciar Contas Bancárias (Febraban)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Chip” (normas Anatel)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>-</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../AnalisedeDocumentos/">ADD19</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 12 ============================= -->
 ### RNF12
-
 <details>
-
 <summary>Linguagem simples sem jargões técnicos.</summary>
 
 <center>
 
-Tabela 55 - RNF12
+Tabela 55 - RNF12  
 
 <table>
 <thead>
@@ -2723,48 +2579,34 @@ Tabela 55 - RNF12
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS37</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos</a>; <a href="../Brainstorming/">BS37</a>; <a href="../Storytelling/">ST8</a>; <a href="../AnalisedeDocumentos/">ADD16</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – tabelas de noção/impacto (terminologia simplificada)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 1 – Filtros intuitivos</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Usabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS37</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 13 ============================= -->
 ### RNF13
-
 <details>
-
-<summary> 	Layout consistente seguindo heurísticas de Nielsen.</summary>
+<summary>Layout consistente seguindo heurísticas de Nielsen.</summary>
 
 <center>
 
-Tabela 56 - RNF13
+Tabela 56 - RNF13  
 
 <table>
 <thead>
@@ -2774,48 +2616,35 @@ Tabela 56 - RNF13
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS38</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar – USA01</a>; <a href="../Brainstorming/">BS38</a>; <a href="../Storytelling/">ST8</a>; <a href="../AnalisedeDocumentos/">ADD16</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC09 Editar Perfil & UC14 Feedback Visual</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objetos “Celular” & “Notificação” (consistência visual)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF05 (Layout Consistente)</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us14">História de Usuário – US14</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS38</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 14 ============================= -->
 ### RNF14
-
 <details>
-
-<summary>Tempo de resposta da interface < 200 ms.</summary>
+<summary>Tempo de resposta da interface &lt; 200 ms.</summary>
 
 <center>
 
-Tabela 57 - RNF14
+Tabela 57 - RNF14  
 
 <table>
 <thead>
@@ -2825,48 +2654,35 @@ Tabela 57 - RNF14
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS39</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Desempenho</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a>; 
+<a href="../Brainstorming/">BS39</a>; <a href="../Storytelling/">ST9</a>; <a href="../AnalisedeDocumentos/">ADD14</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC03 Localizar Celular (atualização em tempo real)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 4 – Visualizar ocorrências em mapa</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF07 (≤ 200 ms)</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS39</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 15 ============================= -->
 ### RNF15
-
 <details>
-
 <summary>Suporte a VLibras e leitor de tela para acessibilidade.</summary>
 
 <center>
 
-Tabela 58 - RNF15
+Tabela 58 - RNF15  
 
 <table>
 <thead>
@@ -2876,48 +2692,35 @@ Tabela 58 - RNF15
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS42</a>, <a href="../Observacao/">OBS18</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar – USA03</a>; 
+<a href="../Brainstorming/">BS42</a>; <a href="../Observacao/">OBS18</a>; <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC11 Guia Pós-Furto (conteúdo multimídia)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Notificação” (lida por leitor de tela)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Usabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS42</a>, <a href="../Observacao/">OBS18</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 16 ============================= -->
 ### RNF16
-
 <details>
-
 <summary>Transcrição em tempo real sem falhas de reconhecimento.</summary>
 
 <center>
 
-Tabela 59 - RNF16
+Tabela 59 - RNF16  
 
 <table>
 <thead>
@@ -2927,48 +2730,32 @@ Tabela 59 - RNF16
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS44</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar – USA02</a>; <a href="../Brainstorming/">BS44</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – verbo “Emitir” (transcrição de fala → texto)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC03 Localizar (feedback de áudio → texto no mapa)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>-</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS44</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 17 ============================= -->
 ### RNF17
-
 <details>
-
-<summary> 	Precisão de localização GPS menor do que 10 metros.</summary>
+<summary>Precisão de localização GPS menor do que 10 metros.</summary>
 
 <center>
 
-Tabela 60 - RNF17
+Tabela 60 - RNF17  
 
 <table>
 <thead>
@@ -2978,48 +2765,40 @@ Tabela 60 - RNF17
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS45</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Desempenho</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a>; 
+<a href="../Brainstorming/">BS45</a>; 
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso</a>; 
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos</a>; 
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenários</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC03 Localizar Celular</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – verbo “Localizar” & objeto “Localização”</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 4 – Visualizar ocorrências em mapa</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Cartão RNF11 (GPS ≤ 10 m)</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us37">História de Usuário – US37</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS45</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 18 ============================= -->
 ### RNF18
-
 <details>
-
 <summary>Autenticação multifator (2FA) com fallback via SMS.</summary>
 
 <center>
 
-Tabela 61 - RNF18
+Tabela 61 - RNF18  
 
 <table>
 <thead>
@@ -3029,48 +2808,35 @@ Tabela 61 - RNF18
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS48</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Segurança</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#seguranca">Especificação Suplementar – SEG02</a>; 
+<a href="../Brainstorming/">BS48</a>; <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC08 Limpeza Remota (exige MFA)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Notificação” (código SMS)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#epico-3-conta--perfil">Backlog – Épico 3 / Feature 3.1 (2FA)</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS48</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 19 ============================= -->
 ### RNF19
-
 <details>
-
 <summary>Logs de auditoria imutáveis e armazenados por no mínimo 1 ano.</summary>
 
 <center>
 
-Tabela 62 - RNF19
+Tabela 62 - RNF19  
 
 <table>
 <thead>
@@ -3080,48 +2846,34 @@ Tabela 62 - RNF19
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS49</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Confiabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso</a>; <a href="../Brainstorming/">BS49</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC06 Gerar Relatório PDF</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – Estado “Tentativa de acesso detectada”</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us04">História de Usuário – US04</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS49</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 20 ============================= -->
 ### RNF20
-
 <details>
-
 <summary>Política de privacidade clara e facilmente acessível dentro do app.</summary>
 
 <center>
 
-Tabela 63 - RNF20
+Tabela 63 - RNF20  
 
 <table>
 <thead>
@@ -3131,48 +2883,34 @@ Tabela 63 - RNF20
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS50</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Segurança</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a>; <a href="../Brainstorming/">BS50</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC10 Gerenciar Contas Bancárias (dados sensíveis)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Backup” (proteção de dados)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us18">História de Usuário – US18</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS50</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 21 ============================= -->
 ### RNF21
-
 <details>
-
 <summary>Verificação de integridade de dados no drive com checksum.</summary>
 
 <center>
 
-Tabela 64 - RNF21
+Tabela 64 - RNF21  
 
 <table>
 <thead>
@@ -3182,48 +2920,32 @@ Tabela 64 - RNF21
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS53</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Confiabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar – CON07</a>; <a href="../Brainstorming/">BS53</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC05 Backup via E-mail & UC13 Backup Periódico</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Backup” & estado “Backup ativo”</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>-</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS53</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 22 ============================= -->
 ### RNF22
-
 <details>
-
 <summary>Compatibilidade com Android e iOS (últimas 3 versões principais).</summary>
 
 <center>
 
-Tabela 65 - RNF22
+Tabela 65 - RNF22  
 
 <table>
 <thead>
@@ -3233,48 +2955,35 @@ Tabela 65 - RNF22
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS57</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Suportabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#suportabilidade">Especificação Suplementar – SUP02</a>; 
+<a href="../Brainstorming/">BS57</a>; <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Celular” (múltiplos sistemas operacionais)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 1 – Filtrar por tipo de celular</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Suportabilidade</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS57</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 23 ============================= -->
 ### RNF23
-
 <details>
-
-<summary>Tempo de inicialização do app < 2 segundos.</summary>
+<summary>Tempo de inicialização do app &lt; 2 segundos.</summary>
 
 <center>
 
-Tabela 66 - RNF23
+Tabela 66 - RNF23  
 
 <table>
 <thead>
@@ -3284,48 +2993,36 @@ Tabela 66 - RNF23
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS58</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Desempenho</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar – DES03</a>; 
+<a href="../Brainstorming/">BS58</a>; <a href="../Storytelling/">ST9</a>; <a href="../AnalisedeDocumentos/">ADD14</a><br>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – estado “Aplicativo instalado”</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 3 – Registrar novo aparelho (fluxo rápido)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Desempenho</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS58</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 24 ============================= -->
 ### RNF24
-
 <details>
-
 <summary>Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas.</summary>
 
 <center>
 
-Tabela 67 - RNF24
+Tabela 67 - RNF24  
 
 <table>
 <thead>
@@ -3335,48 +3032,32 @@ Tabela 67 - RNF24
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Brainstorming/">BS60</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Confiabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar – CON04</a>; <a href="../Brainstorming/">BS60</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC13 Backup Periódico (rotinas automáticas)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – estado “Backup ativo”</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>-</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Brainstorming/">BS60</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 25 ============================= -->
 ### RNF25
-
 <details>
-
 <summary>As páginas carregam em até 2 segundos em conexões padrão 4G.</summary>
 
 <center>
 
-Tabela 68 - RNF25
+Tabela 68 - RNF25  
 
 <table>
 <thead>
@@ -3386,48 +3067,36 @@ Tabela 68 - RNF25
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Observacao/">OBS16</a>, <a href="../Brainstorming/">BS39</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Desempenho</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar – DES02</a>; 
+<a href="../Observacao/">OBS16</a>; <a href="../Brainstorming/">BS39</a>; <a href="../Storytelling/">ST9</a>; <a href="../AnalisedeDocumentos/">ADD14</a><br>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 4 – Visualizar ocorrências (mapa otimizado)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC06 Relatório PDF (carregamento rápido)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework – Desempenho</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Observacao/">OBS16</a>, <a href="../Brainstorming/">BS39</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 26 ============================= -->
 ### RNF26
-
 <details>
-
 <summary>O aplicativo responde corretamente mesmo com entradas erradas.</summary>
 
 <center>
 
-Tabela 69 - RNF26
+Tabela 69 - RNF26  
 
 <table>
 <thead>
@@ -3437,48 +3106,34 @@ Tabela 69 - RNF26
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Observacao/">OBS19</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a>; <a href="../Observacao/">OBS19</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC14 Feedback Visual (mensagens claras de erro)</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/">Léxicos – objeto “Notificação”</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us23">História de Usuário – US23</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Observacao/">OBS19</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
+<!-- ============================= RNF 27 ============================= -->
 ### RNF27
-
 <details>
-
 <summary>O aplicativo apresenta confirmação de suas ações.</summary>
 
 <center>
 
-Tabela 70 - RNF27
+Tabela 70 - RNF27  
 
 <table>
 <thead>
@@ -3488,37 +3143,25 @@ Tabela 70 - RNF27
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:center">Tipos de Elo</td>
-<td>Artefatos Relacionados</td>
-</tr>
-<tr>
-<td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
-</tr>
-<tr>
-<td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Observacao/">OBS20</a></td>
-</tr>
+<tr><td style="text-align:center">Tipos de Elo</td><td><strong>Usabilidade</strong></td></tr>
+<tr><td style="text-align:center">Satisfação</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/">NFR Framework</a>; 
+<a href="../Observacao/">OBS20</a>; <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso</a></td></tr>
+<tr><td style="text-align:center">Recurso</td><td>
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC14 Feedback Visual</a>;  
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 2 – Selecionar ações (confirmação de bloqueio)</a>
+</td></tr>
+<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr><td style="text-align:center">Alocado</td><td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us01">História de Usuário – US01</a>
+</td></tr>
+<tr><td style="text-align:center">Agregação</td><td>Requisito: <a href="../Observacao/">OBS20</a></td></tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
 
 </center>
-
 </details>
 
 ---
@@ -3539,3 +3182,5 @@ Tabela 70 - RNF27
 | 1.1    | 06/02/2025         | Adição das seções de Introdução e Metodologia | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
 | 1.2    | 08/02/2025         | Inicialização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
 | 1.3    | 08/02/2025         | Atualização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
+| 1.4    | 08/02/2025         | Atualização da seção de pós-rastreabilidade, adição dos RNFs | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
+
