@@ -7,19 +7,42 @@ As histórias de usuário são uma técnica essencial na elicitação de requisi
 
 ## Metodologia
 
-A elaboração deste artefato adotou uma abordagem empírica de elicitação baseada na entrevista estruturada com o Product Owner (PO), o qual representou a visão do cliente no projeto. A sessão foi conduzida por meio da plataforma Teams, com entrevistas separadas organizadas conforme a [Tabela 1]() abaixo, configurando uma interação síncrona e informal — alinhada às boas práticas de desenvolvimento ágil descritas por Sommerville (2019).
+A elaboração deste artefato adotou uma abordagem empírica de elicitação baseada na entrevista estruturada com o Product Owner (PO), o qual representou a visão do cliente no projeto. A sessão foi conduzida por meio da plataforma Teams, com entrevistas separadas organizadas conforme a [Tabela 0]() abaixo, configurando uma interação síncrona e informal — alinhada às boas práticas de desenvolvimento ágil descritas por Sommerville (2019).
 Durante a entrevista, os critérios de aceitação foram formalizados, refletindo os comportamentos esperados do sistema em cada cenário de uso. Para fins de planejamento e gestão, foi adotado o método de priorização Three-Level Scale, que classifica as histórias de usuário em prioridades Alta, Média e Baixa (Leffingwell, 2011). Tal método é simples, porém eficaz, para equipes que operam sob ciclos curtos de entrega.
 
-<font size="3"><p style="text-align: center">Tabela 1 - Cronograma dos participantes da entrevista.</p></font>
+<font size="3"><p style="text-align: center">Tabela 0 - Cronograma dos participantes da entrevista.</p></font>
 
 | Nome                                                    | Função                                     | Entrevistado                                | Data       | Hora |
 | ------------------------------------------------------- | -------------------------------------------|---------------------------------------------|------------|------|
-| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | [Lucas](https://github.com/gabriel-lima258) | 29/05/2025 | 19:05 |
+| [Gabriel Lima](https://github.com/gabriel-lima258)      | Elaborador das histórias                   | Lucas | 29/05/2025 | 19:05 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | Tauanne                                     | 30/05/2025 | 11:00 |
 | [Vitor Bessa](https://github.com/Bessazs)               | Elaborador das histórias                   | João Marcos                                 | 31/05/2025 | 15:30 |
+| [Leonardo de Melo](https://github.com/leozinlima)               | Elaborador das histórias                   | Karoline                                | 31/05/2025 | 14:45 |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf)              | Elaborador das histórias                   | Ana Victoria                                | 31/05/2025 | 13:45 |
+| [Mateus Bastos](https://github.com/MateuSansete)               | Elaborador das histórias                   | Arthur                                | 01/06/2025 | 15:30 |
+| [Arthur Carvalho](https://github.com/arthurlleite)              | Elaborador das histórias                   | Luiza                                | 01/06/2025 | 16:20 |
+| [Daniel Rodrigues](https://github.com/zDrNz)              | Elaborador das histórias                   | Gabriel                                 | 01/06/2025 | 18:10 |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+### Tabela de Contribuição História de Usuário
+
+A modelagem das Histórias de Usuário foi realizada por todos os membros da equipe, cada um elaborando 4 requisitos funcionais e 2 requisitos não funcionais, todos validados com seus respectivos usuários. No entanto, a estruturação geral do submenu foi feita de forma individual por um dos membros conforme a [Tabela 1]() a baixo.
+
+#### Tabela 1 – Participação dos membros na construção do submenu História de Usuário
+
+| Membro da Equipe | Contribuições |
+|------------------|---------------|
+| [Arthur Carvalho](https://github.com/arthurlleite) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Leonardo de Melo](https://github.com/leozinlima) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Elaborou 4 RFs e 2 RNIs validados com o usuário; Estruturou todo o submenu |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Daniel Rodrigues](https://github.com/zDrNz) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Mateus Bastos](https://github.com/MateuSansete) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+| [Vitor Pereira](https://github.com/Bessazs) | Elaborou 4 RFs e 2 RNIs validados com o usuário |
+
+<font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
 
 ### Modelo
 
@@ -345,16 +368,16 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
----
 <p style="text-align: center">Entrevista 2</p>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnieMHXL8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kL-Zt8jPkUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-<p style="text-align: center">Caso não abra <a href="https://youtu.be/gnieMHXL8Ek" target="blanket">clique aqui</a></p>
+<p style="text-align: center">Caso não abra <a href="youtube.com/watch?v=kL-Zt8jPkUA" target="blanket">clique aqui</a></p>
+>PDF (30 maio. 2025): [Termo de Compromisso](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro/blob/main/Docs/assets/pdf/verificacao/mateus-arthur-Termo_Consentimento_CelularSeguro.assinado.pdf)
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/gabriel-lima258)</p></font>
 
 ---
 
@@ -495,7 +518,10 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
+---
+
 <p style="text-align: center">Entrevista 3.2</p>
+
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7ETUQPDKJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -646,8 +672,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-<a id="us25"></a>
-### US25 - Alertar automaticamente por comportamento suspeito (Não implementado) 
+### US25 - Alertar automaticamente por comportamento suspeito (Não implementado)
 
 ??? abstract "Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado)"
 
@@ -667,8 +692,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us26"></a>
-### US26 - Localizar aparelho via GPS em tempo real (Não implementado) 
+### US26 - Localizar aparelho via GPS em tempo real (Não implementado)
 
 ??? abstract "Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado)"
 
@@ -688,7 +712,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us27"></a>
 ### US27 - Confirmar antes da emissão do alerta
 
 ??? abstract "Tabela 29 - Confirmar antes da emissão do alerta"
@@ -709,7 +732,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us28"></a>
 ### US28 - Escolher tipo de bloqueio
 
 ??? abstract "Tabela 30 - Escolher tipo de bloqueio"
@@ -730,7 +752,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us29"></a>
 ### US29 - Permitir que pessoas de confiança emitam alerta
 
 ??? abstract "Tabela 31 - Permitir que pessoas de confiança emitam alerta"
@@ -751,7 +772,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us30"></a>
 ### US30 - Gerar número de protocolo
 
 ??? abstract "Tabela 32 - Gerar número de protocolo"
@@ -924,7 +944,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ---
 
-<a id="us37"></a>
 ### US37 - Localizar o dispositivo em tempo real
 
 
@@ -946,8 +965,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us38"></a>
 ### US38 - Fazer o dispositivo emitir som
 
 
@@ -969,8 +986,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us39"></a>
 ### US39 - Bloquear dispositivo
 
 
@@ -992,7 +1007,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-<a id="us40"></a>
 ### US40 - Redefinir dispositivo para padrões de fábrica
 
 
@@ -1014,8 +1028,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us41"></a>
 ### US41 - Deslogar contas de aplicativos selecionados previamente.
 
 
@@ -1037,8 +1049,6 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
     </center>
 
-
-<a id="us42"></a>
 ### US42 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail
 
 
@@ -1061,7 +1071,7 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     </center>
 
 
-<p style="text-align: center">Entrevista 7</p>
+<p style="text-align: center">Entrevista 7.1</p>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oN6U6pNRG90?si=VS6jA8Be7hVRtBxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -1071,7 +1081,9 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
 
-<p style="text-align: center">Entrevista 8</p>
+---
+
+<p style="text-align: center">Entrevista 7.2</p>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nW3cYrsDQLw?si=beFKtgPRD6fcVIuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -1103,10 +1115,12 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0 | 22/05/2025 | Versão inicial do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | 22/05/2025 |
 | 1.1 | 30/05/2025 | Criação do scopo da documentação US | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
-| 1.2 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
-| 1.3 | 31/05/2025 | Criação dos US 13 a 18 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
-| 1.4 | 31/05/2025 | Criação dos US 31 a 36 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-| 1.5 | 31/05/2025 | Criação dos US 00 a 06 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-| 1.6 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
-| 1.7 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
-| 1.8 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
+| 1.2 | 30/05/2025 | Criação dos US 07 a 12 |<a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |  <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| 30/05/2025 |
+| 1.3 | 30/05/2025 | Criação dos US 19 a 24 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 30/05/2025 |
+| 1.4 | 31/05/2025 | Criação dos US 13 a 18 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+| 1.5 | 31/05/2025 | Criação dos US 31 a 36 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
+| 1.6 | 31/05/2025 | Criação dos US 00 a 06 | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
+| 1.7 | 31/05/2025 | Padronização  | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 31/05/2025 |
+| 1.8 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
+| 1.9 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
+| 2.0 | 01/06/2025 | Mudanças de padrões de video e tabela de entrevistados| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |

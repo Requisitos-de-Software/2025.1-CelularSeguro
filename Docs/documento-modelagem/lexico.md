@@ -59,7 +59,7 @@ O impacto dessas ações é descrito por meio das respostas comportamentais, que
   <p style="text-align: center">
     Autores: 
     <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> e 
-    <a href="https://github.com/MateuSansete" target="_blank">Mateus Sansete</a>
+    <a href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>
   </p>
 </font>
 
@@ -88,7 +88,7 @@ Os objetos aqui descritos são centrais para a operação e segurança do aplica
   <p style="text-align: center">
     Autores: 
     <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> e 
-    <a href="https://github.com/MateuSansete" target="_blank">Mateus Sansete</a>
+    <a href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>
   </p>
 </font>
 
