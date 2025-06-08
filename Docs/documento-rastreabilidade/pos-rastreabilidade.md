@@ -36,6 +36,10 @@ A rastreabilidade foi aplicada exclusivamente aos requisitos que **não foram im
 
 As tabelas a seguir detalham os elos identificados entre os artefatos e os requisitos, tanto funcionais quanto não funcionais, implementados ou não pela Bilheteria Digital. 
 
+---
+
+# Requisitos funcionais
+
 ### RF01
 
 <details>
@@ -49,7 +53,7 @@ Tabela 2 - RF01
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF01</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF01</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -60,28 +64,27 @@ Tabela 2 - RF01
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-4">Cenário 04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RF01.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 1</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-4">Cenário 04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us01">História de Usuário US01</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS01</a>, <a href="../../elicitacao/elicitacao/tecnicas/brainstorming/#anchor_BS">BS08</a> e <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS01</a></td>
+<td>Requisito: <a href="../Questionario/">QS01</a>, <a href="../Storytelling/">ST06</a>, <a href="../AnalisedeDocumentos/">ADD01</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -100,7 +103,7 @@ Tabela 3 - RF02
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF02</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF02</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -111,28 +114,27 @@ Tabela 3 - RF02
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-2">Cenário 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RF02.gif" height="500" width="250"> <br>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 1</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us04">História de Usuário US04</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS02</a> e <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q03</a></td>
+<td>Requisito: <a href="../Questionario/">QS02</a>, <a href="../Observacao/">OBS02</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -151,7 +153,7 @@ Tabela 4 - RF03
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF03</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF03</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -162,28 +164,27 @@ Tabela 4 - RF03
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-3">Cenário 03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RF03.gif" height="500" width="250"> <br>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 2</a>  <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS03</a> e <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q02</a></td>
+<td>Requisito:  <a href="../Questionario/">QS03</a>, <a href="../Brainstorming/">BS03</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -202,7 +203,7 @@ Tabela 5 - RF04
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF04</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF04</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -213,28 +214,27 @@ Tabela 5 - RF04
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#cartoes-de-especificacao">Cartão de Especificação 3</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA05</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><img src="../../assets/rastreabilidade/RF04.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-5">Cenário 05</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us07">História de Usuário US07</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS04</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS03</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS10</a></td>
+<td>Requisito: <a href="../Questionario/">QS04</a>, <a href="../AnalisedeDocumentos/">ADD02</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -253,7 +253,7 @@ Tabela 6 - RF05
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF05</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF05</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -264,28 +264,27 @@ Tabela 6 - RF05
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us09">História de Usuário US09</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us25">História de Usuário US25</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us28">História de Usuário US28</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us27">História de Usuário US27</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 3 - Feature 6</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS05</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS01, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS02</a></td>
+<td>Requisito: <a href="../Questionario/">Q12</a>, <a href="../Brainstorming/">BS04</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -304,7 +303,7 @@ Tabela 7 - RF06
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF06</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF06</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -315,28 +314,27 @@ Tabela 7 - RF06
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF06.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito:  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS06</a></td>
+<td>Requisito: <a href="../Questionario/">QS08</a>, <a href="../Brainstorming/">BS06</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -355,7 +353,7 @@ Tabela 8 - RF07
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF07</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF07</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -366,28 +364,27 @@ Tabela 8 - RF07
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA05</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON03</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC03</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-5">Cenário 05</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 2 - Feature 4</a> <br> <font><figure markdown><img src="../assets/rastreabilidade/RF07.jpg" alt="">{: style=&quot;height:500px;width:250px&quot;}</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS07</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q08, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS15</a></td>
+<td>Requisito: <a href="../Questionario/">QS08</a>, <a href="../Storytelling/">ST03</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -406,7 +403,7 @@ Tabela 9 - RF08
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF08</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF08</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -417,28 +414,27 @@ Tabela 9 - RF08
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us27">História de Usuário US20</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 5 - Feature 11</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS08</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q09</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_IS">OBS12</a></td>
+<td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../AnalisedeDocumentos/">ADD03</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -457,7 +453,7 @@ Tabela 10 - RF09
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF09</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF09</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -468,28 +464,27 @@ Tabela 10 - RF09
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA04</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l03-evento-com-tags">Léxico 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-1">Cenário 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.2-BilheteriaDigital/modelagem/cenarios/#cenario-2">Cenário 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-3">Cenário 03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-4">Cenário 04</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF09.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS09</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q01</a>, <a href="../../elicitacao/tecnicas/brainstorm/#anchor_BS">BS04</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS02</a></td>
+<td>Requisito: <a href="../Questionario/">QS14</a>, <a href="../Brainstorming/">BS07</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -508,7 +503,7 @@ Tabela 11 - RF10
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF10</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF10</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -519,28 +514,27 @@ Tabela 11 - RF10
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-1">Cenário 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RF10.gif" height="500" width="250"> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us02">História de Usuário US02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 2</a>  <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q04</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Brainstorming/">BS09</a>, <a href="../Observacao/">OBS01</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -559,7 +553,7 @@ Tabela 12 - RF11
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF11</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF11</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -570,28 +564,27 @@ Tabela 12 - RF11
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA06</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l02-sugestoes-de-eventos">Léxico 02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC02</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q05</a> e <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS11</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Observacao/">OBS03</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -610,7 +603,7 @@ Tabela 13 - RF12
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF12</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF12</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -621,28 +614,27 @@ Tabela 13 - RF12
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar DES01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l03-evento-com-tags">Léxico 03</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q06</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Brainstorming/">BS02</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -661,7 +653,7 @@ Tabela 14 - RF13
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF13</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF13</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -672,28 +664,27 @@ Tabela 14 - RF13
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA06</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar DES01 e DES05</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON01 e CON02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l04-notificar-eventos">Léxico 04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us22">Histórias de Usuário US22 e US23</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 2 - Feature 3</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l02-sugestoes-de-eventos">Léxico 02</a> <br> Requisitos: <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q07</a> e <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS06</a></td>
+<td>Requisito: <a href="../Storytelling/">ST05</a>, <a href="../Brainstorming/">BS05</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -712,7 +703,7 @@ Tabela 15 - RF14
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF14</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF14</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -723,28 +714,27 @@ Tabela 15 - RF14
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#cartoes-de-especificacao">Cartão de Especificação 5</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RF14P.gif" height="500" width="250"> <br><a href="https://play.google.com/store/apps/details?id=com.bilheteriadigital.mobile&hl=pt_BR&gl=US">Aplicativo Bilheteria Digital:</a><br> <font><figure markdown><img src="../../assets/rastreabilidade/RF14.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l03-evento-com-tags">Léxico 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-1">Cenário 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.2-BilheteriaDigital/modelagem/cenarios/#cenario-2">Cenário 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-3">Cenário 03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-4">Cenário 04</a> <br> Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS05</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Observacao/">OBS04</a>, <a href="../Storytelling/">ST02</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -763,7 +753,7 @@ Tabela 16 - RF15
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF15</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF15</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -774,28 +764,27 @@ Tabela 16 - RF15
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA05</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON03</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-5">Cenário 05</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF15.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us17">Histórias de Usuário US17</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 3 - Feature 6</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS07</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS06</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -814,7 +803,7 @@ Tabela 17 - RF16
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF16</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF16</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -825,28 +814,27 @@ Tabela 17 - RF16
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-4">Cenário 04</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS09</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Questionario/">QS07</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -865,7 +853,7 @@ Tabela 18 - RF17
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF17</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF17</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -876,28 +864,27 @@ Tabela 18 - RF17
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar DES01</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a> <br>  <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 1</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/CSsRpoXBR0BWWojN1ZrDn0/Protótipo-de-Alta-FIdelidade?page-id=0%3A1&amp;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/rastreabilidade/RF17P.gif" height="500" width="250"><br><a href="https://play.google.com/store/apps/details?id=com.bilheteriadigital.mobile&hl=pt_BR&gl=US">Aplicativo Bilheteria Digital:</a><br><font><figure markdown><img src="../../assets/rastreabilidade/RF17.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-2">Cenário 02</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us04">Histórias de Usuário US04</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS10</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS10</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -916,7 +903,7 @@ Tabela 19 - RF18
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF18</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF18</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -927,28 +914,27 @@ Tabela 19 - RF18
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l02-sugestoes-de-eventos">Léxico 02</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC04</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#requisitos-nao-funcionais">NFR08</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 2 - Feature 4</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us21">Histórias de Usuário US21</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS12</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD03</a>, <a href="../Questionario/">QS11</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -967,7 +953,7 @@ Tabela 20 - RF19
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF19</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF19</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -978,28 +964,27 @@ Tabela 20 - RF19
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l04-notificar-eventos">Léxico 04</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#cartoes-de-especificacao">Cartão de Especificação 2</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us13">Histórias de Usuário US13</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF19.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us29">Histórias de Usuário US29</a> <br> Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS13</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Brainstorming/">BS08</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1018,7 +1003,7 @@ Tabela 21 - RF20
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF20</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF20</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1029,28 +1014,27 @@ Tabela 21 - RF20
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS14</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS06</a>, <a href="../Questionario/">QS13</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1069,7 +1053,7 @@ Tabela 22 - RF21
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF21</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF21</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1080,28 +1064,27 @@ Tabela 22 - RF21
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS16</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1120,7 +1103,7 @@ Tabela 23 - RF22
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF22</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF22</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1131,28 +1114,27 @@ Tabela 23 - RF22
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA03</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us18">Histórias de Usuário US18</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF22.jpg" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 4 - Feature 9</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us14">Histórias de Usuário US14</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS17</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1171,7 +1153,7 @@ Tabela 24 - RF23
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF23</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF23</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1182,28 +1164,27 @@ Tabela 24 - RF23
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA06</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar DES01 e DES05</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-5">Cenário 05</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/#cenario-5">Cenário 05</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 2 - Feature 4</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS18</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS06</a>, <a href="../Questionario/">QS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1222,7 +1203,7 @@ Tabela 25 - RF24
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF24</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF24</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1233,28 +1214,27 @@ Tabela 25 - RF24
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA06</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#desempenho">Especificação Suplementar DES01 e DES05</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-02-eficiencia">NFR Eficiência</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC03</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us31">História de Usuário US31</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l06-mudar-idioma">Léxico 06</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 3 - Feature 6</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS19</a></td>
+<td>Requisito: <a href="../Storytelling/">ST04</a>, <a href="../Brainstorming/">BS10</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1273,7 +1253,7 @@ Tabela 26 - RF25
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF25</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF25</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1284,28 +1264,27 @@ Tabela 26 - RF25
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS20</a></td>
+<td>Requisito: <a href="../Questionario/">QS01</a>, <a href="../AnalisedeDocumentos/">ADD04</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/arthurmlv'>Arthur de Melo</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1324,7 +1303,7 @@ Tabela 27 - RF26
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF26</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF26</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1335,28 +1314,27 @@ Tabela 27 - RF26
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#usabilidade">Especificação Suplementar USA02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us30">História de Usuário US30</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS22</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS05</a>, <a href="../Observacao/">OBS05</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1375,7 +1353,7 @@ Tabela 28 - RF27
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF27</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF27</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1386,28 +1364,27 @@ Tabela 28 - RF27
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP05</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario">Léxico 05</a></td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS23</a></td>
+<td>Requisito: <a href="../Questionario/">QS01</a>, <a href="../Observacao/">OBS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1426,7 +1403,7 @@ Tabela 29 - RF28
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF28</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF28</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1437,28 +1414,27 @@ Tabela 29 - RF28
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><br> <font><figure markdown><img src="../../assets/rastreabilidade/RF28.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS03</a> e <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS24</a></td>
+<td>Requisito: <a href="../Storytelling/">ST05</a>, <a href="../Brainstorming/">BS05</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1477,7 +1453,7 @@ Tabela 30 - RF29
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF29</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF29</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1488,28 +1464,27 @@ Tabela 30 - RF29
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us15">História de Usuário US15</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF29.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-4-seguranca">Épico 4 - Feature 9</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS04</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS10</a>  </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1528,7 +1503,7 @@ Tabela 31 - RF30
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF30</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF30</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1539,28 +1514,27 @@ Tabela 31 - RF30
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us08">História de Usuário US08</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us29">História de Usuário US29</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF3031.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-4-seguranca">Épico 4 - Feature 9</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-5-padronizacao">Épico 5 - Feature 10</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS05</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS01</a>, <a href="../Observacao/">OBS02</a>  </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1579,7 +1553,7 @@ Tabela 32 - RF31
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF31</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF31</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1590,28 +1564,27 @@ Tabela 32 - RF31
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us08">História de Usuário US08</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/#us29">História de Usuário US29</a> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF3031.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-4-seguranca">Épico 4 - Feature 9</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#epico-5-padronizacao">Épico 5 - Feature 10</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS06</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS05</a>, <a href="../Storytelling/">ST05</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1630,7 +1603,7 @@ Tabela 33 - RF32
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF32</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF32</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1641,28 +1614,27 @@ Tabela 33 - RF32
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><br> <font><figure markdown><img src="../../assets/rastreabilidade/RF32.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS07</a></td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Brainstorming/">BS08</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1681,7 +1653,7 @@ Tabela 34 - RF33
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF33</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF33</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1692,28 +1664,27 @@ Tabela 34 - RF33
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><br> <font><figure markdown><img src="../../assets/rastreabilidade/RF3031.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS08</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS08</a>, <a href="../Questionario/">QS13</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1732,7 +1703,7 @@ Tabela 35 - RF34
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF34</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF34</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1743,28 +1714,27 @@ Tabela 35 - RF34
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><br> <font><figure markdown><img src="../../assets/rastreabilidade/RF34.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS09</a></td>
+<td>Requisito: <a href="../Observacao/">OBS04</a>, <a href="../Brainstorming/">BS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1783,7 +1753,7 @@ Tabela 36 - RF35
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF35</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF35</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1794,28 +1764,27 @@ Tabela 36 - RF35
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUPO5</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#requisitos-de-sistema-de-ajuda-e-de-documentacao-de-usuario-on-line">Especificação Suplementar RAU02</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><br> <font><figure markdown><img src="../../assets/rastreabilidade/RF35.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS11</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS07</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1834,7 +1803,7 @@ Tabela 37 - RF36
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF36</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF36</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1845,28 +1814,27 @@ Tabela 37 - RF36
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON03</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#confiabilidade">Especificação Suplementar CON06</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP07</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td> <br> <font><figure markdown><img src="../../assets/rastreabilidade/RF36.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS13</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS06</a>, <a href="../Questionario/">QS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1885,7 +1853,7 @@ Tabela 38 - RF37
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1896,28 +1864,27 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP08</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS14</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS06</a>, <a href="../Questionario/">QS06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1931,12 +1898,12 @@ Tabela 38 - RF37
 
 <center>
 
-Tabela 38 - RF37
+Tabela 39 - RF38
 
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF38</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1947,28 +1914,27 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP08</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS14</a></td>
+<td>Requisito: <a href="../Questionario/">QS01</a>, <a href="../Storytelling/">ST06</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -1982,12 +1948,12 @@ Tabela 38 - RF37
 
 <center>
 
-Tabela 38 - RF37
+Tabela 40 - RF39
 
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF39</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1998,28 +1964,27 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP08</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS14</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS07</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -2033,12 +1998,12 @@ Tabela 38 - RF37
 
 <center>
 
-Tabela 38 - RF37
+Tabela 41 - RF40
 
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF40</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -2049,28 +2014,27 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP08</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS14</a></td>
+<td>Requisito: <a href="../Questionario/">QS08</a>, <a href="../Brainstorming/">BS06</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -2084,12 +2048,12 @@ Tabela 38 - RF37
 
 <center>
 
-Tabela 38 - RF37
+Tabela 42 - RF41
 
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF41</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -2100,28 +2064,27 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP08</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS14</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS10</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
@@ -2135,12 +2098,12 @@ Tabela 38 - RF37
 
 <center>
 
-Tabela 38 - RF37
+Tabela 43 - RF42
 
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/#requisitos-funcionais">RF37</a></th>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF42</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -2151,32 +2114,1422 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade">Especificação Suplementar SUP08</a></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td>-</td>
-</tr>
+<td><a href=""> - </a></td></tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><font><figure markdown><img src="../../assets/rastreabilidade/RF05.gif" height="500" width="250"></td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td>-</td>
+<td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisitos: <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS14</a></td>
+<td>Requisito: <a href="../Brainstorming/">BS05</a>, <a href="../Observacao/">OBS07</a> </td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/G16C'>Gabriel Campello</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
 
 </center>
 
 </details>
+
+---
+
+# Requisitos não funcionais
+
+### RNF01
+
+<details>
+
+<summary>O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência.</summary>
+
+<center>
+
+Tabela 44 - RNF01
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF01</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS40</a>, <a href="../Storytelling/">ST11</a>, <a href="../AnalisedeDocumentos/">ADD13</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF02
+
+<details>
+
+<summary>A interface deve ter design acessível a usuários com pouca familiaridade com tecnologia, como idosos.</summary>
+
+<center>
+
+Tabela 45 - RNF02
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF02</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">Q19</a>, <a href="../Observacao/">OBS18</a>, <a href="../Brainstorming/">BS42</a>/<a href="../Brainstorming/">BS43</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF03
+
+<details>
+
+<summary>O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.</summary>
+
+<center>
+
+Tabela 46 - RNF03
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF03</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../Brainstorming/">BS43</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF04
+
+<details>
+
+<summary>O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão.</summary>
+
+<center>
+
+Tabela 47 - RNF04
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF04</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS12</a>, <a href="../Observacao/">OBS15</a>, <a href="../Brainstorming/">BS36</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF05
+
+<details>
+
+<summary>O aplicativo deve enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança.</summary>
+
+<center>
+
+Tabela 48 - RNF05
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF05</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS14</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF06
+
+<details>
+
+<summary>Suporte Técnico, como disponibilizar canais de suporte claros e responsivos para auxiliar os usuários.</summary>
+
+<center>
+
+Tabela 49 - RNF06
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF06</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS14</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS52</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF07
+
+<details>
+
+<summary>O serviço Celular Seguro deve estar disponível para todos os cidadãos brasileiros, 24×7, sem interrupções planejadas.</summary>
+
+<center>
+
+Tabela 50 - RNF07
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF07</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD13</a>, <a href="../Observacao/">OBS21</a>, <a href="../Brainstorming/">BS40</a>, <a href="../Storytelling/">ST11</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF08
+
+<details>
+
+<summary>O tempo de resposta para comunicação de um alerta aos parceiros deve ser mínimo – idealmente instantâneo – e os bloqueios devem ocorrer em minutos.</summary>
+
+<center>
+
+Tabela 51 - RNF08
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF08</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD14</a>, <a href="../Storytelling/">ST9</a>, <a href="../Brainstorming/">BS41</a>, <a href="../Brainstorming/">BS58</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF09
+
+<details>
+
+<summary>O aplicativo e a plataforma devem seguir requisitos de segurança da informação: conexão criptografada, proteção de dados conforme LGPD.</summary>
+
+<center>
+
+Tabela 52 - RNF09
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF09</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD15</a>, <a href="../Storytelling/">ST10</a>, <a href="../Brainstorming/">BS47</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF10
+
+<details>
+
+<summary>O serviço deverá ser oferecido gratuitamente, sem cobrança pelo download ou uso do aplicativo.</summary>
+
+<center>
+
+Tabela 53 - RNF10
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF10</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD18</a> </td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF11
+
+<details>
+
+<summary>O sistema deve cumprir a legislação e normas vigentes, incluindo portarias, resoluções da Anatel e diretrizes da Febraban.</summary>
+
+<center>
+
+Tabela 54 - RNF11
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF11</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../AnalisedeDocumentos/">ADD19</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF12
+
+<details>
+
+<summary>Linguagem simples sem jargões técnicos.</summary>
+
+<center>
+
+Tabela 55 - RNF12
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF12</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS37</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF13
+
+<details>
+
+<summary> 	Layout consistente seguindo heurísticas de Nielsen.</summary>
+
+<center>
+
+Tabela 56 - RNF13
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF13</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS38</a>, <a href="../Storytelling/">ST8</a>, <a href="../AnalisedeDocumentos/">ADD16</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF14
+
+<details>
+
+<summary>Tempo de resposta da interface < 200 ms.</summary>
+
+<center>
+
+Tabela 57 - RNF14
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF14</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS39</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF15
+
+<details>
+
+<summary>Suporte a VLibras e leitor de tela para acessibilidade.</summary>
+
+<center>
+
+Tabela 58 - RNF15
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF15</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS42</a>, <a href="../Observacao/">OBS18</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF16
+
+<details>
+
+<summary>Transcrição em tempo real sem falhas de reconhecimento.</summary>
+
+<center>
+
+Tabela 59 - RNF16
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF16</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS44</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF17
+
+<details>
+
+<summary> 	Precisão de localização GPS menor do que 10 metros.</summary>
+
+<center>
+
+Tabela 60 - RNF17
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF17</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS45</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF18
+
+<details>
+
+<summary>Autenticação multifator (2FA) com fallback via SMS.</summary>
+
+<center>
+
+Tabela 61 - RNF18
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF18</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS48</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF19
+
+<details>
+
+<summary>Logs de auditoria imutáveis e armazenados por no mínimo 1 ano.</summary>
+
+<center>
+
+Tabela 62 - RNF19
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF19</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS49</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF20
+
+<details>
+
+<summary>Política de privacidade clara e facilmente acessível dentro do app.</summary>
+
+<center>
+
+Tabela 63 - RNF20
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF20</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS50</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF21
+
+<details>
+
+<summary>Verificação de integridade de dados no drive com checksum.</summary>
+
+<center>
+
+Tabela 64 - RNF21
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF21</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS53</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF22
+
+<details>
+
+<summary>Compatibilidade com Android e iOS (últimas 3 versões principais).</summary>
+
+<center>
+
+Tabela 65 - RNF22
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF22</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS57</a>, <a href="../AnalisedeDocumentos/">ADD17</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF23
+
+<details>
+
+<summary>Tempo de inicialização do app < 2 segundos.</summary>
+
+<center>
+
+Tabela 66 - RNF23
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF23</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS58</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF24
+
+<details>
+
+<summary>Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas.</summary>
+
+<center>
+
+Tabela 67 - RNF24
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF24</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Brainstorming/">BS60</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF25
+
+<details>
+
+<summary>As páginas carregam em até 2 segundos em conexões padrão 4G.</summary>
+
+<center>
+
+Tabela 68 - RNF25
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF25</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Observacao/">OBS16</a>, <a href="../Brainstorming/">BS39</a>, <a href="../Storytelling/">ST9</a>, <a href="../AnalisedeDocumentos/">ADD14</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF26
+
+<details>
+
+<summary>O aplicativo responde corretamente mesmo com entradas erradas.</summary>
+
+<center>
+
+Tabela 69 - RNF26
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF26</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Observacao/">OBS19</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+### RNF27
+
+<details>
+
+<summary>O aplicativo apresenta confirmação de suas ações.</summary>
+
+<center>
+
+Tabela 70 - RNF27
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais">RNF27</a></th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td><a href=""> - </a></td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Observacao/">OBS20</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+
+</center>
+
+</details>
+
+---
+
+## Referências Bibliográficas
+
+> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 25 de jun de 2023.
+
+> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 25 de jun de 2023.
+
+---
 
 # Histórico de Versões
 
