@@ -38,6 +38,8 @@ nav:
         - Ata 1: "atas-reuniao/sprint-2/ata-reuniao-6.md"
     - Sprint 4:
         - Ata 1: "atas-reuniao/sprint-4/ata-reuniao-7.md"
+    - Sprint 5:
+        - Ata 1: "atas-reuniao/sprint-5/ata-reuniao-8.md"
 
   - Planejamento: 
       - Introdução: "documento-planejamento/documento-planejamento.md"
@@ -94,7 +96,8 @@ nav:
         - Entrega 1: "documento-verificacao/documento-verificacao-grupo.md" 
         - Entrega 2: "documento-verificacao/documento-verificacao-grupo2.md" 
         - Entrega 3: "documento-verificacao/documento-verificacao-grupo3.md" 
-        - Entrega 4: "documento-verificacao/documento-verificacao-grupo4.md" 
+        - Entrega 4: "documento-verificacao/documento-verificacao-grupo4.md"
+        - Entrega 5: "documento-verificacao/documento-verificacao-grupo5.md"
 
   - Inspeção:
       - Grupo:
