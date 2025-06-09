@@ -64,18 +64,19 @@ Tabela 2 - RF01
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">Cenário 04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">Especificação Suplementar CON01 e CON02</a></td>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 1</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -84,7 +85,7 @@ Tabela 2 - RF01
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -114,29 +115,31 @@ Tabela 3 - RF02
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="../../documento-modelagem/CasoDeUso/#uc02--registrar-boletim">UC02 - Registrar Boletim</a><br><a href="../../documento-modelagem/Agil/Historias_de_usuario/#us03---registrar-boletim-de-ocorrência">US03 - Registrar boletim de ocorrência</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="../../documento-modelagem/Backlog/#épico-2--boletim-de-ocorrência">Épico 2 - Boletim de Ocorrência</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS02</a>, <a href="../Observacao/">OBS02</a></td>
+<td>Requisito: <a href="../Questionario/#qs02">QS02</a>, <a href="../Observacao/#obs02">OBS02</a>, <a href="../Storytelling/#st04">ST04</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
+
 
 </details>
 
@@ -164,29 +167,31 @@ Tabela 4 - RF03
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="../../documento-modelagem/CasoDeUso/#uc10--gerenciar-contas-bancárias-vinculadas">UC10 - Gerenciar Contas Bancárias Vinculadas</a><br><a href="../../documento-modelagem/Agil/Historias_de_usuario/#us21---cancelar-conta-bancária-vinculada">US21 - Cancelar conta bancária vinculada</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="../../documento-modelagem/Backlog/#épico-3--conta--perfil">Épico 3 - Conta & Perfil</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito:  <a href="../Questionario/">QS03</a>, <a href="../Brainstorming/">BS03</a></td>
+<td>Requisito:  <a href="../Questionario/#qs03">QS03</a>, <a href="../Brainstorming/#bs03">BS03</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
+
 
 </details>
 
@@ -203,7 +208,7 @@ Tabela 5 - RF04
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF04</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">RF04</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -214,27 +219,32 @@ Tabela 5 - RF04
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar USA05</a> <br> 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-12-caso-de-uso-uc11-guia-de-acoes-pos-furto">UC11 - Guia de Ações Pós-Furto</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-2-%E2%80%93-boletim-de-ocorr%C3%AAncia">Épico 2 – Boletim de Ocorrência</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS04</a>, <a href="../AnalisedeDocumentos/">ADD02</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS04</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -253,7 +263,7 @@ Tabela 6 - RF05
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF05</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-funcionais">RF05</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -264,27 +274,35 @@ Tabela 6 - RF05
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar USA01, USA02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-15-caso-de-uso-uc14-feedback-visual-ao-usuario">UC14 - Feedback Visual ao Usuário</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us01">US01 - Confirmação visual após ações</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">Q12</a>, <a href="../Brainstorming/">BS04</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">Q12</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -303,7 +321,7 @@ Tabela 7 - RF06
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF06</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-funcionais">RF06</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -314,27 +332,32 @@ Tabela 7 - RF06
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON03</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us02">US02 - Notificação de atividade suspeita</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS08</a>, <a href="../Brainstorming/">BS06</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS08</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -353,7 +376,7 @@ Tabela 8 - RF07
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF07</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-funcionais">RF07</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -364,27 +387,32 @@ Tabela 8 - RF07
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON01, SUP06</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us28">US28 - Escolher tipo de bloqueio</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS08</a>, <a href="../Storytelling/">ST03</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS08</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font size="3">Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -403,7 +431,7 @@ Tabela 9 - RF08
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF08</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais">RF08</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -414,27 +442,39 @@ Tabela 9 - RF08
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar USA04, CON01, CON02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-3-caso-de-uso-uc02-registrar-boletim">UC02 - Registrar Boletim</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us09">US09 - Registrar boletim de ocorrência</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-2-%E2%80%93-boletim-de-ocorr%C3%AAncia">Épico 2 – Boletim de Ocorrência</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Questionario/">QS09</a>, <a href="../AnalisedeDocumentos/">ADD03</a></td>
+<td>
+  Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS02</a>, 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS09</a>, 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais">OBS8</a>
+</td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -453,7 +493,7 @@ Tabela 10 - RF09
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF09</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF09</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -464,18 +504,23 @@ Tabela 10 - RF09
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON01, CON05</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>Não especificado em um UC ou US dedicado nos artefatos.</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -484,7 +529,7 @@ Tabela 10 - RF09
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -503,7 +548,7 @@ Tabela 11 - RF10
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF10</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF10</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -514,27 +559,32 @@ Tabela 11 - RF10
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#autentica%C3%A7%C3%A3o-via-govbr">Especificação Suplementar - Autenticação via GOV.br</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#restri%C3%A7%C3%B5es-do-projeto">Especificação Suplementar - Restrições do Projeto</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-3-%E2%80%93-conta--perfil">Épico 3 – Conta & Perfil</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Brainstorming/">BS09</a>, <a href="../Observacao/">OBS01</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">ADD01</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/">BS09</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/">OBS01</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -553,7 +603,7 @@ Tabela 12 - RF11
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF11</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF11</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -564,27 +614,32 @@ Tabela 12 - RF11
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#requisitos-de-licenciamento">Especificação Suplementar - Requisitos de Licenciamento</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#padr%C3%B5es-aplic%C3%A1veis">Padrões Aplicáveis - LGPD</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us18">US18 - Fazer download do Termos de Uso do aplicativo</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-3-%E2%80%93-conta--perfil">Épico 3 – Conta & Perfil</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Observacao/">OBS03</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD01</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/">OBS03</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -603,7 +658,7 @@ Tabela 13 - RF12
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF12</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF12</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -614,27 +669,36 @@ Tabela 13 - RF12
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar USA04, CON01</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us00">US00 - Cadastro de múltiplos celulares</a></td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-1-%E2%80%93-cadastro-de-dispositivos">Épico 1 – Cadastro de Dispositivos</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD01</a>, <a href="../Brainstorming/">BS02</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD01</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/">BS02</a></td>
 </tr>
 </tbody>
 </table>
+<font size="3">Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+</center>
+
+
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -653,7 +717,7 @@ Tabela 14 - RF13
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF13</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF13</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -664,27 +728,35 @@ Tabela 14 - RF13
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON01, SUP06</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-13-caso-de-uso-uc12-cadastrar-pessoa-de-confianca">UC12 - Cadastrar Pessoa de Confiança</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us29">US29 - Permitir que pessoas de confiança emitam alerta</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-5-%E2%80%93-pessoa-de-confian%C3%A7a">Épico 5 – Pessoa de Confiança</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../Storytelling/">ST05</a>, <a href="../Brainstorming/">BS05</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/">ST05</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/">BS05</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -703,7 +775,7 @@ Tabela 15 - RF14
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF14</a></th>
+<th style="text-align:center"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF14</a></th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -714,27 +786,35 @@ Tabela 15 - RF14
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar DES02, DES04, CON03</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-2-caso-de-uso-uc01-emitir-alerta-de-roubo">UC01 - Emitir Alerta de Roubo</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us27">US27 - Confirmar antes da emissão do alerta</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Observacao/">OBS04</a>, <a href="../Storytelling/">ST02</a></td>
+<td>Requisito: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD04</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/">OBS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/">ST02</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -753,7 +833,9 @@ Tabela 16 - RF15
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF15</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF15</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -764,27 +846,40 @@ Tabela 16 - RF15
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON07, USA04</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us28">US28 - Escolher tipo de bloqueio</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS06</a></td>
+<td>
+  Requisito: 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD04</a>, 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/">BS06</a>
+</td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -803,7 +898,9 @@ Tabela 17 - RF16
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF16</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF16</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -814,27 +911,40 @@ Tabela 17 - RF16
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#suportabilidade">Especificação Suplementar SUP06, CON02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us30">US30 - Gerar número de protocolo</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Questionario/">QS07</a></td>
+<td>
+  Requisito: 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD04</a>, 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/">QS07</a>
+</td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -853,7 +963,9 @@ Tabela 18 - RF17
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF17</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF17</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -864,27 +976,41 @@ Tabela 18 - RF17
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#integra%C3%A7%C3%B5es-obrigat%C3%B3rias">Especificação Suplementar - Integrações Obrigatórias</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-2-caso-de-uso-uc01-emitir-alerta-de-roubo">UC01 - Emitir Alerta de Roubo</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-5-caso-de-uso-uc04-bloqueio-remoto-do-aparelho">UC04 - Bloqueio Remoto do Aparelho</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD04</a>, <a href="../Brainstorming/">BS10</a></td>
+<td>
+  Requisito: 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD04</a>, 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/">BS10</a>
+</td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -903,7 +1029,9 @@ Tabela 19 - RF18
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF18</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF18</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -914,27 +1042,41 @@ Tabela 19 - RF18
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#integra%C3%A7%C3%B5es-obrigat%C3%B3rias">Especificação Suplementar - Integrações Obrigatórias</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">USA02, CON02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us22">US22 - Consulta manual e direta do IMEI</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us19">US19 - Leitura do IMEI via câmera do celular</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-1-%E2%80%93-cadastro-de-dispositivos">Épico 1 – Cadastro de Dispositivos</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
-<td>Requisito: <a href="../AnalisedeDocumentos/">ADD03</a>, <a href="../Questionario/">QS11</a></td>
+<td>
+  Requisito: 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/">ADD09</a>, 
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/">QS11</a>
+</td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -964,7 +1106,8 @@ Tabela 20 - RF19
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -984,7 +1127,7 @@ Tabela 20 - RF19
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1003,7 +1146,9 @@ Tabela 21 - RF20
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF20</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF20</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1014,18 +1159,27 @@ Tabela 21 - RF20
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#suportabilidade">Especificação Suplementar SUP06, CON01</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-2-caso-de-uso-uc01-emitir-alerta-de-roubo">UC01 - Emitir Alerta de Roubo</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1034,7 +1188,7 @@ Tabela 21 - RF20
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1053,7 +1207,9 @@ Tabela 22 - RF21
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF21</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">RF21</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1064,18 +1220,28 @@ Tabela 22 - RF21
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON03, CON05</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/#tabela-4-lexicos-estados">Léxico - Estado: Chip alterado</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us28">US28 - Escolher tipo de bloqueio</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1084,7 +1250,7 @@ Tabela 22 - RF21
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1103,7 +1269,9 @@ Tabela 23 - RF22
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF22</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF22</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1114,18 +1282,28 @@ Tabela 23 - RF22
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON07, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-5-caso-de-uso-uc04-bloqueio-remoto-do-aparelho">UC04 - Bloqueio Remoto do Aparelho</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us39">US39 - Bloquear dispositivo</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1134,7 +1312,7 @@ Tabela 23 - RF22
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1153,7 +1331,9 @@ Tabela 24 - RF23
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF23</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF23</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1164,18 +1344,28 @@ Tabela 24 - RF23
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON01</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-9-caso-de-uso-uc08-limpeza-remota-com-autenticacao-forte">UC08 - Limpeza Remota com Autenticação Forte</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us40">US40 - Redefinir dispositivo para padrões de fábrica</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1184,7 +1374,7 @@ Tabela 24 - RF23
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1203,7 +1393,9 @@ Tabela 25 - RF24
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF24</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais">RF24</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1214,18 +1406,28 @@ Tabela 25 - RF24
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#integra%C3%A7%C3%B5es-obrigat%C3%B3rias">Especificação Suplementar - Integrações Obrigatórias</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-2-caso-de-uso-uc01-emitir-alerta-de-roubo">UC01 - Emitir Alerta de Roubo</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-7-caso-de-uso-uc06-gerar-relatorio-de-movimentacao-em-pdf">UC06 - Gerar Relatório de Movimentação em PDF</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1234,7 +1436,7 @@ Tabela 25 - RF24
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1253,7 +1455,9 @@ Tabela 26 - RF25
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF25</a></th>
+<th style="text-align:center">
+<a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF25</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1264,18 +1468,28 @@ Tabela 26 - RF25
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar CON02, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-03-desempenho">NFR Desempenho (RNF11)</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-4-caso-de-uso-uc03-localizar-celular">UC03 - Localizar Celular</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us37">US37 - Localizar o dispositivo em tempo real</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1284,7 +1498,7 @@ Tabela 26 - RF25
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1303,7 +1517,9 @@ Tabela 27 - RF26
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF26</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF26</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1314,18 +1530,28 @@ Tabela 27 - RF26
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON02, CON04, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/#cenario-4-visualizar-ocorrencias-em-um-mapa">Cenário 4 - Visualizar ocorrências em um mapa</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-7-caso-de-uso-uc06-gerar-relatorio-de-movimentacao-em-pdf">UC06 - Gerar Relatório de Movimentação em PDF</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1334,7 +1560,7 @@ Tabela 27 - RF26
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1345,7 +1571,6 @@ Tabela 27 - RF26
 <details>
 
 <summary> Informar localização exata via coordenadas e mapa </summary>
-
 <center>
 
 Tabela 28 - RF27
@@ -1353,7 +1578,9 @@ Tabela 28 - RF27
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF27</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">RF27</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1364,18 +1591,28 @@ Tabela 28 - RF27
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar CON02, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-03-desempenho">NFR Desempenho (RNF11)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-4-caso-de-uso-uc03-localizar-celular">UC03 - Localizar Celular</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us37">US37 - Localizar o dispositivo em tempo real</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1384,7 +1621,7 @@ Tabela 28 - RF27
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1395,7 +1632,6 @@ Tabela 28 - RF27
 <details>
 
 <summary> Emitir alerta S.O.S. automático para contatos de emergência. </summary>
-
 <center>
 
 Tabela 29 - RF28
@@ -1403,7 +1639,9 @@ Tabela 29 - RF28
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF28</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais">RF28</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1414,18 +1652,28 @@ Tabela 29 - RF28
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON01, CON03, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us25">US25 - Alertar automaticamente por comportamento suspeito</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-13-caso-de-uso-uc12-cadastrar-pessoa-de-confianca">UC12 - Cadastrar Pessoa de Confiança</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1434,7 +1682,7 @@ Tabela 29 - RF28
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1453,7 +1701,9 @@ Tabela 30 - RF29
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF29</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF29</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1464,18 +1714,27 @@ Tabela 30 - RF29
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#integra%C3%A7%C3%B5es-obrigat%C3%B3rias">Especificação Suplementar - Integrações Obrigatórias</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-5-caso-de-uso-uc04-bloqueio-remoto-do-aparelho">UC04 - Bloqueio Remoto do Aparelho</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1484,7 +1743,7 @@ Tabela 30 - RF29
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1495,7 +1754,6 @@ Tabela 30 - RF29
 <details>
 
 <summary> Guia de usuário passo a passo embutido no app. </summary>
-
 <center>
 
 Tabela 31 - RF30
@@ -1503,7 +1761,9 @@ Tabela 31 - RF30
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF30</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF30</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1514,18 +1774,26 @@ Tabela 31 - RF30
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar USA05</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-12-caso-de-uso-uc11-guia-de-acoes-pos-furto">UC11 - Guia de Ações Pós-Furto</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-3-%E2%80%93-conta--perfil">Épico 3 – Conta & Perfil</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1534,7 +1802,7 @@ Tabela 31 - RF30
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1545,7 +1813,6 @@ Tabela 31 - RF30
 <details>
 
 <summary> Cadastro de contatos de segurança e envio de notificações prioritárias. </summary>
-
 <center>
 
 Tabela 32 - RF31
@@ -1553,7 +1820,9 @@ Tabela 32 - RF31
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF31</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF31</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1564,18 +1833,28 @@ Tabela 32 - RF31
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON01, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-segurança">NFR Segurança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-13-caso-de-uso-uc12-cadastrar-pessoa-de-confianca">UC12 - Cadastrar Pessoa de Confiança</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31">US31 a US36 - Gerenciamento de Pessoas de Confiança</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-5-%E2%80%93-pessoa-de-confian%C3%A7a">Épico 5 – Pessoa de Confiança</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1584,7 +1863,7 @@ Tabela 32 - RF31
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1595,7 +1874,6 @@ Tabela 32 - RF31
 <details>
 
 <summary> Portal web para controle remoto das mesmas funções do app. </summary>
-
 <center>
 
 Tabela 33 - RF32
@@ -1603,7 +1881,9 @@ Tabela 33 - RF32
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF32</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF32</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1614,18 +1894,26 @@ Tabela 33 - RF32
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#interfaces-de-usu%C3%A1rio">Especificação Suplementar - Interfaces de Usuário</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/#cenario-2-selecionar-acoes-de-seguranca-para-um-dispositivo">Cenário 2 - Selecionar ações de segurança</a><br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/#cenario-5-bloquear-remotamente-um-dispositivo">Cenário 5 - Bloquear remotamente um dispositivo</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>Todos os Épicos</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1634,7 +1922,7 @@ Tabela 33 - RF32
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1645,7 +1933,6 @@ Tabela 33 - RF32
 <details>
 
 <summary> Sincronizar notificações push e e‑mail entre app e portal. </summary>
-
 <center>
 
 Tabela 34 - RF33
@@ -1653,7 +1940,9 @@ Tabela 34 - RF33
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF33</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF33</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1664,18 +1953,27 @@ Tabela 34 - RF33
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#confiabilidade">Especificação Suplementar CON02, SUP06</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/#tabela-4-lexicos-estados">Léxico - Estado: Sincronizado com o portal</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1684,7 +1982,7 @@ Tabela 34 - RF33
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1695,7 +1993,6 @@ Tabela 34 - RF33
 <details>
 
 <summary> Botão de “bloqueio rápido” sempre acessível na tela principal. </summary>
-
 <center>
 
 Tabela 35 - RF34
@@ -1703,7 +2000,9 @@ Tabela 35 - RF34
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF34</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais">RF34</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1714,18 +2013,27 @@ Tabela 35 - RF34
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#usabilidade">Especificação Suplementar USA04, DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#tabela-2-caso-de-uso-uc01-emitir-alerta-de-roubo">UC01 - Emitir Alerta de Roubo</a>
+</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-4-%E2%80%93-comunica%C3%A7%C3%A3o--notifica%C3%A7%C3%B5es">Épico 4 – Comunicação & Notificações</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1734,7 +2042,7 @@ Tabela 35 - RF34
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1745,7 +2053,6 @@ Tabela 35 - RF34
 <details>
 
 <summary> Comandos por voz para funções críticas (bloqueio, rastreamento, SOS). </summary>
-
 <center>
 
 Tabela 36 - RF35
@@ -1753,7 +2060,9 @@ Tabela 36 - RF35
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><a href="../../documento-elicitacao/requisitos_elicitados/#requisitos-funcionais">RF35</a></th>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF35</a>
+</th>
 <th>Desenvolvimento</th>
 </tr>
 </thead>
@@ -1764,18 +2073,25 @@ Tabela 36 - RF35
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#requisitos-ambientais">Especificação Suplementar - Requisitos Ambientais (Acessibilidade)</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
-<td><a href=""> - </a></td></tr>
+<td>Não especificado em um UC ou US dedicado nos artefatos.</td>
+</tr>
 <tr>
 <td style="text-align:center">Representação</td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href=""> - </a></td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 6 – Localização e Controle Remoto</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
@@ -1784,7 +2100,7 @@ Tabela 36 - RF35
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1814,7 +2130,8 @@ Tabela 37 - RF36
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -1834,7 +2151,7 @@ Tabela 37 - RF36
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1864,7 +2181,8 @@ Tabela 38 - RF37
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -1884,7 +2202,7 @@ Tabela 38 - RF37
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1914,7 +2232,8 @@ Tabela 39 - RF38
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -1934,7 +2253,7 @@ Tabela 39 - RF38
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -1964,7 +2283,8 @@ Tabela 40 - RF39
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -1984,7 +2304,7 @@ Tabela 40 - RF39
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -2014,7 +2334,8 @@ Tabela 41 - RF40
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -2034,7 +2355,7 @@ Tabela 41 - RF40
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -2064,7 +2385,8 @@ Tabela 42 - RF41
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -2084,7 +2406,7 @@ Tabela 42 - RF41
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -2114,7 +2436,8 @@ Tabela 43 - RF42
 </tr>
 <tr>
 <td style="text-align:center">Satisfação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#funcionalidade">Especificação Suplementar USA04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a></td>
+<br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Recurso</td>
@@ -2134,7 +2457,7 @@ Tabela 43 - RF42
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a>.</font>
+<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
