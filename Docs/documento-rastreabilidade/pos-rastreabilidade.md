@@ -17,7 +17,7 @@ Neste projeto, a rastreabilidade está concentrada na categoria de **Desenvolvim
 
 Vale destacar que o elo de **responsabilidade** foi excluído da análise, pois os artefatos disponíveis não permitem esse tipo de rastreamento.
 
-A rastreabilidade foi aplicada exclusivamente aos requisitos que **não foram implementados** pela aplicação Bilheteria Digital, embora alguns tenham sido simulados no protótipo de alta fidelidade utilizado na etapa de validação. A estrutura usada para organizar essas informações pode ser visualizada na Tabela 1.
+A rastreabilidade foi aplicada exclusivamente aos requisitos que **não foram implementados** pela aplicação Celular Seguro, embora alguns tenham sido simulados no protótipo de alta fidelidade utilizado na etapa de validação. A estrutura usada para organizar essas informações pode ser visualizada na Tabela 1.
 
 #### Tabela 1 – Modelo de Pós-Rastreabilidade
 
@@ -34,7 +34,7 @@ A rastreabilidade foi aplicada exclusivamente aos requisitos que **não foram im
 
 ### Rastreabilidade
 
-As tabelas a seguir detalham os elos identificados entre os artefatos e os requisitos, tanto funcionais quanto não funcionais, implementados ou não pela Bilheteria Digital. 
+As tabelas a seguir detalham os elos identificados entre os artefatos e os requisitos, tanto funcionais quanto não funcionais, implementados ou não pelo Celular seguro. 
 
 ---
 
@@ -76,7 +76,7 @@ Tabela 2 - RF01
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
-<td><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 1</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/lexicos/#l01-filtrar-eventos">Léxico 01</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/agil/backlog/#metodologia">Épico 1 - Feature 1</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/agil/nfrframework/#nfr-01-usabilidade">NFR Usabilidade</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/useCase/#especializacao-dos-casos-de-uso">Casos de Uso UC01</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Agregação</td>
