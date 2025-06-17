@@ -1,4 +1,4 @@
-# Protótipo de Alto Fidelidade
+# Protótipo de Alta Fidelidade
 ---
 
 ## Introdução 
@@ -36,7 +36,7 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
   <tbody>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/refs/heads/main/Docs/assets/Ferramentas/Figma-Logo-PNG-Cutout.png" width="80" height="80"/></td>
-      <td>Figma</td>
+      <td><a href="https://www.figma.com">Figma</a></td>
       <td>Criação de protótipos de alta fidelidade, design de interfaces e colaboração em tempo real entre os membros da equipe. <a id="anchor_1" href="#FRM1"></a></td>
     </tr>
   </tbody>
@@ -57,10 +57,12 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 
 > 2. GUILHERME SANTA ROSA, José. Avaliação E Projeto No Design De Interfaces. [S. l.: s. n.], 2010.
 
+> 3. SERRANO, Milene. Requisitos - Aula 23. 2017. Apresentação de slides. Disponível em: [PDF](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (2).pdf).
+
 ---
 
 ## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0  | 17/06/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 17/06/2025 |
+| 1.0  | 17/06/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/06/2025 |
