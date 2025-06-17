@@ -128,16 +128,13 @@ Esta matriz representa, portanto, uma peça-chave no processo de **documentaçã
 | RNF27 | O aplicativo apresenta confirmação de suas ações.                                      | [OBS20](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais)                                                                                                                                                                                                                                                                                                                                                                                                                         | Sim           | [Casos de uso](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/), [NFR Framework](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/)                             | [RNF27](../pos-rastreabilidade/#rnf27) |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateuSansete">Mateus Bastos </a>, <a href="https://github.com/Bessazs">Vitor Bessa</a> e <a href="https://github.com/zDrNz">Daniel Rodrigues</a></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateuSansete">Mateus Bastos </a>, <a href="https://github.com/Bessazs">Vitor Bessa</a> e <a href="https://github.com/zDrNz">Daniel Rodrigues</a> <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></p></font>
+
 ---
 
-### Referência
+## Referências Bibliográficas
 
 ><a name="ref1"></a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. **Rastreabilidade de Requisitos**. Monografias em Ciência da Computação, Nº 20/05. Departamento de Informática, PUC-Rio, 2005.
-
-
-
-
 
 
 ---
