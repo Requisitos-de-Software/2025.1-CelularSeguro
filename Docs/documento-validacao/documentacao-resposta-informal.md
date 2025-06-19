@@ -17,8 +17,31 @@ Além disso, o contato também foi reforçado por meio da ouvidoria do sistema, 
 
 ---
 
-## Resposta do Celular Seguro
+<div align="center">
+  <font size="4"><p style="text-align: center">Figura 1 - Envio por e-mail.</p></font> 
+  <img src="../../assets/validacao/validacao-email.jpg" alt="**Figura 1** - Envio por e-mail." width="950px" height="350px">
+  <font size="3"><p style="text-align: center">Fonte: Daniel Rodrigues</p></font>
+</div>
 
+---
+
+<div align="center">
+  <font size="4"><p style="text-align: center">Figura 2 - Envio pela Ouvidoria.</p></font> 
+  <img src="../../assets/validacao/ouvidoria1.jpg" alt="Figura 2 - Envio pela Ouvidoria." width="750px" height="950px">
+  <font size="3"><p style="text-align: center">Fonte: Vitor Bessa</p></font>
+</div>
+
+---
+
+<div align="center">
+  <font size="4"><p style="text-align: center">Figura 3 - Protocolo da Ouvidoria.</p></font> 
+  <img src="../../assets/validacao/ouvidoria2.jpg" alt="Figura 3 - Protocolo da Ouvidoria." width="750px" height="950px">
+  <font size="3"><p style="text-align: center">Fonte: Vitor Bessa</p></font>
+</div>
+
+---
+
+## Resposta do Celular Seguro
 
 ---
 
@@ -33,3 +56,4 @@ Além disso, o contato também foi reforçado por meio da ouvidoria do sistema, 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 17/06/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 17/06/2025 |
+| 1.1 | 19/06/2025 | Inserção das imagens de comunicação ao Celular Seguro  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs), [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | 19/06/2025 |
