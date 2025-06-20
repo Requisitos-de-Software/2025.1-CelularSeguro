@@ -71,9 +71,27 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
+---
 
+## 3. Referência
 
-## 3. Gravação
+### 3.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 4: Referência dos itens inconformes</p></font> 
+
+| Item | Imagem |
+|------|--------|
+|<b id="REF01">08. O histórico de versão é padronizado?</b>|[Ver imagem](../../assets/verificacao/verificacao1/grupo+1/inconforme1.png)|
+|<b id="REF01">10. Referências bibliográficas e/ou bibliografia em todos os artefatos?</b>|[Ver imagem](../../assets/verificacao/verificacao1/grupo+1/inconforme2.png)|
+|<b id="REF01">11. As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?</b>|[Ver imagem](../../assets/verificacao/verificacao1/grupo+1/inconforme3.png)|
+|<b id="REF01">12. Um texto fazendo uma introdução dos artefatos?</b>|[Ver imagem](../../assets/verificacao/verificacao1/grupo+1/inconforme4.png)|
+|<b id="REF01">13. O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.</b>|[Ver imagem](../../assets/verificacao/verificacao1/grupo+1/inconforme5.png)|
+|<b id="REF01">19. Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência?</b>|[Ver imagem](../../assets/verificacao/verificacao1/grupo+1/inconforme6.png)|
+
+<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
+
+## 4. Gravação
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/58mZ6FvjD6M"> Grupo 03 – Inspeção grupo 04</a></p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/58mZ6FvjD6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -85,3 +103,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 |1.0     |23/04/2025|Criação do documento|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/04/2025|
 |1.1     |25/04/2025|Adição da gravação|[<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 25/04/2025|
+|2.0     |19/06/2025|Adição das imagens dos itens inconformes|[<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| 19/06/2025|

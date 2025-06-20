@@ -62,11 +62,53 @@
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
-## Bibliografia
+## 2. Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (1).pdf" target="_blank">PDF - Requisitos – Aula 23</a>. Acesso em: 14 abr. 2025, 12:46.
+### 2.1 Bibliografia dos Itens do Planejamento Geral do Projeto
+<font size="3"><p style="text-align: center">Tabela 4: Bibliografia dos Itens do Planejamento Geral do Projeto</p></font> 
 
-> Introducing Rich Pictures - Rich Picture Drawing Guidelines. 4 p. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">PDF - Introducing Rich Pictures </a>. Acessado em: 23 de abril de 2025
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF01">01</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF02">02</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF03">03</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF04">04</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF05">05</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF06">06</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF07">07</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
+
+### 2.2 Bibliografia dos Itens do Desenvolvimento do Projeto
+
+<font size="3"><p style="text-align: center">Tabela 5: Bibliografia dos Itens do Desenvolvimento do Projeto</p></font> 
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF08">08</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF09">09</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF10">10</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF11">11</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF12">12</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF13">13</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF14">14</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF15">15</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF16">16</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
+
+### 2.3 Bibliografia dos Itens do conteúdo da Disciplina 
+
+<font size="3"><p style="text-align: center">Tabela 6: Bibliografia dos Itens do conteúdo da Disciplina</p></font> 
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+| <b id="REF17">17</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](../assets/verificacao/verificacao1/entrega1-3.png) |
+| <b id="REF18">18</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](../assets/verificacao/verificacao1/entrega1-3.png) |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
+
+
 
 ## Histórico de Versões 
 
@@ -75,3 +117,4 @@
 | 1.0  | 14/04/2025 | Criação do documento.  | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 14/04/2025|
 | 2.0  | 23/04/2025 | Refatoração da checklist de verificação.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/04/2025|
 | 2.1  | 23/04/2025 | Referências das perguntas adicionadas.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/04/2025|
+| 2.2  | 19/06/2025 | Referências das perguntas adicionadas.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 19/06/2025|
