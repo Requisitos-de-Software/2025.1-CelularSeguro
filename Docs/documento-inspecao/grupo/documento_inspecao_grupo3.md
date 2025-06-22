@@ -120,9 +120,20 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
+## 4. Referência
+
+### 4.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 6: Referência dos itens inconformes</p></font> 
+
+| Item | Imagem |
+|------|--------|
+|<b id="REF08">03. O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo/inconforme_entrega3_grupo03.png)|
+
+<font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz), 2025.</p></font>
+
 ---
 
-## 4. Gravação
+## 5. Gravação
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/vor_S3Pgb2s"> Grupo 03 – Inspeção grupo 03</a></p>
