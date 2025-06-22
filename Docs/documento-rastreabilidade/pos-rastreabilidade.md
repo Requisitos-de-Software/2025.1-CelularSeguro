@@ -2528,6 +2528,126 @@ Tabela 43 - RF42
 
 </details>
 
+### RF43
+
+<details>
+
+<summary> Notificação de pessoa de confiança. </summary>
+<center>
+
+Tabela 44 - RF43
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF44</a>
+</th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31-enviar-um-sms-para-uma-pessoa-quando-a-mesma-for-adicionada-como-pessoa-de-confianca-nao-implementado">US31 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança</a> <br>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=107-1118&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=min-zoom&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=107%3A1118&viewport=29390%2C34193%2C3.02&show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF43.gif" style="width: 100%; max-width: 700px; display: block; margin: auto;"></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 5 – Pessoa de Confiança</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS12</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a> e <a href='https://github.com/leozinlima'>Leonardo de Melo</a> </font>
+
+</center>
+
+</details>
+
+### RF44
+
+<details>
+
+<summary> Cadastrar contatos com base nos números já existentes no celular. </summary>
+<center>
+
+Tabela 45 - RF44
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center">
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">RF45</a>
+</th>
+<th>Desenvolvimento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Tipos de Elo</td>
+<td>Artefatos Relacionados</td>
+</tr>
+<tr>
+<td style="text-align:center">Satisfação</td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/especificacoes-suplementar/#desempenho">Especificação Suplementar DES02</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidade">NFR Confiabilidade</a> <br>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">NFR Usabilidade</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">Recurso</td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31-enviar-um-sms-para-uma-pessoa-quando-a-mesma-for-adicionada-como-pessoa-de-confianca-nao-implementado">US32 - Cadastrar contatos com base nos números já existentes no celular</a> <br>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=107-1118&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=min-zoom&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=107%3A1118&viewport=29390%2C34193%2C3.02&show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF44.gif" style="width: 100%; max-width: 700px; display: block; margin: auto;"></td>
+</tr>
+<tr>
+<td style="text-align:center">Alocado</td>
+<td>
+  <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#%C3%A9pico-6-%E2%80%94-localiza%C3%A7%C3%A3o-e-controle-remoto">Épico 5 – Pessoa de Confiança</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">Agregação</td>
+<td>Requisito: <a href="../Questionario/">QS12</a></td>
+</tr>
+</tbody>
+</table>
+
+<font>Fonte: <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a> e <a href='https://github.com/leozinlima'>Leonardo de Melo</a> </font>
+
+</center>
+
+</details>
+
 ---
 
 # Requisitos não funcionais
