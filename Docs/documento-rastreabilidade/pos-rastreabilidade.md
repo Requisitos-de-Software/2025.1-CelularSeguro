@@ -123,7 +123,7 @@ Tabela 3 - RF02
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
+<td><font><figure markdown><img src="../../assets/rastreabilidade/RF02.gif" height="800" width="800"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
@@ -136,7 +136,7 @@ Tabela 3 - RF02
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
+<font>Fonte: <a href='https://github.com/MateuSansete'>Mateus Bastos</a>, <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -457,7 +457,7 @@ Tabela 9 - RF08
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
+<td><font><figure markdown><img src="../../assets/rastreabilidade/RF08.gif" height="800" width="800"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
@@ -474,7 +474,7 @@ Tabela 9 - RF08
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
+<font>Fonte: <a href='https://github.com/MateuSansete'>Mateus Bastos</a>, <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -3566,9 +3566,10 @@ Tabela 70 - RNF27
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      | Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  | :-------------: |
-| 1.0    | 06/02/2025         | Criação inicial do documento                         | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
-| 1.1    | 06/02/2025         | Adição das seções de Introdução e Metodologia | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
-| 1.2    | 08/02/2025         | Inicialização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
-| 1.3    | 08/02/2025         | Atualização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
-| 1.4    | 08/02/2025         | Atualização da seção de pós-rastreabilidade, adição dos RNFs | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
-| 1.5    | 08/02/2025         | Atualização da seção de pós-rastreabilidade, adição dos RFs | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
+| 1.0    | 06/06/2025         | Criação inicial do documento                         | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
+| 1.1    | 06/06/2025         | Adição das seções de Introdução e Metodologia | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
+| 1.2    | 08/06/2025         | Inicialização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
+| 1.3    | 08/06/2025         | Atualização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
+| 1.4    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RNFs | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
+| 1.5    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RFs | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
+| 1.6    | 22/06/2025         | Adição dos protótipos nos RF02 e RF08 | <a style="color:gold; "href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/06/2025 |
