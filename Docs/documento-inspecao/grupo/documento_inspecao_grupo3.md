@@ -120,9 +120,20 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
+## 4. Referência
+
+### 4.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 6: Referência dos itens inconformes</p></font> 
+
+| Item | Imagem |
+|------|--------|
+|<b id="REF08">03. O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo/Inconforme_entrega3_grupo03.png)|
+
+<font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz), 2025.</p></font>
+
 ---
 
-## 4. Gravação
+## 5. Gravação
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/vor_S3Pgb2s"> Grupo 03 – Inspeção grupo 03</a></p>
@@ -138,3 +149,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |1.2     |18/05/2025| Desenvolvimento das tabelas de inspeção de cenários |[<span style="color:gold;">Vitor Bessa</span>](https://github.com/bessazs)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
 |1.3     |18/05/2025| Preenchimento da tabela | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/bessazs)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
 |1.4     |18/05/2025| Adição do link do vídeo | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
+|1.5     |22/06/2025| Tabela de itens inconforme |[<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | 22/06/2025 |

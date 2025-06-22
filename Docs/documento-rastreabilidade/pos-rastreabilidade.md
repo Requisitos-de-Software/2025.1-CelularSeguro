@@ -1967,7 +1967,7 @@ Tabela 34 - RF33
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-129&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=scale-down&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=181%3A129;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF33.gif" alt="Protótipo RF33" style="width: 75%; max-width: 700px; display: block; margin: auto;"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
@@ -2387,7 +2387,7 @@ Tabela 41 - RF40
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-129&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=scale-down&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=181%3A129;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF40.gif" style="width: 50%; max-width: 700px; display: block; margin: auto;"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
@@ -3573,3 +3573,5 @@ Tabela 70 - RNF27
 | 1.4    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RNFs | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
 | 1.5    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RFs | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
 | 1.6    | 22/06/2025         | Adição dos protótipos nos RF02 e RF08 | <a style="color:gold; "href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/06/2025 |
+| 1.7    | 22/06/2025         | Adição do protótipo dos RFs 33 e 40 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 22/06/2025 |
+

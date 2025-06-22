@@ -136,7 +136,6 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |<b id="#REF08">25-</a>Existe pelo menos um ator principal identificado com nome, papel e características relevantes?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
 
 <font size="2"><p style="text-align: center">Autor: [Arthur Leite](https://github.com/arthurlleite), 2025.</p></font>
----
 
 ## 3.6 Gravação
 
@@ -154,3 +153,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |1.2     |18/05/2025| Desenvolvimento das tabelas de inspeção de cenários |[Vitor Bessa</span>](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
 |1.3     |19/05/2025| Preenchimento da tabela de inspeção |[Vitor Bessa](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 19/05/2025 |
 |1.4     |19/05/2025| Upload da gravação da inspeção 3 |[Gabriel Lima</span>](https://github.com/gabriel-lima258)| [Vitor Bessa](https://github.com/bessazs) | 19/05/2025 |
+|1.5     |22/06/2025| Tabela de itens inconforme |[Daniel Rodrigues</span>](https://github.com/zDrNz)| [Vitor Bessa](https://github.com/bessazs) | 22/06/2025 |
