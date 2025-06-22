@@ -119,6 +119,4 @@
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 22/06/2025 | Criação do documento.  | [Leonardo de Melo](https://github.com/leozinlima) | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 22/06/2025|
-| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0  | 22/06/2025 | Lista de verificação feita.  | [Leonardo de Melo](https://github.com/leozinlima) | [Leonardo de Melo](https://github.com/leozinlima) | 22/06/2025|
+| 1.1  | 22/06/2025 | Lista de verificação feita.  | [Leonardo de Melo](https://github.com/leozinlima) | [Leonardo de Melo](https://github.com/leozinlima) | 22/06/2025|

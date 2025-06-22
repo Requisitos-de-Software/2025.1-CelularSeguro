@@ -72,6 +72,7 @@ Tabela 2 - RF01
 <td><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">Cenário 04</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">Requisitos NFR02 e NFR03</a> <br> <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-01-usabilidade">Especificação Suplementar CON01 e CON02</a></td>
 <tr>
 <td style="text-align:center">Representação</td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-129&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=scale-down&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=181%3A129;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF01.gif" style="width: 100%; max-width: 700px; display: block; margin: auto;"></td>
 <td><a href=""> - </a></td>
 </tr>
 <tr>
@@ -123,7 +124,7 @@ Tabela 3 - RF02
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
+<td><font><figure markdown><img src="../../assets/rastreabilidade/RF02.gif" height="800" width="800"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
@@ -136,7 +137,7 @@ Tabela 3 - RF02
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
+<font>Fonte: <a href='https://github.com/MateuSansete'>Mateus Bastos</a>, <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -422,7 +423,7 @@ Tabela 8 - RF07
 
 <details>
 
-<summary> O aplicativo deve permitir que o usuário registre um boletim de ocorrência. </summary>
+<summary> O sistema deve identificar e exigir o preenchimento de campos considerados obrigatórios para o registro do boletim. </summary>
 
 <center>
 
@@ -457,7 +458,7 @@ Tabela 9 - RF08
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href=""> - </a></td>
+<td><font><figure markdown><img src="../../assets/rastreabilidade/RF08.gif" height="800" width="800"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
@@ -474,7 +475,7 @@ Tabela 9 - RF08
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
+<font>Fonte: <a href='https://github.com/MateuSansete'>Mateus Bastos</a>, <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
 </center>
 
@@ -3572,4 +3573,6 @@ Tabela 70 - RNF27
 | 1.3    | 08/06/2025         | Atualização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
 | 1.4    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RNFs | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
 | 1.5    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RFs | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
-| 1.6    | 22/06/2025         | Adição do protótipo dos RFs 33 e 40 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 22/06/2025 |
+| 1.6    | 22/06/2025         | Adição dos protótipos nos RF02 e RF08 | <a style="color:gold; "href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/06/2025 |
+| 1.7    | 22/06/2025         | Adição do protótipo dos RFs 33 e 40 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 22/06/2025 |
+

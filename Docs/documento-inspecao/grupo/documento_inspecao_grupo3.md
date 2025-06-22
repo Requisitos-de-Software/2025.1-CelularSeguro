@@ -127,7 +127,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 | Item | Imagem |
 |------|--------|
-|<b id="REF08">03. O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo/inconforme_entrega3_grupo03.png)|
+|<b id="REF08">03. O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo/Inconforme_entrega3_grupo03.png)|
 
 <font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz), 2025.</p></font>
 

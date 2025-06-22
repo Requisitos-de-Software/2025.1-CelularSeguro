@@ -51,8 +51,8 @@
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
-#### 1.2.3 Itens do conteúdo da Disciplina 
-<font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo da Disciplina </p></font> 
+#### 1.2.3 Itens do conteúdo do Projeto 
+<font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo do Projeto </p></font> 
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -97,9 +97,9 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
 
-### 2.3 Bibliografia dos Itens do conteúdo da Disciplina 
+### 2.3 Bibliografia dos Itens do conteúdo do Projeto    
 
-<font size="3"><p style="text-align: center">Tabela 6: Bibliografia dos Itens do conteúdo da Disciplina</p></font> 
+<font size="3"><p style="text-align: center">Tabela 6: Bibliografia dos Itens do conteúdo do Projeto</p></font> 
 
 | Item | Referência | Imagem |
 |------|------------|--------|
