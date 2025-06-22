@@ -1967,7 +1967,7 @@ Tabela 34 - RF33
 </tr>
 <tr>
 <td style="text-align:center">Representação</td>
-<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-129&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=scale-down&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=181%3A129;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF33.gif" style="width: 75%; max-width: 700px; display: block; margin: auto;"></td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-129&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=scale-down&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=181%3A129;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RF33.gif" alt="Protótipo RF33" style="width: 75%; max-width: 700px; display: block; margin: auto;"></td>
 </tr>
 <tr>
 <td style="text-align:center">Alocado</td>
