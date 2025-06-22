@@ -79,9 +79,9 @@ O **brainstorming** será uma técnica  para gerar ideias inovadoras e soluçõe
 
 ---
 
-### Referências
+### Bibligrafia
 
-VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. **Engenharia de requisitos: software orientado ao negócio**. Rio de Janeiro: Brasport, 2016.
 
 ---
 

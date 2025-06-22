@@ -3674,7 +3674,7 @@ Tabela 70 - RNF27
 
 ---
 
-## Referências Bibliográficas
+## Bibliografia
 
 > SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 25 de jun de 2023.
 
