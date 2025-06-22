@@ -83,9 +83,7 @@ nav:
           - Backlog: "documento-modelagem/Agil/Backlog.md"
           - Histórias de usuário: "documento-modelagem/Agil/Historias_de_usuario.md"
 
-
-
-  - Rastreabilidade:
+  - Pós-Rastreabilidade:
       - Matriz Geral: "documento-rastreabilidade/matriz.md"
       - Pós-Rastreabilidade: "documento-rastreabilidade/pos-rastreabilidade.md"
 
@@ -125,10 +123,10 @@ nav:
       - Apresentação 4: "documento-apresentacao/apresentacao-4.md"
       - Apresentação 5: "documento-apresentacao/apresentacao-5.md"
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
-  
 
 theme:
   logo: assets/LogoCelularSeguro.png
+  favicon: assets/LogoCelularSeguro.png
   font:
     text: Montserrat
   name: material
@@ -137,11 +135,8 @@ theme:
     - content.tabs.link
     - header.autohide
     - navigation.instant
-    - navigation.tabs
     - navigation.top
     - navigation.tracking
-    - navigation.path
-    
 
   palette:
     # Palette toggle for light mode

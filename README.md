@@ -18,11 +18,11 @@ Este repositório é dedicado à documentação de todos os artefatos criados pe
 
 O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à segurança e bloqueio de dispositivos móveis em casos de perda, roubo ou furto.
 
-## 🗃️ Documentação
+## Documentação
 
 Link para a nossa documentação do projeto: [Clique Aqui](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) <br>
 
-## 👨‍💻 Equipe
+## Equipe
 
 Segue os nomes dos colaboradores da equipe logo abaixo.
 
