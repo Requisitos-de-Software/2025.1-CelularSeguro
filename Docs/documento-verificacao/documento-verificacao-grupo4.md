@@ -196,6 +196,17 @@
 
 #### 2.2.2 Bibliografia do Backlog
 
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF01">01</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF02">02</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png))|
+|<b id="REF03">03</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF04">04</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF05">05</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF06">06</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF07">07</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF08">08</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">09</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
 
 
 
