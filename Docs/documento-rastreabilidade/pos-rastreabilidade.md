@@ -696,13 +696,6 @@ Tabela 13 - RF12
 </table>
 <font size="3">Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
 
-</center>
-
-
-<font>Fonte: <a href='https://github.com/leozinlima'>Leonardo de Melo</a> e <a href='https://github.com/FelipeFreire-gf'>Felipe das Neves</a></font>
-
-</center>
-
 </details>
 
 ### RF13
@@ -3542,7 +3535,10 @@ Tabela 70 - RNF27
 <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/">Casos de Uso – UC14 Feedback Visual</a>;  
 <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/cenario/">Cenário 2 – Selecionar ações (confirmação de bloqueio)</a>
 </td></tr>
-<tr><td style="text-align:center">Representação</td><td>-</td></tr>
+<tr>
+<td style="text-align:center">Representação</td>
+<td><a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-129&p=f&t=o1y1vv6G7TYjQMrQ-1&scaling=scale-down&content-scaling=fixed&page-id=181%3A2&starting-point-node-id=181%3A129;type=design&amp;node-id=107-1118&amp;viewport=29390%2C34193%2C3.02&amp;scaling=min-zoom&amp;starting-point-node-id=107%3A1118&amp;show-proto-sidebar=1">Protótipo de Alta Fidelidade:</a><br><img src="../../assets/videos prototipo/RNF27.gif" alt="Protótipo RNF27" style="width: 75%; max-width: 700px; display: block; margin: auto;"></td>
+</tr>
 <tr><td style="text-align:center">Alocado</td><td>
   <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us01">História de Usuário – US01</a>
 </td></tr>
@@ -3550,7 +3546,7 @@ Tabela 70 - RNF27
 </tbody>
 </table>
 
-<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</font>
+<font>Fonte: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>.</font>
 
 </center>
 </details>
@@ -3575,6 +3571,6 @@ Tabela 70 - RNF27
 | 1.3    | 08/06/2025         | Atualização da seção de Rastreabilidade | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 08/06/2025 |
 | 1.4    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RNFs | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
 | 1.5    | 08/06/2025         | Atualização da seção de pós-rastreabilidade, adição dos RFs | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 08/06/2025 |
-| 1.6    | 22/06/2025         | Adição dos protótipos nos RF02 e RF08 | <a style="color:gold; "href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/06/2025 |
+| 1.6    | 22/06/2025         | Adição dos protótipos nos RF02 e RF08 | <a style="color:gold; "href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/06/2025 |
 | 1.7    | 22/06/2025         | Adição do protótipo dos RFs 33 e 40 | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 22/06/2025 |
 
