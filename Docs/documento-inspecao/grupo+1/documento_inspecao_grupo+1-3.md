@@ -121,9 +121,24 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
+## 3.5 Referência
+
+### 3.5.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 4: Referência dos itens inconformes</p></font> 
+
+| Item | Imagem |
+|------|--------|
+|<b id="#REF10">03-</a> Referências bibliográficas e/ou bibliografia em todos os artefatos?.</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-06.jpeg)|
+|<b id="#REF11">04-</a> As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-11.jpeg)|
+|<b id="#REF08">18-</a> Os casos de uso são de requisitos funcionais?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-74.jpeg)|
+|<b id="#REF08">23-</a> Cada simbolo possui suas respectivas referências dos requisitos?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
+|<b id="#REF08">25-</a>Existe pelo menos um ator principal identificado com nome, papel e características relevantes?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
+|<b id="#REF08">25-</a>Existe pelo menos um ator principal identificado com nome, papel e características relevantes?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
+
+<font size="2"><p style="text-align: center">Autor: [Arthur Leite](https://github.com/arthurlleite), 2025.</p></font>
 ---
 
-## 4. Gravação
+## 3.6 Gravação
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/hc6Ft1CGK_U"> Grupo 03 – Inspeção grupo 04</a></p>
