@@ -43,23 +43,14 @@
 
 | ID  | Item de Verificação                                                                                                   | Referência                         |
 |-----|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| P01 | Cada requisito funcional possui origem documentada (pré-rastreabilidade).                                             | Sayão & Leite (2005)               |
-| P02 | Há mapeamento **forward** RF → artefatos de análise/design.                                                           | Sayão & Leite (2005)               |
-| P03 | Cada RF implementado possui elo até casos de teste ou commit.                                                         | Toranzo et al. (2002)              |
-| P04 | A matriz geral apresenta coluna de impacto entre RF/RNF.                                                              | Sayão & Leite (2005)               |
-| P05 | Existe matriz suplementar listando requisitos pendentes/prioridade.                                                   | Toranzo et al. (2002)              |
-| P06 | Itens suplementares estão priorizados (MoSCoW).                                                                      | Toranzo et al. (2002)              |
-| P07 | Há **backward-from** dos artefatos de teste/código para requisitos.                                                   | Sayão & Leite (2005)               |
-| P08 | RNF críticos cobertos na matriz.                                                                                      | Toranzo et al. (2002)              |
-| P09 | Mudanças geram registro de versão e atualização dos elos.                                                             | Sayão & Leite (2005)               |
-| P10 | Existem elos RF ↔ Riscos ↔ Mitigações.                                                                                | Toranzo et al. (2002)              |
-| P11 | Para cada RNF, há critérios mensuráveis mapeados.                                                                     | Sayão & Leite (2005)               |
-| P12 | A matriz indica status e data da última verificação.                                                                  | Sayão & Leite (2005)               |
-| P13 | Mudanças disparam análise de impacto documentada.                                                                     | Toranzo et al. (2002)              |
-| P14 | Evidências visuais para cada elo rastreado.                                                                           | Toranzo et al. (2002)              |
-| P15 | Elos quebrados listados em relatório de inconformidades.                                                              | Sayão & Leite (2005)               |
+| P01 | Conseguimos seguir o fluxo de um requisito desde a sua origem no documento de requisitos até os diagramas e protótipo?  | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)|
+| P02 | Para cada requisito, é fácil encontrar os desenhos, diagramas ou modelos que o explicam visualmente?                                                     | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)               |
+| P03 | Se a "funcionalidade A" precisa que a "funcionalidade B" exista para poder funcionar, essa dependência está registrada?                                                         | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)             |
+| P04 | Quando um requisito muda, a sua versão é atualizada? As suas conexões com outros itens são revisadas e corrigidas?                                            | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf)            |
+| P05| Os requisitos estão priorizados de forma clara (usando MoSCoW ou outra técnica)?                                                                  | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf)           |
 
-<font size="2"><p style="text-align: center">Autor: [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
+
+<font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
 
 
 ### 2.2 Backward-From  
@@ -67,59 +58,75 @@
 
 | ID     | Critério                                                                                                             | Referência            |
 |--------|----------------------------------------------------------------------------------------------------------------------|-----------------------|
-| BW-01  | Cada requisito tem pelo menos uma técnica de elicitação citada.                                                      | Sayão & Leite (2005)  |
-| BW-02  | Links clicáveis para questionários, storytelling, ADD.                                                               | Sayão & Leite (2005)  |
-| BW-03  | Origens possuem versão/data para reprodutibilidade.                                                                  | Toranzo et al. (2002) |
-| BW-04  | Requisitos derivados identificados e apontam para o requisito-pai.                                                   | Toranzo et al. (2002) |
-| BW-05  | *Rationale* de inclusão/exclusão documentado.                                                                       | Sayão & Leite (2005)  |
+| BW01  | De onde veio cada requisito? É possível identificar a sua fonte?                                                  |📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
+| BW02  | A "justificativa" para a inclusão (ou exclusão) de um requisito está documentada em algum lugar?                                                               | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
+| BW03  | As fontes dos requisitos (como documentos de entrevistas ou questionários) são rastreáveis e possuem data/versão para garantir que não estamos olhando para algo desatualizado?                                                                 | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf) |
+| BW04  | Se um requisito foi criado a partir de outro mais genérico (um "requisito-pai"), essa ligação de derivação está clara?                                                 | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf) |
+| BW05  | É possível navegar "de volta" a partir de um caso de teste ou de um trecho de código para encontrar o requisito que o originou?      | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
 
-<font size="2"><p style="text-align: center">Autor: [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
 
 ### 2.3 Forward-From  
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> – Verificação Forward</p></font>
 
 | ID     | Critério                                                                                                    | Referência            |
 |--------|-------------------------------------------------------------------------------------------------------------|-----------------------|
-| FW-01  | Elo RF → Design (Casos de Uso / Wireframes).                                                                | Sayão & Leite (2005)  |
-| FW-02  | Elo RF → Código (commit hash) registrado.                                                                   | Toranzo et al. (2002) |
-| FW-03  | Elo RF → Teste unitário (ID do teste).                                                                      | Sayão & Leite (2005)  |
-| FW-04  | Para RNF, linka-se a plano de teste de desempenho/segurança.                                                | Toranzo et al. (2002) |
-| FW-05  | Elos verificados automaticamente no CI.                                                                     | Sayão & Leite (2005)  |
+| FW01  | Cada requisito está conectado a um artefato de design, como um caso de uso, um protótipo (wireframe) ou um diagrama técnico?                      | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
 
-<font size="2"><p style="text-align: center">Autor: [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
+
+<font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
 
 ---
 
-## 3. Distribuição dos Requisitos para Verificação
+## 3. Bibliografia
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> – Lotes de Requisitos</p></font>
+### 3.1 Bibliografia dos Itens de Pós-Rastreabilidade
+<font size="3"><p style="text-align: center">Tabela 4: Bibliografia dos Itens de Pós-Rastreabilidade</p></font> 
 
-| Lote | Requisitos Funcionais | Requisitos Não-Funcionais |
-|:---:|------------------------|---------------------------|
-| 1 | RF01 – RF06 | RNF01 – RNF04 |
-| 2 | RF07 – RF12 | RNF05 – RNF08 |
-| 3 | RF13 – RF18 | RNF09 – RNF12 |
-| 4 | RF19 – RF24 | RNF13 – RNF16 |
-| 5 | RF25 – RF30 | RNF17 – RNF20 |
-| 6 | RF31 – RF36 | RNF21 – RNF24 |
-| 7 | RF37 – RF42 | RNF25 – RNF27 |
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF01">P01</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p01.png)|
+|<b id="REF02">P02</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p02.png)|
+|<b id="REF03">P03</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p03.png)|
+|<b id="REF04">P04</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p04.png)|
+|<b id="REF05">P05</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p05.png)|
 
-<font size="2"><p style="text-align: center">Autor: [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
+
+<font size="2"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font> 
+
+### 3.2 Bibliografia de Backward-From
+<font size="3"><p style="text-align: center">Tabela 5: Bibliografia dos Itens de Backward-From</p></font> 
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF08">BW01</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw01.png)|
+|<b id="REF09">BW02</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw02.png)|
+|<b id="REF10">BW03</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05) |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw03.png)|
+|<b id="REF11">BW04</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw04.png)|
+|<b id="REF12">BW05</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw05.png)|
+
+
+<font size="2"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font> 
+
+### 3.3 Bibliografia dos Itens de Forward-From
+
+<font size="3"><p style="text-align: center">Tabela 6: Bibliografia dos Itens de Forward-From</p></font> 
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+| <b id="REF17">FW01</b> |SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05) | [Ver imagem](../assets/verificacao/verificacao5/Bibliografia/fw01.png) |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font> 
 
 ---
 
-## 4. Bibliografia
-
-> **Sayão, M.; Leite, J.** Rastreabilidade de Requisitos. PUC-Rio, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 jun 2025.  
-
-> **Toranzo, M.; Castro, J.; Mello, E.** Uma proposta para melhorar o rastreamento de requisitos. Workshop em Engenharia de Requisitos, PUC-Rio, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 08 jun 2025.
-
----
-
-## 5. Histórico de Versões
+## 4. Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--|:--|:--|
 | 1.0 | 08/06/2025 | Criação do checklist pós-rastreabilidade. | [Arthur Carvalho](https://github.com/arthurlleite) | [Gabriel Lima](https://github.com/gabriel-lima258) |
 | 1.1 | 08/06/2025 | Inclusão das tabelas Backward, Forward e lotes de requisitos. | [Arthur Carvalho](https://github.com/arthurlleite) | [Mateus Bastos](https://github.com/MateuSansete) |
 | 1.1 | 08/06/2025 | Inclusão do documento de verificação. | [Leonardo de Melo](https://github.com/leozinlima) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
+| 1.2 | 22/06/2025 | Reformulação da lista de verificação. | [Vitor Bessa](https://github.com/bessazs) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
+=======
