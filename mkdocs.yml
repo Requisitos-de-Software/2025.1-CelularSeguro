@@ -83,9 +83,7 @@ nav:
           - Backlog: "documento-modelagem/Agil/Backlog.md"
           - Histórias de usuário: "documento-modelagem/Agil/Historias_de_usuario.md"
 
-
-
-  - Rastreabilidade:
+  - Pós-Rastreabilidade:
       - Matriz Geral: "documento-rastreabilidade/matriz.md"
       - Pós-Rastreabilidade: "documento-rastreabilidade/pos-rastreabilidade.md"
 
@@ -98,6 +96,7 @@ nav:
         - Entrega 3: "documento-verificacao/documento-verificacao-grupo3.md" 
         - Entrega 4: "documento-verificacao/documento-verificacao-grupo4.md"
         - Entrega 5: "documento-verificacao/documento-verificacao-grupo5.md"
+        - Entrega 6: "documento-verificacao/documento-verificacao-grupo6.md"
 
   - Validação:
       - Prototipação: "documento-validacao/documento-prototipacao.md"
@@ -110,12 +109,14 @@ nav:
         - Entrega 3: "documento-inspecao/grupo/documento_inspecao_grupo3.md" 
         - Entrega 4: "documento-inspecao/grupo/documento_inspecao_grupo4.md"
         - Entrega 5: "documento-inspecao/grupo/documento_inspecao_grupo5.md"
+        - Entrega 6: "documento-inspecao/grupo/documento_inspecao_grupo6.md"
       - Grupo + 1: 
         - Entrega 1: "documento-inspecao/grupo+1/documento_inspecao_grupo+1.md" 
         - Entrega 2: "documento-inspecao/grupo+1/documento_inspecao_grupo+1-2.md" 
         - Entrega 3: "documento-inspecao/grupo+1/documento_inspecao_grupo+1-3.md" 
         - Entrega 4: "documento-inspecao/grupo+1/documento_inspecao_grupo+1-4.md"
         - Entrega 5: "documento-inspecao/grupo+1/inspecaogrupo+1-5.md"
+        - Entrega 6: "documento-inspecao/grupo+1/inspecaogrupo+1-6.md"
           
   - Apresentação:
     - Apresentações: 
@@ -125,10 +126,10 @@ nav:
       - Apresentação 4: "documento-apresentacao/apresentacao-4.md"
       - Apresentação 5: "documento-apresentacao/apresentacao-5.md"
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
-  
 
 theme:
   logo: assets/LogoCelularSeguro.png
+  favicon: assets/LogoCelularSeguro.png
   font:
     text: Montserrat
   name: material
@@ -137,11 +138,8 @@ theme:
     - content.tabs.link
     - header.autohide
     - navigation.instant
-    - navigation.tabs
     - navigation.top
     - navigation.tracking
-    - navigation.path
-    
 
   palette:
     # Palette toggle for light mode

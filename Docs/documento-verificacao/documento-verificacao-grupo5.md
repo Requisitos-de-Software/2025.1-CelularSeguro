@@ -129,3 +129,4 @@
 | 1.1 | 08/06/2025 | Inclusão das tabelas Backward, Forward e lotes de requisitos. | [Arthur Carvalho](https://github.com/arthurlleite) | [Mateus Bastos](https://github.com/MateuSansete) |
 | 1.1 | 08/06/2025 | Inclusão do documento de verificação. | [Leonardo de Melo](https://github.com/leozinlima) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
 | 1.2 | 22/06/2025 | Reformulação da lista de verificação. | [Vitor Bessa](https://github.com/bessazs) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
+=======
