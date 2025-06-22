@@ -121,10 +121,10 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
-## 3.5 Referência
+## 4. Referência
 
-### 3.5.1 Referência dos itens inconformes
-<font size="3"><p style="text-align: center">Tabela 4: Referência dos itens inconformes</p></font> 
+### 4.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 6: Referência dos itens inconformes</p></font> 
 
 | Item | Imagem |
 |------|--------|
@@ -155,3 +155,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 |1.2     |18/05/2025| Desenvolvimento das tabelas de inspeção de cenários |[Vitor Bessa</span>](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 18/05/2025 |
 |1.3     |19/05/2025| Preenchimento da tabela de inspeção |[Vitor Bessa](https://github.com/bessazs)| [Mateus Bastos</span>](https://github.com/MateuSansete) | 19/05/2025 |
 |1.4     |19/05/2025| Upload da gravação da inspeção 3 |[Gabriel Lima</span>](https://github.com/gabriel-lima258)| [Vitor Bessa](https://github.com/bessazs) | 19/05/2025 |
+|1.5     |22/06/2025| Tabela de itens inconforme |[Daniel Rodrigues</span>](https://github.com/zDrNz)| [Vitor Bessa](https://github.com/bessazs) | 22/06/2025 |
