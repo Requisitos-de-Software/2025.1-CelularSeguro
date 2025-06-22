@@ -121,23 +121,21 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
-## 4. Referência
+## 3.5 Referência
 
-### 4.1 Referência dos itens inconformes
-<font size="3"><p style="text-align: center">Tabela 6: Referência dos itens inconformes</p></font> 
+### 3.5.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 4: Referência dos itens inconformes</p></font> 
 
 | Item | Imagem |
 |------|--------|
-|<b id="#REF10">03-</a> Referências bibliográficas e/ou bibliografia em todos os artefatos?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_03.png)|
-|<b id="#REF11">04-</a> As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_04.png)|
-|<b id="#REF08">18-</a> Os casos de uso são de requisitos funcionais?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_18.png)|
-|<b id="#REF08">23-</a> Cada simbolo possui suas respectivas referências dos requisitos?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_23.png)|
-|<b id="#REF08">25-</a>Existe pelo menos um ator principal identificado com nome, papel e características relevantes?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_25.png)|
-|<b id="#REF08">26-</a>Há um objetivo principal que o ator tenta alcançar na situação descrita?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_26.png)|
-|<b id="#REF08">33-</a>Há referência aos termos definidos no léxico dentro do cenário?</b>|[Ver imagem](../../assets/verificacao/verificacao3/grupo+1/Inconforme_entrega03_grupo04_33.png)|
+|<b id="#REF10">03-</a> Referências bibliográficas e/ou bibliografia em todos os artefatos?.</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-06.jpeg)|
+|<b id="#REF11">04-</a> As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-11.jpeg)|
+|<b id="#REF08">18-</a> Os casos de uso são de requisitos funcionais?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-74.jpeg)|
+|<b id="#REF08">23-</a> Cada simbolo possui suas respectivas referências dos requisitos?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
+|<b id="#REF08">25-</a>Existe pelo menos um ator principal identificado com nome, papel e características relevantes?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
+|<b id="#REF08">25-</a>Existe pelo menos um ator principal identificado com nome, papel e características relevantes?</b>|[Ver imagem](../../assets/verificacao/verificacao2/grupo/inconforme-ent02-76.jpeg)|
 
-<font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz), 2025.</p></font>
----
+<font size="2"><p style="text-align: center">Autor: [Arthur Leite](https://github.com/arthurlleite), 2025.</p></font>
 
 ## 3.6 Gravação
 
