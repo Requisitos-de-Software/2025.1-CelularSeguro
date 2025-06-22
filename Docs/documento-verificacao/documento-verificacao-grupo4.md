@@ -88,20 +88,20 @@
 | <a href="#REF08">8</a> | 	O backlog apresenta um tabela geral com todos os épicos, features e histórias de usuários ? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF08">9</a> | O backlog possui uma metodologia identificada ? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF25">10</a> | O backlog evolui com base no feedback contínuo dos usuários/personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
-| <a href="#REF26">11</a> | Há uso de método de priorização (MoSCoW, Kano, etc.) registrado? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF27">12</a> | Cada item do backlog está vinculado a uma sprint ou release planejada? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF28">13</a> | Existe rastreabilidade entre backlog, histórias e critérios de aceite? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
-| <a href="#REF29">14</a> | Os épicos possuem subdivisão clara em features e histórias de usuário? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/epics) |
+| <a href="#REF26">11</a> | Há uso de método de priorização (MoSCoW, Kano, etc.) registrado? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF27">12</a> | Cada item do backlog está vinculado a uma sprint ou release planejada? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF28">13</a> | Existe rastreabilidade entre backlog, histórias e critérios de aceite? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
+| <a href="#REF29">14</a> | Os épicos possuem subdivisão clara em features e histórias de usuário? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
 | <a href="#REF30">15</a> | Foi feita validação dos itens priorizados por PO ou cliente? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
-| <a href="#REF31">16</a> | Os requisitos de negócio foram traduzidos em histórias técnicas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF32">17</a> | O backlog contém itens técnicos além dos funcionais (infra, refatorações)? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/epics) |
-| <a href="#REF33">18</a> | Existe algum mecanismo visual de status (Kanban, swimlane)? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/epics) |
-| <a href="#REF34">19</a> | Cada item do backlog possui estimativa de esforço (story points, horas)? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
+| <a href="#REF31">16</a> | Os requisitos de negócio foram traduzidos em histórias técnicas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
+| <a href="#REF32">17</a> | O backlog contém itens técnicos além dos funcionais (infra, refatorações)? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF33">18</a> | Existe algum mecanismo visual de status (Kanban, swimlane)? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF34">19</a> | Cada item do backlog possui estimativa de esforço (story points, horas)? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
 | <a href="#REF35">20</a> | O backlog foi priorizado com apoio de pelo menos uma persona? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
-| <a href="#REF36">21</a> | Os temas de negócio estão alinhados com os objetivos do projeto? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
+| <a href="#REF36">21</a> | Os temas de negócio estão alinhados com os objetivos do projeto? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
 | <a href="#REF37">22</a> | Foram utilizadas ferramentas visuais (miro, draw.io, etc) para representar o backlog? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF38">23</a> | O backlog tem ligação com os objetivos estratégicos descritos no plano do projeto? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
-| <a href="#REF39">24</a> | Foram utilizadas métricas de progresso para os itens do backlog? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
+| <a href="#REF39">24</a> | Foram utilizadas métricas de progresso para os itens do backlog? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258) e [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
 
@@ -120,19 +120,19 @@
 | <a href="#REF08">6</a> | As histórias de usuário são testáveis, possibilitando a verificação e validação do sistema com base nos critérios de aceitação definidos? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF08">7</a> | As histórias possuem ao menos 4 requisitos funcionais e 2 requisitos não funcionais por integrante? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF08">8</a> | Há participação do cliente e/ou persona nas histórias de usuário? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF40">9</a> | As histórias foram divididas até se tornarem estimáveis e realizáveis? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF41">10</a> | Foram validadas por cliente ou PO? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
-| <a href="#REF42">11</a> | Escritas de forma clara e objetiva? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF43">12</a> | Têm critérios de aceitação objetivos? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
-| <a href="#REF44">13</a> | Agrupadas por tema ou funcionalidade? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
-| <a href="#REF45">14</a> | Títulos autoexplicativos e padronizados? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
-| <a href="#REF46">15</a> | Seguem padrão "Como [persona] quero [ação] para [benefício]"? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
-| <a href="#REF47">16</a> | Ligadas a critérios de aceite e rastreáveis até código? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF48">17</a> | Têm estimativas de esforço? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
+| <a href="#REF40">9</a> | As histórias foram divididas até se tornarem estimáveis e realizáveis? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF41">10</a> | Foram validadas por cliente ou PO? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF42">11</a> | Escritas de forma clara e objetiva? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF43">12</a> | Têm critérios de aceitação objetivos? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF44">13</a> | Agrupadas por tema ou funcionalidade? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF45">14</a> | Títulos autoexplicativos e padronizados? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF46">15</a> | Seguem padrão "Como [persona] quero [ação] para [benefício]"? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF47">16</a> | Ligadas a critérios de aceite e rastreáveis até código? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF48">17</a> | Têm estimativas de esforço? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
 | <a href="#REF49">18</a> | Foram revisadas por membros da equipe? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
-| <a href="#REF50">19</a> | Foram testadas com base nos critérios definidos? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF51">20</a> | Existe histórico de versões das histórias? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
-| <a href="#REF52">21</a> | Associadas corretamente às personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF50">19</a> | Foram testadas com base nos critérios definidos? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF51">20</a> | Existe histórico de versões das histórias? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
+| <a href="#REF52">21</a> | Associadas corretamente às personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SWEBOK Guide](../assets/pdf/swebok-v4.pdf) |
 | <a href="#REF53">22</a> | Refletem necessidades reais e não tarefas técnicas? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
 | <a href="#REF54">23</a> | Escritas em linguagem natural e acessível? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
 
@@ -199,7 +199,7 @@
 | Item | Referência | Imagem |
 |------|------------|--------|
 |<b id="REF01">01</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
-|<b id="REF02">02</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png))|
+|<b id="REF02">02</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
 |<b id="REF03">03</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
 |<b id="REF04">04</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
 |<b id="REF05">05</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
@@ -207,10 +207,65 @@
 |<b id="REF07">07</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
 |<b id="REF08">08</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
 |<b id="REF09">09</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">10</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/novos-back/backitem10.png)|
+|<b id="REF09">11</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">12</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">13</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">14</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">15</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/novos-back/backitem15.png)|
+|<b id="REF09">16</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">17</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">18</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">19</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">20</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/novos-back/backitem20.png)|
+|<b id="REF09">21</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">22</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/novos-back/backitem22.png)|
+|<b id="REF09">23</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/novos-back/backitem23.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+
 
 
 
 #### 2.2.3 Bibliografia da História de Usuário
+
+
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF01">01</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF02">02</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF03">03</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF04">04</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem01.png)|
+|<b id="REF05">05</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF06">06</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF07">07</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF08">08</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">22</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/novos-back/backitem22.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">24</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/back-ver/backitem02.png)|
+|<b id="REF09">09</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem09.png)|
+|<b id="REF09">10</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem10.png)|
+|<b id="REF09">11</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem11.png)|
+|<b id="REF09">12</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem12.png)|
+|<b id="REF09">13</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem13.png)|
+|<b id="REF09">14</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem14.png)|
+|<b id="REF09">15</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem15.png)|
+|<b id="REF09">16</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem16.png)|
+|<b id="REF09">17</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem17.png)|
+|<b id="REF09">19</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem19.png)|
+|<b id="REF09">20</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem20.png)|
+|<b id="REF09">21</b>|WASHIZAKI, Hironori (ed.). Guide to the Software Engineering Body of Knowledge (SWEBOK). Version 4.0. Los Alamitos: IEEE Computer Society, 2024.|[Ver imagem](../assets/verificacao/verificacao4/hu-ver/usitem21.png)|
 
 
 
@@ -251,42 +306,35 @@
 | 1.2  | 01/06/2025 | Adição de imagens de referências  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
 | 1.3  | 01/06/2025 | Adição de imagens de referências e Desenvolvimento da lista de verificação de modelagem ágil.  | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
 | 1.4  | 23/06/2025 | Padronização da bibliografia e adição das imagens e links referenciados, NFR, Backlog e História de Usuário  | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025|
-
-
-
-<!--
----
-
-
-> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2023.
-
-> SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
-
-<font size="3"><p style="text-align: center">Figura 1: Referências dos Itens de 1 a 9 do conteúdo [2.1](#21-verificação-nfr-framework).</p></font> 
-
-
-<font size="3"><p style="text-align: center">Figura 2: Referências dos Itens de 1 a 9 do conteúdo [2.2](#22-verificação-backlog).</p></font> 
-
-![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/backlog.png)
-
----
-
-<font size="3"><p style="text-align: center">Figura 3: Referências dos Itens de 1 a 6 do conteúdo [2.3](#23-verificação-história-de-usuário).</p></font> 
-
-![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/US.png)
-
--
-
-## Histórico de Versões 
-
-
-<!--
+| 1.5  | 23/06/2025 | Padronização e atualização das referências, links e imagens da bibliografia do Backlog e História de Usuário, conforme ajustes solicitados. | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 23/06/2025|
 
 
 
 
 
-<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -299,21 +347,6 @@
 
 > SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
 
-<font size="3"><p style="text-align: center">Figura 1: Referências dos Itens de 1 a 9 do conteúdo [2.1](#21-verificação-nfr-framework).</p></font> 
 
-![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/nfr.png)
 
----
 
-<font size="3"><p style="text-align: center">Figura 2: Referências dos Itens de 1 a 9 do conteúdo [2.2](#22-verificação-backlog).</p></font> 
-
-![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/backlog.png)
-
----
-
-<font size="3"><p style="text-align: center">Figura 3: Referências dos Itens de 1 a 6 do conteúdo [2.3](#23-verificação-história-de-usuário).</p></font> 
-
-![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/US.png)
-
----
--->
