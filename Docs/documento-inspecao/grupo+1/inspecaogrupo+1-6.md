@@ -1,4 +1,4 @@
-# Entrega 5 do Grupo + 1: Inspeção
+# Entrega 6 do Grupo + 1: Inspeção
 
 **Data**: 22/06/2025  
 **Horário**: [20:00]  
@@ -113,14 +113,14 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 ---
 
-## 7. Gravação da Reunião
+## 6. Gravação da Reunião
 
 **Vídeo:** [Grupo 03 – Inspeção Grupo 04 (Etapa 6)](https://youtu.be/w-CPgw1eUcQ)  
 
 
 ---
 
-## 8. Histórico de Versões
+## 7. Histórico de Versões
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
