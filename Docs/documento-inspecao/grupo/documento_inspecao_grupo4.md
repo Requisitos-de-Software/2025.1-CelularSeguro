@@ -101,7 +101,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | <a href="#REF30">48-</a> Itens priorizados foram validados por PO? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) |Conforme |
 | <a href="#REF31">49-</a> Requisitos de negócio viraram histórias técnicas? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) |Conforme |
 | <a href="#REF32">50-</a> Itens técnicos também foram incluídos? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) |Conforme |
-| <a href="#REF33">51-</a> Há mecanismo visual de status (Kanban, swimlane)? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | Conforme|
+| <a href="#REF33">51-</a> Há mecanismo visual de status (Kanban, swimlane)? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | Inconforme|
 | <a href="#REF34">52-</a> Há estimativa de esforço? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | Inconforme|
 | <a href="#REF35">53-</a> Persona participou da priorização? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | Conforme|
 | <a href="#REF36">54-</a> Itens estão alinhados com objetivos do projeto? | [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/06/2025 | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | Conforme|
@@ -145,7 +145,23 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ---
 
-## 4. Gravação
+# 4. Referência
+
+### 4.1 Referência dos itens inconformes
+<font size="3"><p style="text-align: center">Tabela 5: Referência dos itens inconformes</p></font> 
+
+| Item | Imagem |
+|------|--------|
+|<b id="REF33">51. Há mecanismo visual de status (Kanban, swimlane)?</b>|[Ver imagem](../../assets/verificacao/verificacao4/grupo/Inconforme_entrega04_grupo03_51.png)|
+|<b id="REF34">52. Há estimativa de esforço?</b>|[Ver imagem](../../assets/verificacao/verificacao4/grupo/Inconforme_entrega04_grupo03_52.png)|
+|<b id="REF37">55. Ferramentas visuais foram utilizadas (Miro, Draw.io)?</b>|[Ver imagem](../../assets/verificacao/verificacao4/grupo/Inconforme_entrega04_grupo03_55.png)|
+|<b id="REF39">57. Foram utilizadas métricas de progresso?</b>|[Ver imagem](../../assets/verificacao/verificacao4/grupo/Inconforme_entrega04_grupo03_57.png)|
+
+<font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz), 2025.</p></font>
+
+---
+
+## 5. Gravação
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/3yEi7D9Jwds"> Grupo 03 – Inspeção grupo 03</a></p>
@@ -161,4 +177,5 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | 1.2    | 01/06/2025       | Adição de novos itens de validação e padronização   | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 01/06/2025      |
 | 1.3    | 01/06/2025       | Adição do vídeo de inspeção                         | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 01/06/2025      |
 | 1.4    | 01/06/2025       | Anotações da lista                                  | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | 01/06/2025      |
+| 1.4    | 22/06/2025       | Tabela de inconforme                                | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | [<span style="color:gold;">Matheus Bastos</span>](https://github.com/MateuSansete) | 22/06/2025      |
 
