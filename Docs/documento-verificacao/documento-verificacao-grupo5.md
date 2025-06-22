@@ -122,4 +122,4 @@
 |:--:|:--:|:--|:--|:--|
 | 1.0 | 08/06/2025 | Criação do checklist pós-rastreabilidade. | [Arthur Carvalho](https://github.com/arthurlleite) | [Gabriel Lima](https://github.com/gabriel-lima258) |
 | 1.1 | 08/06/2025 | Inclusão das tabelas Backward, Forward e lotes de requisitos. | [Arthur Carvalho](https://github.com/arthurlleite) | [Mateus Bastos](https://github.com/MateuSansete) |
-| 1.1 | 08/06/2025 | Inclusão do documento de verificação. | [Leonardo de Melo](https://github.com/leozinlima) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
+| 1.2 | 08/06/2025 | Inclusão do documento de verificação. | [Leonardo de Melo](https://github.com/leozinlima) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
