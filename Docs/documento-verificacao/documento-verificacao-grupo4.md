@@ -31,7 +31,7 @@
 | <a href="#REF13">6</a> | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF14">7</a> | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF15">8</a> | A gravação da reunião do grupo. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF16">9</a> | Vídeo de apresentação na categoria “ listado” no YouTube? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+| <a href="#REF16">9</a> | Vídeo de apresentação na categoria " listado" no YouTube? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
@@ -44,30 +44,30 @@
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
-| <a href="#REF08">1</a> | Os gráficos SIG foram validados por Fontes Externas? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">2</a> | Cada SIG possui sua respectiva propagação de Impacto? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">3</a> | Os softgoals se refinam até um nível de especificação bem definido? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">4</a> | Os cartões de especificação representam requisitos não-funcionais verificáveis? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">5</a> | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Ajuste, Dependências, Prioridade, Conflitos e História? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">6</a> | Os Softgoals NFR estão representados apropriadamente dada a sua definição? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">7</a> | Os Softgoals de Operacionalização estão representados apropriadamente dada a sua definição? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">8</a> | Os Softgoals de Afirmação estão representados apropriadamente dada a sua definição? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF08">9</a> | Os requisitos não-funcionais apresentados nos cartões foram priorizados com algum método? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019 | 
-| <a href="#REF10">10</a> | O SIG foi corretamente representado com relações AND/OR, conflitos e contribuições? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF11">11</a> | As contribuições (++/--/+/–) entre softgoals foram aplicadas com coerência? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF12">12</a> | As interdependências entre softgoals estão visivelmente representadas e documentadas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF13">13</a> | As afirmações estão bem definidas e coerentes com os softgoals de origem? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF14">14</a> | As operacionalizações escolhidas são justificadas com base em critérios técnicos? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF15">15</a> | O NFR Framework apresenta estrutura clara de Softgoals, Métodos e Correlações? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF16">16</a> | Os softgoals de operacionalização têm refinamento claro e verificável? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF17">17</a> | Existe evidência de refinamento sucessivo dos softgoals até o nível mensurável? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF18">18</a> | Há uso correto das nuvens (claras, espessas, tracejadas) conforme o tipo de softgoal? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF19">19</a> | Há no mínimo dois níveis de refinamento por softgoal raiz? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF20">20</a> | Cada softgoal possui um identificador único e compreensível? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF21">21</a> | Há ao menos uma justificativa clara para cada softgoal no cartão de especificação? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
-| <a href="#REF22">22</a> | O SIG foi validado por membros externos ou fontes secundárias? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF23">23</a> | O framework contempla pelo menos 3 tipos diferentes de softgoals? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF24">24</a> | Os conflitos entre requisitos foram representados e tratados no modelo? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf) |
+| <a href="#REF08">1</a> | Os gráficos SIG foram validados por Fontes Externas? | [Gabriel Lima](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">2</a> | Cada SIG possui sua respectiva propagação de Impacto? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">3</a> | Os softgoals se refinam até um nível de especificação bem definido? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">4</a> | Os cartões de especificação representam requisitos não-funcionais verificáveis? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">5</a> | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Ajuste, Dependências, Prioridade, Conflitos e História? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">6</a> | Os Softgoals NFR estão representados apropriadamente dada a sua definição? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">7</a> | Os Softgoals de Operacionalização estão representados apropriadamente dada a sua definição? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">8</a> | Os Softgoals de Afirmação estão representados apropriadamente dada a sua definição? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF08">9</a> | Os requisitos não-funcionais apresentados nos cartões foram priorizados com algum método? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) | 
+| <a href="#REF10">10</a> | O SIG foi corretamente representado com relações AND/OR, conflitos e contribuições? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF11">11</a> | As contribuições (++/--/+/–) entre softgoals foram aplicadas com coerência? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF12">12</a> | As interdependências entre softgoals estão visivelmente representadas e documentadas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF13">13</a> | As afirmações estão bem definidas e coerentes com os softgoals de origem? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF14">14</a> | As operacionalizações escolhidas são justificadas com base em critérios técnicos? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF15">15</a> | O NFR Framework apresenta estrutura clara de Softgoals, Métodos e Correlações? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF16">16</a> | Os softgoals de operacionalização têm refinamento claro e verificável? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF17">17</a> | Existe evidência de refinamento sucessivo dos softgoals até o nível mensurável? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF18">18</a> | Há uso correto das nuvens (claras, espessas, tracejadas) conforme o tipo de softgoal? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF19">19</a> | Há no mínimo dois níveis de refinamento por softgoal raiz? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF20">20</a> | Cada softgoal possui um identificador único e compreensível? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF21">21</a> | Há ao menos uma justificativa clara para cada softgoal no cartão de especificação? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF22">22</a> | O SIG foi validado por membros externos ou fontes secundárias? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF23">23</a> | O framework contempla pelo menos 3 tipos diferentes de softgoals? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF24">24</a> | Os conflitos entre requisitos foram representados e tratados no modelo? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258) e [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
 
@@ -87,20 +87,20 @@
 | <a href="#REF08">7</a> | O backlog possui ligação com o artefato História de Usuário ? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF08">8</a> | 	O backlog apresenta um tabela geral com todos os épicos, features e histórias de usuários ? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
 | <a href="#REF08">9</a> | O backlog possui uma metodologia identificada ? | [Gabriel Lima](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF25">10</a> | O backlog evolui com base no feedback contínuo dos usuários/personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF25">10</a> | O backlog evolui com base no feedback contínuo dos usuários/personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF26">11</a> | Há uso de método de priorização (MoSCoW, Kano, etc.) registrado? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 | <a href="#REF27">12</a> | Cada item do backlog está vinculado a uma sprint ou release planejada? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 | <a href="#REF28">13</a> | Existe rastreabilidade entre backlog, histórias e critérios de aceite? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
 | <a href="#REF29">14</a> | Os épicos possuem subdivisão clara em features e histórias de usuário? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/epics) |
-| <a href="#REF30">15</a> | Foi feita validação dos itens priorizados por PO ou cliente? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF30">15</a> | Foi feita validação dos itens priorizados por PO ou cliente? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF31">16</a> | Os requisitos de negócio foram traduzidos em histórias técnicas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 | <a href="#REF32">17</a> | O backlog contém itens técnicos além dos funcionais (infra, refatorações)? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/epics) |
 | <a href="#REF33">18</a> | Existe algum mecanismo visual de status (Kanban, swimlane)? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/epics) |
 | <a href="#REF34">19</a> | Cada item do backlog possui estimativa de esforço (story points, horas)? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF35">20</a> | O backlog foi priorizado com apoio de pelo menos uma persona? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF35">20</a> | O backlog foi priorizado com apoio de pelo menos uma persona? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF36">21</a> | Os temas de negócio estão alinhados com os objetivos do projeto? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
-| <a href="#REF37">22</a> | Foram utilizadas ferramentas visuais (miro, draw.io, etc) para representar o backlog? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| <a href="#REF38">23</a> | O backlog tem ligação com os objetivos estratégicos descritos no plano do projeto? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF37">22</a> | Foram utilizadas ferramentas visuais (miro, draw.io, etc) para representar o backlog? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
+| <a href="#REF38">23</a> | O backlog tem ligação com os objetivos estratégicos descritos no plano do projeto? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF39">24</a> | Foram utilizadas métricas de progresso para os itens do backlog? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258) e [Arthur Carvalho](https://github.com/arthurlleite), 2025.</p></font>
@@ -124,15 +124,15 @@
 | <a href="#REF41">10</a> | Foram validadas por cliente ou PO? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
 | <a href="#REF42">11</a> | Escritas de forma clara e objetiva? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 | <a href="#REF43">12</a> | Têm critérios de aceitação objetivos? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
-| <a href="#REF44">13</a> | Agrupadas por tema ou funcionalidade? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF44">13</a> | Agrupadas por tema ou funcionalidade? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF45">14</a> | Títulos autoexplicativos e padronizados? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
-| <a href="#REF46">15</a> | Seguem padrão \"Como [persona] quero [ação] para [benefício]\"? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
+| <a href="#REF46">15</a> | Seguem padrão "Como [persona] quero [ação] para [benefício]"? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
 | <a href="#REF47">16</a> | Ligadas a critérios de aceite e rastreáveis até código? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 | <a href="#REF48">17</a> | Têm estimativas de esforço? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/work-management/project-management/acceptance-criteria) |
-| <a href="#REF49">18</a> | Foram revisadas por membros da equipe? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF49">18</a> | Foram revisadas por membros da equipe? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF50">19</a> | Foram testadas com base nos critérios definidos? | [Arthur Carvalho](https://github.com/arthurlleite) | [SBOK® GUIDE](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok) |
 | <a href="#REF51">20</a> | Existe histórico de versões das histórias? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
-| <a href="#REF52">21</a> | Associadas corretamente às personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SALES, André Barros de](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| <a href="#REF52">21</a> | Associadas corretamente às personas? | [Arthur Carvalho](https://github.com/arthurlleite) | [SILVA, Reinaldo Antônio da](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) |
 | <a href="#REF53">22</a> | Refletem necessidades reais e não tarefas técnicas? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
 | <a href="#REF54">23</a> | Escritas em linguagem natural e acessível? | [Arthur Carvalho](https://github.com/arthurlleite) | [ATLASSIAN](https://www.atlassian.com/agile/project-management/user-stories) |
 
@@ -140,15 +140,153 @@
 
 ---
 
+## 2. Bibliografia
+
+### 2.1 Bibliografia dos Itens do Desenvolvimento do Projeto
+<font size="3"><p style="text-align: center">Tabela 4: Bibliografia dos Itens do Planejamento Geral do Projeto</p></font> 
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF01">01</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF02">02</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF03">03</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF04">04</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF05">05</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF06">06</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF07">07</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF08">08</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+|<b id="REF09">09</b>|SALES, André Barros de. Plano de ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. Acesso em: 13 abr. 2025.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-1.png)|
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
+
+### 2.2 Bibliografia dos Itens do Conteúdo do Projeto
+
+#### 2.2.1 Bibliografia do NFR Framework
+
+<font size="3"><p style="text-align: center">Tabela 5: Bibliografia dos Itens do Conteúdo do Projeto</p></font> 
+
+| Item | Referência | Imagem |
+|------|------------|--------|
+|<b id="REF08">01</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">02</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">03</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">04</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">05</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">06</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">07</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF08">08</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF09">09</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF10">10</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF11">11</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF12">12</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF13">13</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF14">14</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF15">15</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF16">16</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF17">17</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF18">18</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF19">19</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF20">20</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF21">21</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF22">22</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF23">23</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+|<b id="REF24">24</b>|SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019.|[Ver imagem](../assets/verificacao/verificacao1/entrega1-2.png)|
+
+
+
+#### 2.2.2 Bibliografia do Backlog
+
+
+
+
+#### 2.2.3 Bibliografia da História de Usuário
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Histórico de Versões 
+
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0  | 29/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 29/05/2025|
+| 1.1  | 01/06/2025 | Desenvolvimento da lista de verificação de modelagem ágil.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
+| 1.2  | 01/06/2025 | Adição de imagens de referências  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
+| 1.3  | 01/06/2025 | Adição de imagens de referências e Desenvolvimento da lista de verificação de modelagem ágil.  | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
+| 1.4  | 23/06/2025 | Padronização da bibliografia e adição das imagens e links referenciados, NFR, Backlog e História de Usuário  | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025|
+
+
+
+<!--
+---
+
+
+> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2023.
+
+> SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
+
+<font size="3"><p style="text-align: center">Figura 1: Referências dos Itens de 1 a 9 do conteúdo [2.1](#21-verificação-nfr-framework).</p></font> 
+
+
+<font size="3"><p style="text-align: center">Figura 2: Referências dos Itens de 1 a 9 do conteúdo [2.2](#22-verificação-backlog).</p></font> 
+
+![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/backlog.png)
+
+---
+
+<font size="3"><p style="text-align: center">Figura 3: Referências dos Itens de 1 a 6 do conteúdo [2.3](#23-verificação-história-de-usuário).</p></font> 
+
+![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/US.png)
+
+-
+
+## Histórico de Versões 
+
+
+<!--
+
+
+
+
+
+<!--
+
+
+
 ## Bibliografia
+
 
 > BERGMANN, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. 2003. Tese de Doutorado (Departamento de Informática) - Pontifícia Universidade Católica do Rio de Janeiro, [S. l.], 2003. p. 47-50.
 
 > SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2023.
 
 > SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
-
----
 
 <font size="3"><p style="text-align: center">Figura 1: Referências dos Itens de 1 a 9 do conteúdo [2.1](#21-verificação-nfr-framework).</p></font> 
 
@@ -167,12 +305,4 @@
 ![SILVA, Reinaldo Antônio. NFR4ES](../../assets/verificacao/US.png)
 
 ---
-
-## Histórico de Versões 
-
-| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0  | 29/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 29/05/2025|
-| 1.1  | 01/06/2025 | Desenvolvimento da lista de verificação de modelagem ágil.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
-| 1.2  | 01/06/2025 | Adição de imagens de referências  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
-| 1.3  | 01/06/2025 | Adição de imagens de referências e Desenvolvimento da lista de verificação de modelagem ágil.  | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 01/06/2025|
+-->
