@@ -26,6 +26,8 @@ nav:
   - Landing Page: landing.html
   - Home: index.md
 
+  - Metodologia: Metodologia.md
+
   - Atas:
     - Sprint 1:
         - Ata 1: "atas-reuniao/sprint-1/ata-reuniao-1.md"
