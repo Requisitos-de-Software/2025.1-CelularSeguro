@@ -422,7 +422,7 @@ Tabela 8 - RF07
 
 <details>
 
-<summary> O aplicativo deve permitir que o usuário registre um boletim de ocorrência. </summary>
+<summary> O sistema deve identificar e exigir o preenchimento de campos considerados obrigatórios para o registro do boletim. </summary>
 
 <center>
 
