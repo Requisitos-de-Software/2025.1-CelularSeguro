@@ -17,6 +17,7 @@ O grupo desenvolveu um protótipo de alta fidelidade para simular a tela do apli
 - RF06
 - RF12
 - RF13
+- RF18
 - RF23
 - RF25
 - RF31
