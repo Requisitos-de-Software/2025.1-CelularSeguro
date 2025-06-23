@@ -102,6 +102,7 @@ nav:
 
   - Validação:
       - Prototipação: "documento-validacao/documento-prototipacao.md"
+      - Artefatos Inconformes 1: "documento-validacao/documentacao-artefatosAnteriores.md"
       - Comprovação Informal: "documento-validacao/documentacao-resposta-informal.md"
 
   - Inspeção:

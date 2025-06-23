@@ -117,7 +117,6 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 **Vídeo:** [Grupo 03 – Inspeção Grupo 03 (Etapa 6)](https://youtu.be/DCepjA47smg)  
 
-
 ---
 
 ## 7. Histórico de Versões
@@ -125,3 +124,4 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 22/06/2025 | Criação do documento.  | [Leonardo de Melo](https://github.com/leozinlima) | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 22/06/2025|
+
