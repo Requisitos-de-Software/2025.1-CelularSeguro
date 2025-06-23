@@ -14,12 +14,28 @@ Dessa forma, o método proposto neste documento estrutura uma abordagem sistemá
 O grupo desenvolveu um protótipo de alta fidelidade para simular a tela do aplicativo Celular Seguro. O objetivo é implementar os requisitos:
 
 - RF01
-- ....
-- ....
+- RF06
+- RF12
+- RF13
+- RF23
+- RF25
+- RF31
+- RF33
+- RF38
+- RF40
+- RF43
+- RF44
+- RNF27
 
 Essa etapa teve como objetivo validar os requisitos previamente elicitados, assegurando que o sistema atenda às expectativas e necessidades dos usuários.
 
 ---
+
+## Protótipo
+ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=181-2" target="blanket">clique aqui</a>.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/jpY7Ll4PCtCUi53bcdk4bb/Celular-Seguro?node-id=332-772&starting-point-node-id=181%3A129&embed-host=share" allowfullscreen></iframe>
+
 
 ## Ferramentas Utilizadas 
 
@@ -49,6 +65,15 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 ## Entrevista
 
 
+
+<p style="text-align: center"><a href="https://youtu.be/mvmk45sHP3M" target="blanket">Clique aqui</a> </p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7ETUQPDKJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -66,3 +91,4 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 17/06/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/06/2025 |
+| 1.1  | 22/06/2025 | Adição da prototipação e entrevista  | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 22/06/2025 |
