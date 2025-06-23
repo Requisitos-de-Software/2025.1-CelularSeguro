@@ -111,3 +111,4 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 17/06/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/06/2025 |
 | 1.1  | 22/06/2025 | Adição da prototipação e entrevista  | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 22/06/2025 |
+| 1.2 | 23/06/2025 | Wornings e tabela de contribuição do grupo  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025 |
