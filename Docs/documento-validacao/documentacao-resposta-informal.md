@@ -43,6 +43,10 @@ Além disso, o contato também foi reforçado por meio da ouvidoria do sistema, 
 
 ## Resposta do Celular Seguro
 
+No contexto do desenvolvimento do projeto Celular Seguro, até a data de entrega deste artefato (22/06/2025), não foram obtidas validações formais por parte dos usuários ou representantes da iniciativa. Apesar dos esforços da equipe em estabelecer contato por meios institucionais e redes sociais, não houve retorno que permitisse o registro oficial da validação dos artefatos produzidos.
+
+Contudo, caso ocorra manifestação posterior, ainda que por meio de canais informais como mensagens em aplicativos de comunicação, estas serão devidamente documentadas neste artefato como forma complementar de comprovação da análise e validação das funcionalidades desenvolvidas no âmbito do projeto.
+
 ---
 
 ## Referências Bibliográficas
