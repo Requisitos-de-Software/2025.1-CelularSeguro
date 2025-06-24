@@ -26,6 +26,8 @@ nav:
   - Landing Page: landing.html
   - Home: index.md
 
+  - Metodologia do Projeto: "documento-metodologia/Metodologia.md"
+
   - Atas:
     - Sprint 1:
         - Ata 1: "atas-reuniao/sprint-1/ata-reuniao-1.md"
@@ -100,6 +102,7 @@ nav:
 
   - Validação:
       - Prototipação: "documento-validacao/documento-prototipacao.md"
+      - Artefatos Inconformes 1: "documento-validacao/documentacao-artefatosAnteriores.md"
       - Comprovação Informal: "documento-validacao/documentacao-resposta-informal.md"
 
   - Inspeção:
@@ -125,6 +128,8 @@ nav:
       - Apresentação 3: "documento-apresentacao/apresentacao-3.md"
       - Apresentação 4: "documento-apresentacao/apresentacao-4.md"
       - Apresentação 5: "documento-apresentacao/apresentacao-5.md"
+      - Apresentação 6: "documento-apresentacao/apresentacao-6.md"
+
     - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
 
 theme:

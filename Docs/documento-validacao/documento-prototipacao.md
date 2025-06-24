@@ -7,6 +7,24 @@ A prototipação é uma técnica amplamente utilizada no processo de desenvolvim
 
 Dessa forma, o método proposto neste documento estrutura uma abordagem sistemática para avaliar requisitos por meio de protótipos de alta fidelidade. São utilizados quando se deseja simular de forma mais fiel o comportamento do sistema, especialmente em validações finais com usuários ou testes de usabilidade.
 
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+
 ---
 
 ## Objetivo
@@ -17,6 +35,7 @@ O grupo desenvolveu um protótipo de alta fidelidade para simular a tela do apli
 - RF06
 - RF12
 - RF13
+- RF18
 - RF23
 - RF25
 - RF31
@@ -92,3 +111,4 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 17/06/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/06/2025 |
 | 1.1  | 22/06/2025 | Adição da prototipação e entrevista  | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 22/06/2025 |
+| 1.2 | 23/06/2025 | Wornings e tabela de contribuição do grupo  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025 |
