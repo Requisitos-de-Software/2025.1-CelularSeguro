@@ -1,7 +1,7 @@
 # Entrega 6 do Grupo + 1: Inspeção
 
-**Data**: 22/06/2025  
-**Horário**: [20:00]  
+**Data**: 23/06/2025  
+**Horário**: [21:00]  
 **Local**: Microsoft Teams  
 
 ## 1. Introdução
@@ -139,8 +139,10 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 ## 6. Gravação da Reunião
 
-**Vídeo:** [Grupo 03 – Inspeção Grupo 04 (Etapa 6)](https://youtu.be/w-CPgw1eUcQ)  
-
+<div style="text-align: center;">
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/3yEi7D9Jwds"> Grupo 03 – Inspeção grupo 03</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3yEi7D9Jwds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -149,3 +151,5 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 22/06/2025 | Criação do documento.  | [Leonardo de Melo](https://github.com/leozinlima) | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 22/06/2025|
+| 1.1  | 23/06/2025 | Criação do video.  | [Gabriel Lima](https://github.com/gabriel-lima258) | [Leonardo de Melo](https://github.com/leozinlima) | 23/06/2025|
+
