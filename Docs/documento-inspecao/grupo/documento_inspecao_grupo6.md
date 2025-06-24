@@ -114,6 +114,6 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0  | 22/06/2025 | Criação do documento.  | [Leonardo de Melo](https://github.com/leozinlima) | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 22/06/2025|
+| 1.0  | 22/06/2025 | Criação do documento.  | [Leonardo de Melo](https://github.com/leozinlima) | [Vitor Bessa](https://github.com/Bessazs) | 22/06/2025|
 | 1.1  | 22/06/2025 | Criação do video.  | [Gabriel Lima](https://github.com/gabriel-lima258) | [Leonardo de Melo](https://github.com/leozinlima) | 22/06/2025|
 
