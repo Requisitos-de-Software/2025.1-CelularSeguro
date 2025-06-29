@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Celular Seguro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #1f2937;
+      background-color: #fff;
+    }
+
+    .intro {
+      padding: 4rem 2rem 2rem;
+      background: linear-gradient(to bottom, #f9fafb, #ffffff);
+    }
+
+    .intro-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .intro-text {
+      flex: 1 1 500px;
+      padding-right: 2rem;
+    }
+
+    .intro-text h1 {
+      font-size: 2.8rem;
+      font-weight: 800;
+      color: #111827;
+      margin-bottom: 1rem;
+    }
+
+    .intro-text .highlight {
+      color: white;
+    }
+
+    .intro-text p {
+      font-size: 1.1rem;
+      color: white;
+      line-height: 1.6;
+    }
+
+    .intro-image {
+      flex: 2 5 300px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .intro-image img {
+      max-width: 300px;
+      height: auto;
+    }
+
+    .scroll-hint {
+      text-align: center;
+      margin-top: 2rem;
+      color: #374151;
+    }
+
+    .scroll-hint .arrow {
+      display: block;
+      font-size: 1.5rem;
+      animation: bounce 2s infinite;
+      margin-top: 0.5rem;
+    }
+
+    @keyframes bounce {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(6px);
+      }
+    }
+
+    .top-gradient {
+      background: linear-gradient(270deg, #16a34a, #22c55e, #4ade80, #16a34a);
+      background-size: 800% 800%;
+      animation: gradientFlow 15s ease infinite;
+      color: white;
+    }
+
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    header {
+      padding: 0.1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    }
+
+    header h1 {
+      font-size: 2rem;
+      color: white;
+    }
+
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: white;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 4rem 1rem;
+    }
+
+    .hero h2 {
+      font-size: 2.5rem;
+      color: #16a34a;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      margin: 1rem 0;
+    }
+
+    .button {
+      background-color: #16a34a;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 1rem;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .section {
+      padding: 3rem 1rem;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .section h3 {
+      font-size: 1.8rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+
+    .card {
+      padding: 1.5rem;
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
+      background-color: white;
+      color: #1f2937;
+    }
+
+    .top-gradient .section h3,
+    .top-gradient .card strong,
+    .top-gradient .card p {
+      color: white;
+    }
+
+    .top-gradient .card {
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      background-color: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(5px);
+    }
+
+    footer {
+      background-color: #1f2937;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    footer a {
+      color: #a3e635;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+
+    .download {
+      background-color: #16a34a;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    @media (max-width: 768px) {
+      .intro-content {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      
+      .grid-sobre .card p {
+  color: #374151;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+      .intro-text {
+        padding-right: 0;
+      }
+
+      .intro-image {
+        margin-top: 2rem;
+      }
+
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Nova Seção de Introdução -->
+  <section class="top-gradient">
+
+    <header style="display: flex; align-items: center; gap: 20px;">
+  
+      <h1>   <span style="color:#bbf7d0;"></span></h1>
+      <nav style="margin-left: auto;">
+        <a href="#sobre">Sobre o projeto</a>
+        <a href="#funcionalidades">Funcionalidades do Aplicativo</a>
+        <a href="#como-funciona">Como Funciona</a>
+        <a href="#termos">Termos de Uso</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/">Conheça mais</a>
+      </nav>
+    </header>
+
+    <div class="intro-content">
+      <div class="intro-text">
+        <h1> <span class="highlight"> Requisitos: Celular Seguro</span></h1>
+        <p>O objetivo do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro para a disciplina de Requisitos de Software ofertada pela UnB - FCTE</p>
+      </div>
+      <div class="intro-image">
+        <img src="assets/mini.png" alt="Logo Celular Seguro">
+      </div>
+    </div>
+    <div class="scroll-hint">
+      <p>Conheça os Recursos do Projeto</p>
+      <span class="arrow">&#x25BC;</span>
+    </div>
+  </section>
+
+    <section class="hero" id="sobre">
+
+      <h2>Sobre o Projeto</h2>
+      <div class="grid grid-sobre">
+        <div class="card">
+          <strong>O projeto</strong>       
+            <p>
+              E o principal objetivo desse projeto é melhorar a qualidade do aplicativo considerando os conceitos aprendidos na disciplina de
+              Requisitos de Software aliada a Interação Humano Computador. 
+            </p>
+
+              <p>  
+              Tomando como base essenciamente as avaliações dos usuários
+              do aplicativo tanto nas plataformas de download que são a principal vitrine que promovem a qualidade e relevancia do aplicativo como em pesquisas
+              promovidas pelos proprios alunos.
+              </p>
+        </div>
+        <div class="card">
+          <strong>Principais Motivações</strong>
+          <p>
+            O aplicativo possui funcionalidades muito úteis para os cidadões brasileiros que estão sempre sucetíveis a roubos e furtos de 
+            seus dispositivos móveis. 
+          </p>
+          <p>Contudo, algumas analises iniciais que já fizemos do aplicativo encontramos algumas falhas na usabilidade:
+            Ex.:   </p>
+          <p> Bloqueio imediato do celular mesmo que o usuário não queira;</p>
+          <p>O vínculo de bloqueio do celular atualmente é feito pelo número do celular e não pelo IMEI; </p>
+            <p>  
+              E no decorrer das releases do aplicativo vamos propor soluções que mitiguem esses problemas e melhorar a experiência do usuário.
+            </p>
+        </div>
+      </div>
+    </section>
+
+    
+  </div>
+
+  <section class="hero" id="funcionalidades" >
+    <h2>Funcionalidades do aplicativo</h2>
+
+    <div class="grid">
+      <div class="card">
+        <strong>Alerta Instantâneo</strong>
+        <p>Receba notificações sobre atividades suspeitas em seu dispositivo.</p>
+      </div>
+      <div class="card">
+        <strong>Bloqueio do dispositivo</strong>
+        <p>Bloqueio do aparelho para operadoras por meio do número de celular.</p>
+      </div>
+      <div class="card">
+        <strong>Segurança de Acesso</strong>
+        <p>Para acessar a plataforma é necessário autenticação via gov.br</p>
+      </div>
+     
+    </div>
+  </section>
+
+  <section class="hero" id="como-funciona">
+    <h2>Como Funciona</h2>
+    <div class="grid">
+      <div class="card">
+        <strong>1. Baixe o aplicativo</strong>
+        <p>Disponível para Android</p>
+      </div>
+      <div class="card">
+        <strong>2. Cadastre-se com gov.br</strong>
+        <p>Acesse com sua conta gov.br para garantir segurança.</p>
+      </div>
+      <div class="card">
+        <strong>3. Registre seu dispositivo</strong>
+        <p>Adicione informações do seu celular.</p>
+      </div>
+      <div class="card">
+        <strong>4. Configure suas preferências</strong>
+        <p>Escolha como deseja ser notificado.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="download" id="termos">
+    <h3>Termos de Uso</h3>
+    <p>Os termos de uso do aplicativo estão disponíveis no prórpio aplicativo. </p>
+    <p> Contudo disponibilizamos para que você possa acessar por PDF:</p>
+    <a href="TermoUso.pdf" class="button" style="background-color:#0f172a;" target="_blank" rel="noopener noreferrer">Acesse aqui</a>
+
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Celular Seguro. Todos os direitos reservados.</p>
+    <p>
+      Uma iniciativa do grupo III da disciplina de Requisitos de Software do curso de Engenharia de Software da Universidade de Brasília.
+    </p>
+     <p>
+      Desenvolvido por Felipe das Neves
+    </p>
+  </footer>
+
+</body>
+</html>
