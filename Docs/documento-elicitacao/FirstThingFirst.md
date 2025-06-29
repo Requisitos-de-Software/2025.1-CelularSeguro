@@ -18,7 +18,7 @@ As pessoas que participaram da aplicação da técnica _First Things First_ (FTF
 | **Nome**            | **Função**     |
 |---------------------|----------------|
 | Arthur Carvalho     | Mediador       |
-| Usuário Representante | Cliente        |
+| Leticia Figueiredo | Cliente        |
 | Gabriel Lima | Desenvolvedor |
 
 
@@ -175,6 +175,16 @@ A aplicação do FTF seguiu os passos:
 
 ---
 
+## Gravação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_8b1r5VKaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+---
+
 ## Bibliografia
 
 > <a id="FTF1Ref"></a> FIRST things first: Setting requirement priorities. In: **WIEGERS, K. E.; BEATTY, J.** *Software Requirements*. 3. ed. Microsoft Press, 2013. cap. 16, p. 313‑329.
@@ -188,3 +198,4 @@ A aplicação do FTF seguiu os passos:
 | 1.0    | 01/05/2025       | Criação do documento FTF para Celular Seguro | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 01/05/2025     |                                            | 23/04/2025     |
 | 1.1    | 04/05/2025       | Análise de valores de custo, valor e risco | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 04/05/2025     |                                            | 04/05/2025     |
 | 1.2   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+| 2.0   | 28/06/2025| Inserção do video de entrevista na tecnica FTF | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 28/06/2025 |
