@@ -8,18 +8,18 @@ Para a realização da atividade, foi utilizada uma abordagem prática e simulad
 
 ---
 
-## Participantes
+## Integrantes que atuaram no desenvolvimento do artefato
 
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
 
-<ul style="text-align: justify; margin-top: 0.5em;">
-<li>Gabriel Lima: Observador;
-<li>Arthur Carvalho: Observador;
-<li>Daniel Rodrigues: Usuário;
-</ul>
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
 
-**Usuário:** responsável por utilizar o aplicativo e suas funcionalidades, para que possa ser encontrados possíveis problemas no aplicativo.
-
-**Observador:** responsável por registrar as funcionalidades possíveis de serem executadas e as que estão com algum tipo de problema ou não existem. 
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento dos Requisitos |
+| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/gabriel-lima258) | Usuário |
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | Revisor do Artefato |
 
 ---
 

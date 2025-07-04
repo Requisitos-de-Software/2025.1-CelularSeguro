@@ -72,7 +72,6 @@ nav:
         - QFD: "documento-elicitacao/QFD.md"
         - MoSCoW: "documento-elicitacao/MoSCoW.md"
         - $100: "documento-elicitacao/100.md"
-        - Requisitos Priorizados: "documento-elicitacao/requisitos_priorizados.md"
 
   - Modelagem:
       - Casos de Uso: "documento-modelagem/caso-de-uso.md"

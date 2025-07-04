@@ -11,16 +11,20 @@ As pessoas que participaram da aplicação da técnica _First Things First_ (FTF
 - **Mediador** – Conduz a sessão e apresenta os requisitos.
 - **Cliente** – Atribui notas de **benefício** e **penalidade**.
 - **Desenvolvedor** – Atribui notas de **custo** e **risco**.
+---
 
+## Integrantes que atuaram no desenvolvimento do artefato
 
-*Tabela 1: Participantes da técnica First Things First.*
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
 
-| **Nome**            | **Função**     |
-|---------------------|----------------|
-| Arthur Carvalho     | Mediador       |
-| Leticia Figueiredo | Cliente        |
-| Gabriel Lima | Desenvolvedor |
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
 
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Mediador |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Desenvolvedor |
+| [<span style="color:gold;">Leticia Figueiredo</span>](#) | Cliente |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
 
 
 *Legenda:* 
