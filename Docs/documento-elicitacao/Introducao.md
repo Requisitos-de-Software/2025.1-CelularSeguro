@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.1</span>
+
 # Documentação Elicitação
 
 ---
@@ -82,3 +84,4 @@ A Técnica de R$100 simula um orçamento virtual de R$100 para ser alocado pelos
 | Versão | Data de produção | Descrição da Alteração             | Autor(es)                                                                                             | Revisor(es)                                                                                           | Data de Revisão |
 | :----: | :--------------: | :--------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------: |
 | 1.0    | 04/05/2025       | Criação da documentação de elicitação | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>, <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 04/05/2025      |
+| 1.1    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|

@@ -1,4 +1,7 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.3</span>
+
 # Pré Rastreabilidade
+
 ---
 
 A etapa de Pré-Rastreabilidade tem como objetivo evidenciar o caminho percorrido pela equipe antes da definição final do escopo do projeto. Aqui são registrados os estudos e análises realizadas com aplicativos semelhantes, permitindo justificar a escolha do aplicativo foco e das funcionalidades priorizadas.
@@ -24,3 +27,4 @@ Esta documentação fornece uma trilha clara e fundamentada da evolução do pro
 | 1.0 | 13/04/2025 | Desenvolvimento do tópico |<a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 23/04/2025|
 | 1.1| 23/04/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 23/04/2025|
 | 1.2| 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+| 1.3    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
