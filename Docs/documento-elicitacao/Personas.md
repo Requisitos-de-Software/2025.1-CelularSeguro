@@ -1,5 +1,8 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.4</span>
+
 # Personas
 
+---
 
 ## Introdução
 Personas são personagens fictícios que representam perfis diferentes de usuários, criados com base em comportamentos e características reais observados em campo. Mesmo sendo construídas como arquétipos, elas reúnem motivações, necessidades, expectativas e objetivos comuns a um grupo maior de pessoas. A ideia é transformar dados em algo mais humano e fácil de entender, ajudando a equipe a enxergar o sistema pelos olhos de quem realmente vai usá-lo [[ 1 ]](#ref1).
@@ -7,6 +10,25 @@ Personas são personagens fictícios que representam perfis diferentes de usuár
 No caso do aplicativo Celular Seguro, as personas ajudam a entender como diferentes tipos de usuários se relacionam com a tecnologia — desde os mais experientes até os que têm mais dificuldades com o uso do celular. Isso evita que o desenvolvimento seja baseado apenas em achismos e permite criar soluções mais alinhadas com a realidade de quem vai usar o app.
 
 Com isso, conseguimos pensar em um sistema que seja realmente útil, simples de usar e que leve em conta o que importa para cada perfil de usuário, como segurança, acessibilidade ou praticidade no dia a dia.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolho) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documentacao-artefatosAnteriores/#tabela-1-refatoracao-das-inspecoes-internas-anteriores)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
 
 ## Metodologia
 A elaboração das personas foi baseada em dados obtidos por meio da observação e análise de usuários reais, identificando polaridades comportamentais e demográficas relevantes. Essas polaridades incluem variáveis como idade, familiaridade com tecnologia, grau de independência digital e perfil de uso do dispositivo móvel.
@@ -152,10 +174,11 @@ Fonte: <a href="https://github.com/MateuSansete?tab=overview&from=2025-02-01&to=
 
 
 <br>
+
 ---
 
 
-## **Conclusão**
+## Conclusão
 
 Para uma melhor elaboração na elicitação dos requisitos, foram desenvolvidas 5 personas, que representam diferentes perfis de usuários reais do sistema Celular Seguro. Essas personas foram cuidadosamente definidas com base em suas rotinas, necessidades e níveis de familiaridade com a tecnologia, garantindo uma visão ampla e inclusiva do público-alvo do aplicativo.
 
@@ -186,19 +209,5 @@ Dessa forma, acreditamos que o número atual de personas é adequado para repres
 | 1.1    | 01/05/2025         | Atualização da seção de Personas com novos campos e imagens | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | 01/05/2025 |
 | 1.2    | 02/05/2025         | Ajuste nas referências, tamanhos das imagens e correção da introdução | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | 02/05/2025 |
 | 1.3   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
-
-
-
-<!-- 
-[<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima)
-
-[<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs)
-
-
-[<span style="color:gold;">Vitor Pereira</span>](https://github.com/FelipeFreire-gf)
- -->
-
-
-
-
+| 1.4    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
 
