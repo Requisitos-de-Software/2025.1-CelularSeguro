@@ -6,6 +6,20 @@ Essa página reune todos os requisitos funcionais e não funcionais elicitados u
 
 ---
 
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Criador do Artefato |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
+
+---
+
 ## Metodologia
 
 A tabela 1 apresenta os requisitos funcionais, sendo que cada linha contém um ID, sua respectiva descrição, um hyperlink de rastreabilidade que direciona à página da(s) técnica(s) que elicitou o requisitão em questão e se ele foi implementado ou não, analogamente a tabela 2 que apresenta os requisitos não funcionais.
