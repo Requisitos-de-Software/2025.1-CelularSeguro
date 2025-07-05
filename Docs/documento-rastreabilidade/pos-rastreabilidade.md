@@ -1,5 +1,9 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.1</span>
+
 # Pós-Rastreabilidade
+
 ---
+
 ### Introdução
 
 Este documento tem como finalidade demonstrar a conexão entre os requisitos, a arquitetura do sistema e a implementação. Dessa forma, são evidenciadas as relações de dependência entre os artefatos produzidos durante o desenvolvimento: sejam eles de requisitos, de arquitetura ou de código. A rastreabilidade é estruturada por meio de vínculos que representam a interligação entre esses elementos.
@@ -7,6 +11,25 @@ Este documento tem como finalidade demonstrar a conexão entre os requisitos, a 
 !!! Warning "Atenção!"
     O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Felipe das Neves </span>](https://github.com/repolhudo) | Autor dos protótipos: [[ RF 43 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/#rastreabilidade) e [[ RF 44 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/#rastreabilidade)|
+
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -3702,3 +3725,4 @@ Tabela 70 - RNF27
 | 1.8    | 22/06/2025         | Adição do protótipo do RF 01 | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 22/06/2025 |
 | 1.9    | 22/06/2025         | Adição dos protótipos nos RF02 e RF08 | <a style="color:gold; "href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 23/06/2025 |
 | 2.0    | 23/06/2025         | Versionamento das tabelas do artefato | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 23/06/2025 |
+| 2.1    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
