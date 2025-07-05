@@ -37,6 +37,7 @@
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
+---
 
 ### 2. Itens do Conteúdo do Projeto
 
@@ -59,6 +60,8 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
+
 #### 2.1 Verificação do Perfil de Usuário
 
 <font size="3"><p style="text-align: center">Tabela 3: Checklist para a Verificação do Perfil de Usuário.</p></font>
@@ -72,6 +75,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
 
 #### 2.2 Verificação das Personas
 
@@ -93,6 +97,8 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
+
 #### 2.3 Verificação de Análise de Documento
 
 <font size="3"><p style="text-align: center">Tabela 5 - Checklist para a Verificação de Análise de Documento.</p></font>
@@ -109,6 +115,8 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
+
 #### 2.4 Verificação do Brainstorm
 
 <font size="3"><p style="text-align: center">Tabela 6 - Checklist para a Verificação Brainstorm.</p></font>
@@ -123,6 +131,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
 
 #### 2.5 Verificação Observação
 
@@ -139,6 +148,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
 
 #### 2.6 Verificação Storytelling
 
@@ -155,6 +165,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
 
+---
 
 #### 2.7 Verificação Moscow
 
@@ -175,6 +186,9 @@
 | <a href="#REF05">7</a> | A técnica MoSCoW está integrada ao planejamento e às iterações do projeto? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 36 |  [Print](../prints/entrega2/moscow/7.png) |
 | <a href="#REF05">8</a> | A priorização está sendo revisada periodicamente? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 36 |  [Print](../prints/entrega2/moscow/4.png) |
 
+<font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
+
+---
 
 #### 2.8 Verificação QFD
 
@@ -189,6 +203,8 @@
 | <a href="#REF05">5</a> | O QFD gerou insights que influenciaram mudanças nas decisões de projeto? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+
+---
 
 #### 2.9 Verificação da Técnica First Things First (FTF)
 
@@ -205,6 +221,10 @@
 | <a href="#FTF07">7</a> | Houve discussão entre cliente e desenvolvedor para definição dos critérios atribuídos? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
 | <a href="#FTF08">8</a> | A técnica foi utilizada em uma sessão documentada e reproduzível? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |
 
+<font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
+
+---
+
 #### 2.10 Verificação da Técnica $100
 
 <font size="3"><p style="text-align: center">Tabela 13 – Checklist para a verificação da técnica $100.</p></font>
@@ -220,6 +240,9 @@
 | <a href="#REF07">7</a> | Os requisitos de menor prioridade foram corretamente identificados como candidatos para versões futuras? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
 | <a href="#REF08">8</a> | Foi realizada uma análise e interpretação dos resultados após a priorização? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
 
+<font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
+
+---
 
 #### 2.11 Verificação do Questionário
 
