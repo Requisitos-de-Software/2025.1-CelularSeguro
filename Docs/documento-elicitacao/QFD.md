@@ -19,7 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Responsável por desenvolver o artefato e: [[ Iframe 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais), [Matriz QFD](../QFD-CelularSeguro.pdf) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Responsável por desenvolver o artefato e: [[ Iframe 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais), [Matriz QFD](../QFD-CelularSeguro.pdf) e [[ Tabela Final ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/QFD/#tabela-final-de-priorizacao)|
 | [<span style="color:gold;">Todos os integrantes</span>](https://github.com/leozinlima) | Auxiliaram no preenchimento do QFD |
 | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
 
