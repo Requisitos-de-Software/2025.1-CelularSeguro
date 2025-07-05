@@ -25,6 +25,13 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor do desenvolvimento do artefato, bem como: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero)|
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+
 !!! Tip "Observação"
     Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
