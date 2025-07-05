@@ -1,4 +1,33 @@
-# Celular Seguro: Sessão de Brainstorming
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
+# Sessão de Brainstorming
+
+---
+
+## Introdução
+
+O brainstorming é uma técnica de elicitação de requisitos altamente colaborativa, projetada para gerar um grande volume de ideias sobre um tema específico em um ambiente livre de críticas. O objetivo é incentivar a criatividade e o pensamento divergente, permitindo que os participantes explorem soluções inovadoras sem restrições iniciais.
+
+No contexto do projeto Celular Seguro, a sessão de brainstorming foi fundamental para identificar funcionalidades, abordar preocupações de segurança e usabilidade, e capturar as expectativas dos usuários de forma ampla e dinâmica. Ao reunir diferentes perspectivas, a equipe buscou construir um backlog rico e diversificado de possibilidades para o aplicativo.
+
+Esta seção detalha a metodologia aplicada durante a sessão, os participantes envolvidos, as ideias-chave levantadas e os requisitos funcionais e não funcionais que foram derivados a partir dessa dinâmica.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -359,4 +388,4 @@ Para estruturar a sessão e cobrir os aspectos mais relevantes do projeto Celula
 | 1.2    | 04/05/2025       | Inclusão do Miro e do vídeo do YouTube | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 04/05/2025     |
 | 1.3    | 06/05/2025       | Concerto de link do vídeo do YouTube | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>                               | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 06/05/2025     |
 | 1.4   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
-
+| 1.5    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|

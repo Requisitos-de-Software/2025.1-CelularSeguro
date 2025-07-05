@@ -7,6 +7,19 @@ Especificação Suplementar pode ser definida como um documento em linguagem nat
 
 ---
 
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | Revisor do Artefato |
+
+---
+
 ## Metodologia
 
 Para a elaboração deste artefato, será adotada uma versão adaptada do modelo FURPS+, uma metodologia que classifica os requisitos do sistema em seis categorias principais: 
@@ -30,7 +43,7 @@ Para a elaboração deste artefato, será adotada uma versão adaptada do modelo
 
 ## Funcionalidade
 
-Os requisitos funcionais do projeto [Celular Seguro](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro) foram elicitados na seção de elicitação das seguintes técnicas: [Análise de Documentos](../documento-elicitacao/AnalisedeDocumentos.md), [Questionário](../documento-elicitacao/Questionario.md), [Brainstorming](../documento-elicitacao/Brainstorming.md), [Observação](../documento-elicitacao/Observacao.md) e [Storytelling](../documento-elicitacao//Storytelling.md). 
+Os requisitos funcionais do projeto [Celular Seguro](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro) foram elicitados na seção de elicitação das seguintes técnicas: [Requisitos Elicitados](../documento-elicitacao/requisitos_elicitados.md)
 
 ---
 
@@ -46,11 +59,11 @@ Define requisitos para garantir que o sistema seja fácil de usar, acessível e 
 
 | **ID** | **Descrição** | **Verificação** |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------|
-| USA01  | O tempo de carregamento das páginas inferior a 2 segundos em aparelhos com 4G/5G. | Tempo |
-| USA02  | Tempo de resposta inferior a 2 segundos para consultas simples. | Tempo |
-| USA03  | O sistema deve apresentar cores compatíveis com a opções de contraste. | Acessibilidade (WCAG) |
-| USA04  | Fluxo de registro com no máximo 3 passos | Etapas |
-| USA05  | O tempo de adaptação ao sistema leva cerca de 1 a 3 dias ao seguir o guia de usuário | Tempo |
+| USA01  | Tempo de inicialização do app < 2 segundos. | Tempo |
+| USA02  | Tempo de resposta da interface < 200 ms | Tempo |
+| USA03  | Opção de contraste de cores e ajuste de tamanho de fonte | Checklist |
+| USA04  | O aplicativo deve apresentar legendas em ícones e menus para facilitar a compreensão. | Checklist |
+| USA05  | Notificações entregues em tempo real com taxa de sucesso > 99 % | Logs |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -75,10 +88,10 @@ Especifica o quão estável, preciso e tolerante a falhas o sistema deve ser.
 | CON01  | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD). | Checklist |
 | CON02  | Precisão de 99% nos dados retornados. | Porcentagem |
 | CON03  | Falhas críticas devem ser detectadas automaticamente em até 30 segundos. | Tempo |
-| CON04  | O sistema deve possuir backups dos dados com até 30 minutos dos usuários e eventos. | Tempo |
+| CON04  | O sistema deve possuir backups dos dados dos usuários e eventos com até 30 minutos. | Tempo |
 | CON05  | O sistema deve ser acessível 24 horas por dia, 7 dias por semana. | Tempo |
 | CON06  | Taxa de erro crítica < 1/100.000 transações. | Logs |
-| CON07  | Suspensão temporária dos serviços Bancários executados de forma remota em até 30 minutos | Tempo |
+| CON07  | Autenticação multifator (2 FA) via SMS | Logs |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -101,10 +114,10 @@ Define metas relacionadas à eficiência do sistema, como tempo de resposta, nú
 | **ID** | **Descrição** |  **Verificação** |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------|
 | DES01  | O sistema deve ser capaz de manter tempo de resposta inferior a 3 segundos sob carga de até 1 milhão de acessos simultâneos, com uso de CPU ≤ 80%. | Porcentagem |
-| DES02  | Tempo máximo de resposta: 3 segundos. | Tempo |
+| DES02  | Tempo máximo de resposta a uma função: 3 segundos. | Tempo |
 | DES03  | Tempo de carregamento inicial: até 200ms. | Tempo |
-| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos além de 10 segundos que possa atrapalhar ações. | Tempo |
-| DES05  | O sistema deve escalar horizontalmente de forma automática em no máximo 60 segundos sempre que o uso de CPU ultrapassar 70% | Porcentagem, Tempo | 
+| DES04  | O sistema deve possuir uma navegação fluida, sem qualquer travamentos maiores do que 10 segundos. | Tempo |
+| DES05  | O tempo de resposta para comunicação de um alerta a empresas parceiras deve ser mínimo do que 5 segundos | Tempo | 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -126,14 +139,14 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Estabel
 
 | **ID** | **Descrição** |  **Verificação** |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| SUP01  | Documentação técnica disponível via Swagger e README. | Documentação |
-| SUP02  | O sistema deve permitir a adição de novos módulos com tempo médio de integração ≤ 8h, desde que respeitem os contratos definidos pelas **APIs**. | Tempo |
+| SUP01  | Suportar milhões de usuários simultâneos, com arquitetura escalável e tolerância a picos de acesso. | Logs |
+| SUP02  | Conectar‑se ao sistema CEMI da Anatel/ABR Telecom para efetivar bloqueios de IMEI e linha, processando respostas em prazo curtos de 1h útil. | Tempo |
 | SUP03  | Monitoramento com alertas em tempo real via Grafana. | Logs |
-| SUP04  | Ambiente de staging para validações pré-produção. | Deploy, Testes |
-| SUP05  | Canal de suporte com SLA de até 8h úteis. | Tempo |
+| SUP04  | Suporte Técnico, como disponibilizar canais de suporte claros e responsivos para auxiliar os usuários. | Checklist |
+| SUP05  | Canal de suporte com SLA de até 8h úteis para respostas ao usuário. | Tempo |
 | SUP06  | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações. | Versionamneto |
-| SUP07  | 	Após falhas, a integridade dos dados deve ser garantida com 0% de corrupção em logs de validação | Porcentagem | 
-| SUP08  | Código modular com testes automatizados (>90% de cobertura). | Porcentagem |
+| SUP07  | Compatibilidade com Android e iOS | Versionamento | 
+| SUP08  | Código com testes automatizados (>90% de cobertura). | Porcentagem |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
 
@@ -436,3 +449,4 @@ Segue o [Termo de Uso](../TermoUso.pdf) do Celular Seguro.
 | 1.1    | 11/05/2025         | Criação Introdutória dos temas de Funcionalidade, Usabilidade, Desempenho, Suportabilidade, Restrições do Projeto                          |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 11/05/2025|
 | 1.2    | 11/05/2025         | Adição de referências e termos de uso do aplicativo |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 11/05/2025|
 | 1.3    | 13/05/2025         | Correções relacionadas a referências de pdf e sugestões de correções da page |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Felipe das Neves</a>| 13/05/2025|
+| 1.4    | 04/07/2025         | Correções relacionadas ao feedback dos requisitos elicitados |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Felipe das Neves</a>| 04/07/2025 |

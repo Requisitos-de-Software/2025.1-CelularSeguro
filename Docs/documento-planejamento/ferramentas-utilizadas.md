@@ -1,6 +1,28 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
 # Ferramentas Utilizadas
 
+---
+
 Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de planejamento e organização do projeto *Celular Seguro*. As tecnologias foram escolhidas com base em acessibilidade, praticidade e funcionalidades que atendem à natureza colaborativa do trabalho.
+
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolho) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documentacao-artefatosAnteriores/#tabela-1-refatoracao-das-inspecoes-internas-anteriores)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -127,4 +149,5 @@ Nesta seção, apresentamos as ferramentas utilizadas pela equipe na etapa de pl
 | 1.2    |         16/04/2025 | Inserção do GPT                                      |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>|   16/04/2025   |
 | 1.3    |         23/04/2025 |Padronização da Bibliografia e do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>|   23/04/2025   |
 | 1.4    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+| 1.5    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
 

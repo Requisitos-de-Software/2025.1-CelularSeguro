@@ -1,11 +1,32 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.1</span>
+
 # Cronograma Planejado
+
+---
 
 O cronograma planejado é o artefato utilizado para distribuir e controlar o andamento das atividades ao longo do desenvolvimento do projeto. Neste projeto, optamos por organizar o planejamento por **Etapas**, utilizando práticas ágeis inspiradas no framework **Scrum**.
 
 Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com base em entregas concretas, responsabilidades divididas e foco em seções específicas do projeto. Essa abordagem garante entregas contínuas, visibilidade do progresso e flexibilidade para ajustes.
 
----
 
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolho) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documentacao-artefatosAnteriores/#tabela-1-refatoracao-das-inspecoes-internas-anteriores)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
 
 ## Etapa 1 – Planejamento e Pré-Rastreabilidade  
 - Período: 26/03 a 13/04  
@@ -208,3 +229,4 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | 1.4    | 16/04/2025 | Adição dos autores do cronograma | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/04/2025|
 | 1.5    | 23/04/2025 | Padronização do Histórico de Versões e da Bibliografia| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 23/04/2025|
 | 2.0    | 13/05/2025 | Ajustes na tabela da etapa 3 - Modelagem - Planejado| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 13/05/2025|
+| 2.1    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|

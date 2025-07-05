@@ -1,8 +1,39 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.3</span>
+
 # First Things First
+
+---
 
 ## Introdução
 
 A priorização de requisitos é fundamental para garantir que funcionalidades críticas sejam desenvolvidas primeiro. No projeto Celular Seguro, utilizamos a técnica First Things First para organizar e priorizar os requisitos com base em benefício, penalidade, custo e risco. Essa abordagem ajuda a alinhar o desenvolvimento com os objetivos de segurança, usabilidade e acessibilidade do aplicativo.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Mediador Responsável pela validação [[ Gravação ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/FirstThingFirst/#gravacao) |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Desenvolvedor |
+| [<span style="color:gold;">Leticia Figueiredo</span>](#) | Cliente |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização.
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
 
 ## Metodologia
 
@@ -11,24 +42,6 @@ As pessoas que participaram da aplicação da técnica _First Things First_ (FTF
 - **Mediador** – Conduz a sessão e apresenta os requisitos.
 - **Cliente** – Atribui notas de **benefício** e **penalidade**.
 - **Desenvolvedor** – Atribui notas de **custo** e **risco**.
-
-
-*Tabela 1: Participantes da técnica First Things First.*
-
-| **Nome**            | **Função**     |
-|---------------------|----------------|
-| Arthur Carvalho     | Mediador       |
-| Usuário Representante | Cliente        |
-| Gabriel Lima | Desenvolvedor |
-
-
-
-*Legenda:* 
-
-**Nome** – participante da técnica. 
-
-**Função** – papel desempenhado na priorização.
-
 
 ---
 
@@ -175,6 +188,16 @@ A aplicação do FTF seguiu os passos:
 
 ---
 
+## Gravação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_8b1r5VKaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+---
+
 ## Bibliografia
 
 > <a id="FTF1Ref"></a> FIRST things first: Setting requirement priorities. In: **WIEGERS, K. E.; BEATTY, J.** *Software Requirements*. 3. ed. Microsoft Press, 2013. cap. 16, p. 313‑329.
@@ -188,3 +211,5 @@ A aplicação do FTF seguiu os passos:
 | 1.0    | 01/05/2025       | Criação do documento FTF para Celular Seguro | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 01/05/2025     |                                            | 23/04/2025     |
 | 1.1    | 04/05/2025       | Análise de valores de custo, valor e risco | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>                               | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | 04/05/2025     |                                            | 04/05/2025     |
 | 1.2   | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
+| 2.0   | 28/06/2025| Inserção do video de entrevista na tecnica FTF | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 28/06/2025 |
+| 2.1    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
