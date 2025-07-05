@@ -1,11 +1,16 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.3</span>
+
 # Requisitos Elicitados
+
+---
 
 ## Introdução
 
 Essa página reune todos os requisitos funcionais e não funcionais elicitados usando as técnicas de [Análise de Documentos](../AnalisedeDocumentos/),  [Questionário](../Questionario), [Brainstorming](../Brainstorming/), [Storytelling](../Storytelling/) e [Observação](../Observacao/)
 
----
 
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
@@ -15,8 +20,12 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Criador do Artefato |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Inserção de requisistos elicitados do questionário nas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
 | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -85,7 +94,7 @@ A legenda para cada sigla é a seguinte:
 
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima, <a href="https://github.com/MateuSansete">Mateus Bastos </a></p></font>
+<font size="2"><p style="text-align: center"><b>Autores: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima, <a href="https://github.com/MateuSansete">Mateus Bastos </a></p></font>
 
 
 ---
@@ -132,7 +141,7 @@ A legenda para cada sigla é a seguinte:
 | RNF26 | O aplicativo responde corretamente mesmo com entradas erradas.                                                                                | <a href="../Observacao/">OBS19</a>                                                                                                          |        Não        |
 | RNF27 | O aplicativo apresenta confirmação de suas ações.                                                                                             | <a href="../Observacao/">OBS20</a>                                                                                                          |      Sim          |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima, <a href="https://github.com/MateuSansete">Mateus Bastos </a></p></font>
+<font size="2"><p style="text-align: center"><b>Autores: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima, <a href="https://github.com/MateuSansete">Mateus Bastos </a></p></font>
 
 ---
 
@@ -145,4 +154,4 @@ A legenda para cada sigla é a seguinte:
 | 2.0    | 06/06/2025         | Refatoração da lista de todos os RF e RNF                                 | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus</a> | 06/06/2025 |
 | 2.1    | 06/06/2025         | Complemento e rastreabilidade dos outros 36 requisitos funcionais          | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
 | 2.2    | 06/06/2025         | Correção e revisão do estado de "Implementado"        | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/06/2025 |
-
+| 2.3    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
