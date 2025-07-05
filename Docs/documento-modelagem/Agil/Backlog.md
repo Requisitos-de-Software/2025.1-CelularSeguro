@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
 # Backlog
 
 ---
@@ -6,30 +8,39 @@
 
 O Backlog de Produto organiza todas as funcionalidades e requisitos do Celular Seguro em uma lista priorizada, servindo de base para o planejamento das Sprints no Scrum. Por ser um artefato dinâmico, ele é continuamente refinado sempre que surgem novas informações ou feedback. O Dono do Produto é responsável por manter cada item com identificação única, critérios de aceitação claros, estimativa de esforço e prioridade definida pelo método Three Level Scale (Alta, Média ou Baixa). Assim, em cada Sprint Planning, a equipe sabe exatamente o que deve ser entregue para gerar valor incremental, alinhando segurança e usabilidade ao longo do desenvolvimento.
 
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia)|
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Desenvolveu seu respectivo backlog; Estruturou o submenu e: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia)|
+| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Não contribuiu neste submenu |
+| [<span style="color:gold;">Mateus Bastoso</span>](https://github.com/MateuSansete) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
 ## Metodologia
 
 Para elaborar o Backlog, iniciou-se pela elicitação de requisitos (entrevistas, análise documental, questionários), levantando necessidades funcionais e não funcionais. Requisitos de alto nível foram agrupados em épicos, depois decompostos em features e, em seguida, em histórias de usuário com critérios “Dado–Quando–Então”. O Dono do Produto e a equipe priorizaram cada história pelo método Three Level Scale (Alta, Média, Baixa), estimaram esforço em horas e, a cada Sprint, refinaram o Backlog em sessões de grooming, ajustando prioridades, detalhando itens e dividindo histórias conforme surgem novas informações.
-
-### Tabela Contribuição Backlog
-
-Na modelagem do Backlog do projeto, todos os membros, com exceção de Daniel Rodrigues, elaboraram seus respectivos backlogs. A estruturação completa deste submenu ficou sob responsabilidade de um único integrante.
-
-#### Tabela 0 – Participação dos membros na construção do submenu Backlog
-
-| Membro da Equipe | Contribuições |
-|------------------|---------------|
-| [Arthur Carvalho](https://github.com/arthurlleite) | Desenvolveu seu respectivo backlog |
-| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolveu seu respectivo backlog; Estruturou o submenu |
-| [Gabriel Lima](https://github.com/gabriel-lima258) | Desenvolveu seu respectivo backlog |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolveu seu respectivo backlog |
-| [Daniel Rodrigues](https://github.com/zDrNz) | Não contribuiu neste submenu |
-| [Mateus Bastos](https://github.com/MateuSansete) | Desenvolveu seu respectivo backlog |
-| [Vitor Pereira](https://github.com/Bessazs) | Desenvolveu seu respectivo backlog |
-
-<font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
 
 ---
 
@@ -333,51 +344,53 @@ Por meio dessas narrativas, descrevem-se cenários como redefinir senha, editar 
 
 Este épico reúne as funcionalidades que permitem ao usuário registrar, validar e consultar seus aparelhos móveis dentro do aplicativo. Abrange desde o cadastro de múltiplos celulares associados ao mesmo CPF até a leitura de IMEI, seja por câmera ou manualmente. A história de usuário a seguir o generaliza:
 
-<center>
+
 > **"Como usuário do Celular Seguro, eu desejo registrar e validar meus dispositivos para que eu possa consultar o IMEI e garantir a segurança em caso de perda ou roubo."**
-</center>
+
 
 ### Épico 2 – Boletim de Ocorrência
 
 Este épico reúne as funcionalidades que permitem ao usuário registrar formalmente a perda ou o roubo de um dispositivo, anexar documentos comprobatórios e receber confirmação com número de protocolo.
 
-<center>  
+ 
 > **"Como usuário do Celular Seguro, eu desejo registrar um boletim de ocorrência por meio do aplicativo para que eu possa formalizar o incidente e obter um protocolo de atendimento."**  
-</center>
+
 
 ### Épico 3 – Conta & Perfil
 
 Este épico engloba as funcionalidades que permitem ao usuário gerenciar suas credenciais e informações pessoais dentro do aplicativo Celular Seguro. Inclui desde redefinir senha e editar dados de perfil até alterar foto, cadastrar documentos e definir dispositivo confiável, garantindo que o usuário mantenha suas informações seguras e atualizadas.
 
-<center>  
+
 > **"Como usuário do Celular Seguro, eu desejo gerenciar meus dados de conta e perfil para que eu possa manter minhas informações atualizadas e aumentar a segurança de acesso."**  
-</center>  
+
 
 ### Épico 4 – Comunicação & Notificações
 
 Este épico agrupa as funcionalidades que garantem a segurança do usuário por meio de alertas, feedback visual e envio de mensagens em situações críticas, evitando que ele deixe passar ações suspeitas ou falhas no processo.
 
-<center>  
+
 > **"Como usuário do Celular Seguro, eu desejo receber notificações e feedback imediato em casos de atividade suspeita ou erro, para que eu possa tomar providências rapidamente e evitar consequências indesejáveis."**
-</center>  
+
 
 ### Épico 5 – Pessoa de Confiança
 
 Este épico enfatiza as funcionalidades que tornam o fluxo de emergência mais eficiente e intuitivo, permitindo ao usuário designar contatos de confiança de forma rápida e organizada. As características garantem que, em situações críticas, o acesso a essa informação seja imediato, reduzindo o tempo de resposta e aumentando a confiabilidade do sistema. Além disso, a interface para gerenciar esses contatos é clara e simples, facilitando o uso sem curva de aprendizado.
 
-<center>  
+
 > **"Como usuário do Celular Seguro, eu desejo cadastrar e gerenciar facilmente meus contatos de confiança para que, em caso de emergência, eu possa notificar rapidamente as pessoas certas."**
-</center>  
+
+
 
 ### Épico 6 – Buscar Dispositivo
 
 Este épico enfatiza as funcionalidades que tornam o processo de localização e controle remoto do dispositivo eficiente, rápido e acessível. Ele permite que o usuário localize seu aparelho, acione sons, bloqueie ou redefina para os padrões de fábrica, além de realizar backups remotamente. As funcionalidades garantem que, em situações críticas, o acesso e o controle sobre o dispositivo sejam imediatos, reduzindo riscos, aumentando a segurança e a confiabilidade do sistema. A interface para executar essas ações é clara, objetiva e de fácil entendimento, mesmo em momentos de estresse.
 
-<center>  
+
 > **"Como usuário do Celular Seguro, eu desejo localizar e controlar meu dispositivo remotamente, para que, em caso de perda ou roubo, eu possa proteger meus dados e recuperar meu aparelho com mais facilidade."**
-</center>  
+
 
 ---
+
 ## Bibliografia
 
 > **WIEGERS, Karl E.; BEATTY, Joy.** _Software Requirements — Third Edition_. Microsoft Press, 2013.  
@@ -397,3 +410,4 @@ Este épico enfatiza as funcionalidades que tornam o processo de localização e
 | 1.2 | 01/06/2025 | Padronização da documentação | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 01/06/2025 |
 | 1.3 | 01/06/2025 | Ajustes nos textos e mudanças de épicos | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 01/06/2025 |
 | 1.4 | 01/06/2025 | Adição do épico 6 | <a style="color:gold;" href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank"> Mateus Bastos </a> | 01/06/2025 |
+| 1.5    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|

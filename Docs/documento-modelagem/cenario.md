@@ -1,10 +1,37 @@
-# Cenários de Uso – Celular Seguro
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.3</span>
+
+# Cenários de Uso
+
 ---
+
 ## Introdução
 
 <div style="text-align: justify;">
 Os cenários permitem descrever interações típicas entre usuários e o sistema, facilitando a compreensão dos requisitos. Através deles, é possível identificar funcionalidades, restrições e comportamentos esperados. O objetivo é garantir uma base sólida para o desenvolvimento de sistemas alinhados às necessidades reais dos usuários. Os cenários produzidos estão listados de 1 a 5.
 </div>
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -103,3 +130,4 @@ Os cenários permitem descrever interações típicas entre usuários e o sistem
 |   1.0  |    09/05/2025    |     Criação do documento     |                         [Gabriel Lima](https://github.com/gabriel-lima258)                         |  [Mateus Bastos](https://github.com/MateuSansete) |    09/05/2025   |
 |   1.1  |    14/05/2025    | Desenvolvimento do documento | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/Bessazs) | [Leonardo de Melo](https://github.com/leozinlima) |    14/05/2025   |
 |   1.2  |    17/05/2025    | Tabelas concertadas e ajustadas | [Leonardo de Melo](https://github.com/leozinlima) | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/Bessazs) |    17/05/2025   |
+|   1.3  |    05/07/2025     | Inserção da tabela de contribuição | [Felipe das Neves](https://github.com/FelipeFreire-gf) | [Arthur Carvalho](https://github.com/arthurlleite), [Mateus Bastos](https://github.com/MateuSansete) |    05/07/2025    |

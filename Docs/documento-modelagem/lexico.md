@@ -1,4 +1,7 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
 # Léxicos 
+
 ---
 
 ## Introdução
@@ -10,6 +13,29 @@ O principal objetivo do uso do LAL é identificar palavras ou expressões espec�
 
 
 <font size="3"><p style="text-align: center">Fonte: <a href="../Aula_10_lexicos_milene.pdf" target="_blank">SERRANO, Maurício e SERRANO, Milene [1]</a></p></font>
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Responsável por desenvolver o artefato e autor: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/#metodologia), [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro//documento-modelagem/lexico/#lexico-verbos), [[ Tabela 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/#lexico-objetos) e [[ Tabela 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/#lexico-estados)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Revisor do Artefato e autor: [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro//documento-modelagem/lexico/#lexico-verbos), [[ Tabela 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/lexico/#lexico-objetos) e [[ Tabela 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/MoSCoW/#historico-de-versoes) |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -142,4 +168,4 @@ Esses estados refletem o comportamento dinâmico da aplicação e estão alinhad
 | 1.2    | 16/05/2025         | Ajustes nos requisitos dos léxicos                   | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 16/05/2025 |
 | 1.3    | 16/05/2025         | Correção, padronização das tabelas e referenciamento dos requisitos citados | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 16/05/2025 |
 | 1.4    | 17/05/2025         |Inserção dos sinônimos nas tabelas                          | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 17/05/2025 |
-
+| 1.5    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
