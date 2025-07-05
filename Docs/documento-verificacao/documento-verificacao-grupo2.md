@@ -160,6 +160,10 @@
 
 <font size="3"><p style="text-align: center">Tabela 10 - Checklist para Moscow.</p></font>
 
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |----|----------------------|-----------|------------|------------|
 | <a href="#REF01">1</a> |  Os requisitos foram classificados nas quatro categorias: Must, Should, Could e Won’t?| [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 33 | [Print](../prints/entrega2/moscow/1.png)|
@@ -220,6 +224,10 @@
 #### 2.11 Verificação do Questionário
 
 <font size="3"><p style="text-align: center">Tabela 14 – Checklist para a verificação do Questionário.</p></font>
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |----|----------------------|-----------|------------|------------|
