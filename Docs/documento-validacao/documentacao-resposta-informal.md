@@ -1,4 +1,8 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.1</span>
+
 # Comprovação Informal
+
+---
 
 ## Introdução 
 
@@ -16,7 +20,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Nome | Função |
 | :--- | :--- |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
-| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Revisor do Artefato |
 | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | Autor do Envio para a Ouvidoria |
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do Envio do E-mail|
 

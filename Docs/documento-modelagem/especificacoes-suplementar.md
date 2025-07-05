@@ -1,22 +1,35 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
 # Especificação Suplementar
+
 ---
 
 ## Introdução
 
 Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema. Este documento captura requisitos complementares ao modelo de casos de uso do projeto [Celular Seguro](https://www.gov.br/pt-br/apps/celular-seguro-br). Ele inclui requisitos de usabilidade, desempenho, confiabilidade, suportabilidade, restrições de projeto, e requisitos legais e técnicos que não são abordados diretamente nos fluxos funcionais.. A metodologia mais utilizada para a produção de uma especificação suplementar é a **FURPS+**.
 
----
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
 Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
 
-<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
 
 | Nome | Função |
 | :--- | :--- |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -450,3 +463,4 @@ Segue o [Termo de Uso](../TermoUso.pdf) do Celular Seguro.
 | 1.2    | 11/05/2025         | Adição de referências e termos de uso do aplicativo |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 11/05/2025|
 | 1.3    | 13/05/2025         | Correções relacionadas a referências de pdf e sugestões de correções da page |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Felipe das Neves</a>| 13/05/2025|
 | 1.4    | 04/07/2025         | Correções relacionadas ao feedback dos requisitos elicitados |<a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>    | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Felipe das Neves</a>| 04/07/2025 |
+| 1.5    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
