@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.0</span>
+
 # Casos de Uso
 
 ---
@@ -7,9 +9,36 @@ Um caso de uso é uma descrição detalhada de como um sistema será utilizado p
 
 Além disso, os casos de uso permitem uma visão clara das funcionalidades do sistema, oferecendo uma maneira estruturada de documentar o comportamento esperado do sistema durante a interação com o usuário. Eles servem como base para o desenvolvimento do sistema, auxiliando na análise e design, e são usados para validar os requisitos e guiar a implementação.
 
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
 ---
 
-# Metodologia
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Responsável por desenvolver o artefato e: [[ Elementos do Diagrama de Caso de Uso ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#elementos-do-diagrama-de-caso-de-uso) e [[ Especialização dos casos de uso ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#emitir-alerta-de-roubo)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Responsável por desenvolver : [[ Introdução ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#introducao) e [[ Metodologia ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#metodologia)|
+| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | Responsável por desenvolver : [[ Diagrama de Casos de Uso]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#diagrama-de-casos-de-uso)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização.
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
+
+## Metodologia
 
 Para representar as interações entre os usuários e o sistema Celular Seguro.gov, foi utilizada a técnica de modelagem UML por meio de diagramas de caso de uso. Essa abordagem permite descrever o comportamento esperado do sistema, sem especificar a ordem em que as ações ocorrem. [[ 1 ]](#ref1).
 
@@ -19,9 +48,9 @@ A definição do limite do sistema também é uma etapa fundamental, pois determ
 
 Essa modelagem foi baseada em cenários realistas e generalizados de uso, permitindo compreender as principais funcionalidades esperadas da aplicação e facilitando a validação e a comunicação entre os membros da equipe de desenvolvimento.
 
-
-
 ---
+
+## Elementos do Diagrama de Caso de Uso
 
 <font size="3">
   <p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
@@ -482,3 +511,4 @@ No diagrama de caso de uso, também é possível detalhar:
 | 1.2    | 13/05/2025         | Ajuste nos Casos de Uso e adição de novos detalhes   | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a  href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a  href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 13/05/2025 |
 | 1.3    | 14/05/2025         | Adição das referências                               | <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>    | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 14/05/2025 |
 | 1.4    | 15/05/2025         | Inclusão de novas tabelas UC's                               | <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>    | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 15/05/2025 |
+| 1.5    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
