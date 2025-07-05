@@ -21,6 +21,7 @@
 ### 1.2 Lista de Inspeção
 
 #### 1.2.1 Itens do Desenvolvimento do Projeto
+
 <font size="3"><p style="text-align: center">Tabela 1: Itens do Desenvolvimento do Projeto</p></font> 
 
 | ID | Item de Verificação | Autor(es) | Referência |
