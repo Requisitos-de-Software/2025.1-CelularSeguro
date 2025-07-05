@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
 # Storytelling
 
 ---
@@ -9,6 +11,23 @@ Storytelling é uma técnica de elicitação de requisitos que consiste em utili
 
 No contexto de **Requisitos de Software**, o objetivo do storytelling é apoiar a descoberta de requisitos ao revelar detalhes do dia a dia do usuário, seus sentimentos, motivações e desafios ao utilizar o sistema. Isso ajuda a **enriquecer a elicitação** com requisitos que poderiam passar despercebidos em entrevistas ou questionários tradicionais. Inclusive, o guia BABOK (Business Analysis Body of Knowledge) do IIBA reconhece o storytelling como uma técnica eficaz de análise de negócios ([The Power of Storytelling in Business Analysis: Unlocking Insights and Driving Results
 ](https://www.linkedin.com/pulse/power-storytelling-business-analysis-unlocking-vignesh-neelamegan-4usqe#:~:text=3,a%20key%20business%20analysis%20technique)). A seguir, apresentamos três histórias fictícias de usuários, cada uma explorando como diferentes perfis de pessoa se relacionam com o aplicativo **Celular Seguro** e quais necessidades, sentimentos ou situações motivaram seu uso. Essas histórias serviram de base para elicitar requisitos do aplicativo.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -96,5 +115,5 @@ Pelo computador de casa, Carlos acessa a interface web do **Celular Seguro** com
 | 1.1    | 01/05/2025       | Início do desenvolvimento do projeto                | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>          | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>      | 01/05/2025      |
 | 1.2    | 04/05/2025       | Correção das tabelas do Storytelling                | <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>            | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>     | 04/05/2025      |
 | 1.3    | 08/05/2025       | Padronização do Histórico de Versões                | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>          | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>     | 08/05/2025      |
-
+| 1.4    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
 

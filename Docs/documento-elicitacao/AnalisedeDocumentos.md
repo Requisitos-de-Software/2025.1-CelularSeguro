@@ -1,6 +1,34 @@
-# Celular Seguro: Análise de Documentos
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.2</span>
+
+# Análise de Documentos
 
 ---
+
+## Introdução
+
+A Análise de Documentos é uma técnica de elicitação de requisitos que consiste na revisão sistemática de materiais existentes para extrair informações relevantes sobre um sistema. No contexto do projeto Celular Seguro, essa abordagem é particularmente valiosa, pois permite aproveitar a vasta documentação oficial já disponível, como portarias do Ministério da Justiça e Segurança Pública (MJSP), manuais do portal Gov.br, termos de uso e reportagens especializadas.
+
+O objetivo desta análise é identificar requisitos funcionais, não funcionais, regras de negócio e restrições que governam o aplicativo. Ao examinar fontes confiáveis, a equipe pode construir uma base sólida de entendimento sobre as funcionalidades esperadas, o escopo legal e as expectativas dos stakeholders, garantindo que o desenvolvimento subsequente esteja alinhado com as diretrizes oficiais e as necessidades do público. Esta seção detalha os documentos analisados e os requisitos elicitados a partir deles.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolho) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documentacao-artefatosAnteriores/#tabela-1-refatoracao-das-inspecoes-internas-anteriores)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
+
 
 ## Metodologia
 
@@ -407,3 +435,4 @@ Os itens acima cobrem não apenas o que deve ser testado no sistema, mas também
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    |         01/05/2025 |Criação da documentação e desenvolvimento do projeto| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>, <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> |<a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>|   01/05/2025   |
 | 1.1    |         04/05/2025 |Adição do vídeo no documento| <a style="color:gold;" href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> |<a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>|   04/05/2025   |
+| 1.2    | 05/07/2025 | Inserção da tabela de contribuição e desenvolvimento da introdução do artefato| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|

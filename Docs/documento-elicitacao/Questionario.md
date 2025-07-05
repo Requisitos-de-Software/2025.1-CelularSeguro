@@ -1,6 +1,29 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.8</span>
+
+# Questionário
+
+---
+
 ## Introdução
 
 Este documento apresenta os resultados do questionário online aplicado para coletar informações sobre o perfil dos usuários, personas, requisitos e suas experiências com o aplicativo Celular Seguro. O objetivo principal foi entender as necessidades e expectativas dos usuários, visando aprimorar a plataforma e identificar requisitos relevantes para o desenvolvimento. O questionário abordou desde dados demográficos dos respondentes até suas percepções sobre a usabilidade, funcionalidades e possíveis melhorias no aplicativo.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor do desenvolvimento e seleção de perguntas, bem como o desenvolvimento do artefato: [[ Resultados Questionário ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#resultados), [[ Elicitação dos Requisitos do Questionário ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados) e [[ Validação dos Requisitos Presencialmente com Usuário ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#validacao-dos-requisitos-elicitados-no-questionario)|
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -301,3 +324,4 @@ Legenda:
 | 1.5    | 16/05/2025         | Desenvolvimento da tabela inicial com as informações gerais do questionário                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 16/05/2025      |
 | 1.6    | 27/05/2025         | Inserção da Introdução do artefato                 | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 27/05/2025      |
 | 1.7    | 31/05/2025         | Validação dos requisitos elicitados do questionário                | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>             | <a style="color:gold;" href="https://github.com/MateusSansete" target="_blank">Mateus</a>      | 31/05/2025      |
+| 1.8    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
