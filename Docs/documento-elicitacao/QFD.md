@@ -163,6 +163,8 @@ Com certeza! Abaixo está a tabela final completa, seguida por uma legenda detal
 | 25 | 25 | *Requisito Ilegível* | 180 | 1% | 5 |
 | 26 | 26 | Notificações em tempo real | 126 | 1% | 5 |
 
+<font size="3"><p style="text-align: center">_Autor: Felipe das Neves_</p></font>
+
 ---
 
 ### Legendas
