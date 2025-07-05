@@ -6,7 +6,7 @@
 
 ## Introdução
 
-O [QFD](../qfdpp.pdf) (Quality Function Deployment – Desdobramento da Função Qualidade) é uma das ferramentas da qualidade criada na década de 60 pelo japonês Yoji Akao. Desdobramento da função qualidade: um nome um tanto técnico para um processo que, essencialmente, faz as empresas integrarem a Voz do Cliente (VOC) no desenvolvimento de produtos.
+O [QFD](../QFD-CelularSeguro.pdf) (Quality Function Deployment – Desdobramento da Função Qualidade) é uma das ferramentas da qualidade criada na década de 60 pelo japonês Yoji Akao. Desdobramento da função qualidade: um nome um tanto técnico para um processo que, essencialmente, faz as empresas integrarem a Voz do Cliente (VOC) no desenvolvimento de produtos.
 
 !!! Warning "Atenção!"
     O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
@@ -19,7 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Responsável por desenvolver o artefato e: [[ Iframe 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Responsável por desenvolver o artefato e: [[ Iframe 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais), [Matriz QFD](../QFD-CelularSeguro.pdf) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
 | [<span style="color:gold;">Todos os integrantes</span>](https://github.com/leozinlima) | Auxiliaram no preenchimento do QFD |
 | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
 
@@ -44,12 +44,15 @@ A ferramenta visual do QFD é a "Casa da Qualidade", que possui diferentes seç�
 
 O **iFrame 1** a seguir representam a análise dos requisitos do cliente "o quê" para com os requisitos não funcionais "como" para a definição de prioridade, sendo o maior valor como menos prioritário e o menor como o mais prioritário.
 
+Caso prefira nesse link abre o pdf da matriz: [Matriz QFD](../QFD-CelularSeguro.pdf)
+
 <font size="3"><p style="text-align: center">_iFrame 1 - Matriz QFD_</p></font>
 
 <iframe src="https://docs.google.com/spreadsheets/d/1mGqH9aXBEOleN6P2CAvTt_sWJA58jakpskyewBJyOeM/edit?usp=sharing" width="100%" height="800"></iframe>
 
 
 <font size="3"><p style="text-align: center">_Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf) _</p></font>
+
 
 ---
 
@@ -121,13 +124,75 @@ Com base nas pontuações de importância técnica, os requisitos técnicos são
 
 * **Maior Pontuação, Maior Prioridade:** Requisitos com as pontuações mais altas são os mais críticos para o sucesso do projeto, pois são os que mais fortemente impactam os requisitos mais importantes do cliente.
 
-* **Exemplo de Priorização:**
+Com certeza. Com base na análise do QFD (Quality Function Deployment) do "Projeto Celular Seguro", montei uma tabela completa que organiza os requisitos técnicos conforme a prioridade final calculada.
 
-    * O requisito técnico **"Disponibilidade 24/7"** obteve a maior pontuação (1175) e, portanto, é a **prioridade número 1**.
+A tabela está ordenada da maior para a menor prioridade, fornecendo uma visão clara de onde os esforços de desenvolvimento devem ser concentrados para maximizar o valor para o cliente.
 
-    * **"Precisão do GPS (<10m)"** também tem uma pontuação alta (1175) e é a **prioridade número 1**. (Nota: pode haver empates na pontuação, resultando em múltiplas prioridades máximas).
+Com certeza! Abaixo está a tabela final completa, seguida por uma legenda detalhada explicando o que cada coluna e seus respectivos valores representam.
 
-    * Em contrapartida, **"Fallback para economizar dados móveis"** tem uma das pontuações mais baixas (113), sendo classificado como **prioridade 26** (baixa).
+### Tabela Final de Priorização
+
+<font size="3"><p style="text-align: center">_Tabela Final de Priorização com Grau de Dificuldade_</p></font>
+
+| Nova Ordem de Prioridade | Classificação Original | Requisito Técnico (Leitura Aproximada) | Pontuação de Importância Técnica | % de Importância | Grau de Dificuldade |
+|:---:|:---:|---|:---:|:---:|:---:|
+| 1 | 3 | Opção de contraste/tamanho de fonte | 467 | 4% | 5 |
+| 2 | 1 | Logs de auditoria imutáveis | 1647 | 10% | 5 |
+| 3 | 2 | Disponibilidade 24/7 | 1655 | 10% | 1 |
+| 4 | 9 | Fallback para economizar dados móveis | 918 | 5% | 5 |
+| 5 | 10 | Interface intuitiva e amigável | 873 | 5% | 1 |
+| 6 | 4 | Monitoramento de acesso não autorizado | 1304 | 8% | 1 |
+| 7 | 8 | Resposta rápida | 984 | 6% | 5 |
+| 8 | 13 | Autenticação multifator (2FA) | 792 | 5% | 1 |
+| 9 | 22 | *Requisito Ilegível* | 414 | 2% | 5 |
+| 10 | 15 | Central de ajuda online/offline | 738 | 4% | 5 |
+| 11 | 19 | Sincronização app-portal | 594 | 3% | 5 |
+| 12 | 24 | Acessibilidade (Vlibras) | 216 | 1% | 5 |
+| 13 | 14 | App inicia em < 2 segundos | 756 | 4% | 1 |
+| 14 | 20 | Existência de tutoriais/assistente | 558 | 3% | 5 |
+| 15 | 11 | Rastreamento em segundo plano | 855 | 5% | 5 |
+| 16 | 7 | Compatibilidade com Android/iOS | 1008 | 6% | 1 |
+| 17 | 5 | Política de privacidade acessível | 1185 | 7% | 1 |
+| 18 | 6 | Transcrição em tempo real | 1026 | 6% | 5 |
+| 19 | 23 | Layout consistente | 376 | 2% | 5 |
+| 20 | 18 | Linguagem simples e acessível | 648 | 4% | 1 |
+| 21 | 12 | Verificação de integridade com checksum | 810 | 5% | 5 |
+| 22 | 21 | *Requisito Ilegível* | 540 | 3% | 1 |
+| 23 | 17 | Precisão do GPS (<10m) | 684 | 4% | 1 |
+| 24 | 16 | Backup criptografado (AES-256) | 702 | 4% | 1 |
+| 25 | 25 | *Requisito Ilegível* | 180 | 1% | 5 |
+| 26 | 26 | Notificações em tempo real | 126 | 1% | 5 |
+
+---
+
+### Legendas
+
+* **Nova Ordem de Prioridade:**
+    * **O que representa:** É a ordem de execução ou foco definida por você. O item 1 é o que você definiu como o mais prioritário, seguido pelo 2, e assim por diante.
+    * **Como usar:** Serve como um guia para o planejamento das próximas etapas do projeto, baseado na sua análise estratégica.
+
+* **Classificação Original**
+    * **O que representa:** É a prioridade calculada automaticamente pela metodologia QFD, com base puramente nos dados da planilha. O valor 1 representa o requisito com a maior pontuação calculada, sendo o mais importante do ponto de vista técnico para satisfazer o cliente.
+    * **Como usar:** Permite comparar a priorização matemática do QFD com a sua priorização estratégica ("Nova Ordem"). Grandes diferenças podem indicar a necessidade de reavaliar a estratégia ou os pesos no QFD.
+
+* **Requisito Técnico (Leitura Aproximada):**
+    * **O que representa:** O nome da especificação técnica ou requisito não funcional que precisa ser desenvolvido.
+    * **Observação:** Conforme avisado, os nomes são uma interpretação da imagem de baixa qualidade do documento "QFD-Celular Seguro.pdf"[cite: 33].
+
+* **Pontuação de Importância Técnica:**
+    * **O que representa:** É o resultado numérico do cálculo do QFD. Uma pontuação mais alta significa que o requisito técnico tem um impacto maior em atender às necessidades mais importantes do cliente.
+    * **Como é calculado:** É a soma de todas as multiplicações entre a "Importância do Cliente" e a "Força do Relacionamento" para cada requisito técnico.
+
+* **% de Importância:**
+    * **O que representa:** É o peso relativo de cada requisito técnico em relação ao todo. Mostra qual porcentagem da "importância total" está concentrada em cada item.
+    * **Como usar:** Ajuda a visualizar rapidamente onde estão os maiores blocos de valor. Por exemplo, os requisitos com 10% são os mais impactantes do projeto.
+
+* **Grau de Dificuldade:**
+    * **O que representa:** Uma estimativa do esforço, tempo ou complexidade necessários para implementar o requisito técnico. Foi baseado nos dados que você forneceu (`1` ou `5`).
+    * **Como interpretar:**
+        * **1:** Baixa Dificuldade (mais fácil, rápido ou barato de implementar).
+        * **5:** Alta Dificuldade (mais difícil, demorado ou caro de implementar).
+    * **Como usar:** Essencial para cruzar o `valor` (Pontuação/Prioridade) com o `custo` (Dificuldade) e tomar decisões estratégicas, como focar em itens de "alto valor e baixa dificuldade" primeiro.
 
 ---
 
