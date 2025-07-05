@@ -94,11 +94,9 @@
 
 ## Bibliografia
 
-> Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
+> PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Interação Homem-Computador. 3. ed. Porto Alegre: Bookman, 2013. ISBN 978-85-8260-006-1
 
-> GUILHERME SANTA ROSA, José. Avaliação E Projeto No Design De Interfaces. [S. l.: s. n.], 2010.
-
-> SERRANO, Milene. Requisitos - Aula 23. 2017. Apresentação de slides. Disponível em: [PDF](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (1).pdf).
+> ROCHA, Heloísa Vieira da; BARANAUSKAS, Maria Cecília Calani. Design e Avaliação de Interfaces Humano-Computador. 1. reimpressão. Campinas: Instituto de Computação, Universidade Estadual de Campinas, 2003
 
 ---
 
