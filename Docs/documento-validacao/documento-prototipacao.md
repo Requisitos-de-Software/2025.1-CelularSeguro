@@ -24,6 +24,13 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | Revisor do Artefato |
 
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
 !!! Tip "Observação"
     Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
