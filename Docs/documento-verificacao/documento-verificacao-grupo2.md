@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.4</span>
+
 # Planejamento da Verificação da Etapa 2
 
 ---
@@ -214,6 +216,23 @@
 | <a href="#REF08">8</a> | Foi realizada uma análise e interpretação dos resultados após a priorização? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |
 
 
+#### 2.11 Verificação do Questionário
+
+<font size="3"><p style="text-align: center">Tabela 14 – Checklist para a verificação do Questionário.</p></font>
+
+| ID | Item de Verificação | Autor(es) | Referência | Foto |
+|----|----------------------|-----------|------------|------------|
+| <a href="#REF01">1</a> |  Foi definido um roteiro com perguntas abertas para permitir respostas amplas dos usuários?| [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 145 | [Print](../prints/entrega2/1.png)|
+| <a href="#REF02">2</a> | Os entrevistados representam adequadamente os usuários do sistema (ex: cidadãos, vítimas)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 138 |  [Print](../prints/entrega2/2.png) |
+| <a href="#REF03">3</a> | Foi obtido o consentimento livre e esclarecido dos participantes? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 141 |  [Print](../prints/entrega2/3.png) |
+| <a href="#REF04">4</a> | A entrevista considerou o contexto real de uso (como o comportamento dos usuários)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 143 |  [Print](../prints/entrega2/4.png) |
+| <a href="#REF05">5</a> | Os dados foram registrados, transcritos e analisados com confiabilidade? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/5.png) |
+| <a href="#REF05">5</a> | Foram incluídas perguntas sobre hábitos, dificuldades e expectativas dos usuários? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/6.png) |
+| <a href="#REF05">5</a> | As entrevistas foram complementadas com outros métodos (ex: questionário, observação)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/7.png) |
+| <a href="#REF05">5</a> | Os entrevistadores estavam treinados para evitar vieses e induçõoes? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 145. |  [Print](../prints/entrega2/8.png) |
+
+---
+
 ## Bibliografia
 
 > SOMMERVILLE, Ian. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011.
@@ -231,6 +250,8 @@
 > WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)  
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Disponível em: <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Requisitos - Aula 023 (1).pdf" target="_blank">PDF - Requisitos – Aula 23</a>. Acesso em: 14 abr. 2025, 12:46.
+
+---
 
 ## Histórico de Versões 
 
