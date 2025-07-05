@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.6</span>
+
 # Planejamento da Verificação da Etapa 5
 
 ---
@@ -20,6 +22,11 @@
 #### 1.2.1 Itens do Desenvolvimento do Projeto
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> – Itens do Desenvolvimento do Projeto</p></font> 
 
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
+
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
 | <a href="#REF08">1</a> | O histórico de versão é padronizado? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
@@ -41,6 +48,11 @@
 ### 2.1 Itens de Pós-Rastreabilidade  
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> – Itens de Verificação da Pós-Rastreabilidade</p></font>
 
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
+
 | ID  | Item de Verificação                                                                                                   | Referência                         |
 |-----|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
 | P01 | Conseguimos seguir o fluxo de um requisito desde a sua origem no documento de requisitos até os diagramas e protótipo?  | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)|
@@ -55,6 +67,11 @@
 
 ### 2.2 Backward-From  
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> – Verificação Backward</p></font>
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
 
 | ID     | Critério                                                                                                             | Referência            |
 |--------|----------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -129,4 +146,3 @@
 | 1.1 | 08/06/2025 | Inclusão das tabelas Backward, Forward e lotes de requisitos. | [Arthur Carvalho](https://github.com/arthurlleite) | [Mateus Bastos](https://github.com/MateuSansete) |
 | 1.1 | 08/06/2025 | Inclusão do documento de verificação. | [Leonardo de Melo](https://github.com/leozinlima) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
 | 1.2 | 22/06/2025 | Reformulação da lista de verificação. | [Vitor Bessa](https://github.com/bessazs) | [Felipe das Neves](https://github.com/FelipeFreire-gf) |
-=======
