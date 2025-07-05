@@ -1,9 +1,37 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.1</span>
+
+# Histórias de Usuário
+
+---
 
 ## Introdução
 
 As histórias de usuário são uma técnica essencial na elicitação de requisitos dentro de metodologias ágeis, como Scrum e XP (Extreme Programming). Elas consistem em descrições sucintas e centradas no usuário, que expressam uma funcionalidade desejada de forma compreensível tanto para a equipe de desenvolvimento quanto para os stakeholders (Cohn, 2004). A estrutura típica de uma história de usuário segue o formato: “Como [tipo de usuário](), eu quero [ação]() para [objetivo]()”, o que auxilia na identificação clara do valor de negócio associado à funcionalidade (Leffingwell, 2011).
 
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Autor das histórias US 31 a 36: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31-enviar-um-sms-para-uma-pessoa-quando-a-mesma-for-adicionada-como-pessoa-de-confianca-nao-implementado)|
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
 
 ## Metodologia
 
@@ -57,6 +85,8 @@ O modelo a ser seguido para realização das Histórias do Usuário está repres
 
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258).</p></font>
+
+---
 
 ## Histórias de Usuário
 
@@ -1124,3 +1154,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.8 | 31/05/2025 | Criação dos US 37 a 42  | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 31/05/2025 |
 | 1.9 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
 | 2.0 | 01/06/2025 | Mudanças de padrões de video e tabela de entrevistados| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
+| 2.1    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
