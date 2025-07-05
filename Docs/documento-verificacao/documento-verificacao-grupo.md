@@ -21,6 +21,11 @@
 
 <font size="3"><p style="text-align: center">Tabela 1: Itens do Planejamento Geral do Projeto</p></font> 
 
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
+
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
 | <a href="#REF01">1</a> | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |  [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> |
@@ -35,7 +40,13 @@
 
 
 #### 1.2.2 Itens do Desenvolvimento do Projeto
+
 <font size="3"><p style="text-align: center">Tabela 2: Itens do Desenvolvimento do Projeto</p></font> 
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -52,7 +63,13 @@
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
 #### 1.2.3 Itens do conteúdo do Projeto 
+
 <font size="3"><p style="text-align: center">Tabela 3: Itens do conteúdo do Projeto </p></font> 
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
 
 | ID | Item de Verificação | Autor(es) | Referência |
 |------|-------|------|---------|
@@ -61,6 +78,8 @@
 | <a href="#REF19">19</a> | Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? |  [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> |
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+
+---
 
 ## 2. Bibliografia
 
@@ -108,7 +127,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
 
-
+---
 
 ## Histórico de Versões 
 

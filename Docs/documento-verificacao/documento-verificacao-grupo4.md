@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+
 # Planejamento da Verificação da Etapa 4
 
 ---
@@ -271,28 +273,16 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
 
+---
+
+## Bibliografia
 
 
+> BERGMANN, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. 2003. Tese de Doutorado (Departamento de Informática) - Pontifícia Universidade Católica do Rio de Janeiro, [S. l.], 2003. p. 47-50.
 
+> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2023.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
 
 
 ---
@@ -318,34 +308,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Bibliografia
-
-
-> BERGMANN, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. 2003. Tese de Doutorado (Departamento de Informática) - Pontifícia Universidade Católica do Rio de Janeiro, [S. l.], 2003. p. 47-50.
-
-> SERRANO, Milene. Requisitos – Aula 10. Apresentação de slides. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 16/05/2023.
-
-> SALES, André Barros de. Elicitação de Requisitos 2. Cap.7, Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf). Acesso em: 18/05/2023.
 
 
 
