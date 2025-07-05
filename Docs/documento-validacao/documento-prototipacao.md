@@ -1,4 +1,7 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.1</span>
+
 # Protótipo de Alta Fidelidade
+
 ---
 
 ## Introdução 
