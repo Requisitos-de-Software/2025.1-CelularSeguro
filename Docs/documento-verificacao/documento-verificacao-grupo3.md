@@ -1,3 +1,5 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.3</span>
+
 # Planejamento da Verificação da Etapa 3
 
 ---
@@ -78,15 +80,21 @@
 #### 2.3 Verificação Cenários
 <font size="3"><p style="text-align: center">Tabela 4: Checklist para a Verificação dos Cenários.</p></font> 
 
-| ID | Item de Verificação | Autor(es) | Referência |
-|------|-------|------|---------|
-| <a href="#REF08">1</a> | O cenário possui título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF08">2</a> |O título do cenário é claro e reflete seu conteúdo? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
-| <a href="#REF08">3</a> | O contexto descreve local, tempo e pré-condições de forma adequada? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF08">4</a> | O cenário descreve situações realistas e relevantes de interação com o sistema? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
-| <a href="#REF08">5</a> | Os episódios seguem uma ordem lógica para atingir o objetivo do cenário? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
-| <a href="#REF08">6</a> | Há referência aos termos definidos no léxico dentro do cenário?| [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF08">7</a> | O título do cenário é autoexplicativo? | [Mateus Bastos](https://github.com/MateuSansete) |  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/Aula_10_lexicos_milene.pdf" target="_blank">📄 PDF - Aula 10 SERRANOS </a> | 
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatorado | Versão 2.0</span>
+</center>
+
+
+| ID | Item de Verificação | Autor(es) | Referência | Foto |
+|------|-------|------|---------|------------|
+| <a href="#REF08">1</a> | O cenário descreve uma situação realista, com contexto rico em detalhes? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 158 | [Print](../prints/entrega3/cenarios/9.png) |
+| <a href="#REF08">2</a> | Há um ator principal claramente identificado com características relevantes? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 158 | [Print](../prints/entrega3/cenarios/9.png)|
+| <a href="#REF08">3</a> | O objetivo principal do cenário está bem definido? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 158 | [Print](../prints/entrega3/cenarios/9.png) |
+| <a href="#REF08">4</a> | A sequência de ações e eventos do cenário está clara e coerente? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 158 | [Print](../prints/entrega3/cenarios/9.png) |
+| <a href="#REF08">5</a> | O ambiente/contexto de uso foi considerado (ex: localização, situação emocional, restrições)? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 158 | [Print](../prints/entrega3/cenarios/9.png) |
+| <a href="#REF08">6</a> | O cenário inclui possíveis eventos inesperados ou exceções (ex: falha no envio de alerta)?| [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 160 | [Print](../prints/entrega3/cenarios/10.png) |
+| <a href="#REF08">7</a> | Foram feitas perguntas de refinamento, como “Por que?”, “Como?” e “O que é?”? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) |  *Referência:* Barbosa et al., 2021, p. 161 | [Print](../prints/entrega3/cenarios/11.png) |
+| <a href="#REF08">8</a> | O cenário foi validado por especialistas ou usuários reais? | [Mateus Bastos](https://github.com/MateuSansete) e [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 159 | [Print](../prints/entrega3/cenarios/12.png) |
 
 <font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
 
@@ -128,3 +136,4 @@
 | 1.0  | 09/05/2025 | Criação do documento.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 09/05/2025|
 | 1.1  | 17/05/2025 | Desenvolvimento da lista de verificação dos léxicos.  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 17/05/2025|
 | 1.2  | 18/05/2025 | Desenvolvimento da lista de verificação dos léxicos.  | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 18/05/2025|
+| 1.3    | 05/07/2025 | Refatoração do cenário | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
