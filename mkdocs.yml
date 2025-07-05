@@ -129,7 +129,17 @@ nav:
       - Apresentação 5: "documento-apresentacao/apresentacao-5.md"
       - Apresentação 6: "documento-apresentacao/apresentacao-6.md"
 
-    - Entrega Final: "documento-entrega-final/documento-entrega-final.md" 
+  - Entrega Final: 
+      - Aplicativo Selecionado: "documento-entrega-final/aplicativo-selecionado.md"  
+      - Planejamento de Recursos e das Entregas: "documento-entrega-final/planejamento-recursos.md"  
+      - Execução do Projeto: "documento-entrega-final/execucao-projeto.md" 
+      - Resultados Alcançados com a Execução do Projeto: "documento-entrega-final/resultados-alcancados.md" 
+      - Sintetização das Ferramentas: "documento-entrega-final/sintetizacao-ferramentas.md" 
+      - Sintetização das Técnicas: "documento-entrega-final/sintetizacao-tecnicas.md" 
+      - Sintetização dos Artefatos: "documento-entrega-final/sintetizacao-artefatos.md" 
+      - Sintetização Método de Verificação: "documento-entrega-final/sintetizacao-metodo.md" 
+      - Sintetização dos vídeos de Apresentação: "documento-entrega-final/sintetizacao-videos.md" 
+      - Facilidades e Dificuldades Encontradas no Projeto: "documento-entrega-final/sintetizacao-facilidades.md" 
 
 theme:
   logo: assets/LogoCelularSeguro.png
