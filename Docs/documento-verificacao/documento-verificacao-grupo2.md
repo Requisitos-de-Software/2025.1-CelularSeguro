@@ -160,15 +160,16 @@
 
 <font size="3"><p style="text-align: center">Tabela 10 - Checklist para Moscow.</p></font>
 
-| ID | Item de Verificação | Autor(es) | Referência |
-|------|-------|------|---------|
-| <a href="#REF01">1</a> | O(s) registro(s) da atividade de priorização dos requisitos? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) |
-| <a href="#REF02">2</a> | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
-| <a href="#REF03">3</a> | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
-| <a href="#REF04">4</a> | A participação do cliente e/ou persona no processo de priorização? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
-| <a href="#REF05">5</a> | Foi feita uma revisão para garantir que nenhum requisito importante tenha sido negligenciado ou erroneamente classificado? | [Felipe das Neves](https://github.com/FelipeFreire-gf)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
-
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo](https://github.com/leozinlima), [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus Bastos](https://github.com/MateuSansete) e [Vitor Pereira](https://github.com/Bessazs), 2025.</p></font>
+| ID | Item de Verificação | Autor(es) | Referência | Foto |
+|----|----------------------|-----------|------------|------------|
+| <a href="#REF01">1</a> |  Os requisitos foram classificados nas quatro categorias: Must, Should, Could e Won’t?| [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 33 | [Print](../prints/entrega2/moscow/1.png)|
+| <a href="#REF02">2</a> | Há justificativas documentadas para a prioridade atribuída a cada requisito? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 33 |  [Print](../prints/entrega2/moscow/2.png) |
+| <a href="#REF03">3</a> | As categorias "Must" contêm apenas requisitos essenciais ao funcionamento básico do sistema? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 33 |  [Print](../prints/entrega2/moscow/3.png) |
+| <a href="#REF04">4</a> | A priorização foi feita em conjunto com stakeholders e usuários? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 31 |  [Print](../prints/entrega2/moscow/8.png) |
+| <a href="#REF05">5</a> | O grupo “Won’t” está bem definido e compreendido como itens fora do escopo atual? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 33 |  [Print](../prints/entrega2/moscow/5.png) |
+| <a href="#REF05">6</a> | Os requisitos "Could" foram analisados quanto ao seu custo-benefício? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 33 |  [Print](../prints/entrega2/moscow/6.png) |
+| <a href="#REF05">7</a> | A técnica MoSCoW está integrada ao planejamento e às iterações do projeto? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 36 |  [Print](../prints/entrega2/moscow/7.png) |
+| <a href="#REF05">8</a> | A priorização está sendo revisada periodicamente? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Requisitos - Aula 07.pdf, p. 36 |  [Print](../prints/entrega2/moscow/4.png) |
 
 
 #### 2.8 Verificação QFD
@@ -222,14 +223,14 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |----|----------------------|-----------|------------|------------|
-| <a href="#REF01">1</a> |  Foi definido um roteiro com perguntas abertas para permitir respostas amplas dos usuários?| [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 145 | [Print](../prints/entrega2/1.png)|
-| <a href="#REF02">2</a> | Os entrevistados representam adequadamente os usuários do sistema (ex: cidadãos, vítimas)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 138 |  [Print](../prints/entrega2/2.png) |
-| <a href="#REF03">3</a> | Foi obtido o consentimento livre e esclarecido dos participantes? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 141 |  [Print](../prints/entrega2/3.png) |
-| <a href="#REF04">4</a> | A entrevista considerou o contexto real de uso (como o comportamento dos usuários)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 143 |  [Print](../prints/entrega2/4.png) |
-| <a href="#REF05">5</a> | Os dados foram registrados, transcritos e analisados com confiabilidade? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/5.png) |
-| <a href="#REF05">5</a> | Foram incluídas perguntas sobre hábitos, dificuldades e expectativas dos usuários? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/6.png) |
-| <a href="#REF05">5</a> | As entrevistas foram complementadas com outros métodos (ex: questionário, observação)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/7.png) |
-| <a href="#REF05">5</a> | Os entrevistadores estavam treinados para evitar vieses e induçõoes? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 145. |  [Print](../prints/entrega2/8.png) |
+| <a href="#REF01">1</a> |  Foi definido um roteiro com perguntas abertas para permitir respostas amplas dos usuários?| [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 145 | [Print](../prints/entrega2/questionario/1.png)|
+| <a href="#REF02">2</a> | Os entrevistados representam adequadamente os usuários do sistema (ex: cidadãos, vítimas)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 138 |  [Print](../prints/entrega2/questionario/2.png) |
+| <a href="#REF03">3</a> | Foi obtido o consentimento livre e esclarecido dos participantes? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 141 |  [Print](../prints/entrega2/questionario/3.png) |
+| <a href="#REF04">4</a> | A entrevista considerou o contexto real de uso (como o comportamento dos usuários)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 143 |  [Print](../prints/entrega2/questionario/4.png) |
+| <a href="#REF05">5</a> | Os dados foram registrados, transcritos e analisados com confiabilidade? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 143 |  [Print](../prints/entrega2/questionario/5.png) |
+| <a href="#REF06">6</a> | Foram incluídas perguntas sobre hábitos, dificuldades e expectativas dos usuários? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/questionario/6.png) |
+| <a href="#REF05">7</a> | As entrevistas foram complementadas com outros métodos (ex: questionário, observação)? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |  [Print](../prints/entrega2/questionario/7.png) |
+| <a href="#REF05">8</a> | Os entrevistadores estavam treinados para evitar vieses e induçõoes? | [Felipe das Neves](https://github.com/FelipeFreire-gf) | *Referência:* Barbosa et al., 2021, p. 145. |  [Print](../prints/entrega2/questionario/8.png) |
 
 ---
 
