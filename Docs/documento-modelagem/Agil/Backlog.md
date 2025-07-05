@@ -19,13 +19,13 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Desenvolveu seu respectivo backlog |
-| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Desenvolveu seu respectivo backlog; Estruturou o submenu |
-| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Desenvolveu seu respectivo backlog |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Desenvolveu seu respectivo backlog |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia)|
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Desenvolveu seu respectivo backlog; Estruturou o submenu e: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia)|
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Não contribuiu neste submenu |
-| [<span style="color:gold;">Mateus Bastoso</span>](https://github.com/MateuSansete) | Desenvolveu seu respectivo backlog |
-| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | Desenvolveu seu respectivo backlog |
+| [<span style="color:gold;">Mateus Bastoso</span>](https://github.com/MateuSansete) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
+| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | Desenvolveu seu respectivo backlog [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog/#metodologia) |
 
 *Legenda:* 
 
