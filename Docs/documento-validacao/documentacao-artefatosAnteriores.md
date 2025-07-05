@@ -1,4 +1,8 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.1</span>
+
 # Validação Artefatos Anteriores
+
+---
 
 ## Introdução
 
@@ -28,7 +32,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 ### Tabela 1 – Refatoração das Inspeções Internas Anteriores
 
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 23/06 | Versão 1.0</span>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 05/07 | Versão 1.1</span>
 </center>
 
 | Entrega | Item | Descrição | Corrigido? |
@@ -39,11 +43,24 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | | 11 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | - |
 | | 74 | A técnica dos $100 foi aplicada com participação ativa de um cliente real do sistema? | - |
 | | 76 | A distribuição dos valores respeitou o limite total de $100 para cada participante? | - |
+| | -  | Explicação do QFD | Sim, Foi feita a refatoração completa do artetafo [[ QFD ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/QFD/) |
 | **Entrega 3** | 33 | Há referência aos termos definidos no léxico dentro do cenário? | - |
 | **Entrega 4** | 51 | Há mecanismo visual de status (Kanban, swimlane)? | - |
 | | 52 | Há estimativa de esforço? | - |
 | | 55 | Ferramentas visuais foram utilizadas (Miro, Draw.io)? | - |
 | | 57 | Foram utilizadas métricas de progresso? | - |
+
+*Legenda:* 
+
+**Entrega** Respectiva entrega do artefato. 
+
+**Item** – Tópico da tabela de inspeção do grupo [[ Inspeção do Grupo ]](requisitos-de-software.github.io/2025.1-CelularSeguro/documento-inspecao/grupo/documento_inspecao_grupo/#1-introducao) 
+
+**" - "** - Ajustes necessários analisados na apresentação do artefato em aula. 
+
+**Descição** Descrição do erro.
+
+**Corrigido** – Status de correção.
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
@@ -54,3 +71,4 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 |1.0     |23/06/2025|Desenvolvimento do artefato|[<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025|
+|1.1     |05/07/2025|Inserção da correção do QFD|[<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 05/07/2025|
