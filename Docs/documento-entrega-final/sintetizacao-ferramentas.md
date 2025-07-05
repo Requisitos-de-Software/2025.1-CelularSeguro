@@ -10,8 +10,6 @@ A execução bem-sucedida de um projeto de software depende fundamentalmente da 
 
 Este artefato tem como objetivo apresentar de forma sintetizada as ferramentas utilizadas, detalhando a finalidade de cada uma e as etapas do projeto em que foram aplicadas. A tabela a seguir consolida essas informações, oferecendo uma visão clara do ecossistema tecnológico que sustentou o trabalho da equipe.
 
----
-
 !!! Warning "Atenção!"
     O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
