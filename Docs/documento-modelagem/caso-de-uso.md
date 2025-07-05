@@ -86,8 +86,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**     | Usuário autenticado; dispositivo previamente registrado no sistema.                                         |
 | **Ação**              | O usuário emite um alerta de roubo via aplicativo.                                                          |
 | **Fluxo principal**   | 1. O usuário acessa o app.<br>2. Seleciona “Emitir Alerta de Roubo”.<br>3. Sistema exibe popup de confirmação.<br>4. Usuário confirma.<br>5. Sistema registra alerta, aciona “Registrar Boletim” e “Notificar Autoridades”. |
-| **Fluxo alternativo** | 1. O usuário cancela no popup de confirmação.<br>2. Sistema retorna ao painel.                             |
-| **Fluxo de exceção**  | 1. Falha na notificação às autoridades.<br>2. Sistema exibe mensagem de erro e registra falha.             |
+| **Fluxo alternativo** | 1. O usuário cancela no popup de confirmação.<br>2. Sistema retorna ao painel.  <br>3. Usuário perde a conexão de dados antes de confirmar; sistema salva alerta em modo offline e sincroniza ao reconectar.                           |
+| **Fluxo de exceção**  | 1. Falha na notificação às autoridades.<br>2. Sistema exibe mensagem de erro e registra falha.<br>3. Erro de banco de dados ao registrar o alerta; sistema exibe mensagem “Erro interno, tente novamente” e enfileira o alerta para nova tentativa.             |
 | **Pós-condições**     | Alerta de roubo registrado; boletim iniciado; autoridades notificadas.                                      |
 | **Data de Criação**   | 13/05/2025                                                                                                  |
 | **Rastreabilidade**   | [OBS09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais)                                                                                       |
@@ -114,9 +114,9 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Usuário autenticado com login gov.br; dispositivo com conexão ativa.                        |
 | **Ação**             | O usuário preenche o formulário e envia o boletim.                                          |
 | **Fluxo principal**  | 1. Usuário seleciona “Registrar Boletim”.<br>2. Sistema exibe formulário.<br>3. Usuário preenche os campos e envia.<br>4. Sistema valida e exibe protocolo. |
-| **Fluxo alternativo**| 1. Usuário tenta enviar sem preencher todos os campos.<br>2. Sistema bloqueia envio e exibe aviso. |
-| **Fluxo de exceção** | 1. Erro no servidor ao registrar.<br>2. Sistema exibe mensagem de falha.                    |
-| **Pós-condições**     | Boletim registrado com número de protocolo.                                                |
+| **Fluxo alternativo**| 1. Usuário tenta enviar sem preencher todos os campos.<br>2. Sistema bloqueia envio e exibe aviso.<br>3.Usuário preenche formulário e sai da tela; ao retornar, sistema exibe dados salvos em rascunho. |
+| **Fluxo de exceção** | 1. Erro no servidor ao registrar.<br>2. Sistema exibe mensagem de falha.<br>3. Timeout na validação de captcha; sistema solicita recarregar o captcha e reenviar.                    |
+| **Pós-condições**     | Boletim registrado com número de protocolo.                                                 |
 | **Data de Criação**   | 13/05/2025                                                                                 |
 | **Rastreabilidade**   | [QS02](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [QS09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [OBS8](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais)                                                                                |
 
@@ -142,8 +142,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Boletim registrado; dispositivo com rastreamento ativado e online.                              |
 | **Ação**             | O usuário solicita a localização do aparelho.                                                    |
 | **Fluxo principal**  | 1. Usuário acessa “Localizar Celular”.<br>2. Sistema verifica pré-condições.<br>3. Solicita coordenadas ao provedor.<br>4. Exibe mapa com marcador da localização. |
-| **Fluxo alternativo**| 1. Dispositivo offline.<br>2. Sistema exibe última localização conhecida.                       |
-| **Fluxo de exceção** | 1. Erro na API de localização.<br>2. Sistema exibe mensagem de indisponibilidade.               |
+| **Fluxo alternativo**| 1. Dispositivo offline.<br>2. Sistema exibe última localização conhecida.<br>3. Provedor de localização retorna coordenadas imprecisas; sistema solicita ao usuário escolher entre “usar dados aproximados” ou “tentar novamente”.                       |
+| **Fluxo de exceção** | 1. Erro na API de localização.<br>2. Sistema exibe mensagem de indisponibilidade.<br>3. Falha de autenticação junto ao provedor externo; sistema exibe “Sessão expirada, faça login novamente” e interrompe o caso de uso.               |
 | **Pós-condições**    | Localização exibida no mapa ou mensagem de erro apresentada.                                     |
 | **Data de Criação**  | 13/05/2025                                                                                       |
 | **Rastreabilidade**  | [BS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais), [QS01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)|
@@ -170,8 +170,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Boletim registrado; dispositivo localizado anteriormente.                                      |
 | **Ação**             | O usuário envia comando de bloqueio remoto.                                                   |
 | **Fluxo principal**  | 1. Usuário acessa “Bloqueio Remoto”.<br>2. Sistema solicita confirmação.<br>3. Usuário confirma.<br>4. Sistema envia comando à operadora e registra ação. |
-| **Fluxo alternativo**| 1. Usuário cancela confirmação.<br>2. Sistema retorna ao painel.                               |
-| **Fluxo de exceção** | 1. Falha na comunicação com operadora.<br>2. Sistema exibe mensagem de erro.                  |
+| **Fluxo alternativo**| 1. Usuário cancela confirmação.<br>2. Sistema retorna ao painel.<br>3. Operadora não responde imediatamente; sistema avisa “Bloqueio em andamento” e permite ao usuário consultar status posteriormente.                               |
+| **Fluxo de exceção** | 1. Falha na comunicação com operadora.<br>2. Sistema exibe mensagem de erro.<br>3. Token de autorização inválido; sistema solicita nova autenticação do usuário antes de reenviar o comando.                  |
 | **Pós-condições**    | Dispositivo bloqueado ou falha registrada.                                                    |
 | **Data de Criação**  | 13/05/2025                                                                                    |
 | **Rastreabilidade**  | [BS15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                   |
@@ -198,8 +198,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Usuário autenticado; backup disponível.                                                       |
 | **Ação**             | O usuário seleciona um backup e envia por email.                                              |
 | **Fluxo principal**  | 1. Usuário acessa “Backup de Dados”.<br>2. Sistema mostra backups disponíveis.<br>3. Usuário seleciona e clica em “Enviar”.<br>4. Sistema envia email com link seguro. |
-| **Fluxo alternativo**| 1. Email inválido ou não cadastrado.<br>2. Sistema exibe aviso para atualização do cadastro.  |
-| **Fluxo de exceção** | 1. Erro no envio do email.<br>2. Sistema exibe falha e orienta nova tentativa.                |
+| **Fluxo alternativo**| 1. Email inválido ou não cadastrado.<br>2. Sistema exibe aviso para atualização do cadastro.<br>3. Usuário seleciona múltiplos backups em sequência; sistema enfileira cada envio e exibe confirmação para cada um.  |
+| **Fluxo de exceção** | 1. Erro no envio do email.<br>2. Sistema exibe falha e orienta nova tentativa.<br>3. Servidor de email retorna resposta “quota excedida”; sistema sugere ao usuário limpar backups antigos e tentar novamente.                |
 | **Pós-condições**    | Email enviado com sucesso ou falha registrada.                                                |
 | **Data de Criação**  | 13/05/2025                                                                                    |
 | **Rastreabilidade**  | [BS18](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                    |
@@ -226,8 +226,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Usuário autenticado; existem registros de movimentação disponíveis no sistema.                                                     |
 | **Ação**             | O usuário seleciona o período ou filtros e solicita a geração do relatório.                                                        |
 | **Fluxo principal**  | 1. Usuário acessa “Relatórios” no menu.<br>2. Seleciona “Movimentação”.<br>3. Define intervalo de datas e filtros.<br>4. Clica em “Gerar PDF”.<br>5. Sistema valida parâmetros, compila os dados e disponibiliza link de download.<br>6. Usuário faz o download do arquivo PDF. |
-| **Fluxo alternativo**| 1. Parâmetros inválidos (datas invertidas ou filtros inconsistentes).<br>2. Sistema exibe aviso “Verifique os filtros e tente novamente”. |
-| **Fluxo de exceção** | 1. Erro durante a compilação do relatório ou geração do PDF.<br>2. Sistema exibe “Falha ao gerar relatório, tente mais tarde”.     |
+| **Fluxo alternativo**| 1. Parâmetros inválidos (datas invertidas ou filtros inconsistentes).<br>2. Sistema exibe aviso “Verifique os filtros e tente novamente”.<br>3. Usuário cancela geração após selecionar filtros; sistema retorna ao formulário de filtros sem gerar PDF. |
+| **Fluxo de exceção** | 1. Erro durante a compilação do relatório ou geração do PDF.<br>2. Sistema exibe “Falha ao gerar relatório, tente mais tarde”.<br>3. Falha de permissão de leitura em um dos bancos de dados; sistema exibe “Dados indisponíveis” e gera relatório parcial.     |
 | **Pós-condições**    | Arquivo PDF com relatório de movimentação disponível para download ou mensagem de erro apresentada.                                |
 | **Data de Criação**  | 15/05/2025                                                                                                                         |
 | **Rastreabilidade**  | [BS22](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                                                               |
@@ -254,8 +254,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**     | Usuário autenticado; dispositivo principal ativo e sincronizado com o sistema.                                                                       |
 | **Ação**              | O usuário escolhe um dispositivo já registrado (ex.: tablet, outro celular) e marca como confiável para receber ordens remotas.                      |
 | **Fluxo principal**   | 1. Usuário acessa “Configurações de Segurança”.<br>2. Seleciona “Dispositivos de Confiança”.<br>3. Sistema exibe lista de dispositivos vinculados.<br>4. Usuário escolhe dispositivo secundário e clica em “Definir como Confiável”.<br>5. Sistema envia código de verificação ao dispositivo secundário.<br>6. Usuário insere o código no app principal.<br>7. Sistema valida o código e marca o dispositivo como confiável. |
-| **Fluxo alternativo** | 1. Dispositivo não aparece na lista (não vinculado).<br>2. Sistema exibe aviso “Vincule o dispositivo antes de defini-lo como confiável”.               |
-| **Fluxo de exceção**  | 1. Código de verificação inválido ou expirado.<br>2. Sistema exibe “Código incorreto ou expirado” e oferece opção de reenviar código.               |
+| **Fluxo alternativo** | 1. Dispositivo não aparece na lista (não vinculado).<br>2. Sistema exibe aviso “Vincule o dispositivo antes de defini-lo como confiável”.<br>3. Código de verificação demora a chegar; sistema oferece opção “reenviar código” após 30 segundos.               |
+| **Fluxo de exceção**  | 1. Código de verificação inválido ou expirado.<br>2. Sistema exibe “Código incorreto ou expirado” e oferece opção de reenviar código.<br>3. Falha de comunicação com dispositivo secundário; sistema exibe “Não foi possível enviar código, tente novamente” e mantém sessão ativa.               |
 | **Pós-condições**     | Dispositivo secundário passa a receber comandos remotos autorizados.                                                                                  |
 | **Data de Criação**   | 15/05/2025                                                                                                                                            |
 | **Rastreabilidade**   | [BS23](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais)                                                                                                                                                  |
@@ -311,7 +311,7 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Ação**             | O usuário acessa a aba “Meu Perfil” e atualiza as informações desejadas.                                                  |
 | **Fluxo principal**  | 1. Usuário abre o menu e seleciona “Meu Perfil”.<br>2. Sistema exibe formulário com os dados atuais.<br>3. Usuário edita campos e clica em “Salvar”.<br>4. Sistema valida entradas e atualiza o perfil.<br>5. Sistema confirma “Perfil atualizado com sucesso”. |
 | **Fluxo alternativo**| 1. Usuário navega para outra aba sem salvar.<br>2. Sistema pergunta “Deseja descartar alterações?”.<br>3. Usuário confirma ou retorna ao formulário. |
-| **Fluxo de exceção** | 1. Dados inválidos (formato de e-mail incorreto, campos obrigatórios vazios).<br>2. Sistema exibe mensagem de erro específica e não salva. |
+| **Fluxo de exceção** | 1. Dados inválidos (formato de e-mail incorreto, campos obrigatórios vazios).<br>2. Sistema exibe mensagem de erro específica e não salva.<br>3. Erro ao carregar avatar do servidor; sistema exibe placeholder e permite nova tentativa de upload. |
 | **Pós-condições**    | Perfil do usuário atualizado no sistema; alterações refletidas nas próximas sessões.                                      |
 | **Data de Criação**  | 15/05/2025                                                                                                               |
 | **Rastreabilidade**  | [OBS12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais)                                                                                                                     |
@@ -338,7 +338,7 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Usuário autenticado; existe ao menos uma conta bancária vinculada ao aparelho.                                                  |
 | **Ação**             | O usuário acessa a área de “Contas Bancárias” e opta por visualizar ou desvincular uma conta.                                   |
 | **Fluxo principal**  | 1. Usuário seleciona “Contas Bancárias” no menu de configurações.<br>2. Sistema lista todas as contas vinculadas.<br>3. Usuário clica em uma conta para ver detalhes.<br>4. Sistema exibe informações da conta.<br>5. Usuário seleciona “Cancelar Vinculação”.<br>6. Sistema solicita confirmação.<br>7. Usuário confirma e sistema remove a conta vinculada, exibindo mensagem de sucesso. |
-| **Fluxo alternativo**| 1. Usuário visualiza detalhes e opta por não cancelar.<br>2. Sistema retorna à lista de contas sem alterações.                  |
+| **Fluxo alternativo**| 1. Usuário visualiza detalhes e opta por não cancelar.<br>2. Sistema retorna à lista de contas sem alterações.<br>3. Usuário seleciona múltiplas contas para desvincular; sistema confirma desvinculação em lote.                  |
 | **Fluxo de exceção** | 1. Erro ao obter lista de contas ou detalhes (timeout, falha de API).<br>2. Sistema exibe “Não foi possível carregar as contas, tente novamente”.<br>3. Usuário tenta novamente mais tarde. |
 | **Pós-condições**    | Conta bancária desvinculada com sucesso, ou visualização concluída sem alterações.                                             |
 | **Data de Criação**  | 15/05/2025                                                                                                                      |
@@ -367,7 +367,7 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Ação**             | O usuário acessa a seção “Guia Pós-Furto” para visualizar instruções passo a passo.                                   |
 | **Fluxo principal**  | 1. Usuário abre o menu e seleciona “Guia Pós-Furto”.<br>2. Sistema carrega a lista de etapas recomendadas.<br>3. Usuário navega pelas etapas (contatar polícia, bloquear chip, limpar dados etc.).<br>4. Sistema exibe explicação detalhada de cada etapa e links diretos para ações (Registrar Boletim, Bloqueio Remoto, Limpeza Remota).<br>5. Caso de uso finalizado quando o usuário completa todas as etapas ou sai da seção. |
 | **Fluxo alternativo**| 1. Usuário inicia o guia mas perde a conexão.<br>2. Sistema exibe versão offline simplificada com passos básicos.<br>3. Usuário retoma conexão para conteúdo completo. |
-| **Fluxo de exceção** | 1. Falha ao carregar o conteúdo do guia (erro de API).<br>2. Sistema exibe mensagem “Não foi possível carregar as instruções, tente novamente mais tarde”. |
+| **Fluxo de exceção** | 1. Falha ao carregar o conteúdo do guia (erro de API).<br>2. Sistema exibe mensagem “Não foi possível carregar as instruções, tente novamente mais tarde”.<br>3. Falha na leitura de configuração local; sistema exibe “Conteúdo temporariamente indisponível” e oferece link para download manual. |
 | **Pós-condições**    | Guia exibido; acesso rápido às funcionalidades de urgência disponível; registro de acesso ao guia para auditoria.    |
 | **Data de Criação**  | 15/05/2025                                                                                                            |
 | **Rastreabilidade**  | [QS04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados)                                                                                                                  |
@@ -394,8 +394,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**     | Usuário autenticado; lista de contatos do dispositivo disponível; autorização de acesso aos contatos concedida pelo usuário.                                         |
 | **Ação**              | O usuário seleciona contatos da sua agenda e cadastra-os como confiáveis para emissão de alertas remotos.                                                            |
 | **Fluxo principal**   | 1. Usuário acessa “Configurações de Emergência”.<br>2. Seleciona “Pessoas de Confiança”.<br>3. Sistema exibe lista de contatos.<br>4. Usuário marca os contatos desejados e clica em “Salvar”.<br>5. Sistema confirma “Contatos de confiança cadastrados com sucesso”. |
-| **Fluxo alternativo** | 1. Usuário não seleciona nenhum contato e tenta salvar.<br>2. Sistema exibe aviso “Selecione ao menos um contato para continuar”.                                     |
-| **Fluxo de exceção**  | 1. Falha na leitura da lista de contatos (permissão negada pelo sistema operacional).<br>2. Sistema exibe “Permissão de acesso aos contatos negada” e orienta a habilitar nas configurações. |
+| **Fluxo alternativo** | 1. Usuário não seleciona nenhum contato e tenta salvar.<br>2. Sistema exibe aviso “Selecione ao menos um contato para continuar”.<br>3. Usuário importa grupo de contatos por CSV; sistema valida e apresenta lista para confirmação.                                     |
+| **Fluxo de exceção**  | 1. Falha na leitura da lista de contatos (permissão negada pelo sistema operacional).<br>2. Sistema exibe “Permissão de acesso aos contatos negada” e orienta a habilitar nas configurações.<br>3. Erro de parsing no CSV importado; sistema exibe “Arquivo inválido” e sugestão de template. |
 | **Pós-condições**     | Contatos selecionados armazenados como pessoas de confiança; podem ser usados para envio de alertas em casos de emergência.                                           |
 | **Data de Criação**   | 15/05/2025                                                                                                                                                           |
 | **Rastreabilidade**   | [ADD04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1)                                                                                                                                                           |
@@ -422,8 +422,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Usuário autenticado; espaço de armazenamento disponível no servidor; permissão de backup concedida.                                                                            |
 | **Ação**             | O sistema agenda e executa backups periódicos conforme configuração do usuário.                                                                                                 |
 | **Fluxo principal**  | 1. Usuário acessa “Configurações de Backup”.<br>2. Define frequência (diária, semanal etc.) e tipo de dados a serem incluídos.<br>3. Clica em “Ativar Backup Automático”.<br>4. Sistema agenda tarefas de backup.<br>5. Em cada execução, sistema realiza backup e notifica o usuário.<br>6. Caso de uso finalizado. |
-| **Fluxo alternativo**| 1. Usuário cancela configuração de backup automático.<br>2. Sistema desativa backups programados e confirma “Backup automático desativado”.                                       |
-| **Fluxo de exceção** | 1. Falha ao acessar dados (erro de permissão ou I/O).<br>2. Sistema registra erro, notifica usuário “Falha no backup, verifique permissões” e mantém agendamento.             |
+| **Fluxo alternativo**| 1. Usuário cancela configuração de backup automático.<br>2. Sistema desativa backups programados e confirma “Backup automático desativado”.<br>3. Usuário altera frequência de backup já existente; sistema atualiza cronograma sem necessidade de desativar e reativar.                                       |
+| **Fluxo de exceção** | 1. Falha ao acessar dados (erro de permissão ou I/O).<br>2. Sistema registra erro, notifica usuário “Falha no backup, verifique permissões” e mantém agendamento.<br>3. Espaço em disco insuficiente; sistema notifica o usuário e pausa backups até liberação de espaço.             |
 | **Pós-condições**    | Backups periódicos executados com sucesso ou registro de falhas mantendo histórico de tentativas.                                                                               |
 | **Data de Criação**  | 15/05/2025                                                                                                                                                                      |
 | **Rastreabilidade**  | [ST4](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais)                                                                                                                                                                        |
@@ -450,8 +450,8 @@ No diagrama de caso de uso, também é possível detalhar:
 | **Pré-condições**    | Usuário autenticado; ação executável (registro, envio, bloqueio etc.) concluída pelo sistema.         |
 | **Ação**             | O sistema exibe elemento visual (banner, toast, modal) indicando sucesso ou falha da operação.         |
 | **Fluxo principal**  | 1. Usuário executa ação crítica (ex.: enviar boletim, bloquear dispositivo).<br>2. Sistema processa a solicitação.<br>3. Sistema exibe feedback visual de sucesso.<br>4. Feedback permanece visível por tempo predefinido ou até dismiss. |
-| **Fluxo alternativo**| 1. Ação é concluída com aviso informativo (ex.: dados salvos com observações).<br>2. Sistema exibe feedback informativo em vez de sucesso genérico. |
-| **Fluxo de exceção** | 1. Operação falha (erro de rede, validação, servidor).<br>2. Sistema exibe feedback visual de erro e orienta nova tentativa. |
+| **Fluxo alternativo**| 1. Ação é concluída com aviso informativo (ex.: dados salvos com observações).<br>2. Sistema exibe feedback informativo em vez de sucesso genérico.<br>3. Usuário ignora feedback e realiza outra ação; sistema salva estado da ação anterior e exibe feedback ao retornar. |
+| **Fluxo de exceção** | 1. Operação falha (erro de rede, validação, servidor).<br>2. Sistema exibe feedback visual de erro e orienta nova tentativa.<br>3. Erro ao renderizar componente de feedback; sistema exibe fallback textual e registra erro para auditoria. |
 | **Pós-condições**    | Usuário visualmente informado sobre o resultado da ação; interface retorna ao estado padrão.         |
 | **Data de Criação**  | 15/05/2025                                                                                            |
 | **Rastreabilidade**  | [Q12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados)                                                                                                  |
