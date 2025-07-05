@@ -1,5 +1,9 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.0</span>
+
 # Matriz Geral de Rastreabilidade
+
 ---
+
 ### Introdução
 
 A matriz geral de rastreabilidade é um documento fundamental na engenharia de requisitos que reúne, de maneira organizada, todos os requisitos funcionais identificados durante o projeto, mostrando tanto sua rastreabilidade anterior (pré-rastreabilidade) quanto a posterior (pós-rastreabilidade). O objetivo é oferecer uma visão completa e estruturada das conexões entre os requisitos, suas fontes (como as técnicas de elicitação utilizadas) e os artefatos que deles derivam ou que estão relacionados.
@@ -7,6 +11,29 @@ A matriz geral de rastreabilidade é um documento fundamental na engenharia de r
 De acordo com Sayão e Leite (2005), a rastreabilidade é o mecanismo que viabiliza a ligação entre os diversos elementos envolvidos no ciclo de vida de um sistema, incluindo requisitos, documentos, decisões e implementações. A matriz geral viabiliza essa conexão por meio de **referências cruzadas e elos rastreáveis**, revelando **dependências**, **origens documentais** e **impactos** que cada requisito pode ter em diferentes fases do desenvolvimento.[[ 1 ]](#ref1)
 
 Assim, a matriz não só facilita a entendimento e análise integrada dos requisitos, como também apoia a gestão de alterações, o controle da qualidade e a manutenção e evolução do sistema ao longo do seu ciclo de vida.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
 
 ---
 
@@ -152,4 +179,4 @@ Esta matriz representa, portanto, uma peça-chave no processo de **documentaçã
 | 1.7    | 08/06/2025         | Adição dos requisitos não funcionais | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Vitor Bessa</a> , <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Daniel Rodrigues</a>  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Mateus Bastos</a> | 08/02/2025 |
 | 1.8    | 08/06/2025         | Hiperlinks nos atributos das tabelas de Requisitos funcionais e não funcionais | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 08/06/2025 
 | 1.9    | 09/06/2025         | Correção do direcionamento de todos os hiperlinks | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 08/06/2025 
-
+| 2.0    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
