@@ -146,6 +146,8 @@ Sendo assim, este documento apresenta o planejamento da verificação dos artefa
 | :--- | :--- | :--- |
 | 08 | Falta a gravação da reunião do grupo. | Sim |
 
+ <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
+
 #### **Tabela 4.2: Verificação do NFR Framework**
 
 | Item | Descrição da Inconformidade | Corrigido? |
