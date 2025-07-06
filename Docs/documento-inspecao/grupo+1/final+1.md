@@ -29,6 +29,8 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 ### **Entrega 1: Itens Inconformes**
 
+#### **Tabela 1.1: Itens de Desenvolvimento do Projeto**
+
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
 | 08 | O histórico de versão não é padronizado. | |
@@ -44,7 +46,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 ### **Entrega 2: Itens Inconformes**
 
-#### **Tabela 1: Itens de Desenvolvimento do Projeto**
+#### **Tabela 2.1: Itens de Desenvolvimento do Projeto**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -55,7 +57,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 2: Itens de Conteúdo do Projeto**
+#### **Tabela 2.2: Itens de Conteúdo do Projeto**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -67,7 +69,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 3: Verificação do Perfil de Usuário**
+#### **Tabela 2.3: Verificação do Perfil de Usuário**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -75,7 +77,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 4: Verificação de Persona**
+#### **Tabela 2.4: Verificação de Persona**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -83,7 +85,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 5: Verificação Moscow**
+#### **Tabela 2.5: Verificação Moscow**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -93,7 +95,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 6: Verificação Three Level Scale**
+#### **Tabela 2.6: Verificação Three Level Scale**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -101,7 +103,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 7: Verificação First Thing First**
+#### **Tabela 2.7: Verificação First Thing First**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -116,7 +118,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 ### **Entrega 3: Itens Inconformes**
 
-#### **Tabela 1: Itens de Desenvolvimento do Projeto**
+#### **Tabela 3.1: Itens de Desenvolvimento do Projeto**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -125,7 +127,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 2: Verificação do Diagrama de Casos de Uso**
+#### **Tabela 3.2: Verificação do Diagrama de Casos de Uso**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -133,7 +135,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 3: Verificação dos Léxicos**
+#### **Tabela 3.3: Verificação dos Léxicos**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -141,7 +143,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 4: Verificação dos Cenários**
+#### **Tabela 3.4: Verificação dos Cenários**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -155,7 +157,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 ### **Entrega 4: Itens Inconformes**
 
-#### **Tabela 1: Itens de Desenvolvimento do Projeto**
+#### **Tabela 4.1: Itens de Desenvolvimento do Projeto**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -166,7 +168,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 2: Verificação do NFR Framework**
+#### **Tabela 4.2: Verificação do NFR Framework**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -174,7 +176,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 3: Verificação do Backlog**
+#### **Tabela 4.3: Verificação do Backlog**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -187,7 +189,7 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 4: Verificação da História de Usuário**
+#### **Tabela 4.4: Verificação da História de Usuário**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -206,7 +208,7 @@ Nenhum item foi avaliado como "Inconforme" na documentação da Entrega 5.
 
 ### **Entrega 6: Itens Inconformes**
 
-#### **Tabela 1: Itens de Desenvolvimento do Projeto**
+#### **Tabela 6.1: Itens de Desenvolvimento do Projeto**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -214,7 +216,7 @@ Nenhum item foi avaliado como "Inconforme" na documentação da Entrega 5.
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 2: Verificação da Prototipação**
+#### **Tabela 6.2: Verificação da Prototipação**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
@@ -236,7 +238,7 @@ Nenhum item foi avaliado como "Inconforme" na documentação da Entrega 5.
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-#### **Tabela 3: Verificação da Comprovação Informal**
+#### **Tabela 6.3: Verificação da Comprovação Informal**
 
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
