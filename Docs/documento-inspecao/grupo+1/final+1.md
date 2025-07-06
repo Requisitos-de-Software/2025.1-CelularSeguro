@@ -29,6 +29,8 @@ Com base nos documentos de inspeção fornecidos, as seguintes tabelas compilam 
 
 ### **Entrega 1: Itens Inconformes**
 
+#### **Tabela 1: Itens de Desenvolvimento do Projeto**
+
 | Item | Descrição da Inconformidade | Corrigido? |
 | :--- | :--- | :--- |
 | 08 | O histórico de versão não é padronizado. | |
