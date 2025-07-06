@@ -88,14 +88,26 @@ nav:
 
     
   - Verificação:
-      - Introdução: "documento-verificacao/introducao-verificacao.md"
+      - Planejamento Geral: "documento-verificacao/introducao-planejamento.md"
       - Entregas:
-        - Entrega 1: "documento-verificacao/documento-verificacao-grupo.md" 
-        - Entrega 2: "documento-verificacao/documento-verificacao-grupo2.md" 
-        - Entrega 3: "documento-verificacao/documento-verificacao-grupo3.md" 
-        - Entrega 4: "documento-verificacao/documento-verificacao-grupo4.md"
-        - Entrega 5: "documento-verificacao/documento-verificacao-grupo5.md"
-        - Entrega 6: "documento-verificacao/documento-verificacao-grupo6.md"
+        - Entrega 1: 
+          - Planejamento Entrega 1: "documento-verificacao/Entregas/Entrega-1/planejamento-entrega1.md"
+          - Verificação 1: "documento-verificacao/Entregas/Entrega-1/documento-verificacao-grupo.md"
+        - Entrega 2: 
+          - Planejamento Entrega 2: "documento-verificacao/Entregas/Entrega-2/planejamento-entrega2.md"
+          - Verificação 2: "documento-verificacao/Entregas/Entrega-2/documento-verificacao-grupo2.md"
+        - Entrega 3: 
+          - Planejamento Entrega 3: "documento-verificacao/Entregas/Entrega-3/planejamento-entrega3.md"
+          - Verificação 3: "documento-verificacao/Entregas/Entrega-3/documento-verificacao-grupo3.md"
+        - Entrega 4: 
+          - Planejamento Entrega 4: "documento-verificacao/Entregas/Entrega-4/planejamento-entrega4.md"
+          - Verificação 4: "documento-verificacao/Entregas/Entrega-4/documento-verificacao-grupo4.md"
+        - Entrega 5: 
+          - Planejamento Entrega 5: "documento-verificacao/Entregas/Entrega-5/planejamento-entrega5.md"
+          - Verificação 5: "documento-verificacao/Entregas/Entrega-5/documento-verificacao-grupo5.md"
+        - Entrega 6:
+          - Verificação 6: "documento-verificacao/Entregas/Entrega-6/documento-verificacao-grupo6.md"
+            
 
   - Validação:
       - Prototipação: "documento-validacao/documento-prototipacao.md"
