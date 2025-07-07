@@ -33,19 +33,29 @@ Os artefatos da Entrega 4 verificados foram:
 - <a>Backlog</a>
 - <a>Histórias de Usuário</a>
 
+## Listas de Verificação
+
+As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+
 ## Resultado
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
 - <a>Ágil</a>
 
-## Listas de Verificação
-
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
-
 # Análise de Resultados
 
+**ID-51**: Há mecanismo visual de status (Kanban, swimlane)?
+**ID-52**: Há estimativa de esforço?
+**ID-55**: Ferramentas visuais foram utilizadas (Miro, Draw.io)?
+**ID-57**: Foram utilizadas métricas de progresso?
+
 ## Correção
+
+**ID-51**: Não foi utlizado kanban para visualização de status.
+**ID-52**: As próximas versões da página deverão apresentar estimativa de esforço.
+**ID-55**: Em correções futuras, a utilização de ferramentas visuais tem que ser indispensável
+**ID-57**: A utilização de métricas de progresso deverão fazer parte do artefato para melhor visualização
 
 ## Acompanhamento
 

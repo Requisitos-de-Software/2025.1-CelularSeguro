@@ -34,20 +34,23 @@ Os artefatos da Entrega 3 verificados foram:
 - <a>Cenários</a>
 - <a>Especificação Suplementar</a>
 
+## Listas de Verificação
+
+As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+
 ## Resultado
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
 - <a>Modelagem 1</a>
 
-
-## Listas de Verificação
-
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
-
 # Análise de Resultados
 
+**ID-33**: Há referência aos termos definidos no léxico dentro do cenário?
+
 ## Correção
+
+**ID-33**: Os termos no léxicos deverão ser referenciados.
 
 ## Acompanhamento
 

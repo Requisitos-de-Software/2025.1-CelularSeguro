@@ -32,17 +32,15 @@ Os artefatos da Entrega 5 verificados foram:
 - <a>Matriz Geral</a>
 - <a>Pós-Rastreabilidade</a>
 
+## Listas de Verificação
+
+As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+
 ## Resultado
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
 - <a>Ágil</a>
-
-## Listas de Verificação
-
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
-
-- <a>Lista de Verificação</a>
 
 # Análise de Resultados
 
