@@ -6,6 +6,18 @@ Durante o desenvolvimento do **Celular Seguro**, cada etapa foi conduzida com o 
 
 Desde o início, construímos um **planejamento detalhado**, definindo cronogramas claros, responsabilidades divididas de forma justa e um acompanhamento constante das entregas, criando um ambiente de trabalho colaborativo e estruturado. Esse planejamento foi essencial para evitar atrasos, alinhar expectativas e proporcionar à equipe uma visão clara das etapas a serem concluídas.
 
+### Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Desenvolvimento do Artefato_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#tabela-1-sintese-dos-resultados-alcancados); e Tópicos: [[ Tópico 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#modelagem-e-historias-de-usuario), [[ Tópico 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#prototipacao), [[ Tópico 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#aplicativo-selecionado), [[ Tópico 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#rastreamento-e-gestao-de-requisitos), [[ Tópico 5 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#heatmap-e-organizacao-de-horarios), [[ Tópico 6 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#metodologias-e-gestao-no-github), [[ Tópico 7 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/resultados-alcancados/#validacao-com-cliente-e-empresa) |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
+
+
 ### Elicitação de Requisitos
 
 A [Elicitação de Requisitos](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Introducao/) foi um marco para o projeto, nos permitindo entender profundamente quem são os nossos usuários, suas necessidades e dores, e o que eles realmente esperam de um aplicativo como o **Celular Seguro**. A elaboração de **Personas, Perfis de Usuário, Técnicas de Elicitação e Priorização de Requisitos** transformou a visão do projeto em algo palpável, possibilitando que a equipe compreendesse para quem estávamos desenvolvendo e por que estávamos desenvolvendo. Isso deu um sentido mais humano ao nosso projeto, tornando o trabalho motivador.
