@@ -6,7 +6,7 @@
 
 ## Introdução
 
-As histórias de usuário são uma técnica essencial na elicitação de requisitos dentro de metodologias ágeis, como Scrum e XP (Extreme Programming). Elas consistem em descrições sucintas e centradas no usuário, que expressam uma funcionalidade desejada de forma compreensível tanto para a equipe de desenvolvimento quanto para os stakeholders (Cohn, 2004). A estrutura típica de uma história de usuário segue o formato: “Como [tipo de usuário](), eu quero [ação]() para [objetivo]()”, o que auxilia na identificação clara do valor de negócio associado à funcionalidade (Leffingwell, 2011).
+As histórias de usuário são uma técnica essencial na elicitação de requisitos dentro de metodologias ágeis, como Scrum e XP (Extreme Programming). Elas consistem em descrições sucintas e centradas no usuário, que expressam uma funcionalidade desejada de forma compreensível tanto para a equipe de desenvolvimento quanto para os stakeholders (Cohn, 2004). A estrutura típica de uma história de usuário segue o formato: "Como [tipo de usuário](), eu quero [ação]() para [objetivo]()", o que auxilia na identificação clara do valor de negócio associado à funcionalidade (Leffingwell, 2011).
 
 !!! Warning "Atenção!"
     O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
@@ -19,8 +19,9 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Autor das histórias US 31 a 36: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31-enviar-um-sms-para-uma-pessoa-quando-a-mesma-for-adicionada-como-pessoa-de-confianca-nao-implementado)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor das histórias US 31 a 36: [[ Tabela 34 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31-enviar-um-sms-para-uma-pessoa-quando-a-mesma-for-adicionada-como-pessoa-de-confianca-nao-implementado)|
 | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
+[<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor das histórias US 07 a 12: [[ Tabela 10 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us07-confirmar-envio-do-boletim-com-protocolo-visivel)|
 
 *Legenda:* 
 
@@ -35,8 +36,10 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 ## Metodologia
 
-A elaboração deste artefato adotou uma abordagem empírica de elicitação baseada na entrevista estruturada com o Product Owner (PO), o qual representou a visão do cliente no projeto. A sessão foi conduzida por meio da plataforma Teams, com entrevistas separadas organizadas conforme a [Tabela 0]() abaixo, configurando uma interação síncrona e informal — alinhada às boas práticas de desenvolvimento ágil descritas por Sommerville (2019).
-Durante a entrevista, os critérios de aceitação foram formalizados, refletindo os comportamentos esperados do sistema em cada cenário de uso. Para fins de planejamento e gestão, foi adotado o método de priorização Three-Level Scale, que classifica as histórias de usuário em prioridades Alta, Média e Baixa (Leffingwell, 2011). Tal método é simples, porém eficaz, para equipes que operam sob ciclos curtos de entrega.
+A elaboração deste artefato adotou uma abordagem empírica de elicitação baseada na entrevista estruturada com o Product Owner (PO), o qual representou a visão do cliente no projeto. A sessão foi conduzida por meio da plataforma Teams, com entrevistas separadas organizadas conforme a [Tabela 0]() abaixo, configurando uma interação síncrona e informal, alinhada às boas práticas de desenvolvimento ágil descritas por Sommerville (2019).
+Durante a entrevista, os critérios de aceitação foram formalizados, refletindo os comportamentos esperados do sistema em cada cenário de uso.
+ 
+ Para fins de planejamento e gestão, foi adotado o método de priorização Three-Level Scale, que classifica as histórias de usuário em prioridades Alta, Média e Baixa (Leffingwell, 2011). Tal método é simples, porém eficaz, para equipes que operam sob ciclos curtos de entrega.
 
 <font size="3"><p style="text-align: center">Tabela 0 - Cronograma dos participantes da entrevista.</p></font>
 
@@ -90,7 +93,7 @@ O modelo a ser seguido para realização das Histórias do Usuário está repres
 
 ## Histórias de Usuário
 
-As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representadas pelo ID USX, onde X é o número da história).
+As tabelas de 3 a 45 descrevem as histórias de usuário elicitadas (Representadas pelo ID USX, onde X é o número da história).
 
 ---
 
@@ -266,35 +269,44 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite)</p></font>
 
-<a id="us07"></a>
-### US07 -  Confirmar envio do boletim com protocolo visível
 
-??? abstract "Tabela 9 - Confirmar envio do boletim com protocolo visível (Não implementado)"
+
+<a id="us07"></a>
+### US07 -  Registrar boletim de ocorrência
+
+??? abstract "Tabela 10 - Registrar boletim de ocorrência"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 9 - Confirmar envio do boletim com protocolo visível.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 10 -  Registrar boletim de ocorrência.</p></font>
 
-    |    **ID**                 | **Nome** |
+    | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US01                   | Confirmar envio do boletim com protocolo visível |
-    | **Descrição**          | Eu, como usuário, desejo visualizar uma confirmação clara e acessível com o  número de protocolo após o envio do boletim, para garantir que ele foi registrado corretamente. |
-    | **Critérios de Aceitação** | - Após o envio bem-sucedido, o número de protocolo deve ser exibido em   destaque por no mínimo 10 segundos. <br> - Deve haver opção para copiar o número do protocolo. <br> - A   mensagem de confirmação deve utilizar linguagem clara e acessível. |
-    | **Rastreabilidade**    | <a href="../Questionario/">OBS4</a>, <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS15</a>, <a href="../Questionario/">OBS20</a>|
+    | US03                   | Registrar boletim de ocorrência |
+    | **Descrição**          | Eu, como usuário, desejo registrar um boletim de ocorrência pelo aplicativo para formalizar o roubo do meu celular de forma rápida e prática. |
+    | **Critérios de Aceitação** | - O sistema deve disponibilizar um formulário com campos para dados do roubo. <br> - O botão "Registrar Boletim" deve estar acessível após o login com gov.br. <br> - Após o envio, o boletim deve ser processado pelo sistema. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS2</a>, <a href="../Questionario/">OBS8</a>|
     | **Prioridade**         | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
 
+
     </center>
+
+
+
+
+
+
 
 <a id="us08"></a>
 ### US08 - Usuário Anexar arquivos ao boletim
 
-??? abstract "Tabela 10 - Usuário Anexar arquivos ao boletim"
+??? abstract "Tabela 11 - Usuário Anexar arquivos ao boletim"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 10 - Usuário Anexar arquivos ao boletim.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 11 - Usuário Anexar arquivos ao boletim.</p></font>
 
 
     | **ID**                 | **Nome** |
@@ -311,35 +323,35 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     </center>
 
 <a id="us09"></a>
-### US09 -  Registrar boletim de ocorrência
+### US09 -  Confirmar envio do boletim com protocolo visível
 
-??? abstract "Tabela 11 - Registrar boletim de ocorrência"
+??? abstract "Tabela 12 - Confirmar envio do boletim com protocolo visível (Não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 11 -  Registrar boletim de ocorrência.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 12 - Confirmar envio do boletim com protocolo visível.</p></font>
 
-    | **ID**                 | **Nome** |
+    |    **ID**                 | **Nome** |
     | :--------------------- | :-------- |
-    | US03                   | Registrar boletim de ocorrência |
-    | **Descrição**          | Eu, como usuário, desejo registrar um boletim de ocorrência pelo aplicativo para formalizar o roubo do meu celular de forma rápida e prática. |
-    | **Critérios de Aceitação** | - O sistema deve disponibilizar um formulário com campos para dados do roubo. <br> - O botão “Registrar Boletim” deve estar acessível após o login com gov.br. <br> - Após o envio, o boletim deve ser processado pelo sistema. |
-    | **Rastreabilidade**    | <a href="../Questionario/">OBS2</a>, <a href="../Questionario/">OBS8</a>|
+    | US01                   | Confirmar envio do boletim com protocolo visível |
+    | **Descrição**          | Eu, como usuário, desejo visualizar uma confirmação clara e acessível com o  número de protocolo após o envio do boletim, para garantir que ele foi registrado corretamente. |
+    | **Critérios de Aceitação** | - Após o envio bem-sucedido, o número de protocolo deve ser exibido em   destaque por no mínimo 10 segundos. <br> - Deve haver opção para copiar o número do protocolo. <br> - A   mensagem de confirmação deve utilizar linguagem clara e acessível. |
+    | **Rastreabilidade**    | <a href="../Questionario/">OBS4</a>, <a href="../Questionario/">OBS8</a>, <a href="../Questionario/">OBS15</a>, <a href="../Questionario/">OBS20</a>|
     | **Prioridade**         | Alta |
 
     <font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
 
-
     </center>
+
 
 <a id="us10"></a>
 ### US10 - Validar campos obrigatórios do boletim
 
-??? abstract "Tabela 12 - Validar campos obrigatórios do boletim"
+??? abstract "Tabela 13 - Validar campos obrigatórios do boletim"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 12 - Validar campos obrigatórios do boletim.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 13 - Validar campos obrigatórios do boletim.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -358,11 +370,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us11"></a>
 ### US11 -  Exibir mensagem de erro em falha de envio
 
-??? abstract "Tabela 12 - Exibir mensagem de erro em falha de envio"
+??? abstract "Tabela 14 - Exibir mensagem de erro em falha de envio"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 12 - Exibir mensagem de erro em falha de envio.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 14 - Exibir mensagem de erro em falha de envio.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -377,13 +389,13 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
     </center>
 
 <a id="us12"></a>
-### US12 - Notificação de confirmação após envio do boletim
+### US12 -  "Tabela 15 - Notificação de confirmação após envio do boletim"
 
-??? abstract "Notificação de confirmação após envio do boletim"
+??? abstract "Tabela 15 - Notificação de confirmação após envio do boletim"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 14 - Notificação de confirmação após envio do boletim.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 15 - Notificação de confirmação após envio do boletim.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -414,17 +426,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us13"></a>
 ### US13 - Redefinir a senha via e-mail **(Não Implementado)**
 
-??? abstract "Tabela 15 - História de Usuário Redefinir a senha via e-mail"
+??? abstract "Tabela 16 - História de Usuário Redefinir a senha via e-mail"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 15 - História de Usuário Redefinir a senha via e-mail.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 16 - História de Usuário Redefinir a senha via e-mail.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US13                   | Redefinir a senha via e-mail |
     | Descrição              | Eu, como usuário autenticado, desejo redefinir minha senha dentro do aplicativo, recebendo um código por e-mail, para manter o acesso caso eu esqueça ou deseje trocar a senha. |
-    | Critérios de Aceitação | - Dentro de Perfil deve existir a opção “Redefinir senha”.<br> - Ao selecionar, o app envia um código de verificação para o e-mail cadastrado (ou SMS, conforme escolha do usuário).<br> - O usuário informa o código no app e define uma nova senha (≥ 8 caracteres, contendo letras maiúsculas, minúsculas e números).<br> - Após a troca, o app exibe mensagem de sucesso e mantém a sessão ativa.<br> - Caso o e-mail/telefone não exista no cadastro, exibir “contato não encontrado”.<br> |
+    | Critérios de Aceitação | - Dentro de Perfil deve existir a opção "Redefinir senha".<br> - Ao selecionar, o app envia um código de verificação para o e-mail cadastrado (ou SMS, conforme escolha do usuário).<br> - O usuário informa o código no app e define uma nova senha (≥ 8 caracteres, contendo letras maiúsculas, minúsculas e números).<br> - Após a troca, o app exibe mensagem de sucesso e mantém a sessão ativa.<br> - Caso o e-mail/telefone não exista no cadastro, exibir "contato não encontrado".<br> |
     | Rastreabilidade        | [OBS3](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
     | Prioridade             |  Alta |
 
@@ -435,17 +447,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us14"></a>
 ### US14 - Editar o seu perfil por uma aba que é disponibilizada no aplicativo **(Não Implementado)**
 
-??? abstract "Tabela 16 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo"
+??? abstract "Tabela 17 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 16 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 17 - História de Usuário Editar o seu perfil por uma aba que é disponibilizada no aplicativo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US14               | Editar o seu perfil por uma aba que é disponibilizada no aplicativo |
-    | Descrição              | 	Eu, como usuário, desejo acessar uma aba “Perfil” para editar meus dados pessoais sem sair do aplicativo. |
-    | Critérios de Aceitação | - Aba “Perfil” fixa no menu. <br> -  Campos editáveis: nome, e-mail, telefones, senha. <br> - Validação de formato em tempo real (e-mail, DDD+telefone). <br> - Botão “Salvar” persiste dados e mostra toast de sucesso; erro de rede mantém dados locais. <br> - Mudanças sincronizam com servidor sem encerrar sessão. |
+    | Descrição              | 	Eu, como usuário, desejo acessar uma aba "Perfil" para editar meus dados pessoais sem sair do aplicativo. |
+    | Critérios de Aceitação | - Aba "Perfil" fixa no menu. <br> -  Campos editáveis: nome, e-mail, telefones, senha. <br> - Validação de formato em tempo real (e-mail, DDD+telefone). <br> - Botão "Salvar" persiste dados e mostra toast de sucesso; erro de rede mantém dados locais. <br> - Mudanças sincronizam com servidor sem encerrar sessão. |
     | Rastreabilidade        | [OBS12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
     | Prioridade             | Alta |
 
@@ -456,17 +468,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us15"></a>
 ### US15 - Alterar a foto de perfil
 
-??? abstract "Tabela 17 - História de Usuário Alterar a foto de perfil"
+??? abstract "Tabela 18 - História de Usuário Alterar a foto de perfil"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 17 - História de Usuário Alterar a foto de perfil.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 18 - História de Usuário Alterar a foto de perfil.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US15               | Alterar a foto de perfil |
     | Descrição              | 	Eu, como usuário, desejo alterar minha foto de perfil para personalizar minha identificação no aplicativo. |
-    | Critérios de Aceitação |  - Botão “Alterar foto” disponível na aba Perfil.<br> - Usuário escolhe entre Galeria ou Câmera.<br> - App permite corte/ajuste e redimensiona a imagem .<br> - Preview + opções Confirmar/Cancelar.<br> - Foto atualiza instantaneamente no app; falha exibe mensagem e mantém foto anterior. |
+    | Critérios de Aceitação |  - Botão "Alterar foto" disponível na aba Perfil.<br> - Usuário escolhe entre Galeria ou Câmera.<br> - App permite corte/ajuste e redimensiona a imagem .<br> - Preview + opções Confirmar/Cancelar.<br> - Foto atualiza instantaneamente no app; falha exibe mensagem e mantém foto anterior. |
     | Rastreabilidade        | - |
     | Prioridade             | Médio |
 
@@ -477,17 +489,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us16"></a>
 ### US16 - Registrar documentos
 
-??? abstract "Tabela 18 - História de Usuário Registrar documentos"
+??? abstract "Tabela 19 - História de Usuário Registrar documentos"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 18 - História de Usuário Registrar documentos.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 19 - História de Usuário Registrar documentos.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US16               | Registrar documentos |
     | Descrição              | 	Eu, como usuário, desejo registrar documentos (CPF, RG etc.) para agilizar autenticações e aumentar a segurança em caso de perda ou roubo do aparelho. |
-    | Critérios de Aceitação | - No menu Perfil, deve aparecer a opção “Documentos”.<br> - Ao acessar “Documentos”, o usuário pode inserir número do CPF (11 dígitos) e do RG (9 dígitos) em campos distintos.<br> - O sistema valida o formato (quantidade de dígitos) antes de salvar.<br> - Documentos cadastrados aparecem em lista na mesma tela, com botão “Remover” ao lado de cada item.<br> - Se o CPF ou RG já estiver registrado, exibir “Documento já registrado”.<br> |
+    | Critérios de Aceitação | - No menu Perfil, deve aparecer a opção "Documentos".<br> - Ao acessar "Documentos", o usuário pode inserir número do CPF (11 dígitos) e do RG (9 dígitos) em campos distintos.<br> - O sistema valida o formato (quantidade de dígitos) antes de salvar.<br> - Documentos cadastrados aparecem em lista na mesma tela, com botão "Remover" ao lado de cada item.<br> - Se o CPF ou RG já estiver registrado, exibir "Documento já registrado".<br> |
     | Rastreabilidade        | - |
     | Prioridade             | Alta |
 
@@ -498,17 +510,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us17"></a>
 ### US17 - Definir dispositivo seguro
 
-??? abstract "Tabela 19 - História de Usuário Definir dispositivo seguro"
+??? abstract "Tabela 20 - História de Usuário Definir dispositivo seguro"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 19 - História de Usuário Definir dispositivo seguro.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 20 - História de Usuário Definir dispositivo seguro.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US17               | Definir dispositivo seguro |
     | Descrição              | 	Eu, como usuário, desejo marcar meu smartphone como dispositivo seguro para impedir acessos não autorizados caso seja roubado ou troque de aparelho. |
-    | Critérios de Aceitação | - No menu Perfil, exibir botão “Definir dispositivo seguro”.<br> - Ao tocar em “Definir dispositivo seguro”, o app salva localmente o status de “dispositivo confiável”.<br> - Enquanto marcado como seguro, não solicitar autenticação extra em logins futuros.<br> - O usuário pode desmarcar “Dispositivo seguro” no mesmo local, retornando ao estado padrão.<br> |
+    | Critérios de Aceitação | - No menu Perfil, exibir botão "Definir dispositivo seguro".<br> - Ao tocar em "Definir dispositivo seguro", o app salva localmente o status de "dispositivo confiável".<br> - Enquanto marcado como seguro, não solicitar autenticação extra em logins futuros.<br> - O usuário pode desmarcar "Dispositivo seguro" no mesmo local, retornando ao estado padrão.<br> |
     | Rastreabilidade        | - |
     | Prioridade             | Alta |
 
@@ -519,17 +531,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us18"></a>
 ### US18 - Fazer download do Termos de Uso do aplicativo
 
-??? abstract "Tabela 20 - História de Usuário Fazer download do Termos de Uso do aplicativo"
+??? abstract "Tabela 21 - História de Usuário Fazer download do Termos de Uso do aplicativo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 20 - História de Usuário Fazer download do Termos de Uso do aplicativo.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 21 - História de Usuário Fazer download do Termos de Uso do aplicativo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US18               | Fazer download do Termos de Uso do aplicativo |
     | Descrição              | Eu, como usuário, desejo baixar os Termos de Uso em PDF para consultá-los offline e comprovar meus direitos e deveres. |
-    | Critérios de Aceitação | - Na aba “Termos de Uso” deve existir botão “Baixar Termos de Uso (PDF)”. <br> - Ao tocar, o arquivo é baixado para a pasta padrão de downloads do sistema. <br> - O PDF deve conter versão e data visíveis na primeira página. <br> - Falta de conexão exibe aviso “Não foi possível baixar. Tente novamente.” |
+    | Critérios de Aceitação | - Na aba "Termos de Uso" deve existir botão "Baixar Termos de Uso (PDF)". <br> - Ao tocar, o arquivo é baixado para a pasta padrão de downloads do sistema. <br> - O PDF deve conter versão e data visíveis na primeira página. <br> - Falta de conexão exibe aviso "Não foi possível baixar. Tente novamente.". |
     | Rastreabilidade        | - |
     | Prioridade             | Média |
 
@@ -566,11 +578,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us19"></a>
 ### US19 - Leitura do IMEI via câmera do celular
 
-??? abstract "Tabela 21 - História de Usuário Leitura do IMEI via câmera do celular"
+??? abstract "Tabela 22 - História de Usuário Leitura do IMEI via câmera do celular"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 21 - História de Usuário Leitura do IMEI via câmera do celular.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 22 - História de Usuário Leitura do IMEI via câmera do celular.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -587,11 +599,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us20"></a>
 ### US20 - Concessão de permissão para leitura do IMEI pelo próprio dispositivo **(Não Implementado)**
 
-??? abstract "Tabela 22 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo"
+??? abstract "Tabela 23 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 22 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 23 - História de Usuário Concessão de permissão para leitura do IMEI pelo próprio dispositivo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -608,11 +620,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us21"></a>
 ### US21 - Guia de detalhes adicionais sobre consulta de celulares com restrições
 
-??? abstract "Tabela 23 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições"
+??? abstract "Tabela 24 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 23 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 24 - História de Usuário Guia de detalhes adicionais sobre consulta de celulares com restrições.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -629,11 +641,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us22"></a>
 ### US22 - Consulta manual e direta do IMEI
 
-??? abstract "Tabela 24 - História de Usuário Consulta manual e direta do IMEI"
+??? abstract "Tabela 25 - História de Usuário Consulta manual e direta do IMEI"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 24 - História de Usuário Consulta manual e direta do IMEI.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 25 - História de Usuário Consulta manual e direta do IMEI.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -650,17 +662,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us23"></a>
 ### US23 - Validações de erro claras e rápidas
 
-??? abstract "Tabela 25 - História de Usuário Validações de erro claras e rápidas"
+??? abstract "Tabela 26 - História de Usuário Validações de erro claras e rápidas"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 25 - História de Usuário Validações de erro claras e rápidas.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 26 - História de Usuário Validações de erro claras e rápidas.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US23                   | Validações de erro claras e rápidas |
     | Descrição              | Eu, como usuário, desejo receber mensagens claras e imediatas quando um erro ocorre, para saber como corrigi-lo facilmente. |
-    | Critérios de Aceitação | - O aplicativo deve exibir mensagens de erro descritivas (ex: “IMEI inválido” ou “Campo obrigatório”). <br> - As mensagens devem aparecer em até 2 segundos após a detecção do erro. |
+    | Critérios de Aceitação | - O aplicativo deve exibir mensagens de erro descritivas (ex: "IMEI inválido" ou "Campo obrigatório"). <br> - As mensagens devem aparecer em até 2 segundos após a detecção do erro. |
     | Rastreabilidade        | [OBS19](../../documento-elicitacao/Observacao.md) |
     | Prioridade             | Média |
 
@@ -671,11 +683,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us24"></a>
 ### US24 - Interface clara com instruções para realização das etapas de consulta
 
-??? abstract "Tabela 26 - História de Usuário Interface clara com instruções para realização das etapas de consulta"
+??? abstract "Tabela 27 - História de Usuário Interface clara com instruções para realização das etapas de consulta"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 26 - História de Usuário Interface clara com instruções para realização das etapas de consulta.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 27 - História de Usuário Interface clara com instruções para realização das etapas de consulta.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -704,11 +716,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ### US25 - Alertar automaticamente por comportamento suspeito (Não implementado)
 
-??? abstract "Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado)"
+??? abstract "Tabela 28 - Alertar automaticamente por comportamento suspeito (Não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 27 - Alertar automaticamente por comportamento suspeito (Não implementado).</p></font>
+    <font size="3"><p style="text-align: center">Tabela 28 - Alertar automaticamente por comportamento suspeito (Não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -724,17 +736,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ### US26 - Localizar aparelho via GPS em tempo real (Não implementado)
 
-??? abstract "Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado)"
+??? abstract "Tabela 29 - Localizar aparelho via GPS em tempo real (Não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 28 - Localizar aparelho via GPS em tempo real (Não implementado).</p></font>
+    <font size="3"><p style="text-align: center">Tabela 29 - Localizar aparelho via GPS em tempo real (Não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US26               | Localizar aparelho via GPS em tempo real |
     | Descrição              | Como um usuário do aplicativo Celular Seguro, quero rastrear meu dispositivo em tempo real via GPS, para localizar seu paradeiro em caso de perda ou roubo.  |
-    | Critérios de Aceitação | - A localização GPS deve ser ativada automaticamente após um alerta e poder ser consultada sob demanda pelo app ou portal do usuário autenticado.   <br> - O sistema deve exibir um mapa com a posição atual do dispositivo, data e hora da última atualização e um botão “Atualizar localização agora”.  <br> - A localização deve ser atualizada em tempo real (ou em intervalos configuráveis, ex: a cada 30 segundos).  <br> - A funcionalidade deve solicitar permissão de localização do dispositivo e permitir que o usuário desative o rastreamento a qualquer momento.   |
+    | Critérios de Aceitação | - A localização GPS deve ser ativada automaticamente após um alerta e poder ser consultada sob demanda pelo app ou portal do usuário autenticado.   <br> - O sistema deve exibir um mapa com a posição atual do dispositivo, data e hora da última atualização e um botão "Atualizar localização agora".  <br> - A localização deve ser atualizada em tempo real (ou em intervalos configuráveis, ex: a cada 30 segundos).  <br> - A funcionalidade deve solicitar permissão de localização do dispositivo e permitir que o usuário desative o rastreamento a qualquer momento.   |
     | Rastreabilidade        | Vídeo de validação da entrevista 05 |
     | Prioridade             | Alta |
 
@@ -744,17 +756,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ### US27 - Confirmar antes da emissão do alerta
 
-??? abstract "Tabela 29 - Confirmar antes da emissão do alerta"
+??? abstract "Tabela 30 - Confirmar antes da emissão do alerta"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 29 - Confirmar antes da emissão do alerta.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 30 - Confirmar antes da emissão do alerta.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US27               | Confirmar antes da emissão do alerta |
     | Descrição              | Como um usuário do aplicativo, quero ver uma janela pop-up de confirmação ao tentar emitir um alerta de roubo, para evitar o envio acidental da notificação.  |
-    | Critérios de Aceitação | - O sistema exibe um pop-up com as opções “Confirmar” e “Cancelar”. <br> - O alerta só é disparado após o clique em “Confirmar”.   <br> - A mensagem deve informar claramente as consequências do alerta. |
+    | Critérios de Aceitação | - O sistema exibe um pop-up com as opções "Confirmar" e "Cancelar". <br> - O alerta só é disparado após o clique em "Confirmar".   <br> - A mensagem deve informar claramente as consequências do alerta. |
     | Rastreabilidade        | [OBS09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais) |
     | Prioridade             | Alta |
 
@@ -764,17 +776,17 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ### US28 - Escolher tipo de bloqueio
 
-??? abstract "Tabela 30 - Escolher tipo de bloqueio"
+??? abstract "Tabela 31 - Escolher tipo de bloqueio"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 30 - Escolher tipo de bloqueio.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 31 - Escolher tipo de bloqueio.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
     | US28               | Escolher tipo de bloqueio |
     | Descrição              | Como um usuário do aplicativo, quero poder escolher entre "Modo Recuperação" ou "Bloqueio Total" ao emitir um alerta, para controlar o nível de segurança de acordo com a situação.  |
-    | Critérios de Aceitação | - O pop-up de confirmação inclui a seleção do tipo de bloqueio.  <br> - O “Modo Recuperação” bloqueia linha e contas, mas mantém o IMEI ativo. <br> - O “Bloqueio Total” impede o uso completo do aparelho. <br> - O sistema deve descrever resumidamente as consequências de cada opção.  |
+    | Critérios de Aceitação | - O pop-up de confirmação inclui a seleção do tipo de bloqueio.  <br> - O "Modo Recuperação" bloqueia linha e contas, mas mantém o IMEI ativo. <br> - O "Bloqueio Total" impede o uso completo do aparelho. <br> - O sistema deve descrever resumidamente as consequências de cada opção.  |
     | Rastreabilidade        | [ADD06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1) |
     | Prioridade             | Alta |
 
@@ -784,11 +796,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ### US29 - Permitir que pessoas de confiança emitam alerta
 
-??? abstract "Tabela 31 - Permitir que pessoas de confiança emitam alerta"
+??? abstract "Tabela 32 - Permitir que pessoas de confiança emitam alerta"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 31 - Permitir que pessoas de confiança emitam alerta.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 32 - Permitir que pessoas de confiança emitam alerta.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -804,11 +816,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 
 ### US30 - Gerar número de protocolo
 
-??? abstract "Tabela 32 - Gerar número de protocolo"
+??? abstract "Tabela 33 - Gerar número de protocolo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 32 - Gerar número de protocolo.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 33 - Gerar número de protocolo.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -838,11 +850,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us31"></a>
 ### US31 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança (não implementado)
 
-??? abstract "Tabela 33 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança. (não implementado)"
+??? abstract "Tabela 34 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança. (não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 33 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança (Não implementado).</p></font>
+    <font size="3"><p style="text-align: center">Tabela 34 - Enviar um SMS para uma pessoa quando a mesma for adicionada como pessoa de confiança (Não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -859,11 +871,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us32"></a>
 ### US32 - Cadastrar contatos com base nos números já existentes no celular (não implementado)
 
-??? abstract "Tabela 34 - Cadastrar contatos com base nos números já existentes no celular (não implementado)"
+??? abstract "Tabela 35 - Cadastrar contatos com base nos números já existentes no celular (não implementado)"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 34 - Cadastrar contatos com base nos números já existentes no celular (não implementado).</p></font>
+    <font size="3"><p style="text-align: center">Tabela 35 - Cadastrar contatos com base nos números já existentes no celular (não implementado).</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -880,11 +892,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us33"></a>
 ### US33 - Cadastrar manualmente uma nova Pessoa de Confiança
 
-??? abstract "Tabela 35 - Cadastrar manualmente uma nova Pessoa de Confiança"
+??? abstract "Tabela 36 - Cadastrar manualmente uma nova Pessoa de Confiança"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 35 - História de Usuário [Título da US33].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 36 - História de Usuário [Título da US33].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -901,11 +913,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us34"></a>
 ### US34 - Visualizar lista de Pessoas de Confiança cadastradas
 
-??? abstract "Tabela 36 - Visualizar lista de Pessoas de Confiança cadastradas"
+??? abstract "Tabela 37 - Visualizar lista de Pessoas de Confiança cadastradas"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 36 - Visualizar lista de Pessoas de Confiança cadastradas.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 37 - Visualizar lista de Pessoas de Confiança cadastradas.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -922,11 +934,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us35"></a>
 ### US35 - Pesquisar uma Pessoa de Confiança específica na lista
 
-??? abstract "Tabela 37 - Pesquisar uma Pessoa de Confiança específica na lista"
+??? abstract "Tabela 38 - Pesquisar uma Pessoa de Confiança específica na lista"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 37 - Pesquisar uma Pessoa de Confiança específica na lista.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 38 - Pesquisar uma Pessoa de Confiança específica na lista.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -943,11 +955,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 <a id="us36"></a>
 ### US36 - Remover uma Pessoa de Confiança da lista
 
-??? abstract "Tabela 38 - Remover uma Pessoa de Confiança da lista"
+??? abstract "Tabela 39 - Remover uma Pessoa de Confiança da lista"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 38 - Remover uma Pessoa de Confiança da lista.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 39 - Remover uma Pessoa de Confiança da lista.</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -977,11 +989,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ### US37 - Localizar o dispositivo em tempo real
 
 
-??? abstract "Tabela 39 - Localizar o dispositivo em tempo real"
+??? abstract "Tabela 40 - Localizar o dispositivo em tempo real"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 39 - História de Usuário [Título da US37].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 40 - História de Usuário [Título da US37].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -998,11 +1010,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ### US38 - Fazer o dispositivo emitir som
 
 
-??? abstract "Tabela 40 - Fazer o dispositivo emitir som"
+??? abstract "Tabela 41 - Fazer o dispositivo emitir som"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 40 - História de Usuário [Título da US38].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 41 - História de Usuário [Título da US38].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -1019,11 +1031,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ### US39 - Bloquear dispositivo
 
 
-??? abstract "Tabela 41 - Bloquear dispositivo"
+??? abstract "Tabela 42 - Bloquear dispositivo"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 41 - História de Usuário [Título da US39].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 42 - História de Usuário [Título da US39].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -1040,11 +1052,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ### US40 - Redefinir dispositivo para padrões de fábrica
 
 
-??? abstract "Tabela 42 - Redefinir dispositivo para padrões de fábrica"
+??? abstract "Tabela 43 - Redefinir dispositivo para padrões de fábrica"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 42 - História de Usuário [Título da US40].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 43 - História de Usuário [Título da US40].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -1061,11 +1073,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ### US41 - Deslogar contas de aplicativos selecionados previamente.
 
 
-??? abstract "Tabela 43 - Deslogar contas de aplicativos selecionados previamente."
+??? abstract "Tabela 44 - Deslogar contas de aplicativos selecionados previamente."
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 43 - História de Usuário [Título da US41].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 44 - História de Usuário [Título da US41].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -1082,11 +1094,11 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 ### US42 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail
 
 
-??? abstract "Tabela 44 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail"
+??? abstract "Tabela 45 - Realizar backup dos dados do dispositivo e disponibilizá-lo por e-mail"
 
     <center>
 
-    <font size="3"><p style="text-align: center">Tabela 44 - História de Usuário [Título da US42].</p></font>
+    <font size="3"><p style="text-align: center">Tabela 45 - História de Usuário [Título da US42].</p></font>
 
     | **ID**                 | **Nome** |
     | :--------------------- | :-------- |
@@ -1155,3 +1167,4 @@ As tabelas de 1 a 42 descrevem as histórias de usuário elicitadas (Representad
 | 1.9 | 31/05/2025 | Criação dos US 25 a 30  | <a style="color:gold;" href="https://github.com/zDrNz" target="_blank">Daniel Rodrigues</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 31/05/2025 |
 | 2.0 | 01/06/2025 | Mudanças de padrões de video e tabela de entrevistados| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | <a style="color:gold;" href="https://github.com/Besazs" target="_blank">Vitor Bessa</a> | 01/06/2025 |
 | 2.1    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
+| 2.2    | 06/07/2025 | Correção da numeração e ordem das tabelas| <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe Freire</a>| 06/07/2025|
