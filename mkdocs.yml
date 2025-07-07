@@ -88,6 +88,7 @@ nav:
 
     
   - Verificação:
+      - Introducão: "documento-verificacao/introducao-verificacao.md"
       - Planejamento Geral: "documento-verificacao/introducao-planejamento.md"
       - Entregas:
         - Entrega 1: 
@@ -106,6 +107,7 @@ nav:
           - Planejamento Entrega 5: "documento-verificacao/Entregas/Entrega-5/planejamento-entrega5.md"
           - Verificação 5: "documento-verificacao/Entregas/Entrega-5/documento-verificacao-grupo5.md"
         - Entrega 6:
+          - Planejamento Entrega 5: "documento-verificacao/Entregas/Entrega-6/planejamento-entrega6.md"
           - Verificação 6: "documento-verificacao/Entregas/Entrega-6/documento-verificacao-grupo6.md"
             
 
