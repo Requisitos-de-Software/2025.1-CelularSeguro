@@ -22,7 +22,6 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor do desemvolvimento do artefato |
 | [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
 *Legenda:* 
