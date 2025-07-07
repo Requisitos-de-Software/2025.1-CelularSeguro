@@ -55,11 +55,11 @@
 
 | ID  | Item de Verificação                                                                                                   | Referência                         |
 |-----|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| P01 | Conseguimos seguir o fluxo de um requisito desde a sua origem no documento de requisitos até os diagramas e protótipo?  | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)|
-| P02 | Para cada requisito, é fácil encontrar os desenhos, diagramas ou modelos que o explicam visualmente?                                                     | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)               |
-| P03 | Se a "funcionalidade A" precisa que a "funcionalidade B" exista para poder funcionar, essa dependência está registrada?                                                         | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)             |
-| P04 | Quando um requisito muda, a sua versão é atualizada? As suas conexões com outros itens são revisadas e corrigidas?                                            | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf)            |
-| P05| Os requisitos estão priorizados de forma clara (usando MoSCoW ou outra técnica)?                                                                  | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf)           |
+| P01 | Conseguimos seguir o fluxo de um requisito desde a sua origem no documento de requisitos até os diagramas e protótipo?  | 📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)|
+| P02 | Para cada requisito, é fácil encontrar os desenhos, diagramas ou modelos que o explicam visualmente?                                                     | 📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)               |
+| P03 | Se a "funcionalidade A" precisa que a "funcionalidade B" exista para poder funcionar, essa dependência está registrada?                                                         | 📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)             |
+| P04 | Quando um requisito muda, a sua versão é atualizada? As suas conexões com outros itens são revisadas e corrigidas?                                            | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../../../assets/verificacao/verificacao5/Rastreabilidade.pdf)            |
+| P05| Os requisitos estão priorizados de forma clara (usando MoSCoW ou outra técnica)?                                                                  | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../../../assets/verificacao/verificacao5/Rastreabilidade.pdf)           |
 
 
 <font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
@@ -75,11 +75,11 @@
 
 | ID     | Critério                                                                                                             | Referência            |
 |--------|----------------------------------------------------------------------------------------------------------------------|-----------------------|
-| BW01  | De onde veio cada requisito? É possível identificar a sua fonte?                                                  |📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
-| BW02  | A "justificativa" para a inclusão (ou exclusão) de um requisito está documentada em algum lugar?                                                               | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
-| BW03  | As fontes dos requisitos (como documentos de entrevistas ou questionários) são rastreáveis e possuem data/versão para garantir que não estamos olhando para algo desatualizado?                                                                 | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf) |
-| BW04  | Se um requisito foi criado a partir de outro mais genérico (um "requisito-pai"), essa ligação de derivação está clara?                                                 | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../assets/verificacao/verificacao5/Rastreabilidade.pdf) |
-| BW05  | É possível navegar "de volta" a partir de um caso de teste ou de um trecho de código para encontrar o requisito que o originou?      | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
+| BW01  | De onde veio cada requisito? É possível identificar a sua fonte?                                                  |📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)  |
+| BW02  | A "justificativa" para a inclusão (ou exclusão) de um requisito está documentada em algum lugar?                                                               | 📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)  |
+| BW03  | As fontes dos requisitos (como documentos de entrevistas ou questionários) são rastreáveis e possuem data/versão para garantir que não estamos olhando para algo desatualizado?                                                                 | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../../../assets/verificacao/verificacao5/Rastreabilidade.pdf) |
+| BW04  | Se um requisito foi criado a partir de outro mais genérico (um "requisito-pai"), essa ligação de derivação está clara?                                                 | 📄 [PDF - Requirements Engineering Fundamentals (2016)](../../../assets/verificacao/verificacao5/Rastreabilidade.pdf) |
+| BW05  | É possível navegar "de volta" a partir de um caso de teste ou de um trecho de código para encontrar o requisito que o originou?      | 📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)  |
 
 <font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
 
@@ -88,7 +88,7 @@
 
 | ID     | Critério                                                                                                    | Referência            |
 |--------|-------------------------------------------------------------------------------------------------------------|-----------------------|
-| FW01  | Cada requisito está conectado a um artefato de design, como um caso de uso, um protótipo (wireframe) ou um diagrama técnico?                      | 📄 [PDF - Sayão & Leite (2005)](../assets/verificacao/verificacao5/Sayo.pdf)  |
+| FW01  | Cada requisito está conectado a um artefato de design, como um caso de uso, um protótipo (wireframe) ou um diagrama técnico?                      | 📄 [PDF - Sayão & Leite (2005)](../../../assets/verificacao/verificacao5/Sayo.pdf)  |
 
 
 <font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
@@ -102,11 +102,11 @@
 
 | Item | Referência | Imagem |
 |------|------------|--------|
-|<b id="REF01">P01</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p01.png)|
-|<b id="REF02">P02</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p02.png)|
-|<b id="REF03">P03</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p03.png)|
-|<b id="REF04">P04</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p04.png)|
-|<b id="REF05">P05</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/p05.png)|
+|<b id="REF01">P01</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/p01.png)|
+|<b id="REF02">P02</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/p02.png)|
+|<b id="REF03">P03</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/p03.png)|
+|<b id="REF04">P04</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/p04.png)|
+|<b id="REF05">P05</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/p05.png)|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font> 
@@ -116,11 +116,11 @@
 
 | Item | Referência | Imagem |
 |------|------------|--------|
-|<b id="REF08">BW01</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw01.png)|
-|<b id="REF09">BW02</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw02.png)|
-|<b id="REF10">BW03</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05) |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw03.png)|
-|<b id="REF11">BW04</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw04.png)|
-|<b id="REF12">BW05</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../assets/verificacao/verificacao5/Bibliografia/bw05.png)|
+|<b id="REF08">BW01</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/bw01.png)|
+|<b id="REF09">BW02</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/bw02.png)|
+|<b id="REF10">BW03</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05) |[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/bw03.png)|
+|<b id="REF11">BW04</b>|POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. |[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/bw04.png)|
+|<b id="REF12">BW05</b>|SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05)|[Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/bw05.png)|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font> 
@@ -131,7 +131,7 @@
 
 | Item | Referência | Imagem |
 |------|------------|--------|
-| <b id="REF17">FW01</b> |SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05) | [Ver imagem](../assets/verificacao/verificacao5/Bibliografia/fw01.png) |
+| <b id="REF17">FW01</b> |SAYÃO, M.; LEITE, J. C. S. P. Rastreabilidade de Requisitos. Rio de Janeiro: Departamento de Informática, PUC-Rio, maio 2005. (Monografias em Ciência da Computação, n. 20/05) | [Ver imagem](../../../assets/verificacao/verificacao5/Bibliografia/fw01.png) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font> 
