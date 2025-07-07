@@ -6,9 +6,6 @@
 
 O **Celular Seguro** foi o aplicativo escolhido para representar o foco do projeto por sua relevância social, funcionalidade direta na proteção de dados e dispositivos móveis, além de refletir princípios modernos de segurança, interoperabilidade com instituições e governança pública digital. A seguir, apresentamos um resumo técnico de suas características e exigências, com base em seu Termo de Uso oficial.
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
-
 ## Integrantes que atuaram no desenvolvimento do artefato
 
 Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.

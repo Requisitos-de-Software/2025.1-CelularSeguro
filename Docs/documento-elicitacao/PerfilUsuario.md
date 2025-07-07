@@ -11,8 +11,6 @@ Para que o desenvolvimento do sistema Celular Seguro seja centrado no usuário e
 Segundo Barbosa et al. (2021), o perfil de usuário consiste em uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema em desenvolvimento [[ 1 ]](#ref1). A elaboração desse perfil é uma etapa essencial na organização do espaço do problema, pois contribui para garantir que o sistema seja adequado ao seu contexto de uso.
 
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
@@ -135,3 +133,4 @@ Segundo dados recentes do IBGE (2023), 87,2% da população com 10 anos ou mais 
 | 1.1    | 04/05/2025         | Atualização das seções| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | 04/05/2025 |
 | 1.2    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| 08/05/2025|
 | 1.3    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
+| 1.4    | 06/07/2025         | Atualização das seções| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | 04/05/2025 |

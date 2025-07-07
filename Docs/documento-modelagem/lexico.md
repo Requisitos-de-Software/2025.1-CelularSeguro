@@ -14,8 +14,7 @@ O principal objetivo do uso do LAL é identificar palavras ou expressões espec�
 
 <font size="3"><p style="text-align: center">Fonte: <a href="../Aula_10_lexicos_milene.pdf" target="_blank">SERRANO, Maurício e SERRANO, Milene [1]</a></p></font>
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
