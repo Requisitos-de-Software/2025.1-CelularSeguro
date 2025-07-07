@@ -20,6 +20,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Nome | Função |
 | :--- | :--- |
 | [<span style="color:gold;">Felipe das Neves </span>](https://github.com/repolhudo) | Autor dos protótipos: [[ RF 43 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/#rastreabilidade) e [[ RF 44 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/#rastreabilidade)|
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Responsável por desenvolver o artefato e: [[ Introdução ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/#introducao) e [[ Metodologia ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/#metodologia)|
 
 
 *Legenda:* 
