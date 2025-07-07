@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Nesta etapa, realizamos a verificação dos requisitos com base em um processo sistemático, inspirado no método de inspeção proposto por Fagan, que define seis passos fundamentais: Planejamento, Visão Geral, Preparação, Inspeção, Correção e Acompanhamento. Esse modelo guiou a estruturação de nossas atividades, proporcionando maior controle de qualidade sobre os artefatos produzidos.
+Nesta etapa 1, realizamos a verificação dos requisitos com base em um processo sistemático, inspirado no método de inspeção proposto por Fagan, que define seis passos fundamentais: Planejamento, Visão Geral, Preparação, Inspeção, Correção e Acompanhamento. Esse modelo guiou a estruturação de nossas atividades, proporcionando maior controle de qualidade sobre os artefatos produzidos.
 
 !!! Warning "Atenção!"
     O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
@@ -19,7 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-1/planejamento-entrega1/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Refatorador do artefato e autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-1/planejamento-entrega1/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do layout de modelagem do artefato |
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
@@ -51,8 +51,8 @@ Os artefatos da Entrega 1 verificados foram:
 | Entrega | Item | Descrição | Corrigido? |
 | :--- | :--- | :--- | :---: |
 | **Entrega 1** | 03 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | Sim, o integrante Vitor Bessa fez os ajustes no cronograma. |
-| | 19 | Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? | Sim, todos os integrantes fizeram ao menos 1 artefáto obrigatório nesta etapa do projeto. |
-| | - | Ajustar descrições dos Rich Picture [[ Rich Picture ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#celular-seguro)  | Sim, o integrante Gabriel fez os ajustes nas descrições das figuras. |
+| **Entrega 1** | 19 | Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? | Sim, todos os integrantes fizeram ao menos 1 artefáto obrigatório nesta etapa do projeto. |
+| **Entrega 1** | - | Ajustar descrições dos Rich Picture [[ Rich Picture ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#celular-seguro)  | Sim, o integrante Gabriel fez os ajustes nas descrições das figuras. |
 
 *Legenda:* 
 

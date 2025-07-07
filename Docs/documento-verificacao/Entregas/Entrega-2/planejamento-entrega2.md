@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Nesta etapa, realizamos a verificação dos requisitos com base em um processo sistemático, inspirado no método de inspeção proposto por Fagan, que define seis passos fundamentais: Planejamento, Visão Geral, Preparação, Inspeção, Correção e Acompanhamento. Esse modelo guiou a estruturação de nossas atividades, proporcionando maior controle de qualidade sobre os artefatos produzidos.
+Nesta etapa 2, realizamos a verificação dos requisitos com base em um processo sistemático, inspirado no método de inspeção proposto por Fagan, que define seis passos fundamentais: Planejamento, Visão Geral, Preparação, Inspeção, Correção e Acompanhamento. Esse modelo guiou a estruturação de nossas atividades, proporcionando maior controle de qualidade sobre os artefatos produzidos.
 
 !!! Warning "Atenção!"
     O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
@@ -19,7 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-1/planejamento-entrega1/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Refatorador do artefato e autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-2/planejamento-entrega2/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do layout de modelagem do artefato |
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
@@ -50,19 +50,19 @@ Os artefatos da Entrega 2 verificados foram:
 - <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/100> $100</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario> Questionário</a>
 
-### Tabela 2 – Refatorações necessárias das Inspeções
+### Tabela 1 – Refatorações necessárias das Inspeções
 
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 14/07 | Versão 1.0</span>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 07/07 | Versão 2.0</span>
 </center>
 
 | Entrega | Item | Descrição | Corrigido? |
 | :--- | :--- | :--- | :---: |
 | **Entrega 2** | 06 | O cronograma executado não apresenta as datas de início e fim da construção/realização do artefato/atividade. | Pendente |
-| | 11 | Não foi definido um cronograma (data e horário) para a elicitação dos requisitos com o cliente/persona. | Pendente | 
-|  | 74 | A técnica dos $100 não foi aplicada com a participação de um cliente real do sistema. | Pendente |
-|  | 76 | Na técnica dos $100, a distribuição dos valores ultrapassou o limite de $100. | Pendente |
-|  | - | Explicação adequada das técnicas usadas no QFD | Sim, Foi feita a refatoração completa do artetafo |
+| **Entrega 2** | 11 | Não foi definido um cronograma (data e horário) para a elicitação dos requisitos com o cliente/persona. | Pendente | 
+| **Entrega 2** | 74 | A técnica dos $100 não foi aplicada com a participação de um cliente real do sistema. | Pendente |
+| **Entrega 2** | 76 | Na técnica dos $100, a distribuição dos valores ultrapassou o limite de $100. | Pendente |
+| **Entrega 2** | - | Explicação adequada das técnicas usadas no QFD | Sim, Foi feita a refatoração completa do artetafo |
 
 *Legenda:* 
 
@@ -78,11 +78,7 @@ Os artefatos da Entrega 2 verificados foram:
 
 <font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
 
-
-
-## Listas de Verificação
-
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+---
 
 ## Resultado
 
