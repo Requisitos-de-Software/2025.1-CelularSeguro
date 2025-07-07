@@ -1,60 +1,117 @@
-Os artefatos da Entrega 1 verificados foram:
+# Planejamento de Verificação - Entrega 1
 
-- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativo_selecionado>Rich Picture</a>
+## Artefato Verificado
 
-## Resultado
+- [Rich Picture](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativo_selecionado)
 
-O resultado da verificação de cada artefato pode ser visualizado nas páginas abaixo:
+## Resultado da Verificação
 
-- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/documento-verificacao-grupo>Verificação Rich Picture</a>
+O resultado da verificação pode ser visualizado em:
+
+- [Verificação Rich Picture](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/documento-verificacao-grupo)
+
+---
+
+## Tabela de Contribuição
+
+<div align="center">
+
+**Tabela 1 – Contribuição**
+
+| Nome          | Artefato     |
+|---------------|--------------|
+| Gabriel Lima  | Rich Picture |
+
+</div>
+
+---
 
 ## Listas de Verificação
 
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+As listas de verificação foram elaboradas com base nas atividades realizadas e nos critérios definidos no [📄 Plano de Ensino](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista%20de%20Verificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf).
+
+---
 
 ### Itens do Planejamento Geral do Projeto
 
-<font size="3"><p style="text-align: center">Tabela 2: Itens do Planejamento Geral do Projeto</p></font> 
+**Tabela 2 – Itens do Planejamento Geral**
 
-| ID | Item de Verificação | Autor(es) | Conformidade | Referência |
-|------|-------|------|---------|---------|
-| <a href="#REF01">1</a> | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |  !!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> |
-| <a href="#REF02">2</a> | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles? | !!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF03">3</a> | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | !!!!!!!!!! | Conformidade |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF04">4</a> | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? |!!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF05">5</a> | A motivação e os critérios para a escolha do App? |!!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF06">6</a> | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | !!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF07">7</a> | Possui opção de contraste de cores? | !!!!!!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> |
+| ID | Item de Verificação                                                                 | Conformidade |
+|----|--------------------------------------------------------------------------------------|--------------|
+| 1  | Página com os integrantes da equipe (com foto, nome, sem matrícula)                | Conformidade |
+| 2  | Cronograma com todas as atividades, datas de início/fim e revisões                 | Conformidade |
+| 3  | Período de gravação da apresentação definido                                        | Conformidade |
+| 4  | Previsão de revisão/ajustes após feedback                                           | Conformidade |
+| 5  | Motivação e critérios da escolha do App documentados                                | Conformidade |
+| 6  | Cópia do Termo de Uso ou equivalente                                                 | Conformidade |
+| 7  | O app possui opção de contraste de cores?                                           | Conformidade |
 
-<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+---
 
-#### Itens do Desenvolvimento do Projeto
-<font size="3"><p style="text-align: center">Tabela 3: Itens do Desenvolvimento do Projeto</p></font> 
+### Itens do Desenvolvimento do Projeto
 
-| ID | Item de Verificação | Autor(es) | Conformidade | Referência |
-|------|-------|------|---------|---------|
-| <a href="#REF08">8</a> | O histórico de versão é padronizado? | !!!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF09">9</a> | O(s) autor(es) e o(s) revisor(es) para cada artefato? | !!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a>  | 
-| <a href="#REF10">10</a> | Referências bibliográficas e/ou bibliografia em todos os artefatos? | !!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF11">11</a> | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | !!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF12">12</a> | Um texto fazendo uma introdução dos artefatos? | !!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF13">13</a> | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | !!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF14">14</a> | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | !!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF15">15</a> | A gravação da reunião do grupo. | !!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
-| <a href="#REF16">16</a> | Vídeo de apresentação na categoria “ listado” no YouTube? | !!!!!!!!!!! | Conformidade | <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/Lista de Verifificação - Plano_de_Ensino RE 012025 Turma 03 v2.pdf" target="_blank">📄 PDF - Plano de Ensino </a> | 
+**Tabela 3 – Desenvolvimento do Projeto**
 
-<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+| ID  | Item de Verificação                                                                 | Conformidade |
+|-----|--------------------------------------------------------------------------------------|--------------|
+| 8   | Histórico de versão padronizado                                                     | Conformidade |
+| 9   | Autores e revisores identificados nos artefatos                                     | Conformidade |
+| 10  | Referências bibliográficas presentes                                                | Conformidade |
+| 11  | Tabelas e imagens com legenda, fonte e chamadas no texto                            | Conformidade |
+| 12  | Texto de introdução aos artefatos                                                   | Conformidade |
+| 13  | Cronograma executado com responsáveis e datas                                       | Conformidade |
+| 14  | Atas de reuniões com data, horários, participantes e atividades                     | Conformidade |
+| 15  | Gravação da reunião disponível                                                      | Conformidade |
+| 16  | Vídeo da apresentação listado no YouTube                                            | Conformidade |
 
-#### Rich Picture
+---
 
-<font size="3"><p style="text-align: center">Tabela 4: Itens do conteúdo do Projeto </p></font> 
+### Itens do Artefato: Rich Picture
 
-| ID | Item de Verificação | Autor(es) | Conformidade | Referência |
-|------|-------|------|---------|---------|
-| <a href="#REF17">17</a> | No artefato "Rich Picture", possui uma legenda explicando os símbolos utilizados no diagrama? | !!!!!!!!! | Conformidade |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> | 
-| <a href="#REF18">18</a> | Todos os 5 componentes de um "Rich Picture" estão presentes no artefato apresentado pelo grupo? | !!!!!!!!! | Conformidade |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> | 
-| <a href="#REF19">19</a> | Cada integrante do grupo elaborou pelo menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto de referência? |  !!!!!!!!!!!! | Conformidade |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-CelularSeguro/main/Docs/assets/pdf/verificacao/IntruducingRichPicture.pdf" target="_blank">📄 PDF - Introducing Rich Pictures </a> |
+**Tabela 4 – Verificação do Rich Picture**
 
-<font size="2"><p style="text-align: center">Autor: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font>
+| ID  | Item de Verificação                                                                 | Conformidade |
+|-----|--------------------------------------------------------------------------------------|--------------|
+| 17  | Legenda explicando os símbolos utilizados                                           | Conformidade |
+| 18  | Todos os 5 componentes de um Rich Picture estão presentes                          | Conformidade |
+| 19  | Cada integrante elaborou pelo menos 1 conteúdo com referência e imagem             | Conformidade |
+
+---
+
+## Análise de Resultados
+
+*Conteúdo opcional: pode incluir comentários sobre qualidade dos artefatos, pontos fortes, melhorias feitas etc.*
+
+---
+
+## Correções e Acompanhamento
+
+*Se houver correções realizadas após a verificação, liste aqui com link para commits ou PRs.*
+
+---
 
 ## Referências Bibliográficas
+
+**Tabela 5 – Bibliografia dos Itens do Rich Picture**
+
+| Item | Referência                                                                                         | Imagem                                                                 |
+|------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 17   | *Introducing Rich Pictures – Rich Picture Drawing Guidelines*, CTEC2402 - Software Development Project | ![ver imagem](../assets/verificacao/verificacao1/entrega1-3.png)       |
+| 18   | *Introducing Rich Pictures – Rich Picture Drawing Guidelines*, CTEC2402 - Software Development Project | ![ver imagem](../assets/verificacao/verificacao1/entrega1-3.png)       |
+
+---
+
+## Histórico de Versões
+
+**Tabela 6 – Histórico de Versões**
+
+| Versão | Data       | Descrição                              | Autor                      | Revisor           | Data Revisão |
+|--------|------------|----------------------------------------|----------------------------|-------------------|--------------|
+| 1.0    | 04/07/2025 | Planejamento da entrega 01             | [Daniel Rodrigues](https://github.com/zDrNz) | [Vitor Bessa](https://github.com/Bessazs) | 04/07/2025 |
+
+---
+
+**Autores:**  
+- [Gabriel Lima](https://github.com/gabriel-lima258)  
+- [Daniel Rodrigues](https://github.com/zDrNz)  
+- [Vitor Bessa](https://github.com/Bessazs)

@@ -19,14 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | :--- | :--- |
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)  | Autor do Artefato |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Revisor do Artefato |
-| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do documento |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Revisor do documento |
-| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do documento |
-| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | Revisor do documento |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Criação do conteúdo da documentação |
-| [<span style="color:gold;">Leonardo Lima](https://github.com/leozinlima) | Ajuste de referências e hiperlink da documentação |
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
 
 
 *Legenda:* 
