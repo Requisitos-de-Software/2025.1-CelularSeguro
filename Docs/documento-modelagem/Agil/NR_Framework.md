@@ -474,7 +474,7 @@ Diagrama de SIG de usabilidade, figura 5:
   <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 07/07 | Versão 2.0</span>
 </center>
 
-![SIG GERAL](../../assets/nfr/usabilidade.png)
+![SIG GERAL](../../assets/nfr/usabilidade23.png)
 
 <font size="3"><p style="text-align: center">Autor: Felipe das Neves</p></font>
 
