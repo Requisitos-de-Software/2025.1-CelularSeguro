@@ -21,8 +21,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolho) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documentacao-artefatosAnteriores/#tabela-1-refatoracao-das-inspecoes-internas-anteriores)|
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor das seguintes Etapas: [[ Etapa 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-planejamento/cronograma-executado/#etapa-1-planejamento-e-pre-rastreabilidade), [[ Etapa 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-planejamento/cronograma-executado/#etapa-2-elicitacoes-tecnicas-e-priorizacoes), [[ Etapa 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-planejamento/cronograma-executado/#etapa-3-modelagem), [[ Etapa 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-planejamento/cronograma-executado/#etapa-4-agil) |
+| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | Revisor do Artefato |
 
 *Legenda:* 
 

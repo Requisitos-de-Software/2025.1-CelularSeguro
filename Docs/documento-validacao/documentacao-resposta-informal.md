@@ -23,6 +23,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Revisor do Artefato |
 | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | Autor do Envio para a Ouvidoria |
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do Envio do E-mail|
+[<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor do Desenvolvimento do texto do E-mail |
 
 !!! Tip "Observação"
     Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 

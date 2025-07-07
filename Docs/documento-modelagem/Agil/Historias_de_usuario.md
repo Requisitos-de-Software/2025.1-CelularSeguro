@@ -21,7 +21,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | :--- | :--- |
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor das histórias US 31 a 36: [[ Tabela 34 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us31-enviar-um-sms-para-uma-pessoa-quando-a-mesma-for-adicionada-como-pessoa-de-confianca-nao-implementado)|
 | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
-[<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor das histórias US 07 a 12: [ [Tabela 10]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us07-confirmar-envio-do-boletim-com-protocolo-visivel)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor das histórias US 07 a 12: [ [Tabela 10]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us07-confirmar-envio-do-boletim-com-protocolo-visivel)|
+| [<span style="color:gold;">Arthur Carvalho Leite</span>](https://github.com/arthurlleite) | Autor das histórias US 00 a 06: [ [Tabela 00 a 06]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us00-cadastro-de-multiplos-celulares)|
 
 *Legenda:* 
 
