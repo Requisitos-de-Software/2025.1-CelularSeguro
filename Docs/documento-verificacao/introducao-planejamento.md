@@ -1,11 +1,5 @@
 # Planejamento Geral de Verificação
 
- ---
-
-## Introdução
-
-A etapa de verificação dos requisitos de software é o ponto de convergência entre a visão do cliente e a concretização técnica do produto: é nela que asseguramos que cada requisito está completo, consistente, rastreável e livre de ambiguidades antes que se invista tempo e recursos no desenvolvimento. Ao identificar falhas, conflitos ou lacunas logo no início, evitamos retrabalho, reduzimos custos e aumentamos a confiabilidade do sistema — fatores decisivos para cumprir prazos, atender às expectativas dos stakeholders e entregar soluções de alta qualidade.
-
 ---
 
 ## Metodologia
