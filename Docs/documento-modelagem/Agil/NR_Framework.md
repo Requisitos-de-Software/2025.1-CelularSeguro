@@ -21,8 +21,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | Autor da Introdução, Metodologia, NFR Geral, SIG Adaptado e figura 5 : [[ Figura 5 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor da figura 3, 6, 8 e 9, SIG Adaptado |
 
 *Legenda:* 
 
@@ -175,7 +175,8 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | **Dependências:**        | Envio bem-sucedido do boletim de ocorrência                                                           |
 | **Prioridade:**          | Alta                                                                                            |
 | **Conflitos:**           | Nenhum                                                                                                |
-| **História:**            | 30/06/2025     
+| **História:**            |[US12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us12-notificacao-de-confirmacao-apos-envio-do-boletim)
+  
 
 
 
@@ -192,9 +193,9 @@ Os cartões de especificação a seguir, Tabelas de 1 a 6, foram utilizados para
 | **Dependências:**         | Funcionalidade de envio de boletim com anexos                                                          |
 | **Prioridade:**           | Média                                                                                            |
 | **Conflitos:**            | Nenhum                                                                                                |
-| **História:**             | 30/06/2025   
+| **História:**             |   [US08](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario/#us07-confirmar-envio-do-boletim-com-protocolo-visivel)
 
-
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
 As tabelas 3 e 4 são referentes a funcionalidade de Resgistrar pessoa de confiança. Critério do QFD para a criterização da prioridade, aliada os RNFs obtidos do questionário.
 
@@ -392,6 +393,42 @@ As Tabelas 11 e 12 apresentam os requisitos não funcionais (RNF) de usabilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Vitor Bessa](https://github.com/Bessazs)</p></font>
 
+
+<font size="3"><p style="text-align: center">Tabela 13: Cartão de Especificação (Controle de Acesso Seguro)</p></font>
+
+| Campo                 | RNF13 |
+|-----------------------|--------|
+| **Nº Requisito:**     | 13 |
+| **Classificação:**    | Segurança / Funcionalidade |
+| **Descrição:**        | O sistema deve implementar controle de acesso baseado em papéis (RBAC), limitando funcionalidades conforme o tipo de usuário (usuário comum, pessoa de confiança, administrador), impedindo o acesso indevido mesmo por rotas alternativas. |
+| **Justificativa:**    | Garantir que apenas usuários autorizados possam acessar funcionalidades sensíveis é essencial para prevenir ações indevidas, vazamento de dados e garantir o princípio do menor privilégio, reforçando a segurança do sistema. |
+| **Origem do Requisito:** | Técnicas de brainstorming e análise de documentos de sistemas similares com perfis diferenciados de usuário. Também motivado pela revisão de qualidade solicitada pelo professor. |
+| **Critério de Aceitação:** | O sistema deve: <br> - Ter ao menos três níveis de permissão: usuário comum, pessoa de confiança e administrador;<br> - Restringir funcionalidades conforme o perfil;<br> - Impedir o acesso por manipulação de interface ou chamadas diretas a URLs;<br> - Exibir mensagens de erro claras quando o acesso for negado. |
+| **Dependências:**     | RNF04 (Segurança), RNF08 (Autenticação), RF relacionados ao login e uso de funcionalidades sensíveis |
+| **Prioridade:**       | Alta |
+| **Conflitos:**        | Pode afetar a usabilidade caso o controle seja excessivamente restritivo ou mal comunicado ao usuário. |
+| **História:**         | Criado em 05/07/2025 para complementar o RNF07, conforme revisão docente sobre clareza e verificabilidade dos artefatos de segurança. |
+
+<font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 14: Cartão de Especificação (Autenticação Segura)</p></font>
+
+| Campo                 | RNF14 |
+|-----------------------|--------|
+| **Nº Requisito:**     | 14 |
+| **Classificação:**    | Segurança / Funcionalidade |
+| **Descrição:**        | O sistema deve implementar mecanismos de autenticação segura, incluindo senha forte e autenticação em dois fatores (2FA), para proteger o acesso às funcionalidades sensíveis do aplicativo. |
+| **Justificativa:**    | A autenticação é a primeira barreira de defesa do sistema. Garantir que apenas usuários legítimos acessem o sistema protege informações pessoais e reduz o risco de invasões, fraudes e uso indevido. |
+| **Origem do Requisito:** | Técnicas de brainstorming e análise de aplicativos com autenticação robusta (ex: Signal, Telegram). Revisado após recomendação do professor. Substitui o RNF08. |
+| **Critério de Aceitação:** | O sistema deve:<br> - Solicitar senha forte (mínimo de 8 caracteres, com letras, números e símbolo);<br> - Oferecer autenticação em dois fatores (2FA) nas funcionalidades críticas, como envio de alerta e alteração de dados de confiança;<br> - Realizar bloqueio temporário após 5 tentativas falhas de login;<br> - Exibir mensagens claras para erros de autenticação. |
+| **Dependências:**     | RNF04 (Segurança), RNF13 (Controle de Acesso Seguro) |
+| **Prioridade:**       | Alta |
+| **Conflitos:**        | Pode impactar a usabilidade se os métodos forem excessivamente rigorosos ou mal explicados. |
+| **História:**         | Criado em 05/07/2025 como versão revisada e técnica do RNF08 – Autenticação. |
+
+<font size="3"><p style="text-align: center">Fonte: [Mateus Bastos](https://github.com/MateuSansete)</p></font>
+
 ---
 
 ### Vídeo de Validação com o Usuário
@@ -495,7 +532,7 @@ A figura 6 a seguir demonstra o SIG de Confiabilidade:
 <font size="3"><p style="text-align: center"><b>Figura 6</b> SIG Confiabilidade</p></font>
 
 
-![SIG GERAL](../../assets/nfr/confiabilidade.png)
+![SIG NFR Confiabilidade](../../assets/nfr/confiabilidade.png)
 
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
@@ -507,13 +544,17 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 
 <font size="3"><p style="text-align: center">Tabela 15 - Requisitos Não-Funcionais: Confiabilidade</p></font>
 
-| Código | Nome                                   | Descrição                                                                 |
-|--------|----------------------------------------|---------------------------------------------------------------------------|
-| RNF02  | Enviar Anexos com Confiabilidade       | O sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB, sem falhas ou perdas de dados. |
-| RNF08  | Garantir Segurança e Privacidade       | O sistema deve garantir a criptografia ponta-a-ponta dos dados transmitidos e armazenados (ex: AES-256). |
-| RNF09  | Garantir Confiabilidade do Alerta      | O sistema deve garantir que o alerta de emergência seja enviado em até 1 segundo após a solicitação do usuário. |
 
-<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
+| Código | Nome                                      | Descrição                                                                                                                                                                             |
+| :----- | :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| RNF01  | Estabilidade e Confiabilidade Operacional | O aplicativo deve funcionar de maneira estável e confiável em momentos de emergência e sob condições de uso normais, garantindo a execução ininterrupta das suas funções essenciais.      |
+| RNF02  | Envio de Anexos com Integridade           | O sistema deve permitir o envio de arquivos (PDF, JPG, PNG) de até 10MB, garantindo a integridade dos dados transmitidos, sem falhas ou perdas.                                             |
+| RNF07  | Disponibilidade do Serviço (24x7)         | O serviço Celular Seguro deve estar disponível para todos os cidadãos brasileiros 24 horas por dia, 7 dias por semana, sem interrupções planejadas, para garantir acesso constante.    |
+| RNF21  | Verificação de Integridade de Dados       | O sistema deve realizar verificação da integridade de dados armazenados no drive local através de checksums, para prevenir corrupção e garantir a validade das informações.             |
+| RNF26  | Robustez contra Entradas Inválidas        | O aplicativo deve responder corretamente e de forma resiliente mesmo diante de entradas erradas ou inesperadas do usuário, sem travar ou apresentar comportamentos inconsistentes. |
+
+
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
 ### Propagação dos Impactos - Confiabilidade
 
@@ -535,7 +576,7 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 | Arquivos até 10MB (JPG, PNG, PDF)  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 | Falha no envio acima de 10MB       |  X                                |    <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>       |
 
-<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
 
 ## NFR 03 - Desempenho
@@ -591,23 +632,36 @@ Na Tabela 18, está presente a avaliação da propagação dos impactos referent
 
 ## NFR 04 - Segurança
 
+
+Abaixo na figura 8 está o SIG de Segurança:
+
+![SIG Segurança](../../assets/nfr/seguranca.jpeg)
+
+
+
+
 ### Requisitos Não-Funcionais - Segurança
 
-A figura 8 a seguir demonstra o SIG de Segurança:
+A seguir, são apresentados os requisitos não funcionais específicos para o NFR de Segurança do projeto "Celular Seguro", 
+.
 
-![SIG GERAL](../../assets/nfr/seguranca.jpeg)
+<p style="text-align: center"><b>Tabela 19</b> - Requisitos Não Funcionais: Segurança</p>
 
-Os Requisitos utilizados para a confecção da Figura 8 estão presentes na Tabela 19:
 
-<font size="3"><p style="text-align: center">Tabela 19 – Requisitos Não-Funcionais - Segurança</p></font>
+| Código | Nome                                      | Descrição                                                                                                                                                                                                                                 |
+| :----- | :---------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [RNF09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | O aplicativo e a plataforma devem seguir requisitos de segurança da informação: conexão criptografada, proteção de dados conforme LGPD.  | O aplicativo deve garantir a segurança da informação através de conexão criptografada (TLS 1.3) e proteção de dados em repouso (AES-256), conforme a LGPD.                                                                                 |
+| [RNF18](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Autenticação multifator (2FA) com fallback via SMS.           | O sistema deve suportar e oferecer autenticação multifator (2FA) para todos os usuários, com fallback via SMS. A 2FA deve ser obrigatória para acessos críticos, utilizando o Gov.br.                                                           |
+| [RNF19](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Logs de auditoria imutáveis e armazenados por no mínimo 1 ano. | O sistema deve gerar e armazenar logs de auditoria imutáveis de eventos de segurança por no mínimo 1 ano, para garantir rastreabilidade e conformidade.                                                                                  |
+| [RNF20](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Política de privacidade clara e facilmente acessível dentro do app.  | O aplicativo deve disponibilizar uma política de privacidade clara e facilmente acessível, detalhando a coleta, armazenamento e uso de dados em conformidade com a LGPD.                                                                 |
+| [RNF24](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Atualizações automáticas de segurança e correções de vulnerabilidades em até 24 horas.     | O sistema deve aplicar atualizações automáticas de segurança e correções de vulnerabilidades críticas em até 24 horas após a disponibilidade, visando proteção contínua contra novas ameaças.                                                |
 
-| ID     | Nome                         | Descrição                                                             |
-|--------|------------------------------|------------------------------------------------------------------------|
-| RNF08  | Criptografia AES-256         | Dados sensíveis dos boletins devem ser protegidos com criptografia forte |
-| RNF10  | Emissão Restrita de Alertas  | Apenas usuários autenticados podem emitir alertas                    |
-| RNF11  | Proteção contra Invasões     | Tentativas simultâneas de login são bloqueadas automaticamente       |
 
-<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
+
+
+
 
 ### Propagação dos Impactos - Segurança
 
@@ -615,18 +669,48 @@ Na Tabela 20, está presente a avaliação da propagação dos impactos referent
 
 <font size="3"><p style="text-align: center">Tabela 20 – Impactos Segurança</p></font>
 
-| NFR                          | Impacto | Avaliador      |
-|-----------------------------|---------|----------------|
-| Segurança                   | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Criptografia AES-256        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Emissão Restrita de Alertas | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Proteção contra Invasões    | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Garantia de Autenticação    | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Bloqueio de Ataques         | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Prevenção de Vazamento      | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Tentativas de Login         | X       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 
-<font size="3"><p style="text-align: center">Fonte: Mateus Bastos</p></font>
+| NFR                                                | Impacto | Avaliador      |
+|----------------------------------------------------|---------|----------------|
+| Segurança                                         | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Criptografia AES-256                               | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| TLS 1.3 para dados em trânsito                     | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Conformidade com LGPD                              | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Controle de Acesso Seguro                          | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Papéis definidos (RBAC)                            | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Permissões específicas para emissão de alertas e acesso a dados | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Autenticação Segura                                | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Login gov.br + senha                               | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Autenticação 2FA                                   | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Resposta a Tentativas de Acesso Indevido           | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Mecanismo de bloqueio após 5 tentativas inválidas  | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Detecção de comportamento suspeito no login        | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Alerta ao Titular sobre tentativas de acesso       | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Mitigação de acessos indevidos por tentativa de login                                | 𝒲+       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+
+
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+<br>
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
@@ -634,26 +718,30 @@ A Tabela 21 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela Reg
 
 <p style="text-align: center"><b>Tabela 8</b> - Requisitos Não-Funcionais</p>
 
-| ID                                            | Descrição                         | Rastreabilidade                                                                                                                            | Implementação |
-| :-------------------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
-| <a id="RNF03" href="#anchor_RNF01">RNF03</a> | Para cada Pessoa de Confiança listada, deve haver uma opção acessível para iniciar o processo de remoção    | [RNF08](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-nao-funcionais)      | Não           |
-| <a id="RNF04" href="#anchor_RNF02">RNF04</a> | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.    | [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-nao-funcionais)                                     | Não           |
+| ID    | Descrição | Rastreabilidade | Implementação |
+| :---- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| [RNF01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf01) | Confirmação clara e acessível de envio do boletim, incluindo número de protocolo visível por no mínimo 10 segundos. | — | Não |
+| [RNF02](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf02) | Envio de anexos com limite máximo de 10 MB por arquivo, aceitando JPG, PNG e PDF. | — | Não |
+| [RNF03](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf03) | Opção acessível para iniciar o processo de remoção de Pessoa de Confiança. | [BS23](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#palavras-chave-identificadas) | Não |
+| [RNF04](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf04) | Modo escuro (dark mode) para maior conforto visual. | [BS4](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#palavras-chave-identificadas) | Não |
+| [RNF05](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf05) | Layout consistente na tela de Perfil. | [BS2](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#palavras-chave-identificadas) | Não |
+| [RNF06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf06) | Opção de alto contraste e fonte ajustável na tela de Perfil. | [OBS18](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais) | Não |
+| [RNF07](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf07) | Menus e botões claros e responsivos no Registro de Telefone. | [BS1](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#palavras-chave-identificadas) | Não |
+| [RNF08](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf08) | Criptografia ponta-a-ponta nos dados do Registro de Telefone. | [BS3](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#palavras-chave-identificadas) | Não |
+| [RNF09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf09) | Conformidade de Segurança e Criptografia (LGPD). | [BS5](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#palavras-chave-identificadas), [OBS21](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-nao-funcionais) | Não |
+| [RNF09](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf09) | Conformidade de Segurança e Criptografia (LGPD). | [BS47](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs47), [OBS21](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#obs21), [ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais), [ST10](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-nao-funcionais) | Não |
+| [RNF10](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf10) | Páginas carregam em até 2 segundos em 4G. | [OBS16](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#obs16), [ST9](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-nao-funcionais) | Não |
+| [RNF11](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf11) | Precisão de localização GPS menor que 10 metros. | [BS45](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs45), [ST6](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-nao-funcionais) | Não |
+| [RNF12](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf12) | Proteção dos dados de localização com criptografia. | [BS47](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs47), [ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais), [ST10](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-nao-funcionais) | Não |
+| [RNF13](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf13) | Controle de acesso baseado em papéis (RBAC). | [BS9](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs9), [ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais) | Não |
+| [RNF14](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf14) | Autenticação segura (senha forte e 2FA). | [BS48](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs48), [ADD15](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais) | Não |
+| [RNF18](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf18) | Autenticação multifator (2FA) com fallback via SMS. | [BS48](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs48) | Não |
+| [RNF19](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf19) | Logs de auditoria imutáveis por no mínimo 1 ano. | [BS49](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs49) | Não |
+| [RNF20](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf20) | Política de privacidade clara e acessível. | [BS50](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs50) | Não |
+| [RNF24](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#rnf24) | Atualizações automáticas de segurança em até 24h. | [BS60](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#bs60), [OBS21](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#obs21) | Não |
 
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/MateuSansete" target="_blank"> Mateus Bastos </a> e  <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
----
-
-A Tabela 22 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
-
-<a id="table09"></a>
-<p style="text-align: center"><b>Tabela 9</b> - Requisitos Não-Funcionais (Tela de Perfil)</p>
-
-| ID                                           | Descrição                                                                                                                                            | Rastreabilidade                                                                                                                                                                                          | Implementação |
-| :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
-| <a id="RNF05" href="#rnf05">RNF05</a> | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo (posição de título, espaçamento, cores e tamanho de texto). | [BS38](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais)       | Não           |
-| <a id="RNF06" href="#rnf06">RNF06</a> | A tela de Perfil deve oferecer opção de alto contraste e permitir aumentar ou reduzir o tamanho da fonte.                                            | [BS43](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) | Não           |
-
-<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
 ---
 
@@ -681,4 +769,4 @@ A Tabela 22 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de 
 | 1.9    | 01/06/2025         | Padronização das tabelas e figuras  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Mateus Bastos</a> | 01/06/2025 |
 | 2.0    | 01/05/2025         | Padronização do diagrma "Geral adaptado"                           |  <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/05/2025 |
 | 2.1    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
-
+| 2.1    | 06/07/2025 | Criação da tabela de Requisitos não funcionais utilizados no NFR|<a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> e <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/07/2025|
