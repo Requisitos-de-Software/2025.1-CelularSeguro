@@ -18,7 +18,13 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Nome | Função |
 | :--- | :--- |
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Autor da: [[ Figura 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#celular-seguro)|
+| [<span style="color:gold;">Arthur Leite</span>](https://github.com/arthurlleite) | Autor da: [[ Figura 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#carteira-digital-de-transito-cdt)|
+| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/arthurlleite) | Autor da: [[ Figura 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#nfse-mobile)|
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor da: [[ Figura 5 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#bolsa-familia-app)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)  | Autor da: [[ Figura 6 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#carteira-de-identidade-militar-digital-ebcim)|
+| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/MateuSansete)  | Autor da: [[ Figura 7 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sus-digital)|
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima), [<span style="color:gold;">Arthur Leite</span>](https://github.com/arthurlleite) e [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)  | Revisores do Artefato |
 
 *Legenda:* 
 
