@@ -6,8 +6,7 @@
 
 O **Celular Seguro** foi o aplicativo escolhido para representar o foco do projeto por sua relevância social, funcionalidade direta na proteção de dados e dispositivos móveis, além de refletir princípios modernos de segurança, interoperabilidade com instituições e governança pública digital. A seguir, apresentamos um resumo técnico de suas características e exigências, com base em seu Termo de Uso oficial.
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
@@ -19,10 +18,15 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | :--- | :--- |
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)  | Autor do Artefato |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Revisor do Artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do documento |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Revisor do documento |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do documento |
+| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | Revisor do documento |
+
 
 *Legenda:* 
 
-**Nome** – participante da técnica. 
+**Nome** – participante do documento. 
 
 **Função** – papel desempenhado na priorização. 
 
@@ -147,8 +151,9 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | 1.2    | 13/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 13/04/2025|
 | 1.3    | 22/04/2025 | Ajuste de referências e fonte                                                                                 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 22/04/2025|
 | 1.4    | 22/04/2025 |Padronização do Histórico de Versões e da Bibliografia     | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)                                |  [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | 23/04/2025|
-| 1.5    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>>| 08/05/2025|
+| 1.5    | 08/05/2025| Padronização do Histórico de Versões| <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a>| <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 08/05/2025|
 | 1.6    | 04/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 04/07/2025|
+| 1.7    | 04/07/2024 | Atualização da tabela de contribuição e inclusão dos revisores: Leonardo de Melo, Arthur Carvalho, Felipe das Neves e Vitor Bessa. | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | AI Assistant | 04/07/2024|
 
 
 

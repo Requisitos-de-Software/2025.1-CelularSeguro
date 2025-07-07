@@ -21,8 +21,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | Autor da Introdução, Metodologia, NFR Geral, SIG Adaptado e figura 5 : [[ Figura 5 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor da figura 3, 6, 8 e 9, SIG Adaptado |
 
 *Legenda:* 
 
@@ -633,7 +633,7 @@ Na Tabela 18, está presente a avaliação da propagação dos impactos referent
 ## NFR 04 - Segurança
 
 
-Abaixo na figura 7 está o SIG de Segurança:
+Abaixo na figura 8 está o SIG de Segurança:
 
 ![SIG Segurança](../../assets/nfr/seguranca.jpeg)
 
@@ -686,7 +686,7 @@ Na Tabela 20, está presente a avaliação da propagação dos impactos referent
 | Mecanismo de bloqueio após 5 tentativas inválidas  | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 | Detecção de comportamento suspeito no login        | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 | Alerta ao Titular sobre tentativas de acesso       | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Tentativas de Login                                | (revisar) | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Mitigação de acessos indevidos por tentativa de login                                | 𝒲+       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 
 
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
@@ -742,19 +742,6 @@ A Tabela 21 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela Reg
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/MateuSansete" target="_blank"> Mateus Bastos </a> e  <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
----
-
-A Tabela 22 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de Perfil.
-
-<a id="table09"></a>
-<p style="text-align: center"><b>Tabela 9</b> - Requisitos Não-Funcionais (Tela de Perfil)</p>
-
-| ID                                           | Descrição                                                                                                                                            | Rastreabilidade                                                                                                                                                                                          | Implementação |
-| :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
-| <a id="RNF05" href="#rnf05">RNF05</a> | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo (posição de título, espaçamento, cores e tamanho de texto). | [BS38](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais)       | Não           |
-| <a id="RNF06" href="#rnf06">RNF06</a> | A tela de Perfil deve oferecer opção de alto contraste e permitir aumentar ou reduzir o tamanho da fonte.                                            | [BS43](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-nao-funcionais) | Não           |
-
-<font size="3"><p style="text-align: center">Fonte: [Leonardo de Melo](https://github.com/leozinlima)</p></font>
 
 ---
 
@@ -782,4 +769,4 @@ A Tabela 22 a seguir lista os Requisitos Não-Funcionais aplicáveis à tela de 
 | 1.9    | 01/06/2025         | Padronização das tabelas e figuras  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Mateus Bastos</a> | 01/06/2025 |
 | 2.0    | 01/05/2025         | Padronização do diagrma "Geral adaptado"                           |  <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>  | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | 01/05/2025 |
 | 2.1    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
-
+| 2.1    | 06/07/2025 | Criação da tabela de Requisitos não funcionais utilizados no NFR|<a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> e <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| <a style="color:gold;" href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a> | 06/07/2025|
