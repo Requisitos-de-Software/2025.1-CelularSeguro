@@ -82,7 +82,6 @@ Fonte: [Seu Nome](Seu_Link_GitHub) - *Adapte este campo com o nome do responsáv
 ## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
-| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | 
-:-------------:  |  :-----------: |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 05/07/2025 | Criação da estrutura inicial do Artefato | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
-| 1.1    | 05/07/2025 | Criação do conteúdo do documnento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 05/07/2025|
+| 1.1    | 05/07/2025 | Criação do conteúdo do documento | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>| 05/07/2025|
