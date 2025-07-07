@@ -28,6 +28,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | [<span style="color:gold;">Vitor Pereira</span>](https://github.com/arthurlleite) | Desenvolvedor das Tabelas: [[ Requisitos ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/matriz/#requisitos-funcionais)|
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/MateuSansete)  | Desenvolvedor das Tabelas: [[ Requisitos ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/matriz/#requisitos-funcionais)|
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Revisor do Artefato |
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/arthurlleite)  | Desenvolvedor das Tabelas: [[ Requisitos ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/matriz/#requisitos-funcionais) |
 
 *Legenda:* 
 
