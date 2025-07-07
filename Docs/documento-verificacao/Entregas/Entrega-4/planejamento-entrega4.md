@@ -15,8 +15,12 @@
   </thead>
   <tbody>
     <tr>
-      <td> !!!!!!!!!!</td>
-      <td>!!!!!!!!</td>
+      <td>Arthur Carvalho</td>
+      <td>NFR, Backlog e História de Usuário</td>
+    </tr>
+    <tr>
+      <td>Gabriel Lima</td>
+      <td>NFR, Backlog e História de Usuário</td>
     </tr>
   </tbody>
 </table>
@@ -29,9 +33,9 @@
 
 Os artefatos da Entrega 4 verificados foram:
 
-- <a>NFR Framework</a>
-- <a>Backlog</a>
-- <a>Histórias de Usuário</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework> NFR Framework</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog> Backlog</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario> Histórias de Usuário</a>
 
 ## Listas de Verificação
 
@@ -41,7 +45,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
-- <a>Ágil</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-4/documento-verificacao-grupo4> Ágil</a>
 
 # Análise de Resultados
 
@@ -57,16 +61,9 @@ O resultado da verificação de cada artefato podem ser visualizados na página 
 **ID-55**: Em correções futuras, a utilização de ferramentas visuais tem que ser indispensável
 **ID-57**: A utilização de métricas de progresso deverão fazer parte do artefato para melhor visualização
 
-## Acompanhamento
-
 ## Referências Bibliográficas
 
-
-> <a id="REF1" href="#anchor_1">1.</a> SALES, André Barros de. Sugestão inicial de Lista de Verificação para algumas entregas do projeto. Requisitos de Software. Brasília: Universidade de Brasília, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 21 junho 2025.
-
-> <a id="REF2" href="#anchor_2">2.</a> SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019. Disponível em: https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf. Acesso em: 21 junho 2025.
-
-> <a id="REF3" href="#anchor_3">3.</a>  PROJETO DE REQUISITOS 2023.1 - BILHETERIA DIGITAL. In: REQUISITOS DE SOFTWARE. [S. l.: s. n.], 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 21 junho 2025.
+> <a id="RF1">1.</a> KALINOWSKI, M. [s.l: s.n.]. Disponível em: <https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf>. Acesso em: 7 jul. 2025.
 
 ## Histórico de Versões 
 

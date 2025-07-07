@@ -15,8 +15,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>!!!!!</td>
-      <td>!!!!!</td>
+      <td>Leonardo de Melo</td>
+      <td>Prototipação e Comprovação Informal</td>
     </tr>
   </tbody>
 </table>
@@ -29,14 +29,8 @@
 
 Os artefatos da Entrega 6 verificados foram:
 
-- <a></a>
-- <a></a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-6/documento-verificacao-grupo6>Prototipação e Comprovação Informal</a>
 
-## Resultado
-
-O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
-
-- <a></a>
 
 ## Listas de Verificação
 
@@ -44,8 +38,12 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 - <a>Lista de Verificação</a>
 
-# Análise de Resultados
+## Referências Bibliográficas
 
-## Correção
+> <a id="RF1">1.</a> KALINOWSKI, M. [s.l: s.n.]. Disponível em: <https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf>. Acesso em: 7 jul. 2025.
 
-## Acompanhamento
+## Histórico de Versões 
+
+| Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
+| :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
+| 1.0  | 04/07/2025 | Planejamento entrega 02.  | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 04/07/2025|

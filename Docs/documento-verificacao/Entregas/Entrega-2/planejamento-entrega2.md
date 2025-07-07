@@ -15,8 +15,32 @@
   </thead>
   <tbody>
     <tr>
-      <td>!!!!!!!!!!!!</td>
-      <td>!!!!!!!!!!!</td>
+      <td>Gabriel Lima</td>
+      <td>Perfil do Usuário</td>
+    </tr>
+    <tr>
+      <td>Mateus Bastos</td>
+      <td>Personas,FTF e $100</td>
+    </tr>
+    <tr>
+      <td>Arthur Carvalho</td>
+      <td>Análise de Documento e Brainstorming</td>
+    </tr>
+    <tr>
+      <td>Daniel Rodrigues</td>
+      <td>Observação</td>
+    </tr>
+    <tr>
+      <td>Leonardo de Melo</td>
+      <td>Storytelling</td>
+    </tr>
+    <tr>
+      <td>Felipe das Neves</td>
+      <td>Moscow e Questionário</td>
+    </tr>
+    <tr>
+      <td>Vitor Pereira</td>
+      <td>QFD</td>
     </tr>
   </tbody>
 </table>
@@ -29,13 +53,17 @@
 
 Os artefatos da Entrega 2 verificados foram:
 
-- <a>Perfil de Usuário</a>
-- <a>Personas</a>
-- <a>Análise de Documentos</a>
-- <a>Questionário</a>
-- <a>Brainstorming</a>
-- <a>Storytelling</a>
-- <a>Observação</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario> Perfil de Usuário </a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Personas> Personas</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos> Análise de Documentos</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming> Brainstorming</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao> Observação</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling> Storytelling</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/MoSCoW> Moscow</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/QFD> QFD</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/FirstThingFirst> FTF</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/100> $100</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario> Questionário</a>
 
 ## Listas de Verificação
 
@@ -45,7 +73,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
-- <a>Elicitação</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-2/documento-verificacao-grupo2>Elicitação</a>
 
 # Análise de Resultados
 
@@ -71,19 +99,9 @@ O resultado da verificação de cada artefato podem ser visualizados na página 
 
 **ID-76**: Deverá ser refeita a elicitação limitando a 100 dólares.
 
-## Acompanhamento
-
-
-
 ## Referências Bibliográficas
 
-> <a id="RF1">1.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 21 jun. 2025.
-
-> <a id="RF2">2.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Rio de Janeiro, RJ: Brasport, 2016.
-
-> <a id="RF3">3.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Apresentação de Slides. Universidade de Brasília Campus Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 21 jun. 2025.
-
-> <a id="RF4">4.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements: third edition. Redmond, WA: Microsoft Press, 2013.
+> <a id="RF1">1.</a> KALINOWSKI, M. [s.l: s.n.]. Disponível em: <https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf>. Acesso em: 7 jul. 2025.
 
 ## Histórico de Versões 
 

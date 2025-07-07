@@ -29,7 +29,7 @@
 
 Os artefatos da Entrega 1 verificados foram:
 
-- <a>Rich Picture</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#celular-seguro> Rich Picture </a>
 
 ## Listas de Verificação
 
@@ -39,7 +39,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 O resultado da verificação de cada artefato pode ser visualizado nas páginas abaixo:
 
-- <a>Verificação Rich Picture</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-1/documento-verificacao-grupo> Verificação Rich Picture </a>
 
 ## Análise de Resultados
 
@@ -55,18 +55,11 @@ O resultado da verificação de cada artefato pode ser visualizado nas páginas 
 
 O item de **ID-03** deve ser corrigido para todas as etapas, para que haja um planejamento esperado.
 
-## Acompanhamento
+
 
 ## Referências Bibliográficas
 
-<font size="3"><p style="text-align: center">Tabela 6: Bibliografia dos Itens do conteúdo do Projeto</p></font> 
-
-| Item | Referência | Imagem |
-|------|------------|--------|
-| <b id="REF17">17</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](../assets/verificacao/verificacao1/entrega1-3.png) |
-| <b id="REF18">18</b> | *Introducing Rich Pictures – Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. | [Ver imagem](../assets/verificacao/verificacao1/entrega1-3.png) |
-
-<font size="2"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258), 2025.</p></font> 
+> <a id="RF1">1.</a> KALINOWSKI, M. [s.l: s.n.]. Disponível em: <https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf>. Acesso em: 7 jul. 2025.
 
 ## Histórico de Versões 
 
