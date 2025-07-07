@@ -1,6 +1,5 @@
 <span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.0</span>
 
-# Aplicativo Selecionado
 
 ---
 
@@ -8,8 +7,6 @@
 
 ---
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
@@ -20,7 +17,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Nome | Função |
 | :--- | :--- |
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor do desemvolvimento do artefato |
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
 
 *Legenda:* 
 
@@ -70,8 +67,7 @@ Tabela 1 - Técnicas Utilizadas
 | **Backlog** | [Arthur Leite](https://github.com/arthurlleite) <br> [Leonardo Lima de Melo](https://github.com/leozinlima) <br> [Gabriel Lima](https://github.com/gabriel-lima258) <br> [Felipe Freire](https://github.com/FelipeFreire-) <br> [Mateus Bastos](https://github.com/MateuSansete) <br> [Vitor Pereira Bessa](https://github.com/Bessazs) | [Backlog](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Backlog.md) |
 | **Histórias de Usuário** | [Felipe Freire](https://github.com/FelipeFreire-) <br> [Leonardo Lima de Melo](https://github.com/leozinlima) <br> [Mateus Bastos](https://github.com/MateuSansete) <br> [Gabriel Lima](https://github.com/gabriel-lima258) <br> [Vitor Pereira Bessa](https://github.com/Bessazs) <br> [Arthur Leite](https://github.com/arthurlleite) <br> [Daniel Lima Rodrigues](https://github.com/zDrNz) | [Histórias de Usuário](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/Historias_de_usuario.md) |
 
-Fonte: [Seu Nome](Seu_Link_GitHub) - *Adapte este campo com o nome do responsável pela documentação desta seção.*
-
+Fonte: [Mateus Bastos](https://github.com/MateuSansete) 
 </center>
 
 

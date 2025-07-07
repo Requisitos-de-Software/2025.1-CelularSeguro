@@ -22,7 +22,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor do desemvolvimento do artefato |
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor do desenvolvimento do artefato |
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor das tabelas do artefato, bem como: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero)|
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
