@@ -20,8 +20,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolho) | Autor das seguintes tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documentacao-artefatosAnteriores/#tabela-1-refatoracao-das-inspecoes-internas-anteriores)|
-| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Vitor Bessao</span>](https://github.com/repolho) | Autor do artefato |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
 *Legenda:* 
 
