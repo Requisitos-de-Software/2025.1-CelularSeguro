@@ -545,12 +545,13 @@ A figura 6 a seguir demonstra o SIG de Confiabilidade:
 
 ### Requisitos Não-Funcionais - Confiabilidade
 
-Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, levando em consideração aspectos como envio de informações sem falhas, criptografia segura dos dados e acionamento confiável de alertas em situações emergenciais. Esses requisitos foram elaborados com base na modelagem do NFR Framework para o aplicativo *Celular Seguro*.
+Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados à **Confiabilidade**, .
 
 
 
-<font size="3"><p style="text-align: center">Tabela 15 - Requisitos Não-Funcionais: Confiabilidade</p></font>
 
+
+<p style="text-align: center"><b>Tabela 15</b> - Requisitos Não Funcionais: Confiabilidade</p>
 
 | Código | Nome                                      | Descrição                                                                                                                                                                             |
 | :----- | :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -561,25 +562,27 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 | RNF26  | Robustez contra Entradas Inválidas        | O aplicativo deve responder corretamente e de forma resiliente mesmo diante de entradas erradas ou inesperadas do usuário, sem travar ou apresentar comportamentos inconsistentes. |
 
 
+
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
+
 
 ### Propagação dos Impactos - Confiabilidade
 
-<font size="3"><p style="text-align: center">Tabela 16 - Propagação dos Impactos: Confiabilidade</p></font>
 
-| NFR / Softgoal                     | Impacto                           | Avaliador  |
-| :--------------------------------- | :-------------------------------- | :--------- |
-| Confiabilidade                     | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Garantir envio de anexos confiável | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Garantir criptografia de dados     | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Garantir acionamento confiável     | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Prevenção de falhas no envio       | 𝒲+                                | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Comunicação de alertas em até 1s   | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Criptografia ponta-a-ponta (AES-256) | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Uso de protocolo HTTPS/TLS         | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Reação ao evento em até 2 minutos  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Arquivos até 10MB (JPG, PNG, PDF)  | ✓                                 | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
-| Falha no envio acima de 10MB       |  X                                |    <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>       |
+
+<p style="text-align: center"><b>Tabela 16</b> - Propagação dos Impactos: Confiabilidade</p>
+
+| NFR / Softgoal                     | Impacto | Avaliador  |
+| :--------------------------------- | :------ | :--------- |
+| Confiabilidade                     | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Integridade das Informações        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Envio de Anexos com Integridade    | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Verificação de Integridade de Dados | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Disponibilidade                    | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Operação 24/7                      | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Resiliência                        | 𝒲+      | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Robustez contra Entradas Inválidas | ✓       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
+| Falha no envio acima de 10MB       | X       | <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> |
 
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
