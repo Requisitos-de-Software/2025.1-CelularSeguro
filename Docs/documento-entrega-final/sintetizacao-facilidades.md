@@ -2,6 +2,8 @@
 
 **Data:** 06/07/2025
 
+## Introdução
+
 Este documento reúne as percepções individuais dos membros da equipe sobre o desenvolvimento do projeto, abordando as facilidades, as dificuldades encontradas e opiniões gerais.
 
 **Equipe Participante:**
@@ -16,6 +18,28 @@ Este documento reúne as percepções individuais dos membros da equipe sobre o 
 </ul>
 
 ---
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/bessazs) | Responsável por desenvolver o artefato e: [[ Introdução ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/sintetizacao-facilidades/#introducao) e [[ Feedbacks ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/sintetizacao-facilidades/#feedback-de-arthur-carvalho)|
+| [<span style="color:gold;"> Leonardo de Melo </span>](https://github.com/leozinlima) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
+
 
 ## Feedback de [Arthur Carvalho](https://github.com/arthurlleite)
 
