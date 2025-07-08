@@ -42,8 +42,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 ## Verificação do Grupo + 1
 
-Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verifcação. Além disso, as tabelas de 1 a 4 mostram os artefatos verificados e os respectivos autores da checklist.
-
+Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verifcação.
 Planejamento da Verificação:
 
 - [Inspeção Final do Grupo +1](../documento-inspecao/grupo+1/final+1.md)
@@ -52,7 +51,7 @@ Planejamento da Verificação:
 
 ## Verificação do Próprio Grupo
 
-Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verifcação. Além disso, as tabelas de 5 a 8 mostram os artefatos verificados, os respectivos autores da checklist e revisores.
+Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verifcação. Além disso, as tabelas de 1 a 6 mostram os artefatos verificados, os respectivos autores da checklist e revisores.
 
 Planejamento da Verificação:
 
