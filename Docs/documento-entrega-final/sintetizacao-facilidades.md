@@ -35,9 +35,11 @@ Pessoalmente, acredito que cresci bastante com o projeto, principalmente por ter
 
 Por fim, ressalto que, mesmo em meio às dificuldades, o projeto foi uma oportunidade de amadurecimento, aprendizado prático e trabalho em equipe, reforçando a importância de ter organização, comunicação clara e colaboração em projetos de software.
 
----
+
 
 ## Feedback de [Daniel Rodrigues](https://github.com/zDrNz)
+
+
 
 O projeto me ajudou muito em ter essa visão inicial de como funciona um projeto completo de desenvolvimento de software. Aprender técnicas de elicitação e priorização e praticar elas de maneira muito próxima da experiência real ajudaram no meu crescimento profissional. Gostei muitos dos aprendizados, porém o projeto consumiu muito tempo, tirando o tempo de estudo que era para ficar com outras disciplinas. A demanda grande de cada entrega fez com que a qualidade dos artefatos não fosse 100% do que poderia ter sido. Acho que deveria acontecer uma diminuição do escopo do projeto para priorizar a qualidade e não a quantidade.
 
@@ -45,8 +47,8 @@ O projeto me ajudou muito em ter essa visão inicial de como funciona um projeto
 
 ## Feedback de [Felipe das Neves](https://github.com/FelipeFreire-gf)
 
-
 No geral, o projeto foi uma boa experiência e creio que o resultado final ficou excelente. A organização das tarefas me ajudou a manter o foco e a colaboração na equipe foi muito boa. No meu caso, o conhecimento prévio que eu já tinha, tanto com Markdown quanto pela experiência que adquiri na discplina Projeto Integrador 2, ajudou bastante a acelerar minhas entregas. O principal ponto de dificuldade foi o retrabalho feito em alguns artefatos que tomaram bastante tempo. Fora isso, o trabalho fluiu bem e estou orgulhoso do que entregamos.
+
 
 ---
 ## Feedback de [Gabriel Lima](https://github.com/gabriel-lima258)
@@ -76,6 +78,7 @@ Durante o projeto de Requisitos de Software, pude perceber o quanto essa discipl
 Este projeto foi uma experiência muito desafiadora. Sinto que estou bem mais seguro em relação à organização e ao gerenciamento de projetos, e principalmente em relação à análise de requisitos. O ponto mais difícil foi o gerenciamento de tempo e a organização de tarefas, mas sinto que essa dificuldade foi superada e que, em projetos futuros, lidarei com isso de forma bem mais fácil. Como ponto positivo, a experiência prévia com o uso de Markdown ajudou bastante, e o fato de já ter trabalhado com a maioria dos membros do grupo foi fundamental para o entrosamento.
 
 No geral, foi um projeto realmente difícil e trabalhoso, mas que agregou um valor imenso à minha graduação.
+
 ---
 
 ## Histórico de Versões 
@@ -83,4 +86,6 @@ No geral, foi um projeto realmente difícil e trabalhoso, mas que agregou um val
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 05/07/2025 | Criação do Artefato | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
-| 1.1    | 06/07/2025 | Criação do documento e adição dos feedbacs de cada mebro | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Vítor Bessa</a> | <a style="color:gold;" href="https://github.com/bessazs" target="_blank">Mateus Bastos</a>| 07/07/2025|
+| 1.1    | 06/07/2025 | Criação do documento e adição dos feedbacs de cada mebro | <a style="color:gold;" href="https://github.com/bessazs" target="_blank">Vítor Bessa</a> | <a style="color:gold;" href="https://github.com/bessazs" target="_blank">Mateus Bastos</a>| 07/07/2025|
+
+

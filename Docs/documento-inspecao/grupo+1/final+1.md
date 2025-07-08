@@ -8,20 +8,26 @@
 
 ## 1. Introdução
 
-Essa é a lista final de inspeção do grupo +1, nela o integrante [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) ficou responsável por elencar todos os requisitos inconformes de TODAS as entregas anteriores e verificar se foi feita a correção do respectivo requisito.
+A inspeção final representa a fase de **Acompanhamento** do processo de verificação, conforme a metodologia de Inspeção de Fagan. O objetivo desta etapa é garantir que todas as não conformidades identificadas nas entregas anteriores do [Grupo 4 - Cadastro Único](https://requisitos-de-software.github.io/2025.1-Cadastro-Unico/) foram devidamente corrigidas.
 
-Sendo assim, este documento apresenta o planejamento da verificação dos artefatos finais produzidos pelo [Grupo 4](https://requisitos-de-software.github.io/2025.1-Cadastro-Unico/) na Etapa Final do Projeto.
+Nesta fase, o integrante Felipe das Neves ficou responsável por consolidar todos os itens marcados como "Inconforme" e verificar o status atual de cada um, assegurando a qualidade e a conformidade dos artefatos finais do projeto.
 
 ---
 
-## 2. Inspeção Final
+## 2. Metodologia
 
-### 2.1 Participantes
+O processo de verificação adotado ao longo do projeto foi baseado na **Inspeção de Fagan**, que estrutura a análise de artefatos em seis etapas: Planejamento, Visão Geral, Preparação, Reunião de Inspeção, Correção e Acompanhamento.
+
+Este documento se concentra na última etapa, o **Acompanhamento (Follow-up)**. O objetivo é realizar uma verificação final para confirmar que todas as ações de correção, propostas para os problemas encontrados nas inspeções anteriores, foram implementadas com sucesso.
+
+---
+
+## 3. Inspeção Final
+
+### 3.1 Participantes
 <ul style="text-align: justify; padding-left: 4em; margin-top: 0.5em;">
 <li>Felipe das Neves;
 </ul>
-
----
 
 ### **Entrega 1: Itens Inconformes**
 
@@ -232,7 +238,13 @@ Nenhum item foi avaliado como "Inconforme" na documentação da Entrega 5.
 
 ---
 
-## 4. Gravação
+## 4. Referências Bibliográficas
+
+> ECC INTERNATIONAL. **Fagan Inspection Method v4** [apresentação em PowerPoint]. Filipinas: ECC International. Disponível em: <https://eccinternational.wordpress.com>. Acesso em: 07 julho. 2025.
+
+---
+
+## 5. Gravação
 
 <div style="text-align: center;">
   <p><strong>Vídeo: </strong> <a href="https://youtu.be/dUTZzr20dPk"> Grupo 03 – Inspeção Final</a></p>
@@ -243,7 +255,7 @@ Nenhum item foi avaliado como "Inconforme" na documentação da Entrega 5.
 
 ---
 
-## Histórico de Versões 
+## 6. Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |

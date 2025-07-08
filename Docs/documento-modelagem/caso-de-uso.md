@@ -89,7 +89,7 @@ No diagrama de caso de uso, também é possível detalhar:
   </p>
 </font>
 
-![Diagrama de Caso de Uso – Celular Seguro](../assets/usecase/UseCaseDiagram1.svg)
+![Diagrama de Caso de Uso – Celular Seguro](../assets/usecase/uzcase.svg)
 
 **Autor da figura 1:** <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>
 
@@ -512,4 +512,3 @@ No diagrama de caso de uso, também é possível detalhar:
 | 1.3    | 14/05/2025         | Adição das referências                               | <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>    | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a> | 14/05/2025 |
 | 1.4    | 15/05/2025         | Inclusão de novas tabelas UC's                               | <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>    | <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a> | 15/05/2025 |
 | 1.5    | 05/07/2025 | Inserção da tabela de contribuição| <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
-| 1.6    | 06/07/2025 | Correção do diagrama de caso de Uso| <a style="color:gold;" href="https://github.com/bessazs" target="_blank">Vítor Bessa</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|

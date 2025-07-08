@@ -95,8 +95,10 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ## 8. Gravação da Reunião
 
-**Vídeo:** [Grupo 03 – Inspeção Grupo 03 (Etapa 5)](https://youtu.be/DCepjA47smg)  
-
+<div style="text-align: center;">
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/DCepjA47smg"> Grupo 03 – Inspeção grupo 05</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DCepjA47smg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
