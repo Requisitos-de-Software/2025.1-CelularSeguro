@@ -12,7 +12,7 @@ _Tabela de Contribuição_
 
 | Nome | Função |
 | :--- | :--- |
-| [Mateus Bastos](https://github.com/MateuSansete) | Autor do desemvolvimento do artefato |
+| [Mateus Bastos](https://github.com/MateuSansete) | Autor do desenvolvimento do artefato |
 | [Arthur Leite](https://github.com/arthurlleite) | Revisor do Artefato |
 
 *Legenda:* 
