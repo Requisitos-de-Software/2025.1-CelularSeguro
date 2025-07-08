@@ -19,7 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Refatorador do artefato e autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-1/planejamento-entrega1/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Refatorador do artefato e autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-1/planejamento-entrega1/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do layout de modelagem do artefato |
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 

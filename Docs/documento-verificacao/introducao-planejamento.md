@@ -19,7 +19,7 @@ Na metodologia adotada para a verificação dos requisitos, será utilizado o pr
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Refatorador do artefato |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Refatorador do artefato |
 | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do layout de modelagem do artefato |
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
