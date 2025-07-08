@@ -268,6 +268,18 @@ Aplicativo oficial do Ministério da Saúde que centraliza informações e servi
 
 ---
 
+## Vídeo de Validação Rich Picture
+
+<div style="text-align: center;">
+  <p><strong>Vídeo: </strong> <a href="https://youtu.be/GFLxCy__XM0">Vídeo de Validação Rich Picture</a></p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GFLxCy__XM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz), 2025.</p></font>
+
+
+---
+
 ## Bibliografia
 
 >BRASIL. Ministério da Justiça. Sinesp Cidadão. Disponível em: <https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1>. Acesso em: 10 abr. 2025.
