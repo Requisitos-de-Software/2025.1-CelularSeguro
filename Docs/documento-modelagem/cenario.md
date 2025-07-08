@@ -115,6 +115,162 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 ---
 
+## Cenário 6: Alterar apelido de um dispositivo cadastrado
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Alterar o apelido de um dispositivo cadastrado. |
+| **Objetivo** | Permitir que o usuário personalize o nome do dispositivo para facilitar a identificação na lista de dispositivos cadastrados. |
+| **Contexto** | **Local:** Tela de detalhes do dispositivo.<br>**Tempo:** Aproximadamente 1 minuto.<br>**Pré-condição:** Usuário autenticado; dispositivo já cadastrado. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet.<br>Smartphone ou acesso ao site Celular Seguro. |
+| **Episódios** | 1. Usuário acessa a lista de dispositivos.<br>2. Seleciona o dispositivo desejado.<br>3. Clica em "Editar Apelido".<br>4. Digita novo apelido e confirma.<br>5. Sistema salva alteração e atualiza o nome na interface. |
+| **Restrições** | - Apelido deve ter tamanho máximo de 30 caracteres.<br>- Não aceitar apelidos duplicados para o mesmo usuário. |
+| **Exceções** | **Conexão perdida:** Informar falha ao salvar e permitir nova tentativa.<br>**Campo vazio ou inválido:** Exibir alerta e solicitar correção. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 7: Receber notificação de alteração de status do dispositivo
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Receber notificação ao alterar status de dispositivo. |
+| **Objetivo** | Informar o usuário em tempo real quando o status do dispositivo mudar para perdido, recuperado ou bloqueado. |
+| **Contexto** | **Local:** Sistema de notificações do app ou push notification.<br>**Tempo:** Imediato após alteração.<br>**Pré-condição:** Notificações habilitadas no dispositivo do usuário. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet.<br>Dispositivo com notificações push habilitadas. |
+| **Episódios** | 1. Usuário ou sistema altera status do dispositivo.<br>2. Sistema gera notificação push informando a alteração.<br>3. Usuário visualiza notificação e pode clicar para abrir detalhes no app. |
+| **Restrições** | - Notificações dependem de permissão do usuário.<br>- Informações sensíveis devem ser protegidas (não incluir dados pessoais). |
+| **Exceções** | **Dispositivo sem notificações:** Enviar e-mail como alternativa.<br>**Falha de envio:** Registrar tentativa e reenviar automaticamente. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 8: Consultar histórico de localização de um dispositivo
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Consultar histórico de localização do dispositivo. |
+| **Objetivo** | Permitir ao usuário visualizar os últimos locais registrados pelo dispositivo para rastreamento. |
+| **Contexto** | **Local:** Tela de detalhes do dispositivo.<br>**Tempo:** Indeterminado.<br>**Pré-condição:** Dispositivo cadastrado com rastreamento ativo. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet.<br>Permissão de rastreamento de localização no dispositivo. |
+| **Episódios** | 1. Usuário acessa detalhes do dispositivo.<br>2. Seleciona "Histórico de Localização".<br>3. Visualiza lista de localizações com data e hora.<br>4. Pode selecionar ponto no mapa para ver detalhes. |
+| **Restrições** | - Histórico limitado a 30 dias.<br>- Exibir apenas para dispositivos com rastreamento habilitado. |
+| **Exceções** | **Sem histórico:** Exibir mensagem informativa.<br>**Falha de conexão:** Permitir nova tentativa de carregamento. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 9: Ativar modo perdido no dispositivo
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Ativar modo perdido em um dispositivo. |
+| **Objetivo** | Permitir ao usuário marcar um dispositivo como perdido para intensificar rastreamento e exibir mensagem personalizada na tela do aparelho. |
+| **Contexto** | **Local:** Tela de detalhes do dispositivo.<br>**Tempo:** Aproximadamente 1 minuto.<br>**Pré-condição:** Dispositivo cadastrado e online. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet.<br>Dispositivo com Celular Seguro instalado e permissões necessárias. |
+| **Episódios** | 1. Usuário acessa detalhes do dispositivo.<br>2. Seleciona "Ativar Modo Perdido".<br>3. Digita mensagem de contato opcional.<br>4. Confirma ativação.<br>5. Sistema envia comando ao dispositivo e ativa o modo perdido. |
+| **Restrições** | - Requer autenticação prévia.<br>- Modo só pode ser ativado em dispositivos do usuário. |
+| **Exceções** | **Dispositivo offline:** Agendar envio do comando.<br>**Erro de envio:** Informar falha e permitir nova tentativa. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 10: Compartilhar status de dispositivo com contato de confiança
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Compartilhar status do dispositivo com contato de confiança. |
+| **Objetivo** | Permitir ao usuário compartilhar a última localização e status do dispositivo com um contato em caso de perda ou roubo. |
+| **Contexto** | **Local:** Tela de detalhes do dispositivo.<br>**Tempo:** Aproximadamente 2 minutos.<br>**Pré-condição:** Dispositivo cadastrado; contato de confiança previamente configurado. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet.<br>Dispositivo do usuário com app Celular Seguro. |
+| **Episódios** | 1. Usuário acessa detalhes do dispositivo.<br>2. Seleciona "Compartilhar Status".<br>3. Escolhe contato de confiança.<br>4. Sistema envia mensagem com status e última localização. |
+| **Restrições** | - Contato deve estar cadastrado previamente.<br>- Permissão do usuário para envio de localização. |
+| **Exceções** | **Erro de envio:** Notificar usuário e permitir nova tentativa. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 11: Receber alerta de troca de chip no dispositivo
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Receber alerta de troca de chip no dispositivo cadastrado. |
+| **Objetivo** | Notificar o usuário caso o chip do dispositivo seja trocado, auxiliando na detecção de furto ou uso não autorizado. |
+| **Contexto** | **Local:** Sistema de notificações do aplicativo.<br>**Tempo:** Imediato após detecção da troca.<br>**Pré-condição:** Dispositivo cadastrado e funcional com rastreamento ativo. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet no dispositivo. |
+| **Episódios** | 1. Sistema detecta alteração no número do SIM card.<br>2. Gera notificação ao usuário informando alteração detectada.<br>3. Usuário acessa detalhes e verifica informações. |
+| **Restrições** | - Requer permissão de monitoramento de SIM card. |
+| **Exceções** | **Notificação não entregue:** Tentar novamente ou enviar e-mail. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 12: Remover dispositivo cadastrado
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Remover dispositivo cadastrado do sistema. |
+| **Objetivo** | Permitir ao usuário excluir um dispositivo que não deseja mais monitorar pelo aplicativo. |
+| **Contexto** | **Local:** Tela de detalhes do dispositivo.<br>**Tempo:** Aproximadamente 1 minuto.<br>**Pré-condição:** Usuário logado no sistema. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet. |
+| **Episódios** | 1. Usuário acessa detalhes do dispositivo.<br>2. Seleciona "Remover Dispositivo".<br>3. Confirma remoção.<br>4. Sistema exclui registro do dispositivo e atualiza lista. |
+| **Restrições** | - Remoção apenas pelo proprietário do dispositivo. |
+| **Exceções** | **Erro de conexão:** Permitir nova tentativa.<br>**Erro de autenticação:** Solicitar login novamente. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 13: Atualizar firmware do aplicativo remotamente
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Atualizar firmware do Celular Seguro remotamente. |
+| **Objetivo** | Permitir que o usuário atualize remotamente a versão do app no dispositivo cadastrado, garantindo maior segurança. |
+| **Contexto** | **Local:** Painel de controle do dispositivo.<br>**Tempo:** Aproximadamente 5 minutos.<br>**Pré-condição:** Dispositivo online e cadastrado. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet. |
+| **Episódios** | 1. Usuário acessa painel do dispositivo.<br>2. Verifica disponibilidade de atualização.<br>3. Seleciona "Atualizar Agora".<br>4. Sistema envia comando e acompanha progresso.<br>5. Confirma sucesso ou notifica falha. |
+| **Restrições** | - Dispositivo deve estar conectado.<br>- Pode consumir dados móveis. |
+| **Exceções** | **Falha de atualização:** Exibir motivo e orientações. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+## Cenário 14: Consultar status do bloqueio de IMEI
+
+| **Elemento** | **Descrição** |
+| ------------ | ------------- |
+| **Título** | Consultar status do bloqueio de IMEI do dispositivo. |
+| **Objetivo** | Permitir ao usuário verificar se o IMEI do dispositivo está bloqueado na operadora em caso de roubo ou furto. |
+| **Contexto** | **Local:** Tela de detalhes do dispositivo.<br>**Tempo:** Indeterminado.<br>**Pré-condição:** Dispositivo cadastrado com IMEI informado. |
+| **Atores** | Usuário do aplicativo Celular Seguro. |
+| **Recursos** | Conexão ativa à internet. |
+| **Episódios** | 1. Usuário acessa detalhes do dispositivo.<br>2. Seleciona "Consultar Status de IMEI".<br>3. Sistema consulta base de dados de IMEIs bloqueados.<br>4. Exibe status atual para o usuário. |
+| **Restrições** | - Requer integração com bases de dados de operadoras. |
+| **Exceções** | **Falha de consulta:** Informar ao usuário e permitir nova tentativa. |
+| **Fonte** | Arthur Carvalho e Daniel Rodrigues |
+
+---
+
+<p style="text-align: center">Entrevista Cenários</p>
+
+<center>
+<iframe width="560" height="315" src="https://youtu.be/82g1cYMHM-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center">Caso não abra <a href="https://youtu.be/82g1cYMHM-Q" target="blanket">clique aqui</a></p>
+>PDF (07 julho. 2025): [Termo de Compromisso](https://github.com/Requisitos-de-Software/2025.1-CelularSeguro/blob/main/Docs/assets/pdf/verificacao/Copia_de_Termo_Consentimento_CelularSeguro_assinado.pdf)
+
+<font size="3"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite)</p></font>
+
+
 ## Bibliografia
 
 > SERRANO, Milene. *Requisitos – Aula 10*. 2017. Apresentação de slides. Disponível em: [aprender3.unb.br](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Último acesso em: 14 abr. 2025.
@@ -128,6 +284,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Versão | Data de produção |    Descrição da alteração    |                                              Autor(es)                                             |                    Revisor(es)                    | Data de revisão |
 | :----: | :--------------: | :--------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------: | :-------------: |
 |   1.0  |    09/05/2025    |     Criação do documento     |                         [Gabriel Lima](https://github.com/gabriel-lima258)                         |  [Mateus Bastos](https://github.com/MateuSansete) |    09/05/2025   |
-|   1.1  |    14/05/2025    | Desenvolvimento do documento | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/Bessazs) | [Leonardo de Melo](https://github.com/leozinlima) |    14/05/2025   |
+|   1.1  |    14/05/2025    | Desenvolvimento do documento | [Arthur Carvalho](https://github.com/arthurlleite),  | [Leonardo de Melo](https://github.com/leozinlima) |    14/05/2025   |
 |   1.2  |    17/05/2025    | Tabelas concertadas e ajustadas | [Leonardo de Melo](https://github.com/leozinlima) | [Arthur Carvalho](https://github.com/arthurlleite), [Daniel Rodrigues](https://github.com/Bessazs) |    17/05/2025   |
 |   1.3  |    05/07/2025     | Inserção da tabela de contribuição | [Felipe das Neves](https://github.com/FelipeFreire-gf) | [Arthur Carvalho](https://github.com/arthurlleite), [Mateus Bastos](https://github.com/MateuSansete) |    05/07/2025    |
+|   1.4  |    07/07/2025    | Adicionado mais Cenários | [Arthur Carvalho](https://github.com/arthurlleite) | [Leonardo de Melo](https://github.com/leozinlima) |    07/07/2025   |
+|   1.5  |    07/07/2025    | Adicionado  Entrevista | [Arthur Carvalho](https://github.com/arthurlleite) | [Leonardo de Melo](https://github.com/leozinlima) |    07/07/2025   |

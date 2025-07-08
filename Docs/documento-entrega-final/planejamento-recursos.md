@@ -19,8 +19,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor das tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/planejamento-recursos/#integrantes-que-atuaram-no-desenvolvimento-do-artefato)|
+| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
 *Legenda:* 
 
@@ -33,8 +33,401 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 ---
 
+# Cronograma Planejado e Executado
+
+## Introdução
+
+Este artefato objetiva apresentar uma versão final do cronograma da disciplina. O foco neste documento é separar as atividades realizadas por etapa e exibir uma melhor visualização do que foi feito por cada integrante em cada entrega e o período de realização daquela entrega.
+
+---
+# Cronograma Executado
+
+---
+
+O cronograma Executado é o artefato utilizado para monitorar o real andamento das atividades que foram feitas longo do desenvolvimento do projeto. Neste projeto, optamos por organizar o planejamento por **Etapas**, utilizando práticas ágeis inspiradas no framework **Scrum**.
+
+Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com base em entregas concretas, responsabilidades divididas e foco em seções específicas do projeto. Essa abordagem garante entregas contínuas, visibilidade do progresso e flexibilidade para ajustes.
+
+O cronograma Executado será atualizado ao fim de cada etapa.
 
 
+---
+
+## Etapa 1 – Planejamento e Pré-Rastreabilidade  
+- Período: 26/03 a 13/04  
+- Entrega: 13/04  
+- Apresentação: 15/04  
+
+### Duplas responsáveis pelas atas
+- Semana 1 (24/03 a 30/03): *Felipe e Leonardo*
+- Semana 2 (31/03 a 06/04): *Arthur e Gabriel*
+- Semana 3 (07/04 a 13/04): *Mateus e Vitor*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 1: Atividades realizadas na etapa 1</p></font>
+
+| Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Analisar e escolher aplicativo              | Leonardo e Mateus      | Arthur e Vitor     |  26/03  | 31/03 |
+| Elaboração do cronograma planejado          | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 12/04 |          
+| Escolha de Metodologia e Ferramentas        | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 10/04 |
+| Documentar Equipe e criar Homepage          | Felipe                 | Gabriel e Daniel   |  03/04  | 11/04 |
+| Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
+| Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  13/04  | 13/04 |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos                  |                    |  13/04  | 13/04 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+## Etapa 2 – Elicitações - Técnicas e Priorizações 
+- Período: 15/04 a 04/05  
+- Entrega: 04/05  
+- Apresentação: 06/05  
+
+### Duplas responsáveis pelas atas
+- Semana 1 (24/04 a 30/04): *Felipe e Leonardo*
+- Semana 2 (07/05 a 14/05): *Daniel e Vitor*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 2: Atividades realizadas na etapa 2</p></font>
+
+| Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------|--------------------|---------| ----- |
+| Elaborar questionário geral ( personas, perfil do usuário e técnica questionário) | Felipe das Neves  | Mateus Bastos e Arthur Carvalho   |  14/04  | 04/05 |
+| Traçar perfil de usuário                    | Mateus Bastos | Felipe Freire |  14/04  | 04/05 |
+| Criar elenco de personas                    | Mateus Bastos      | Felipe Freire e Vitor Bessa  |  16/04  | 02/05 |
+| Análise de Documentos (Técnica de Elicitação)     | Leonado de Melo e Arthur Carvalho| Leonardo de Melo    |  19/04  | 04/05 |
+| Questionário (Técnica de Elicitação) | Vitor Pereira e Felipe das Neves  | Daniel Rodrigues e Gabriel Lima   |  23/04  | 04/05 |
+| Brainstorm (Técnica de Elicitação) | Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 04/05 |
+| Storytelling (Técnica de Elicitação) | Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 04/05 |
+| Observação (Técnica de Elicitação) | Gabriel Lima, Daniel Rodrigues e Arthur Carvalho    | Leonado de Melo e Felipe das Neves | 12/04 | 04/05 |
+| Prototipação (Técnica de Elicitação) | Leonardo de Melo, Felipe das Neves Arthur Carvalho    | Gabriel Lima e Vitor Pereira | 12/04 | 04/05 |
+| First Thing First (Técnica de Priorização) | Gabriel Lima, Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Felipe das Neves | 12/04 | 04/05 |
+| QFD (Técnica de Priorização) | Vitor Pereira, Mateus Pereira e Felipe das Neves    | Leonardo de Melo e Gabriel Lima | 12/04 | 04/05 |
+| MoSCoW (Técnica de Priorização) | Arthur Carvalho e Felipe das Neves    | Leonardo de Melo e Gabriel Lima | 12/04 | 04/05 |
+| ROI (Técnica de Priorização) | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos    | Arthur Carvalho e Leonardo de Melo | 12/04 | 04/05 |
+| Revisão final   | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  04/05  | 04/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+
+---
+
+## Etapa 3 – Modelagem
+- Período: 06/05 a 18/05  
+- Entrega: 18/05  
+- Apresentação: 20/05  
+
+### Duplas responsáveis pelas atas
+- Semana 1 (05/05 a 14/05): *Daniel e Vitor*
+- Semana 2 (14/05 a 18/05): *Mateus e Felipe*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 3: Atividades realizadas na etapa 3</p></font>
+
+| Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------|--------------------|---------| ----- |
+| Diagrama de caso de uso                     | Mateus, Leonardo e Vitor         | Daniel e Gabriel     |  08/05  | 16/05 |
+| Definição do lexico                         | Mateus e Felipe           | Arthur e Daniel    |  08/05  | 16/05 |          
+| Criação de cenários                         | Arthur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
+| Especificação suplementar                   | Gabriel            | Leonardo e Vitor |  08/05  | 16/05 |
+| Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/05  | 16/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlima)._</p></font>
+
+---
+
+## Etapa 4 – Ágil
+- Período: 18/05 a 01/06  
+- Entrega: 01/06  
+- Apresentação: 03/06  
+
+### Duplas responsáveis pelas atas
+- Semana 9 (18/05 a 25/05): *Felipe e Leonardo*
+     
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 4: Atividades planejadas para a etapa 4</p></font>
+
+| Tarefa                                      |      Responsáveis        |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|--------------------------|--------------------|---------| ----- |
+| Backlog do produto                          | Daniel, Gabriel e Leonardo |Vitor e Arthur     |  18/05  |  |
+| Elaboração de histórias de usuário          | Arthur, Vitor | Felipe e Gabriel   |  18/05  |  |          
+| Definição dos NFRs                          | Mateus e Felipe | Leonardo e Daniel  |  18/05  |  |
+| Gravar e fazer upload da apresentação       | Leonardo e Arthur | Felipe e Daniel     |  18/05  |  |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  01/06  |  |
+
+<font size="3"><p style="text-align: center">_Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)._</p></font>
+
+---
+
+## Etapa 5 – Pós Rastreabilidade
+- Período: 28/05 a 10/06  
+- Entrega: 10/06  
+- Apresentação: 12/06  
+
+### Duplas responsáveis pelas atas
+- Semana 11 (28/05 a 01/05): *Mateus e Vitor*
+- Semana 12 (02/06 a 08/06): *Daniel e Felipe*
+
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 5: Atividades planejadas para a etapa 5</p></font>
+
+| Tarefa                                      |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------------|--------------------|---------| ----- |
+| Pós-rastreabilidade: Backward-form          | Mateus, Gabriel, Vitor e Daniel | Daniel e Felipe    |  28/05  | 04/06 |
+| Pós-rastreabilidade: Forward-form           | Leonardo , Arthur e Felipe      | Mateus e Gabriel   |  04/06  | 07/06 |           
+| Gravar e fazer upload da apresentação       | Vitor e Felipe                  | Arthur e Leonardo  |  09/06  | 09/06 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  09/06  | 09/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+## Etapa 6 – Verificação e Validação
+- Período: 11/06 a 26/06  
+- Apresentação: 26/06 
+
+### Duplas responsáveis pelas atas
+- Semana 13 (11/06 a 15/06): *Leonardo e Arthur*
+- Semana 14 (16/06 a 22/06): *Gabriel e Mateus*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 6: Atividades planejadas para a etapa 6</p></font>
+
+| Tarefa                                         |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
+|------------------------------------------------|---------------------------------|--------------------|---------| ----- |
+| Verificação por inspeção de todos os artefatos | Leonardo, Arthur, Daniel        |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  11/06  | 16/06 |
+| Validação: Prototipação                        | Mateus, Gabriel, Vitor e Felipe |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/06  | 23/06 |
+| Gravar e fazer upload da apresentação          | Leonardo e Mateus               | Mateus e Daniel    |  25/06  | 25/06 |
+| *Revisão final*                                |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  25/06  | 25/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+
+
+## Etapa Final – Entrega do Projeto Completo  
+- Entrega Final: 07/07  
+
+<font size="3"><p style="text-align: center">Tabela 7: Atividades planejadas para a entrega final</p></font>
+
+| Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Consolidação final do MkDocs                |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 25/06  | 02/07 |
+| Ajustes de formatação e revisão técnica     |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 02/07  | 04/07 |          
+| *Revisão final*                             |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 04/07  | 04/07 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+# Cronograma Planejado
+
+---
+
+O cronograma planejado é o artefato utilizado para distribuir e controlar o andamento das atividades ao longo do desenvolvimento do projeto. Neste projeto, optamos por organizar o planejamento por **Etapas**, utilizando práticas ágeis inspiradas no framework **Scrum**.
+
+Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com base em entregas concretas, responsabilidades divididas e foco em seções específicas do projeto. Essa abordagem garante entregas contínuas, visibilidade do progresso e flexibilidade para ajustes.
+
+
+
+## Etapa 1 – Planejamento e Pré-Rastreabilidade  
+- Período: 26/03 a 13/04  
+- Entrega: 13/04  
+- Apresentação: 15/04  
+
+### Duplas responsáveis pelas atas
+- Semana 1 (24/03 a 30/03): *Felipe e Leonardo*
+- Semana 2 (31/03 a 06/04): *Arthur e Gabriel*
+- Semana 3 (07/04 a 13/04): *Mateus e Vitor*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 1: Atividades planejadas para a etapa 1</p></font>
+
+
+| Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Analisar e escolher aplicativo              | Leonardo e Mateus      | Arthur e Vitor     |  26/03  | 31/03 |
+| Elaboração do cronograma planejado          | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 10/04 |          
+| Escolha de Metodologia e Ferramentas        | Arthur e Vitor         | Leonardo e Mateus  |  02/04  | 10/04 |
+| Documentar Equipe e criar Homepage          | Felipe                 | Gabriel e Daniel   |  03/04  | 11/04 |
+| Criação dos Richs Pictures                  | Leonardo e Mateus      | Arthur e Felipe    |  03/04  | 07/04 |
+| Gravar e fazer upload da apresentação       | Daniel e Gabriel       | Leonardo e Mateus  |  12/04  | 12/04 |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  12/04  | 12/04 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+
+## Etapa 2 – Elicitação  
+- Período: 14/04 a 27/04  
+- Entrega: 27/04  
+- Apresentação: 29/04  
+
+### Duplas responsáveis pelas atas
+- Semana 4 (14/04 a 20/04): *Daniel e Felipe*
+- Semana 5 (21/04 a 27/04): *Leonardo e Arthur*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 2: Atividades planejadas para a etapa 2</p></font>
+
+| Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------|--------------------|---------| ----- |
+| Elaborar questionário geral ( personas, perfil do usuário e técnica questionário) | Vitor Pereira Felipe das Neves  | Mateus Bastos e Arthur Carvalho   |  21/04  | 02/05 |
+| Traçar perfil de usuário                    | Mateus Bastos, Gabriel Lima e Daniel Rodrigues | Leonardo de Melo e Arthur Carvalho |  14/04  | 01/05 |
+| Criar elenco de personas                    | Mateus Bastos      | Leonardo de Melo e Vitor Pereira  |  16/04  | 30/04 |
+| Análise de Documentos (Técnica de Elicitação)     | Leonado de Melo e Arthur Carvalho| Mateus Bastos e Arthur Carvalho    |  21/04  | 02/04 |
+| Questionário (Técnica de Elicitação) | Vitor Pereira e Felipe das Neves  | Daniel Rodrigues e Gabriel Lima   |  23/04  | 02/05 |
+| Brainstorm (Técnica de Elicitação) | Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 02/05 |
+| Storytelling (Técnica de Elicitação) | Arthur Carvalho    | Mateus Bastos e Gabriel Lima   |  12/04  | 02/05 |
+| Observação (Técnica de Elicitação) | Gabriel Lima, Daniel Rodrigues e Arthur Carvalho    | Leonado de Melo e Felipe das Neves | 12/04 | 02/05 |
+| Prototipação (Técnica de Elicitação) | Leonardo de Melo, Felipe das Neves Arthur Carvalho    | Gabriel Lima e Vitor Pereira | 12/04 | 02/05 |
+| First Thing First (Técnica de Priorização) | Gabriel Lima, Leonardo de Melo e Arthur Carvalho    | Mateus Bastos e Felipe das Neves | 12/04 | 02/05 |
+| QFD (Técnica de Priorização) | Vitor Pereira, Mateus Pereira e Felipe das Neves    | Leonardo de Melo e Gabriel Lima | 12/04 | 02/05 |
+| MoSCoW (Técnica de Priorização) | Arthur Carvalho e Felipe das Neves    | Leonardo de Melo e Gabriel Lima | 12/04 | 02/05 |
+| ROI (Técnica de Priorização) | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos    | Arthur Carvalho e Leonardo de Melo | 12/04 | 02/05 |
+| Revisão final   | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  03/05  | 03/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+## Etapa 3 – Modelagem  
+- Período: 08/05 a 18/05  
+- Entrega: 18/05  
+- Apresentação: 20/05  
+
+### Duplas responsáveis pelas atas
+- Semana 7 (28/04 a 04/05): *Gabriel e Mateus*
+- Semana 8 (05/05 a 11/05): *Vitor e Daniel*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 3: Atividades planejadas para a etapa 3</p></font>
+
+| Tarefa                                      |      Responsáveis         |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------|--------------------|---------| ----- |
+| Diagrama de caso de uso                     | Mateus, Leonardo e Vitor         | Daniel e Gabriel     |  08/05  | 16/05 |
+| Definição do lexico                         | Mateus e Felipe           | Arthur e Daniel    |  08/05  | 16/05 |          
+| Criação de cenários                         | Arhtur, Daniel | Felipe e Gabriel    |  08/05  | 16/05 |
+| Especificação suplementar                   | Gabriel            | Leonardo e Vitor |  08/05  | 16/05 |
+| Gravar e fazer upload da apresentação       | Felipe e Gabriel            | Daniel e Mateus  |  16/05  | 16/05 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/05  | 16/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Leonardo de Melo](https://github.com/leozinlima)._</p></font>
+
+---
+
+## Etapa 4 – Ágil
+- Período: 14/05 a 27/05  
+- Entrega: 27/05  
+- Apresentação: 29/05  
+
+### Duplas responsáveis pelas atas
+- Semana 9 (14/05 a 18/05): *Felipe e Leonardo*
+- Semana 10 (19/05 a 25/05): *Arthur e Gabriel*
+     
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 4: Atividades planejadas para a etapa 4</p></font>
+
+| Tarefa                                      |      Responsáveis        |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|--------------------------|--------------------|---------| ----- |
+| Backlog do produto                          | Daniel, Gabriel e Leonardo |Vitor e Arthur     |  14/05  | 21/05 |
+| Elaboração de histórias de usuário          | Arthur, Vitor | Felipe e Gabriel   |  14/05  | 21/05 |          
+| Definição dos NFRs                          | Mateus e Felipe | Leonardo e Daniel  |  21/05  | 23/05 |
+| Gravar e fazer upload da apresentação       | Leonardo e Arthur | Felipe e Daniel     |  24/05  | 24/05 |
+| *Revisão final*                             | Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  24/05  | 24/05 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+
+## Etapa 5 – Pós-Rastreabilidade
+- Período: 28/05 a 10/06  
+- Entrega: 10/06  
+- Apresentação: 12/06  
+
+### Duplas responsáveis pelas atas
+- Semana 11 (28/05 a 01/05): *Mateus e Vitor*
+- Semana 12 (02/06 a 08/06): *Daniel e Felipe*
+
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 5: Atividades planejadas para a etapa 5</p></font>
+
+| Tarefa                                      |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------------|--------------------|---------| ----- |
+| Pós-rastreabilidade: Backward-form          | Mateus, Gabriel, Vitor e Daniel | Daniel e Felipe    |  28/05  | 04/06 |
+| Pós-rastreabilidade: Forward-form           | Leonardo , Arthur e Felipe      | Mateus e Gabriel   |  04/06  | 07/06 |           
+| Gravar e fazer upload da apresentação       | Vitor e Felipe                  | Arthur e Leonardo  |  09/06  | 09/06 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  09/06  | 09/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+## Etapa 6 – Verificação e Validação
+- Período: 11/06 a 26/06  
+- Apresentação: 26/06 
+
+### Duplas responsáveis pelas atas
+- Semana 13 (11/06 a 15/06): *Leonardo e Arthur*
+- Semana 14 (16/06 a 22/06): *Gabriel e Mateus*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 6: Atividades planejadas para a etapa 6</p></font>
+
+| Tarefa                                         |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
+|------------------------------------------------|---------------------------------|--------------------|---------| ----- |
+| Verificação por inspeção de todos os artefatos | Leonardo, Arthur, Daniel        |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  11/06  | 16/06 |
+| Validação: Prototipação                        | Mateus, Gabriel, Vitor e Felipe |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/06  | 23/06 |
+| Gravar e fazer upload da apresentação          | Leonardo e Mateus               | Mateus e Daniel    |  25/06  | 25/06 |
+| *Revisão final*                                |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  25/06  | 25/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+
+
+## Etapa Final – Entrega do Projeto Completo  
+- Entrega Final: 07/07  
+
+<font size="3"><p style="text-align: center">Tabela 7: Atividades planejadas para a entrega final</p></font>
+
+| Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Consolidação final do MkDocs                |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 25/06  | 02/07 |
+| Ajustes de formatação e revisão técnica     |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 02/07  | 04/07 |          
+| *Revisão final*                             |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 04/07  | 04/07 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+
+## Bibliografia
+
+> SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 07 jul. 2025.
+
+> Cronograma BilheteriaDigital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/> . Acesso em 07 jul. 2025.
+
+> ABNT NBR 6022:2018 — Informação e documentação – Artigo em publicação periódica científica impressa – Apresentação.
+
+---
 
 ---
 
@@ -43,3 +436,4 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 05/07/2025 | Criação do Artefato | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
+| 1.0    | 05/07/2025 | Adicão de todo cronograma executado e planejado | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>|07/07/2025|

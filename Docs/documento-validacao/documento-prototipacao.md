@@ -23,6 +23,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | :--- | :--- |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor do Desenvolvimento do Artefato |
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | Revisor do Artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor do Desenvolvimento do Artefato e [[Vídeo]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-validacao/documento-prototipacao/#entrevista) |
 
 
 *Legenda:* 
@@ -91,7 +92,7 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 
 ---
 
-## Entrevista
+## Entrevista 1
 
 
 
@@ -103,8 +104,22 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Lima](https://github.com/gabriel-lima258)</p></font>
 
+
 ---
 
+## Entrevista 2
+
+
+
+<p style="text-align: center"><a href="https://youtu.be/u6UcZf8_VeQ" target="blanket">Clique aqui</a> </p>
+
+<center>
+<iframe width="560" height="315" src="https://youtu.be/u6UcZf8_VeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Arthur Carvalho Leite](https://github.com/arthurlleite)</p></font>
+
+---
 ## Referências Bibliográficas
 
 > 1. Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
@@ -123,3 +138,4 @@ Essa etapa teve como objetivo validar os requisitos previamente elicitados, asse
 | 1.1  | 22/06/2025 | Adição da prototipação e entrevista  | [<span style="color:gold;">Vitor Bessa</span>](https://github.com/gabriel-lima258)| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/Bessazs) | 22/06/2025 |
 | 1.2 | 23/06/2025 | Wornings e tabela de contribuição do grupo  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025 |
 | 1.3 | 23/06/2025 | Adição do protótipo  | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 23/06/2025 |
+| 1.4 | 07/07/2025 | Adição da Segunda Entrevista  | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite)| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | 07/07/2025 |

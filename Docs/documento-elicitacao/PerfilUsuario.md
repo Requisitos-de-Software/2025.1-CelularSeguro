@@ -11,8 +11,6 @@ Para que o desenvolvimento do sistema Celular Seguro seja centrado no usuário e
 Segundo Barbosa et al. (2021), o perfil de usuário consiste em uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema em desenvolvimento [[ 1 ]](#ref1). A elaboração desse perfil é uma etapa essencial na organização do espaço do problema, pois contribui para garantir que o sistema seja adequado ao seu contexto de uso.
 
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
@@ -22,7 +20,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor do desemvolvimento do artefato |
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor do desenvolvimento do artefato |
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Autor das tabelas do artefato, bem como: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 3 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero), [[ Figura 4 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario/#genero)|
 | [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
@@ -120,8 +118,29 @@ Após a análise das respostas, foi traçado o seguinte Perfil de Usuário para 
 ### Complemento: Panorama Nacional sobre o Uso da Internet
 Segundo dados recentes do IBGE (2023), 87,2% da população com 10 anos ou mais utilizou a internet no Brasil. Esse número demonstra a expansão contínua da digitalização no país, reforçando a importância de desenvolver aplicativos móveis acessíveis e seguros. Dado que a maioria dos respondentes são jovens universitários e usuários ativos da internet, o perfil traçado está alinhado ao comportamento digital de uma parcela significativa da população brasileira.
 
+Para reforçar a consistência do perfil traçado a partir do questionário, realizou-se uma comparação direta com os dados do IBGE 2023 sobre uso da internet no Brasil. A tabela a seguir relaciona os principais aspectos observados entre os usuários do app Celular Seguro com as tendências nacionais de uso digital, mostrando que o perfil definido está alinhado com o comportamento digital da população mais conectada.
+
 ---
 
+### 📊 Tabela Comparativa — Perfil de Usuário vs. Panorama Nacional (IBGE 2023)
+
+<p style="text-align: center"><em>Tabela 1 - Comparativo entre perfil dos usuários do app Celular Seguro e dados do IBGE sobre uso da internet no Brasil.</em></p>
+
+| Critério                         | Perfil Identificado (Questionário)               | Panorama Nacional (IBGE 2023)                            | Relação/Interpretação                                                                 |
+|----------------------------------|--------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Acesso à internet                | 100% dos respondentes têm acesso regular         | 87,2% da população com 10 anos ou mais                   | O público-alvo está **acima da média nacional**, indicando forte conectividade.       |
+| Faixa etária dominante           | 18 a 25 anos (58,3%)                             | Jovens de 16 a 29 anos são os **mais ativos online**     | Perfil local **reflete** o padrão nacional de engajamento digital jovem.              |
+| Gênero                           | Maioria masculina (52,1%)                        | Leve predominância masculina em apps de segurança        | Coerente com dados de engajamento em apps relacionados à segurança.                   |
+| Frequência de uso de apps        | Uso diário ou várias vezes ao dia (89,6%)        | 90% dos jovens acessam apps várias vezes ao dia          | Perfil é **altamente alinhado** ao padrão nacional entre usuários jovens.             |
+| Facilidade de uso percebida      | 83,3% acharam fácil ou muito fácil de usar       | Alta familiaridade digital entre jovens e universitários | Esperado, já que o público tem **alta competência digital**.                          |
+| Confiança na proteção de dados   | Confiança parcial (majoritária)                  | Desconfiança geral em apps públicos ainda é comum        | O resultado reflete **tendência nacional de cautela com dados pessoais.**             |
+
+
+
+
+
+
+---
 ## Bibliografia
 
 > <a name="ref1">[ 1 ]</a> Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Elsevier.
