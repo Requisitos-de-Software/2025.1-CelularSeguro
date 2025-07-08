@@ -20,6 +20,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete)  | Autor do Artefato |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Revisor do Artefato |
 
+
+
 *Legenda:* 
 
 **Nome** – participante da técnica. 

@@ -1,66 +1,79 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.0</span>
+
 # Planejamento de Verificação - Entrega 5
 
-## Cronograma de Participantes
+---
+
+## Introdução
+
+Nesta etapa 5, realizamos a verificação dos artefatos de rastreabilidade com base em um processo sistemático, inspirado no método de inspeção proposto por Fagan, que define seis passos fundamentais: Planejamento, Visão Geral, Preparação, Inspeção, Correção e Acompanhamento. Esse modelo guiou a estruturação de nossas atividades, proporcionando maior controle de qualidade sobre os artefatos produzidos.
+
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
+
+## Integrantes que atuaram no desenvolvimento do artefato
+
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
 
 <font size="3"><p style="text-align: center">Tabela 1: Contribuição</p></font>
 
-<div align="center">
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Refatorador do artefato e autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-5/planejamento-entrega5/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
+| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do layout de modelagem do artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Artefato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>!!!!!</td>
-      <td>!!!!!</td>
-    </tr>
-  </tbody>
-</table>
+*Legenda:* 
 
-</div>
+**Nome** – participante da técnica. 
 
-<font size="2"><p style="text-align: center">Fonte: [Daniel Rodrigues](https://github.com/zDrNz) </p></font>
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
 
 ## Artefatos Verificados
 
 Os artefatos da Entrega 5 verificados foram:
 
-- <a>Matriz Geral</a>
-- <a>Pós-Rastreabilidade</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/matriz> Matriz Geral </a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade>Pós-Rastreabilidade</a>
+
+### Tabela 1 – Refatorações necessárias das Inspeções
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 07/07 | Versão 2.0</span>
+</center>
+
+| Entrega | Item | Descrição | Corrigido? | 
+| :--- | :--- | :--- | :---: | 
+| **Entrega 5** | P01 | Não foi possível seguir o fluxo de um requisito desde sua origem até os diagramas e protótipos. | Pendente | 
+
+<font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
+
+---
 
 ## Resultado
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
-- <a>Ágil</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-rastreabilidade/pos-rastreabilidade/>Pós-Rastreabilidade</a>
 
-## Listas de Verificação
-
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
-
-- <a>Lista de Verificação</a>
-
-# Análise de Resultados
-
-## Correção
-
-## Acompanhamento
+---
 
 ## Referências Bibliográficas
 
+> <a id="RF1">1.</a> KALINOWSKI, M. [s.l: s.n.]. Disponível em: <https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf>. Acesso em: 7 jul. 2025.
 
-> <a id="REF1" href="#anchor_1">1.</a> SALES, André Barros de. Sugestão inicial de Lista de Verificação para algumas entregas do projeto. Requisitos de Software. Brasília: Universidade de Brasília, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 21 junho 2025.
+> <a id="RF1">1.</a> ECC INTERNATIONAL. Fagan Inspection Method v4 [apresentação em PowerPoint]. Filipinas: ECC International. Disponível em: <https://eccinternational.wordpress.com>. Acesso em: 07 julho. 2025.
 
-> <a id="REF2" href="#anchor_2">2.</a> SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) – Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019. Disponível em: https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTAÇÃO%20Reinaldo%20Antônio%20da%20Silva.pdf. Acesso em: 21 junho 2025.
-
-> <a id="REF3" href="#anchor_3">3.</a>  PROJETO DE REQUISITOS 2023.1 - BILHETERIA DIGITAL. In: REQUISITOS DE SOFTWARE. [S. l.: s. n.], 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 21 junho 2025.
+---
 
 ## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0  | 04/07/2025 | Planejamento entrega 02.  | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 04/07/2025|
+| 1.0  | 04/07/2025 | Planejamento entrega 05.  | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 04/07/2025|
+| 2.0  | 07/07/2025 | Refatoração do artefato e migração dos resultados para a tabela de refatoração.  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | 07/07/2025|

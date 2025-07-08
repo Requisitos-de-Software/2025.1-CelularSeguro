@@ -23,8 +23,8 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor da Tabela: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais), [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-nao-funcionais); Autor do Tópico: [[ Tópico 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#historias-de-usuarios) |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
 
 *Legenda:* 
 

@@ -1,73 +1,105 @@
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.0</span>
+
 # Planejamento de Verificação - Entrega 2
 
-## Cronograma de Participantes
+---
 
-<font size="3"><p style="text-align: center">Tabela 1: Contribuição</p></font>
+## Introdução
 
-<div align="center">
+Nesta etapa 2, realizamos a verificação dos requisitos com base em um processo sistemático, inspirado no método de inspeção proposto por Fagan, que define seis passos fundamentais: Planejamento, Visão Geral, Preparação, Inspeção, Correção e Acompanhamento. Esse modelo guiou a estruturação de nossas atividades, proporcionando maior controle de qualidade sobre os artefatos produzidos.
 
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Artefato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>!!!!!!!!!!!!</td>
-      <td>!!!!!!!!!!!</td>
-    </tr>
-  </tbody>
-</table>
+!!! Warning "Atenção!"
+    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
-</div>
+## Integrantes que atuaram no desenvolvimento do artefato
 
-<font size="2"><p style="text-align: center">Autor: [Daniel Rodrigues](https://github.com/zDrNz) </p></font>
+Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento **completo** encontra-se ao final do artefato.
+
+<font size="3"><p style="text-align: center">_Tabela de Contribuição_</p></font>
+
+| Nome | Função |
+| :--- | :--- |
+| [<span style="color:gold;">Felipe das Neves</span>](https://github.com/repolhudo) | Refatorador do artefato e autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-2/planejamento-entrega2/#tabela-1-refatoracoes-necessarias-das-inspecoes)|
+| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor do layout de modelagem do artefato |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
+*Legenda:* 
+
+**Nome** – participante da técnica. 
+
+**Função** – papel desempenhado na priorização. 
+
+!!! Tip "Observação"
+    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
+
+---
 
 ## Artefatos Verificados
 
 Os artefatos da Entrega 2 verificados foram:
 
-- <a>Perfil de Usuário</a>
-- <a>Personas</a>
-- <a>Análise de Documentos</a>
-- <a>Questionário</a>
-- <a>Brainstorming</a>
-- <a>Storytelling</a>
-- <a>Observação</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/PerfilUsuario> Perfil de Usuário </a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Personas> Personas</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos> Análise de Documentos</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming> Brainstorming</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao> Observação</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling> Storytelling</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/MoSCoW> Moscow</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/QFD> QFD</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/FirstThingFirst> FTF</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/100> $100</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario> Questionário</a>
+
+### Tabela 1 – Refatorações necessárias das Inspeções
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 07/07 | Versão 2.0</span>
+</center>
+
+| Entrega | Item | Descrição | Corrigido? |
+| :--- | :--- | :--- | :---: |
+| **Entrega 2** | 06 | O cronograma executado não apresenta as datas de início e fim da construção/realização do artefato/atividade. | Sim, Vitor Bessa fez a correção no artefato dos cronogramas |
+| **Entrega 2** | 11 | Não foi definido um cronograma (data e horário) para a elicitação dos requisitos com o cliente/persona. | Sim,  Vitor Bessa fez a correção no artefato dos cronogramas | 
+| **Entrega 2** | 74 | A técnica dos $100 não foi aplicada com a participação de um cliente real do sistema. | Sim, o Daniel fez a entrevista com o cliente |
+| **Entrega 2** | 76 | Na técnica dos $100, a distribuição dos valores ultrapassou o limite de $100. | Gabriel lima, fez os ajustes para  |
+| **Entrega 2** | - | Explicação adequada das técnicas usadas no QFD | Sim, Foi feita a refatoração completa do artetafo |
+
+*Legenda:* 
+
+**Entrega** Respectiva entrega do artefato. 
+
+**Item** – Tópico da tabela de inspeção do grupo [[ Inspeção do Grupo ]](requisitos-de-software.github.io/2025.1-CelularSeguro/documento-inspecao/grupo/documento_inspecao_grupo/#1-introducao) 
+
+**" - "** - Ajustes necessários analisados na apresentação do artefato em aula. 
+
+**Descição** Descrição do erro.
+
+**Corrigido** – Status de correção.
+
+<font size="2"><p style="text-align: center">Autor: [Felipe das Neves](https://github.com/FelipeFreire-gf), 2025.</p></font>
+
+---
 
 ## Resultado
 
 O resultado da verificação de cada artefato podem ser visualizados na página abaixo:
 
-- <a>Elicitação</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-verificacao/Entregas/Entrega-2/documento-verificacao-grupo2>Elicitação</a>
 
-## Listas de Verificação
+- <a href = https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/QFD> QFD </a>
 
-As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
-
-
-# Análise de Resultados
-
-## Correção
-
-## Acompanhamento
-
-
+---
 
 ## Referências Bibliográficas
 
-> <a id="RF1">1.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 21 jun. 2025.
+> <a id="RF1">1.</a> KALINOWSKI, M. [s.l: s.n.]. Disponível em: <https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf>. Acesso em: 7 jul. 2025.
 
-> <a id="RF2">2.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Rio de Janeiro, RJ: Brasport, 2016.
+> <a id="RF1">1.</a> ECC INTERNATIONAL. Fagan Inspection Method v4 [apresentação em PowerPoint]. Filipinas: ECC International. Disponível em: <https://eccinternational.wordpress.com>. Acesso em: 07 julho. 2025.
 
-> <a id="RF3">3.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Apresentação de Slides. Universidade de Brasília Campus Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 21 jun. 2025.
-
-> <a id="RF4">4.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements: third edition. Redmond, WA: Microsoft Press, 2013.
 
 ## Histórico de Versões 
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0  | 04/07/2025 | Planejamento entrega 02.  | [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz)| [<span style="color:gold;">Vitor Bessa</span>](https://github.com/Bessazs) | 04/07/2025|
+| 2.0  | 04/07/2025 | Refatoração do Artefato  | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf)| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/Bessazs) | 04/07/2025|

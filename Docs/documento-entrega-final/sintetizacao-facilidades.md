@@ -6,10 +6,7 @@
 
 ## Introdução
 
----
 
-!!! Warning "Atenção!"
-    O conteúdo deste tópico **poderá sofrer alterações** ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.
 
 ## Integrantes que atuaram no desenvolvimento do artefato
 
@@ -20,6 +17,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | Nome | Função |
 | :--- | :--- |
 | [<span style="color:gold;">repolhudo</span>](https://github.com/repolhudo) | Autor da: [[ Figura 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Adicionou descrição ao artefato |
 | [<span style="color:gold;">repolhudo junior</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
 *Legenda:* 
@@ -28,10 +26,14 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 **Função** – papel desempenhado na priorização. 
 
-!!! Tip "Observação"
-    Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. 
-
 ---
+
+
+
+
+## Mateus Bastos
+Durante o projeto de Requisitos de Software, pude perceber o quanto essa disciplina exige organização, paciência e atenção aos detalhes. Uma das facilidades, para mim, foi já ter certa familiaridade com documentação, e ja ter feitos outros projetos utiliazando mkdocs, e com as ferramentas de versionamento, o que ajudou na organização dos documentos e no controle das entregas. No entanto, isso não significou ausência de dificuldades. Um dos principais desafios foi entender profundamente os conceitos por trás de cada artefato, e conseguir ajsutar conforme as exigências e correções.  Porém foi importante o processo de aprendizado a partir do feedback do professor e da troca de conhecimneto com o grupo, pois isso me ajudou a enxergar o projeto de forma mais crítica e madura. 
+Hoje, termino a disciplina com uma visão muito mais sólida sobre o papel da Engenharia de Requisitos em um projeto de software.
 
 
 
@@ -42,4 +44,4 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
-| 1.0    | 05/07/2025 | Criação do Artefato | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
+| 1.0    | 05/07/2025 | Criação da estrutura do documento inicial | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
