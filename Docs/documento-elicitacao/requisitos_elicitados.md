@@ -22,6 +22,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 | :--- | :--- |
 | [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor da: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/FelipeFreire-gf) | Inserção de requisistos elicitados do questionário nas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor e revisor da  [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-funcionais) e [[ Tabela 2 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/requisitos_elicitados/#requisitos-nao-funcionais). |
 | [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Revisor do Artefato |
 
 *Legenda:* 
