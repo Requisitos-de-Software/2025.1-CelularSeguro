@@ -148,6 +148,71 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 ---
 
+## Etapa 5 – Pós-Rastreabilidade
+- Período: 28/05 a 10/06  
+- Entrega: 10/06  
+- Apresentação: 12/06  
+
+### Duplas responsáveis pelas atas
+- Semana 11 (28/05 a 01/05): *Mateus e Vitor*
+- Semana 12 (02/06 a 08/06): *Daniel e Felipe*
+
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 5: Atividades planejadas para a etapa 5</p></font>
+
+| Tarefa                                      |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|---------------------------------|--------------------|---------| ----- |
+| Pós-rastreabilidade: Backward-form          | Mateus, Gabriel, Vitor e Daniel | Daniel e Felipe    |  28/05  | 04/06 |
+| Pós-rastreabilidade: Forward-form           | Leonardo , Arthur e Felipe      | Mateus e Gabriel   |  04/06  | 07/06 |           
+| Gravar e fazer upload da apresentação       | Vitor e Felipe                  | Arthur e Leonardo  |  09/06  | 09/06 |
+| *Revisão final*                             |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  09/06  | 09/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+## Etapa 6 – Verificação e Validação
+- Período: 11/06 a 26/06  
+- Apresentação: 26/06 
+
+### Duplas responsáveis pelas atas
+- Semana 13 (11/06 a 15/06): *Leonardo e Arthur*
+- Semana 14 (16/06 a 22/06): *Gabriel e Mateus*
+
+### Tarefas
+
+<font size="3"><p style="text-align: center">Tabela 6: Atividades planejadas para a etapa 6</p></font>
+
+| Tarefa                                         |      Responsáveis               |      Revisor(es)   |  Início |  Fim  |
+|------------------------------------------------|---------------------------------|--------------------|---------| ----- |
+| Verificação por inspeção de todos os artefatos | Leonardo, Arthur, Daniel        |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  11/06  | 16/06 |
+| Validação: Prototipação                        | Mateus, Gabriel, Vitor e Felipe |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  16/06  | 23/06 |
+| Gravar e fazer upload da apresentação          | Leonardo e Mateus               | Mateus e Daniel    |  25/06  | 25/06 |
+| *Revisão final*                                |Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos|  25/06  | 25/06 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
+
+
+## Etapa Final – Entrega do Projeto Completo  
+- Entrega Final: 07/07  
+
+<font size="3"><p style="text-align: center">Tabela 7: Atividades planejadas para a entrega final</p></font>
+
+| Tarefa                                      |      Responsáveis      |      Revisor(es)   |  Início |  Fim  |
+|---------------------------------------------|------------------------|--------------------|---------| ----- |
+| Consolidação final do MkDocs                |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 25/06  | 02/07 |
+| Ajustes de formatação e revisão técnica     |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 02/07  | 04/07 |          
+| *Revisão final*                             |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos  |  Arthur Carvalho, Felipe das Neves, Daniel Rodrigues, Gabriel Lima, Leonardo de Melo, Vitor Pereira e Mateus Bastos 04/07  | 04/07 |
+
+<font size="3"><p style="text-align: center">_Fonte: [Vitor Bessa](https://github.com/Bessazs)._</p></font>
+
+---
+
 ## Bibliografia
 
 >SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1390833>. Acesso em: 09 abr. 2025.
