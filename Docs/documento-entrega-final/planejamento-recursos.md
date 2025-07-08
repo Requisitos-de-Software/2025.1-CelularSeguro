@@ -19,7 +19,7 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor das tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor das tabelas: [[ Tabela 1 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-entrega-final/planejamento-recursos/#integrantes-que-atuaram-no-desenvolvimento-do-artefato)|
 | [<span style="color:gold;">Vitor Pereira</span>](https://github.com/arthurlleite) | Revisor do Artefato |
 
 *Legenda:* 
@@ -436,3 +436,4 @@ Cada Etapa possui a duração aproximada de duas semanas e foi estruturada com b
 | Versão | Data de produção   | Descrição da Alteração                               | Autor(es)             | Revisor(es)      |Data de Revisão |
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0    | 05/07/2025 | Criação do Artefato | <a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>| 05/07/2025|
+| 1.0    | 05/07/2025 | Adicão de todo cronograma executado e planejado | <a style="color:gold;" href="https://github.com/arthurlleite" target="_blank">Arthur Carvalho</a> | <a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>|07/07/2025|
