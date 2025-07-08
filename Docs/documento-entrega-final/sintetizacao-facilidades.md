@@ -1,7 +1,5 @@
 # Feedback do Projeto: [Celular Seguro](https://requisitos-de-software.github.io/2025.1-CelularSeguro/)
 
-**Data:** 06/07/2025
-
 ## Introdução
 
 Este documento reúne as percepções individuais dos membros da equipe sobre o desenvolvimento do projeto, abordando as facilidades, as dificuldades encontradas e opiniões gerais.

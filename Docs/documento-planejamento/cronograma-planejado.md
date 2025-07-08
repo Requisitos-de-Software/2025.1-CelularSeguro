@@ -20,8 +20,10 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Vitor Bessao</span>](https://github.com/repolho) | Autor do artefato |
+
+| [<span style="color:gold;">Vitor Bessao</span>](https://github.com/bessazs) | Autor do artefato |
 | [<span style="color:gold;">Felipe das Neves</span>](https://github.com/arthurlleite) | Revisor do Artefato |
+
 
 *Legenda:* 
 
