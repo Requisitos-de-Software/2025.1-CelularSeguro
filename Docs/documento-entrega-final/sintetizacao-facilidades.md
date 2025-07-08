@@ -49,7 +49,7 @@ Outro ponto de facilidade foi o comprometimento da maioria dos integrantes em ap
 
 Apesar desses pontos positivos, enfrentamos dificuldades conforme o projeto avançava, principalmente pelo curto prazo de algumas entregas finais, o que gerou momentos de sobrecarga e correria para a equipe. No início, também tivemos problemas na padronização das páginas do repositório e na organização das listas de verificação, já que cada membro colocava imagens de livros e referências de formas diferentes, o que resultou em retrabalho para corrigir e padronizar todos os detalhes.
 
-Outro desafio foi a falta de contribuição do Daniel em boa parte do projeto, o que acabou gerando mais trabalho para os outros membros e, em alguns momentos, prejudicou o andamento do planejamento. No entanto, é importante reconhecer que, no final do semestre, ele buscou ajudar, colaborando para que conseguíssemos finalizar as entregas pendentes.
+Outro desafio foi a falta de contribuição do Daniel em boa parte do projeto, o que acabou gerando mais trabalho para os outros membros e, em alguns momentos, prejudicou o andamento do planejamento. No entanto, é importante reconhecer que, do final do meio até o  final do semestre, ele buscou ajudar, colaborando para que conseguíssemos finalizar algumas entregas pendentes.
 
 Destaco que, apesar dessas dificuldades, todos os outros membros desempenharam papéis fundamentais em cada entrega, mostrando comprometimento com o projeto e evolução técnica em cada etapa. Foi possível perceber que cada um contribuiu com suas habilidades, tornando o projeto consistente, e mesmo com os desafios enfrentados, conseguimos avançar.
 
