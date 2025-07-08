@@ -1,0 +1,5196 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../documento-elicitacao/100/">
+      
+      
+        <link rel="next" href="../lexico/">
+      
+      
+      <link rel="icon" href="../../assets/LogoCelularSeguro.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
+    
+    
+      
+        <title>Casos de Uso - Celular Seguro</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Montserrat";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#casos-de-uso" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Celular Seguro" class="md-header__button md-logo" aria-label="Celular Seguro" data-md-component="logo">
+      
+  <img src="../../assets/LogoCelularSeguro.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Celular Seguro
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.1-CelularSeguro" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.1-Celular Seguro
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Celular Seguro" class="md-nav__button md-logo" aria-label="Celular Seguro" data-md-component="logo">
+      
+  <img src="../../assets/LogoCelularSeguro.png" alt="logo">
+
+    </a>
+    Celular Seguro
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.1-CelularSeguro" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.1-Celular Seguro
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../landing.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Landing Page
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Atas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sprint 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Sprint 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-1/ata-reuniao-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-1/ata-reuniao-2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-1/ata-reuniao-3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-1/ata-reuniao-4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sprint 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Sprint 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-2/ata-reuniao-5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sprint 3
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sprint 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-2/ata-reuniao-6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sprint 4
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Sprint 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-4/ata-reuniao-7/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sprint 5
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Sprint 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-reuniao/sprint-5/ata-reuniao-8/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Planejamento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-planejamento/documento-planejamento/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introdução
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-planejamento/heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    HeatMap
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-planejamento/cronograma-planejado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cronograma Planejado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-planejamento/cronograma-executado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-planejamento/ferramentas-utilizadas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ferramentas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-planejamento/metodologias-utilizadas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Metodologia
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-pre-rastreabilidade/documento-pre-rastreabilidade/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introdução
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-pre-rastreabilidade/aplicativos_analisados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativos Analisados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-pre-rastreabilidade/aplicativo_selecionado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Elicitação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/Introducao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introdução
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/PerfilUsuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Perfil do Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/Personas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Personas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Técnicas de Elicitação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/AnalisedeDocumentos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/Questionario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Questionário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/Brainstorming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Brainstorming
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/Storytelling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Storytelling
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/Observacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Observação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/requisitos_elicitados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Técnicas de Priorização
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_5">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/FirstThingFirst/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    First Thing First
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/QFD/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    QFD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/MoSCoW/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MoSCoW
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-elicitacao/100/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    $100
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Modelagem
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#integrantes-que-atuaram-no-desenvolvimento-do-artefato" class="md-nav__link">
+    <span class="md-ellipsis">
+      Integrantes que atuaram no desenvolvimento do artefato
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elementos-do-diagrama-de-caso-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elementos do Diagrama de Caso de Uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diagrama de Casos de Uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#especializacao-dos-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Especialização dos casos de uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emitir-alerta-de-roubo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Emitir alerta de roubo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#registrar-boletim" class="md-nav__link">
+    <span class="md-ellipsis">
+      Registrar Boletim
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#localizar-celular" class="md-nav__link">
+    <span class="md-ellipsis">
+      Localizar Celular
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bloqueio-remoto-do-aparelho" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bloqueio Remoto do Aparelho
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backup-de-dados-via-email" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backup de Dados via Email
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gerar-relatorio-de-movimentacao-em-pdf" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gerar Relatório de Movimentação em PDF
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definir-dispositivo-de-confianca" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definir Dispositivo de Confiança
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#limpeza-remota-com-autenticacao-forte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Limpeza Remota com Autenticação Forte
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editar-perfil-via-aba" class="md-nav__link">
+    <span class="md-ellipsis">
+      Editar Perfil via Aba
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gerenciar-contas-bancarias-vinculadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gerenciar Contas Bancárias Vinculadas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guia-de-acoes-pos-furto" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guia de Ações Pós-Furto
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cadastrar-pessoa-de-confianca" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cadastrar Pessoa de Confiança
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backup-periodico-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backup Periódico de Dados
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#feedback-visual-ao-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Feedback Visual ao Usuário
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Léxicos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacoes-suplementar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Agil
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Agil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agil/NR_Framework/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    NFR Framework
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agil/Backlog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Backlog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agil/Historias_de_usuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Histórias de usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-rastreabilidade/matriz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Matriz Geral
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-rastreabilidade/pos-rastreabilidade/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Verificação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/introducao-verificacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introducão
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/introducao-planejamento/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Geral
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3" id="__nav_9_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entregas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entregas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3_1" id="__nav_9_3_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-1/planejamento-entrega1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-1/documento-verificacao-grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3_2" id="__nav_9_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-2/planejamento-entrega2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-2/documento-verificacao-grupo2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3_3" id="__nav_9_3_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-3/planejamento-entrega3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-3/documento-verificacao-grupo3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3_4" id="__nav_9_3_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-4/planejamento-entrega4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-4/documento-verificacao-grupo4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3_5" id="__nav_9_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-5/planejamento-entrega5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-5/documento-verificacao-grupo5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3_6" id="__nav_9_3_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 6
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-6/planejamento-entrega6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-verificacao/Entregas/Entrega-6/documento-verificacao-grupo6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Validação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-validacao/documento-prototipacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Prototipação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-validacao/documentacao-artefatosAnteriores/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Artefatos Inconformes 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-validacao/documentacao-resposta-informal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Comprovação Informal
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Inspeção
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeção
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_1" id="__nav_11_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_1">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo/documento_inspecao_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo/documento_inspecao_grupo2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo/documento_inspecao_grupo3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo/documento_inspecao_grupo4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo/documento_inspecao_grupo5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo/documento_inspecao_grupo6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2" id="__nav_11_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo + 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo + 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/documento_inspecao_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/documento_inspecao_grupo%2B1-2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/documento_inspecao_grupo%2B1-3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/documento_inspecao_grupo%2B1-4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/inspecaogrupo%2B1-5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/inspecaogrupo%2B1-6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-inspecao/grupo%2B1/final%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Inspeção Final Grupo +1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Apresentação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_12_1" id="__nav_12_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Apresentações
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_12_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12_1">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/apresentacao-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/apresentacao-2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/apresentacao-3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/apresentacao-4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/apresentacao-5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/apresentacao-6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-apresentacao/entrega-final/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega Final
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_13" >
+        
+          
+          <label class="md-nav__link" for="__nav_13" id="__nav_13_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega Final
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_13">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega Final
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/aplicativo-selecionado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/planejamento-recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento de Recursos e das Entregas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/execucao-projeto/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Execução do Projeto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/resultados-alcancados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Resultados Alcançados com a Execução do Projeto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/sintetizacao-ferramentas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sintetização das Ferramentas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/sintetizacao-tecnicas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sintetização das Técnicas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/sintetizacao-artefatos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sintetização dos Artefatos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/sintetizacao-metodo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sintetização Método de Verificação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/sintetizacao-videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sintetização dos vídeos de Apresentação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documento-entrega-final/sintetizacao-facilidades/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Facilidades e Dificuldades Encontradas no Projeto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#integrantes-que-atuaram-no-desenvolvimento-do-artefato" class="md-nav__link">
+    <span class="md-ellipsis">
+      Integrantes que atuaram no desenvolvimento do artefato
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elementos-do-diagrama-de-caso-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elementos do Diagrama de Caso de Uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diagrama de Casos de Uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#especializacao-dos-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Especialização dos casos de uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emitir-alerta-de-roubo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Emitir alerta de roubo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#registrar-boletim" class="md-nav__link">
+    <span class="md-ellipsis">
+      Registrar Boletim
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#localizar-celular" class="md-nav__link">
+    <span class="md-ellipsis">
+      Localizar Celular
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bloqueio-remoto-do-aparelho" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bloqueio Remoto do Aparelho
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backup-de-dados-via-email" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backup de Dados via Email
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gerar-relatorio-de-movimentacao-em-pdf" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gerar Relatório de Movimentação em PDF
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definir-dispositivo-de-confianca" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definir Dispositivo de Confiança
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#limpeza-remota-com-autenticacao-forte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Limpeza Remota com Autenticação Forte
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editar-perfil-via-aba" class="md-nav__link">
+    <span class="md-ellipsis">
+      Editar Perfil via Aba
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gerenciar-contas-bancarias-vinculadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gerenciar Contas Bancárias Vinculadas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guia-de-acoes-pos-furto" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guia de Ações Pós-Furto
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cadastrar-pessoa-de-confianca" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cadastrar Pessoa de Confiança
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backup-periodico-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backup Periódico de Dados
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#feedback-visual-ao-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Feedback Visual ao Usuário
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<p><span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.0</span></p>
+<h1 id="casos-de-uso">Casos de Uso</h1>
+<hr />
+<h2 id="introducao">Introdução</h2>
+<p>Um caso de uso é uma descrição detalhada de como um sistema será utilizado por seus usuários em um determinado contexto ou situação. Ele descreve as interações entre os atores (usuários ou sistemas externos) e o sistema, especificando os passos necessários para atingir um objetivo específico. Cada caso de uso foca em uma funcionalidade ou tarefa que o sistema deve realizar, detalhando as ações dos usuários e as respostas esperadas do sistema. Este tipo de modelagem é essencial no desenvolvimento de software, pois ajuda a mapear os requisitos funcionais, garantindo que o sistema atenda às necessidades dos usuários finais [2].</p>
+<p>Além disso, os casos de uso permitem uma visão clara das funcionalidades do sistema, oferecendo uma maneira estruturada de documentar o comportamento esperado do sistema durante a interação com o usuário. Eles servem como base para o desenvolvimento do sistema, auxiliando na análise e design, e são usados para validar os requisitos e guiar a implementação.</p>
+<div class="admonition warning">
+<p class="admonition-title">Atenção!</p>
+<p>O conteúdo deste tópico <strong>poderá sofrer alterações</strong> ao longo da Disciplina de Requisitos de Software. Portanto, as tabelas serão organizadas iniciando pela versão mais recente e finalizando com a versão mais antiga.</p>
+</div>
+<hr />
+<h2 id="integrantes-que-atuaram-no-desenvolvimento-do-artefato">Integrantes que atuaram no desenvolvimento do artefato</h2>
+<p>Esta tabela inicial terá somente os artefatos de alta relevância que cada integrante do projeto desenvolveu. O versionamento <strong>completo</strong> encontra-se ao final do artefato.</p>
+<p><font size="3"><p style="text-align: center"><em>Desenvolvimento do Artefato</em></p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Nome</th>
+<th style="text-align: left;">Função</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="https://github.com/leozinlima"><span style="color:gold;">Leonardo de Melo</span></a></td>
+<td style="text-align: left;">Responsável por desenvolver o artefato e: <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#elementos-do-diagrama-de-caso-de-uso">[ Elementos do Diagrama de Caso de Uso ]</a> e <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#emitir-alerta-de-roubo">[ Especialização dos casos de uso ]</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://github.com/MateuSansete"><span style="color:gold;">Mateus Bastos</span></a></td>
+<td style="text-align: left;">Responsável por desenvolver : <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#introducao">[ Introdução ]</a> e <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#metodologia">[ Metodologia ]</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://github.com/Bessazs"><span style="color:gold;">Vitor Bessa</span></a></td>
+<td style="text-align: left;">Responsável por desenvolver : <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/caso-de-uso/#diagrama-de-casos-de-uso">[ Diagrama de Casos de Uso]</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://github.com/FelipeFreire-gf"><span style="color:gold;">Felipe das Neves</span></a></td>
+<td style="text-align: left;">Revisor do Artefato</td>
+</tr>
+</tbody>
+</table>
+<p><em>Legenda:</em> </p>
+<p><strong>Nome</strong> – participante da técnica. </p>
+<p><strong>Função</strong> – papel desempenhado na priorização.</p>
+<div class="admonition tip">
+<p class="admonition-title">Observação</p>
+<p>Frizando claramente que as contribuições de cada integrante ainda que mínimas são ainda sim muito relevantes no desenvolvimento do artefo, considere verificar o histórico de versão. </p>
+</div>
+<hr />
+<h2 id="metodologia">Metodologia</h2>
+<p>Para representar as interações entre os usuários e o sistema Celular Seguro.gov, foi utilizada a técnica de modelagem UML por meio de diagramas de caso de uso. Essa abordagem permite descrever o comportamento esperado do sistema, sem especificar a ordem em que as ações ocorrem. <a href="#ref1">[ 1 ]</a>.</p>
+<p>O diagrama de caso de uso mostra graficamente como diferentes atores (usuários, sistemas externos ou organizações) interagem com os casos de uso, que representam processos ou funcionalidades relevantes para o sistema. Cada ator pode representar um papel específico e pode participar de múltiplos casos de uso. Uma associação entre ator e caso de uso indica sua participação ativa no processo descrito.</p>
+<p>A definição do limite do sistema também é uma etapa fundamental, pois determina o que é considerado interno ou externo à aplicação modelada. Dentro desses limites, os casos de uso representam conjuntos significativos de eventos que ocorrem quando o ator utiliza o sistema para atingir um objetivo, como registrar um celular, bloquear o aparelho, ou acompanhar o andamento de uma solicitação.</p>
+<p>Essa modelagem foi baseada em cenários realistas e generalizados de uso, permitindo compreender as principais funcionalidades esperadas da aplicação e facilitando a validação e a comunicação entre os membros da equipe de desenvolvimento.</p>
+<hr />
+<h2 id="elementos-do-diagrama-de-caso-de-uso">Elementos do Diagrama de Caso de Uso</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 1: Elementos do Diagrama de Caso de Uso<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Legenda dos elementos utilizados em diagramas de caso de uso, com seus símbolos correspondentes.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th>Componente</th>
+<th>Propósito</th>
+<th style="text-align: center;">Ícone</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atuador</td>
+<td>Representa qualquer pessoa ou sistema externo que interage com o software.</td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 20%; display: flex;"><img alt="actor" src="../../assets/usecase/actor.png" /></figure></td>
+</tr>
+<tr>
+<td>Elipse (Função)</td>
+<td>Denota uma ação ou serviço que o sistema oferece em resposta a solicitações dos atuadores; o nome da funcionalidade fica dentro da elipse.</td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="elipse" src="../../assets/usecase/elipse.png" /></figure></td>
+</tr>
+<tr>
+<td>Contorno (Limite do Sistema)</td>
+<td>Define o perímetro do sistema sob análise, envolvendo todos os casos de uso e atuadores externos relacionados.</td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="retangulo" src="../../assets/usecase/retangulo.png" /></figure></td>
+</tr>
+<tr>
+<td>Conector (Relações)</td>
+<td>Mostra as ligações entre atuadores e casos de uso, indicando quem participa de cada função ou como casos de uso se relacionam entre si.</td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="flechas" src="../../assets/usecase/flecha.png" /></figure></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 1:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<p>No diagrama de caso de uso, também é possível detalhar:</p>
+<ul>
+<li>Requisitos externos: funcionalidades que o sistema deve oferecer para atender demandas de usuários ou outros sistemas.  </li>
+<li>Capacidades do sistema: ações internamente disponíveis que permitem satisfazer essas demandas.  </li>
+<li>Restrições de ambiente: condições ou interfaces que o sistema exige do contexto onde opera para cumprir suas funções.</li>
+</ul>
+<hr />
+<h2 id="diagrama-de-casos-de-uso">Diagrama de Casos de Uso</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Figura 1 – Diagrama de Caso de Uso do Celular Seguro<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Visão geral dos casos de uso do sistema Celular Seguro, destacando o ator principal, os casos de uso essenciais (emitir alerta de roubo, registrar boletim, localizar celular, bloqueio remoto e backup de dados por e-mail) e as relações de inclusão («include») e extensão («extend») que conectam funcionalidades auxiliares.
+    </span>
+  </p></p>
+<p></font></p>
+<p><img alt="Diagrama de Caso de Uso – Celular Seguro" src="../../assets/usecase/uzcase.svg" /></p>
+<p><strong>Autor da figura 1:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="especializacao-dos-casos-de-uso">Especialização dos casos de uso</h2>
+<h2 id="emitir-alerta-de-roubo">Emitir alerta de roubo</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 2: Caso de Uso UC01 – Emitir Alerta de Roubo<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC01 para emissão de alerta de roubo, especificando fluxos principal, alternativo e de exceção.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC01</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O usuário é capaz de emitir um alerta imediato de roubo do dispositivo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; dispositivo previamente registrado no sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário emite um alerta de roubo via aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. O usuário acessa o app.<br>2. Seleciona “Emitir Alerta de Roubo”.<br>3. Sistema exibe popup de confirmação.<br>4. Usuário confirma.<br>5. Sistema registra alerta, aciona “Registrar Boletim” e “Notificar Autoridades”.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. O usuário cancela no popup de confirmação.<br>2. Sistema retorna ao painel.  <br>3. Usuário perde a conexão de dados antes de confirmar; sistema salva alerta em modo offline e sincroniza ao reconectar.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Falha na notificação às autoridades.<br>2. Sistema exibe mensagem de erro e registra falha.<br>3. Erro de banco de dados ao registrar o alerta; sistema exibe mensagem “Erro interno, tente novamente” e enfileira o alerta para nova tentativa.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Alerta de roubo registrado; boletim iniciado; autoridades notificadas.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais">OBS09</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 2:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="registrar-boletim">Registrar Boletim</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 3: Caso de Uso UC02 – Registrar Boletim<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC02 para registro formal de boletim de ocorrência detalhando o roubo.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC02</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O usuário registra formalmente um boletim de ocorrência detalhando o roubo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado com login gov.br; dispositivo com conexão ativa.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário preenche o formulário e envia o boletim.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário seleciona “Registrar Boletim”.<br>2. Sistema exibe formulário.<br>3. Usuário preenche os campos e envia.<br>4. Sistema valida e exibe protocolo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário tenta enviar sem preencher todos os campos.<br>2. Sistema bloqueia envio e exibe aviso.<br>3.Usuário preenche formulário e sai da tela; ao retornar, sistema exibe dados salvos em rascunho.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Erro no servidor ao registrar.<br>2. Sistema exibe mensagem de falha.<br>3. Timeout na validação de captcha; sistema solicita recarregar o captcha e reenviar.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Boletim registrado com número de protocolo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS02</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS09</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais">OBS8</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 3:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="localizar-celular">Localizar Celular</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 4: Caso de Uso UC03 – Localizar Celular<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC03 para localizar a posição atual ou última conhecida do dispositivo.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC03</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Permite ao usuário localizar a posição atual ou última conhecida do dispositivo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Boletim registrado; dispositivo com rastreamento ativado e online.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário solicita a localização do aparelho.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Localizar Celular”.<br>2. Sistema verifica pré-condições.<br>3. Solicita coordenadas ao provedor.<br>4. Exibe mapa com marcador da localização.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Dispositivo offline.<br>2. Sistema exibe última localização conhecida.<br>3. Provedor de localização retorna coordenadas imprecisas; sistema solicita ao usuário escolher entre “usar dados aproximados” ou “tentar novamente”.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Erro na API de localização.<br>2. Sistema exibe mensagem de indisponibilidade.<br>3. Falha de autenticação junto ao provedor externo; sistema exibe “Sessão expirada, faça login novamente” e interrompe o caso de uso.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Localização exibida no mapa ou mensagem de erro apresentada.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">BS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS01</a>, <a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais">ST6</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 4:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="bloqueio-remoto-do-aparelho">Bloqueio Remoto do Aparelho</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 5: Caso de Uso UC04 – Bloqueio Remoto do Aparelho<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC04 para bloqueio remoto do aparelho, especificando fluxos principal, alternativo e de exceção.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC04</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O usuário bloqueia o aparelho remotamente para impedir seu uso.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Boletim registrado; dispositivo localizado anteriormente.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário envia comando de bloqueio remoto.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Bloqueio Remoto”.<br>2. Sistema solicita confirmação.<br>3. Usuário confirma.<br>4. Sistema envia comando à operadora e registra ação.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário cancela confirmação.<br>2. Sistema retorna ao painel.<br>3. Operadora não responde imediatamente; sistema avisa “Bloqueio em andamento” e permite ao usuário consultar status posteriormente.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Falha na comunicação com operadora.<br>2. Sistema exibe mensagem de erro.<br>3. Token de autorização inválido; sistema solicita nova autenticação do usuário antes de reenviar o comando.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Dispositivo bloqueado ou falha registrada.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">BS15</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 5:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="backup-de-dados-via-email">Backup de Dados via Email</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 6: Caso de Uso UC05 – Backup de Dados via Email<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC05 para envio de backup de dados por email com link seguro.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC05</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O usuário solicita envio de backup de dados por email com link seguro.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; backup disponível.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário seleciona um backup e envia por email.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Backup de Dados”.<br>2. Sistema mostra backups disponíveis.<br>3. Usuário seleciona e clica em “Enviar”.<br>4. Sistema envia email com link seguro.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Email inválido ou não cadastrado.<br>2. Sistema exibe aviso para atualização do cadastro.<br>3. Usuário seleciona múltiplos backups em sequência; sistema enfileira cada envio e exibe confirmação para cada um.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Erro no envio do email.<br>2. Sistema exibe falha e orienta nova tentativa.<br>3. Servidor de email retorna resposta “quota excedida”; sistema sugere ao usuário limpar backups antigos e tentar novamente.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Email enviado com sucesso ou falha registrada.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">BS18</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 6:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="gerar-relatorio-de-movimentacao-em-pdf">Gerar Relatório de Movimentação em PDF</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 7: Caso de Uso UC06 – Gerar Relatório de Movimentação em PDF<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC06 para geração de relatório de movimentação e download em PDF.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC06</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Permite ao usuário gerar um relatório de movimentação de dados e fazer o download em formato PDF.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; existem registros de movimentação disponíveis no sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário seleciona o período ou filtros e solicita a geração do relatório.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Relatórios” no menu.<br>2. Seleciona “Movimentação”.<br>3. Define intervalo de datas e filtros.<br>4. Clica em “Gerar PDF”.<br>5. Sistema valida parâmetros, compila os dados e disponibiliza link de download.<br>6. Usuário faz o download do arquivo PDF.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Parâmetros inválidos (datas invertidas ou filtros inconsistentes).<br>2. Sistema exibe aviso “Verifique os filtros e tente novamente”.<br>3. Usuário cancela geração após selecionar filtros; sistema retorna ao formulário de filtros sem gerar PDF.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Erro durante a compilação do relatório ou geração do PDF.<br>2. Sistema exibe “Falha ao gerar relatório, tente mais tarde”.<br>3. Falha de permissão de leitura em um dos bancos de dados; sistema exibe “Dados indisponíveis” e gera relatório parcial.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Arquivo PDF com relatório de movimentação disponível para download ou mensagem de erro apresentada.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">BS22</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 7:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="definir-dispositivo-de-confianca">Definir Dispositivo de Confiança</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 8: Caso de Uso UC07 – Definir Dispositivo de Confiança<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC07 para cadastrar um dispositivo autorizado como secundário para controle remoto.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC07</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Permite ao usuário registrar um “dispositivo de confiança” que possa receber comandos remotos secundários.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; dispositivo principal ativo e sincronizado com o sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário escolhe um dispositivo já registrado (ex.: tablet, outro celular) e marca como confiável para receber ordens remotas.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Configurações de Segurança”.<br>2. Seleciona “Dispositivos de Confiança”.<br>3. Sistema exibe lista de dispositivos vinculados.<br>4. Usuário escolhe dispositivo secundário e clica em “Definir como Confiável”.<br>5. Sistema envia código de verificação ao dispositivo secundário.<br>6. Usuário insere o código no app principal.<br>7. Sistema valida o código e marca o dispositivo como confiável.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Dispositivo não aparece na lista (não vinculado).<br>2. Sistema exibe aviso “Vincule o dispositivo antes de defini-lo como confiável”.<br>3. Código de verificação demora a chegar; sistema oferece opção “reenviar código” após 30 segundos.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Código de verificação inválido ou expirado.<br>2. Sistema exibe “Código incorreto ou expirado” e oferece opção de reenviar código.<br>3. Falha de comunicação com dispositivo secundário; sistema exibe “Não foi possível enviar código, tente novamente” e mantém sessão ativa.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Dispositivo secundário passa a receber comandos remotos autorizados.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">BS23</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 8:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="limpeza-remota-com-autenticacao-forte">Limpeza Remota com Autenticação Forte</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 9: Caso de Uso UC08 – Limpeza Remota com Autenticação Forte<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC08 para execução de limpeza remota somente após verificação de identidade reforçada.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC08</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Executar limpeza completa do dispositivo de forma remota somente após autenticação de múltiplos fatores (MFA).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Boletim registrado; dispositivo localizado e online; usuário autenticado; métodos de MFA configurados (SMS, app autenticador ou biometria).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário solicita o comando de limpeza remota e fornece credenciais adicionais de segurança.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Limpeza Remota” no painel.<br>2. Sistema avisa sobre necessidade de autenticação forte.<br>3. Usuário insere código MFA ou utiliza biometria.<br>4. Sistema valida MFA.<br>5. Sistema envia comando de wipe ao fornecedor do OS.<br>6. Fornecedor confirma início da limpeza.<br>7. Sistema exibe “Limpeza iniciada” e registra data/hora.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário insere credencial MFA inválida.<br>2. Sistema exibe “Código incorreto” e permite nova tentativa até X vezes.<br>3. Após X falhas, aborta operação e notifica usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Dispositivo offline ao tentar enviar comando.<br>2. Sistema armazena solicitação e notifica usuário de pendência.<br>3. Erro técnico na API de wipe.<br>4. Sistema exibe “Falha ao iniciar limpeza, tente novamente” e registra erro.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Comando de limpeza enviado ou pendente; registro de tentativa de limpeza com status de sucesso ou falha.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Brainstorming/#tabela-de-requisitos-funcionais">BS32</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 9:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="editar-perfil-via-aba">Editar Perfil via Aba</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 10: Caso de Uso UC09 – Editar Perfil via Aba<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC09 para edição de perfil do usuário através de uma aba dedicada no aplicativo.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC09</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Permite ao usuário alterar seus dados pessoais (nome, foto, contato etc.) através de uma aba de perfil no aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; conexão com a internet; perfil existente no sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário acessa a aba “Meu Perfil” e atualiza as informações desejadas.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário abre o menu e seleciona “Meu Perfil”.<br>2. Sistema exibe formulário com os dados atuais.<br>3. Usuário edita campos e clica em “Salvar”.<br>4. Sistema valida entradas e atualiza o perfil.<br>5. Sistema confirma “Perfil atualizado com sucesso”.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário navega para outra aba sem salvar.<br>2. Sistema pergunta “Deseja descartar alterações?”.<br>3. Usuário confirma ou retorna ao formulário.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Dados inválidos (formato de e-mail incorreto, campos obrigatórios vazios).<br>2. Sistema exibe mensagem de erro específica e não salva.<br>3. Erro ao carregar avatar do servidor; sistema exibe placeholder e permite nova tentativa de upload.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Perfil do usuário atualizado no sistema; alterações refletidas nas próximas sessões.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Observacao/#tabela-de-requisitos-funcionais">OBS12</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 10:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="gerenciar-contas-bancarias-vinculadas">Gerenciar Contas Bancárias Vinculadas</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 11: Caso de Uso UC10 – Gerenciar Contas Bancárias Vinculadas<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC10 para visualização e cancelamento de contas bancárias associadas ao aparelho.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC10</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Permite ao usuário consultar detalhes ou cancelar a vinculação de contas bancárias associadas ao aparelho.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; existe ao menos uma conta bancária vinculada ao aparelho.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário acessa a área de “Contas Bancárias” e opta por visualizar ou desvincular uma conta.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário seleciona “Contas Bancárias” no menu de configurações.<br>2. Sistema lista todas as contas vinculadas.<br>3. Usuário clica em uma conta para ver detalhes.<br>4. Sistema exibe informações da conta.<br>5. Usuário seleciona “Cancelar Vinculação”.<br>6. Sistema solicita confirmação.<br>7. Usuário confirma e sistema remove a conta vinculada, exibindo mensagem de sucesso.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário visualiza detalhes e opta por não cancelar.<br>2. Sistema retorna à lista de contas sem alterações.<br>3. Usuário seleciona múltiplas contas para desvincular; sistema confirma desvinculação em lote.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Erro ao obter lista de contas ou detalhes (timeout, falha de API).<br>2. Sistema exibe “Não foi possível carregar as contas, tente novamente”.<br>3. Usuário tenta novamente mais tarde.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Conta bancária desvinculada com sucesso, ou visualização concluída sem alterações.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS03</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 11:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="guia-de-acoes-pos-furto">Guia de Ações Pós-Furto</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 12: Caso de Uso UC11 – Guia de Ações Pós-Furto<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC11 para apresentar ao usuário o passo a passo de procedimentos após furto ou roubo do aparelho.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC11</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O aplicativo fornece um guia interativo com orientações detalhadas sobre o que fazer após o furto ou roubo do aparelho.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; boletim de ocorrência registrado; conexão à internet.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário acessa a seção “Guia Pós-Furto” para visualizar instruções passo a passo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário abre o menu e seleciona “Guia Pós-Furto”.<br>2. Sistema carrega a lista de etapas recomendadas.<br>3. Usuário navega pelas etapas (contatar polícia, bloquear chip, limpar dados etc.).<br>4. Sistema exibe explicação detalhada de cada etapa e links diretos para ações (Registrar Boletim, Bloqueio Remoto, Limpeza Remota).<br>5. Caso de uso finalizado quando o usuário completa todas as etapas ou sai da seção.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário inicia o guia mas perde a conexão.<br>2. Sistema exibe versão offline simplificada com passos básicos.<br>3. Usuário retoma conexão para conteúdo completo.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Falha ao carregar o conteúdo do guia (erro de API).<br>2. Sistema exibe mensagem “Não foi possível carregar as instruções, tente novamente mais tarde”.<br>3. Falha na leitura de configuração local; sistema exibe “Conteúdo temporariamente indisponível” e oferece link para download manual.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Guia exibido; acesso rápido às funcionalidades de urgência disponível; registro de acesso ao guia para auditoria.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">QS04</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 12:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="cadastrar-pessoa-de-confianca">Cadastrar Pessoa de Confiança</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 13: Caso de Uso UC12 – Cadastrar Pessoa de Confiança<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC12 para permitir ao usuário cadastrar contatos autorizados a emitir alertas em situações de emergência.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC12</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O aplicativo permite ao usuário definir “pessoas de confiança” que possam enviar alertas em seu nome durante emergências.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; lista de contatos do dispositivo disponível; autorização de acesso aos contatos concedida pelo usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O usuário seleciona contatos da sua agenda e cadastra-os como confiáveis para emissão de alertas remotos.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Configurações de Emergência”.<br>2. Seleciona “Pessoas de Confiança”.<br>3. Sistema exibe lista de contatos.<br>4. Usuário marca os contatos desejados e clica em “Salvar”.<br>5. Sistema confirma “Contatos de confiança cadastrados com sucesso”.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário não seleciona nenhum contato e tenta salvar.<br>2. Sistema exibe aviso “Selecione ao menos um contato para continuar”.<br>3. Usuário importa grupo de contatos por CSV; sistema valida e apresenta lista para confirmação.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Falha na leitura da lista de contatos (permissão negada pelo sistema operacional).<br>2. Sistema exibe “Permissão de acesso aos contatos negada” e orienta a habilitar nas configurações.<br>3. Erro de parsing no CSV importado; sistema exibe “Arquivo inválido” e sugestão de template.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Contatos selecionados armazenados como pessoas de confiança; podem ser usados para envio de alertas em casos de emergência.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/AnalisedeDocumentos/#requisitos-funcionais-rf_1">ADD04</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 13:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="backup-periodico-de-dados">Backup Periódico de Dados</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 14: Caso de Uso UC13 – Backup Periódico de Dados<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC13 para realização automática de backup periódico dos dados do dispositivo.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC13</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">Como usuário, desejo que o sistema realize backups automáticos e periódicos dos dados do meu celular (contatos, fotos etc.) para garantir recuperação em caso de roubo ou perda.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; espaço de armazenamento disponível no servidor; permissão de backup concedida.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O sistema agenda e executa backups periódicos conforme configuração do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário acessa “Configurações de Backup”.<br>2. Define frequência (diária, semanal etc.) e tipo de dados a serem incluídos.<br>3. Clica em “Ativar Backup Automático”.<br>4. Sistema agenda tarefas de backup.<br>5. Em cada execução, sistema realiza backup e notifica o usuário.<br>6. Caso de uso finalizado.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Usuário cancela configuração de backup automático.<br>2. Sistema desativa backups programados e confirma “Backup automático desativado”.<br>3. Usuário altera frequência de backup já existente; sistema atualiza cronograma sem necessidade de desativar e reativar.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Falha ao acessar dados (erro de permissão ou I/O).<br>2. Sistema registra erro, notifica usuário “Falha no backup, verifique permissões” e mantém agendamento.<br>3. Espaço em disco insuficiente; sistema notifica o usuário e pausa backups até liberação de espaço.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Backups periódicos executados com sucesso ou registro de falhas mantendo histórico de tentativas.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Storytelling/#tabela-de-requisitos-funcionais">ST4</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 14:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="feedback-visual-ao-usuario">Feedback Visual ao Usuário</h2>
+<p><font size="3">
+<br />
+<p style="text-align:center; margin:-2em 0 0; line-height:1.2;">
+    Tabela 15: Caso de Uso UC14 – Feedback Visual ao Usuário<br>
+    <span style="font-size:0.85em; font-style:italic;">
+      Detalhamento do caso de uso UC14 para exibir confirmação visual após ações críticas no aplicativo.
+    </span>
+  </p></p>
+<p></font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">UC14</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Descrição</strong></td>
+<td style="text-align: left;">O aplicativo deve fornecer confirmação visual (feedback) ao usuário após realizar ações importantes.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ator</strong></td>
+<td style="text-align: left;">Usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pré-condições</strong></td>
+<td style="text-align: left;">Usuário autenticado; ação executável (registro, envio, bloqueio etc.) concluída pelo sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ação</strong></td>
+<td style="text-align: left;">O sistema exibe elemento visual (banner, toast, modal) indicando sucesso ou falha da operação.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo principal</strong></td>
+<td style="text-align: left;">1. Usuário executa ação crítica (ex.: enviar boletim, bloquear dispositivo).<br>2. Sistema processa a solicitação.<br>3. Sistema exibe feedback visual de sucesso.<br>4. Feedback permanece visível por tempo predefinido ou até dismiss.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo alternativo</strong></td>
+<td style="text-align: left;">1. Ação é concluída com aviso informativo (ex.: dados salvos com observações).<br>2. Sistema exibe feedback informativo em vez de sucesso genérico.<br>3. Usuário ignora feedback e realiza outra ação; sistema salva estado da ação anterior e exibe feedback ao retornar.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fluxo de exceção</strong></td>
+<td style="text-align: left;">1. Operação falha (erro de rede, validação, servidor).<br>2. Sistema exibe feedback visual de erro e orienta nova tentativa.<br>3. Erro ao renderizar componente de feedback; sistema exibe fallback textual e registra erro para auditoria.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pós-condições</strong></td>
+<td style="text-align: left;">Usuário visualmente informado sobre o resultado da ação; interface retorna ao estado padrão.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Data de Criação</strong></td>
+<td style="text-align: left;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rastreabilidade</strong></td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-elicitacao/Questionario/#requisitos-elicitados">Q12</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autor do tabela 15:</strong> <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></p>
+<hr />
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p><a name="ref1">[ 1 ]</a> <strong>MICROSOFT.</strong> Criar um diagrama de caso de uso UML. Disponível em: <a href="https://support.microsoft.com/pt-br/topic/criar-um-diagrama-de-caso-de-uso-uml-92cc948d-fc74-466c-9457-e82d62ee1298">https://support.microsoft.com/pt-br/topic/criar-um-diagrama-de-caso-de-uso-uml-92cc948d-fc74-466c-9457-e82d62ee1298</a>. Acesso em 14 de Maio.</p>
+<p><a name="ref2"> [2] </a><strong>IBM</strong> Diagrams: Use Case. Disponível em: <a href="https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case">https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case</a> Acesso em: 13 maio 2025.</p>
+<p><a name="ref2"> [3] </a> <strong>MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES.</strong> <a href="../../assets/pdf/caso-de-uso/SiglaProjeto_EspecificacaoCasoUso.pdf">Especificação de Caso de Uso: UC&lt;000&gt; - <Nome do Caso de Uso>. Versão 1.0. Autor: MCTIC - CGSI. Nome do Arquivo: [SIGLA] UC[000][Nome_do_caso_de_uso].docx. Brasília, 2025.</a></p>
+</blockquote>
+<hr />
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Data de produção</th>
+<th style="text-align: center;">Descrição da Alteração</th>
+<th style="text-align: center;">Autor(es)</th>
+<th style="text-align: center;">Revisor(es)</th>
+<th style="text-align: center;">Data de Revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">09/05/2025</td>
+<td style="text-align: center;">Criação do documento</td>
+<td style="text-align: center;"><a  href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a></td>
+<td style="text-align: center;"><a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></td>
+<td style="text-align: center;">09/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.1</td>
+<td style="text-align: center;">13/05/2025</td>
+<td style="text-align: center;">Inicialização do Casos de Uso</td>
+<td style="text-align: center;"><a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a>, <a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a></td>
+<td style="text-align: center;"><a  href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a  href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></td>
+<td style="text-align: center;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">13/05/2025</td>
+<td style="text-align: center;">Ajuste nos Casos de Uso e adição de novos detalhes</td>
+<td style="text-align: center;"><a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></td>
+<td style="text-align: center;"><a  href="https://github.com/gabriel-lima258" target="_blank">Gabriel Lima</a>, <a  href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></td>
+<td style="text-align: center;">13/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3</td>
+<td style="text-align: center;">14/05/2025</td>
+<td style="text-align: center;">Adição das referências</td>
+<td style="text-align: center;"><a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></td>
+<td style="text-align: center;"><a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a></td>
+<td style="text-align: center;">14/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.4</td>
+<td style="text-align: center;">15/05/2025</td>
+<td style="text-align: center;">Inclusão de novas tabelas UC's</td>
+<td style="text-align: center;"><a  href="https://github.com/leozinlima" target="_blank">Leonardo de Melo</a></td>
+<td style="text-align: center;"><a  href="https://github.com/Bessazs" target="_blank">Vitor Bessa</a>, <a  href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></td>
+<td style="text-align: center;">15/05/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">05/07/2025</td>
+<td style="text-align: center;">Inserção da tabela de contribuição</td>
+<td style="text-align: center;"><a style="color:gold;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></td>
+<td style="text-align: center;"><a style="color:gold;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></td>
+<td style="text-align: center;">05/07/2025</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.annotate", "content.tabs.link", "header.autohide", "navigation.instant", "navigation.top", "navigation.tracking"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>
+      
+    
+  </body>
+</html>
