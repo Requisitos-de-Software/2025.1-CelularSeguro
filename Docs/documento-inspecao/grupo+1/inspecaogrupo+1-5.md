@@ -1,6 +1,6 @@
 # Entrega 5 do Grupo + 1: Inspeção
 
-**Data**: 09/06/2025  
+**Data**: 06/07/2025  
 **Horário**: [21:30]  
 **Local**: Microsoft Teams  
 
@@ -18,7 +18,7 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 - [Daniel Rodrigues](https://github.com/zDrNz)  
 - [Felipe das Neves](https://github.com/FelipeFreire-gf)  
 - [Mateus Bastos](https://github.com/MateuSansete)  
-- [Vitor Pereira](https://github.com/Bessazs)
+- [Vitor Bessa](https://github.com/Bessazs)
 
 ---
 
@@ -28,15 +28,15 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 | ID | Item de Verificação | Inspetor(es) | Revisor(es) | Data | Avaliação |
 |----|----------------------|--------------|-------------|------|-----------|
-| 1 | O histórico de versão é padronizado? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 3 | Referências bibliográficas em todos os artefatos? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 4 | Tabelas e imagens possuem legenda e são citadas? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 5 | Existe texto introdutório nos artefatos? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 6 | Cronograma com responsáveis e datas? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 7 | Atas completas das reuniões? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 8 | Há gravação da reunião do grupo? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| 9 | Vídeo de apresentação “não listado” no YouTube? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs) | 09/06/2025 | - |
+| 1 | O histórico de versão é padronizado? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| 2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| 3 | Referências bibliográficas em todos os artefatos? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| 4 | Tabelas e imagens possuem legenda e são citadas? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Inconforme |
+| 5 | Existe texto introdutório nos artefatos? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| 6 | Cronograma com responsáveis e datas? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Inconforme |
+| 7 | Atas completas das reuniões? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| 8 | Há gravação da reunião do grupo? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| 9 | Vídeo de apresentação “não listado” no YouTube? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)  | 09/06/2025 | Conforme |
 
 ---
 
@@ -46,11 +46,10 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 | ID  | Item de Verificação | Inspetor(es) | Revisor(es) | Data | Avaliação |
 |-----|---------------------|--------------|-------------|------|-----------|
-| P01 | Conseguimos seguir o fluxo de um requisito desde a sua origem no documento de requisitos até os diagramas e protótipo? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 |- |
-| P02 | Para cada requisito, é fácil encontrar os desenhos, diagramas ou modelos que o explicam visualmente?  | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| P03 | Se a "funcionalidade A" precisa que a "funcionalidade B" exista para poder funcionar, essa dependência está registrada?   |  [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs) | 09/06/2025 |- |
-| P04 |Quando um requisito muda, a sua versão é atualizada? As suas conexões com outros itens são revisadas e corrigidas?     | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | -|
-| P05 | Os requisitos estão priorizados de forma clara (usando MoSCoW ou outra técnica)?    | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
+| P01 | Conseguimos seguir o fluxo de um requisito desde a sua origem no documento de requisitos até os diagramas e protótipo? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 |- |
+| P02 | Para cada requisito, é fácil encontrar os desenhos, diagramas ou modelos que o explicam visualmente?  | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Inconforme |
+| P03 | Se a "funcionalidade A" precisa que a "funcionalidade B" exista para poder funcionar, essa dependência está registrada?   | [Vitor Bessa](https://github.com/Bessazs)  | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)  | 09/06/2025 |- |
+| P04 |Quando um requisito muda, a sua versão é atualizada? As suas conexões com outros itens são revisadas e corrigidas?     | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | -|
 
 
 ---
@@ -61,11 +60,11 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 | ID | Critério | Inspetor(es) | Revisor(es) | Data | Avaliação |
 |----|----------|--------------|-------------|------|-----------|
-| BW01 | De onde veio cada requisito? É possível identificar a sua fonte² citada.   | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| BW02 | A "justificativa" para a inclusão (ou exclusão) de um requisito está documentada em algum lugar? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | -|
-| BW03 | As fontes dos requisitos (como documentos de entrevistas ou questionários) são rastreáveis e possuem data/versão para garantir que não estamos olhando para algo desatualizado? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| BW04 | Se um requisito foi criado a partir de outro mais genérico (um "requisito-pai"), essa ligação de derivação está clara?  | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
-| BW05 | É possível navegar "de volta" a partir de um caso de teste ou de um trecho de código para encontrar o requisito que o originou? | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
+| BW01 | De onde veio cada requisito? É possível identificar a sua fonte² citada.   | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+| BW02 | A "justificativa" para a inclusão (ou exclusão) de um requisito está documentada em algum lugar? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | -|
+| BW03 | As fontes dos requisitos (como documentos de entrevistas ou questionários) são rastreáveis e possuem data/versão para garantir que não estamos olhando para algo desatualizado? | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Inconforme |
+| BW04 | Se um requisito foi criado a partir de outro mais genérico (um "requisito-pai"), essa ligação de derivação está clara?  | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
+
 
 ---
 
@@ -75,7 +74,7 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 | ID | Critério | Inspetor(es) | Revisor(es) | Data | Avaliação |
 |----|----------|--------------|-------------|------|-----------|
-| FW01 | Cada requisito está conectado a um artefato de design, como um caso de uso, um protótipo (wireframe) ou um diagrama técnico?                       | [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete), [Vitor Bessa](https://github.com/Bessazs)  | 09/06/2025 | - |
+| FW01 | Cada requisito está conectado a um artefato de design, como um caso de uso, um protótipo (wireframe) ou um diagrama técnico?                       | [Vitor Bessa](https://github.com/Bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258), [Daniel Rodrigues](https://github.com/zDrNz), [Felipe das Neves](https://github.com/FelipeFreire-gf), [Mateus Bastos](https://github.com/MateuSansete),[Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo](https://github.com/leozinlima)   | 09/06/2025 | Conforme |
 
 ---
 ## 7. Referência
@@ -85,10 +84,13 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 
 | Item | Imagem |
 |------|--------|
-|<b id="REF01"> - </b>|[Ver imagem](-)|
+|<b id="REF01"> 04 - Tabelas e imagens possuem legenda e são citadas?  </b>|[Ver imagem](../../assets/verificacao/verificacao5/prints/L4.png)|
+|<b id="REF01"> 06 - Cronograma com responsáveis e datas? </b>|[Ver imagem](../../assets/verificacao/verificacao5/prints/L6.png)|
+|<b id="REF01"> P02 - Para cada requisito, é fácil encontrar os desenhos, diagramas ou modelos que o explicam visualmente? </b>|[Ver imagem](../../assets/verificacao/verificacao5/prints/bw03I_P02.png)|
+|<b id="REF01"> Bw -  03 As fontes dos requisitos (como documentos de entrevistas ou questionários) são rastreáveis e possuem data/versão para garantir que não estamos olhando para algo desatualizado?</b>|[Ver imagem](../../assets/verificacao/verificacao5/prints/bw03I_P02.png)|
 
 
-<font size="2"><p style="text-align: center">Autor: [Vitor Bessa](https://github.com/bessazs), 2025.</p></font>
+<font size="2"><p style="text-align: center">Autor: , 2025.</p></font>
 
 ---
 
@@ -107,3 +109,4 @@ A inspeção é uma etapa essencial para garantir a qualidade dos artefatos dese
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 1.0 | 09/06/2025 | Criação do documento completo de inspeção | [Arthur Carvalho](https://github.com/arthurlleite) | [Gabriel Lima](https://github.com/gabriel-lima258) |
+| 1.1 | 06/07/2025 | Reformulação do documento | [Vítor Bessa](https://github.com/bessazs) | [Gabriel Lima](https://github.com/gabriel-lima258) |

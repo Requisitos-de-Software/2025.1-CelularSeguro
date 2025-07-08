@@ -58,10 +58,10 @@ Os artefatos da Entrega 2 verificados foram:
 
 | Entrega | Item | Descrição | Corrigido? |
 | :--- | :--- | :--- | :---: |
-| **Entrega 2** | 06 | O cronograma executado não apresenta as datas de início e fim da construção/realização do artefato/atividade. | Pendente |
-| **Entrega 2** | 11 | Não foi definido um cronograma (data e horário) para a elicitação dos requisitos com o cliente/persona. | Pendente | 
-| **Entrega 2** | 74 | A técnica dos $100 não foi aplicada com a participação de um cliente real do sistema. | Pendente |
-| **Entrega 2** | 76 | Na técnica dos $100, a distribuição dos valores ultrapassou o limite de $100. | Pendente |
+| **Entrega 2** | 06 | O cronograma executado não apresenta as datas de início e fim da construção/realização do artefato/atividade. | Sim, Vitor Bessa fez a correção no artefato dos cronogramas |
+| **Entrega 2** | 11 | Não foi definido um cronograma (data e horário) para a elicitação dos requisitos com o cliente/persona. | Sim,  Vitor Bessa fez a correção no artefato dos cronogramas | 
+| **Entrega 2** | 74 | A técnica dos $100 não foi aplicada com a participação de um cliente real do sistema. | Sim, o Daniel fez a entrevista com o cliente |
+| **Entrega 2** | 76 | Na técnica dos $100, a distribuição dos valores ultrapassou o limite de $100. | Gabriel lima, fez os ajustes para  |
 | **Entrega 2** | - | Explicação adequada das técnicas usadas no QFD | Sim, Foi feita a refatoração completa do artetafo |
 
 *Legenda:* 
