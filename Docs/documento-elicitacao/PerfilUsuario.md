@@ -122,7 +122,7 @@ Para reforçar a consistência do perfil traçado a partir do questionário, rea
 
 ---
 
-### 📊 Tabela Comparativa — Perfil de Usuário vs. Panorama Nacional (IBGE 2023)
+### Tabela Comparativa — **Perfil de Usuário vs. Panorama Nacional (IBGE 2023)**
 
 <p style="text-align: center"><em>Tabela 1 - Comparativo entre perfil dos usuários do app Celular Seguro e dados do IBGE sobre uso da internet no Brasil.</em></p>
 
