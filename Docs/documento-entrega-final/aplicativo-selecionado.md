@@ -35,7 +35,7 @@ Como medida adicional de cuidado, mantivemos o foco apenas nas funcionalidades d
 
 ---
 
-## 🔍 Reflexões sobre a escolha
+## Reflexões sobre a escolha
 
 Ao longo do semestre, trabalhar com o Celular Seguro se mostrou uma decisão acertada. A clareza legal, o valor social e a complexidade adequada permitiram a construção de requisitos bem fundamentados, com possibilidades reais de análise crítica e melhoria do sistema.
 
