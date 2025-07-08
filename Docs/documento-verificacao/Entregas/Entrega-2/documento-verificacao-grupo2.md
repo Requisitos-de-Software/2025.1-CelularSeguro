@@ -80,7 +80,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |------|-------|------|---------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | O perfil de usuário identifica características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, relação com tecnologia, conhecimento do domínio do produto, principais tarefas realizadas, entre outras? | [Gabriel Lima](https://github.com/gabriel-lima258)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. |[Print](../../../assets/verificacao/verificacao2/geral/tabela3_item1.png) |
 | <a href="#REF02">2</a> | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?  | [Gabriel Lima](https://github.com/gabriel-lima258)  | *Referência:* COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. ISBN 978-0-470-08411-3 |[Print](../../../assets/verificacao/verificacao2/geral/tabela3_item2.png) | 
 | <a href="#REF03">3</a> | Os perfis de usuário são agrupados por faixa etária, experiência com o produto, atitude perante tecnologia e tarefas primárias no sistema?  | [Gabriel Lima](https://github.com/gabriel-lima258)   | *Referência:* COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. ISBN 978-0-470-08411-3 | [Print](../../../assets/verificacao/verificacao2/geral/tabela3_item3.png) |
@@ -100,7 +99,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |------|-------|------|---------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | A persona possui identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | [Mateus Bastos](https://github.com/MateuSansete)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. | [Print](../../../assets/verificacao/verificacao2/geral/1.png) | 
 | <a href="#REF02">2</a> | A persona primária possui elasticidade? (_Elasticidade: é quando uma persona acaba por ter características muito generalizadas. Assim, uma persona elática pode induzir a equipe de desenvolvimento de projeto a seguir cainhos incorretos ou menos produtivos para a concepção do produto._<a id="FTF1" href="#FTF1Ref">^1^</a>  )  | [Mateus Bastos](https://github.com/MateuSansete)  | *Referência:* COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. ISBN 978-0-470-08411-3 | [Print](../../../assets/verificacao/verificacao2/geral/2.png) |  
 | <a href="#REF03">3</a> | A persona primária é sólida e tangível o suficiente para colocar os pressupostos de design em perspectiva? (_Solidez/Tangibilidade: é o oposto de uma persona elástica, quando uma persona é considerada sólida é porque seu nível de especialização é bem definido para o software sendo analisado no momento._<a id="FTF1" href="#FTF1Ref">^1^</a>) | [Mateus Bastos](https://github.com/MateuSansete)  | *Referência:* COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. ISBN 978-0-470-08411-3 | [Print](../../../assets/verificacao/verificacao2/geral/2.png) | 
@@ -126,7 +124,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |------|-------|------|---------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | Os documentos analisados incluem especificações de requisitos, processos de negócio, manuais do usuário ou semelhantes?| [Arthur Carvalho](https://github.com/arthurlleite) | *Fonte:* Sommerville (2011). <br>*Referência:* SOMMERVILLE, Ian. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011. |[Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.3item1467%20-%20Copia.png)| 
 | <a href="#REF02">2</a> | Os documentos analisados são documentos recentes?| [Arthur Carvalho](https://github.com/arthurlleite) | *Fonte:* Pressman (2011). <br>*Referência:* PRESSMAN, Roger S. Engenharia de Software: uma abordagem profissional. 7. ed. Porto Alegre: AMGH, 2011. |[Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.3item2.png) | 
 | <a href="#REF03">3</a> | Os documentos possuem autoria clara, bibliografia correta e padrões ABNT's?| [Arthur Carvalho](https://github.com/arthurlleite) | *Fonte:* Kotonya e Sommerville (1998). <br>*Referência:* KOTONYA, Gerald; SOMMERVILLE, Ian. Requirements Engineering: Processes and Techniques. New York: Wiley, 1998. | [Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.3item3.png) |
@@ -149,7 +146,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |------|-------|------|---------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. | [Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.4todos.png)|
 | <a href="#REF02">2</a> | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |[Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.4todos.png) |
 | <a href="#REF03">3</a> | Está especificado o papel de cada participante? | [Arthur Carvalho](https://github.com/arthurlleite)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |[Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.4todos.png) |
@@ -192,7 +188,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |------|-------|------|---------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | O(s) registro(s) da atividade de priorização dos requisitos? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) | [Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.4todos.png) |
 | <a href="#REF02">2</a> | Há um número suficiente de histórias incluídas no artefato de Storytelling para abranger de forma adequada os requisitos e necessidades identificadas? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN 978-65-00-19677-1. | [Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.4todos.png) |
 | <a href="#REF03">3</a> | A documentação do Storytelling está completa, incluindo detalhes relevantes, como eventos-chave, interações e sequências de ações? | [Leonardo de Melo](https://github.com/leozinlima)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) | [Print](../../../assets/verificacao/verificacao2/geral/tabela4_2.4todos.png) |
@@ -237,7 +232,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |------|-------|------|---------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | As necessidades dos usuários/clientes foram claramente identificadas e listadas? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) | [Print](../../../assets/verificacao/verificacao2/geral/2.8tabela.png) |
 | <a href="#REF02">2</a> | Foram feitas as correlações entre as necessidades e os requisitos técnicos foram avaliadas (forte, média, fraca)? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) |[Print](../../../assets/verificacao/verificacao2/geral/2.8tabela.png) |
 | <a href="#REF03">3</a> | O QFD foi utilizado para calcular a prioridade de implementação dos requisitos técnicos? | [Vitor Pereira](https://github.com/Bessazs)  | *Referência:* SERRANO, Milene Serrano e Maurício Serrano. Requisitos - Aula 07. Material didático do curso de Engenharia de Requisitos, disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |[Print](../../../assets/verificacao/verificacao2/geral/2.8tabela.png) |
@@ -258,7 +252,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |----|---------------------|-----------|------------|------|
-<<<<<<< HEAD
 | <a href="#FTF01">1</a> | A priorização dos requisitos foi feita utilizando os critérios de **benefício**, **penalidade**, **custo** e **risco** conforme a técnica FTF? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. cap. 16, p. 313‑329. | [Print](../../../assets/verificacao/verificacao2/geral/2.9todos.png) |
 | <a href="#FTF02">2</a> | Os papéis de **cliente**, **desenvolvedor** e **mediador** foram atribuídos claramente durante a aplicação da técnica? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |[Print](../../../assets/verificacao/verificacao2/geral/2.9todos.png) |
 | <a href="#FTF03">3</a> | Os requisitos priorizados tinham código único de identificação (RFx/RNFx)? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Microsoft Press, 2013. |[Print](../../../assets/verificacao/verificacao2/geral/2.9todos.png) |
@@ -282,7 +275,6 @@
 
 | ID | Item de Verificação | Autor(es) | Referência | Foto |
 |----|----------------------|-----------|------------|------|
-<<<<<<< HEAD
 | <a href="#REF01">1</a> | A técnica dos $100 foi aplicada com participação ativa de um cliente real do sistema? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. | [Print](../../../assets/verificacao/verificacao2/geral/2.10todos.png) |
 | <a href="#REF02">2</a> | O desenvolvedor também participou da priorização para obter múltiplas perspectivas? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |[Print](../../../assets/verificacao/verificacao2/geral/2.10todos.png) |
 | <a href="#REF03">3</a> | A distribuição dos valores respeitou o limite total de $100 para cada participante? | [Mateus Bastos](https://github.com/MateuSansete) | *Referência:* WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Seattle: Microsoft Press, 2013. |[Print](../../../assets/verificacao/verificacao2/geral/2.10todos.png) |
