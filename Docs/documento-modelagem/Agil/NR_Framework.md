@@ -1,4 +1,4 @@
-<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1.5</span>
+<span style="background-color:#2c2c7c; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 2.1</span>
 
 # NFR Framework
 
@@ -21,8 +21,13 @@ Esta tabela inicial terá somente os artefatos de alta relevância que cada inte
 
 | Nome | Função |
 | :--- | :--- |
-| [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | Autor da Introdução, Metodologia, NFR Geral, SIG Adaptado e figura 5 : [[ Figura 5 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-pre-rastreabilidade/aplicativos_analisados/#sinesp-cidadao)|
-| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor da figura 3, 6, 8 e 9, SIG Adaptado |
+| [<span style="color:gold;">Felipe Freire</span>](https://github.com/FelipeFreire-gf) | Autor da Introdução, Metodologia, NFR Geral, NFR Usabilidade e Acessibilidade: [[ Figura 9 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-05-acessibilidade), [[ Figura 10 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-06-completo) e fez 2 cartões de especificação|
+| [<span style="color:gold;">Mateus Bastos</span>](https://github.com/MateuSansete) | Autor dos NFRs de Confiabilidade e Segurança figura "SIG Adaptado" e: [[ Figura 8 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-04-seguranca), [[ Figura 6 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-02-confiabilidadeo), fez 2 cartões de especificação  e revisou o artefato|
+| [<span style="color:gold;">Daniel Rodrigues</span>](https://github.com/zDrNz) | Autor dos NFRs de Desempenho figura "SIG Adaptado" e: [[ Figura 7 ]](https://requisitos-de-software.github.io/2025.1-CelularSeguro/documento-modelagem/Agil/NR_Framework/#nfr-03-desempenho) e fez 2 cartões de especificação |
+| [<span style="color:gold;">Vitor Pereira</span>](https://github.com/Bessazs) | Autor de 2 cartões de especificação |
+| [<span style="color:gold;">Gabriel Lima</span>](https://github.com/gabriel-lima258) | Autor de 2 cartões de especificação |
+| [<span style="color:gold;">Leonardo de Melo</span>](https://github.com/leozinlima) | Autor de 2 cartões de especificação |
+| [<span style="color:gold;">Arthur Carvalho</span>](https://github.com/arthurlleite) | Autor de 2 cartões de especificação |
 
 *Legenda:* 
 
@@ -134,26 +139,6 @@ Cada integrante do projeto obteve dois requisitos não-funcionais obtido atravé
 | Buscar Dispositivo            | Vitor                  |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
-
-Aliada a essa especificação de trabalho de cada integrante, separamos pelas respecivas funcionalidades os NFRs gerados pelo framework. 
-
-### Tabela de Contribuição NFR Framework
-
-Na modelagem de requisitos não funcionais por meio do NFR Framework, todos os membros da equipe desenvolveram 2 cartões de especificação com validação de seus usuários. Contudo, a estruturação do conteúdo no projeto foi feita exclusivamente por dois integrantes segundo a Tabela 1 a seguir.
-
-#### Tabela 1 – Participação dos membros na construção do submenu NFR Framework
-
-| Membro da Equipe | Contribuições |
-|------------------|---------------|
-| [Arthur Carvalho](https://github.com/arthurlleite) | Desenvolveu 2 cartões validados com o usuário |
-| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolveu 2 cartões validados com o usuário |
-| [Gabriel Lima](https://github.com/gabriel-lima258) | Desenvolveu 2 cartões validados com o usuário |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolveu 2 cartões validados com o usuário; Estruturou o submenu |
-| [Daniel Rodrigues](https://github.com/zDrNz) | Desenvolveu 2 cartões validados com o usuário |
-| [Mateus Bastos](https://github.com/MateuSansete) | Desenvolveu 2 cartões validados com o usuário; Estruturou o submenu |
-| [Vitor Pereira](https://github.com/Bessazs) | Desenvolveu 2 cartões validados com o usuário |
-
-<font size="3">**Fonte**: [Arthur Carvalho](https://github.com/arthurlleite)</font>
 
 ---
 
@@ -485,45 +470,67 @@ Diagrama de SIG de usabilidade, figura 5:
 <font size="3"><p style="text-align: center"><b>Figura 5</b> SIG Usabilidade</p></font>
 
 
-![SIG GERAL](../../assets/nfr/usabilidade.png)
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Refatoração até 07/07 | Versão 2.0</span>
+</center>
+
+![SIG GERAL](../../assets/nfr/usabilidade23.png)
 
 <font size="3"><p style="text-align: center">Autor: Felipe das Neves</p></font>
 
 
-### Requisitos Não-Funcionais - Usabilidade
 
-*Tabela 13* - Requisitos Não-Funcionais: Usabilidade
+---
 
-<font size="3"><p style="text-align: center">Tabela 13 - Requisitos Não-Funcionais: Usabilidade</p></font>
+### Requisitos Não-Funcionais - Usabilidade 
 
-| Código  | Nome                                                              | Descrição                                                                                                                                                                                                                            |
-| :------ | :---------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="../Historias_de_usuario#us36">US36</a> | Confirmação Clara e Acessível de Envio                            | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos.                                                                        |
-| <a href="documento-elicitacao/Questionario/#requisitos-nao-funcionais">RNF05</a> | Modo Escuro para Conforto Visual                                  | O aplicativo deve oferecer um modo escuro (dark mode) para maior conforto visual.                                                                                                                                                   |
-| <a href="../Historias_de_usuario#us14">US14</a>  | Consistência Visual e Organizacional da Interface                 | A tela de Perfil deve ter o mesmo visual e organização que as outras telas do aplicativo. Isso inclui posição de título, espaçamento, cores e tamanho de texto.                                                                  |
-| [US01](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us01---cadastro-de-múltiplos-celulares), [US06](https://requisitos-de-software.github.io/2025.1-CelularSeguro/modelagem/#us06---validação-do-número-de-celular) | Clareza e Responsividade em Menus/Botões (Registro de Telefone) | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual) para indicar as ações disponíveis, com a ideia principal focada no tempo de resposta para o usuário. |
+<font size="3"><p style="text-align: center">Tabela 13 - Requisitos Não-Funcionais: Usabilidade (Baseada no Modelo Goal-Oriented)</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
-### Propagação dos Impactos - Usabilidade
 
-A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e operacionalizações específicas impactam esses objetivos.
 
-*Tabela 14* - Propagação dos Impactos: Usabilidade
+| Código Original (se aplicável) | Nome do Softgoal / Operacionalização | Descrição / Detalhes de Implementação | Tipo de Elemento (Nuvem) |
+| :----------------------------- | :----------------------------------- | :------------------------------------ | :----------------------- |
+| -                              | **Usabilidade** | O objetivo geral de facilidade de uso e satisfação do usuário com o aplicativo. | Normal                   |
+| -                              | **Conforto Visual** | Garantir que a interface seja agradável e reduza a fadiga ocular do usuário. | Normal                   |
+| -                              | **Satisfação do Usuário** | Atender às expectativas e preferências dos usuários, contribuindo para uma experiência positiva. | Normal                   |
+| -                              | **Acessibilidade** | Garantir que o aplicativo seja utilizável por pessoas com diferentes habilidades e necessidades. | Normal                   |
+| RNF04                          | **Oferecer Modo Escuro (Dark Mode)** | O aplicativo deve oferecer um modo escuro para maior conforto visual, incluindo todos os textos, ícones e elementos interativos com legibilidade e contraste adequados. A transição deve ser suave e todas as telas compatíveis. | Borda Grossa (Operacionalização) |
+| -                              | Alternar Tema (RNF04.1)              | O aplicativo deve possuir uma opção nas configurações para alternar entre os temas claro e escuro. | Normal                   |
+| -                              | Legibilidade e Contraste Adequados (RNF04.2) | Todos os elementos visuais devem manter boa legibilidade e contraste no modo escuro, conforme diretrizes de acessibilidade (ex: WCAG AA). | Normal                   |
+| -                              | Transição Suave (RNF04.3)            | A mudança entre os modos claro e escuro deve ocorrer de forma fluida. | Normal                   |
+| -                              | Compatibilidade entre Telas (RNF04.4)| Todas as telas do aplicativo devem ser compatíveis com o modo escuro. | Normal                   |
+| -                              | **Paleta de Cores Definida** | Definição prévia da paleta de cores para os modos claro e escuro, essencial para legibilidade. | Tracejada (Dependência/Afirmação) |
+| US36                           | **Confirmação Clara e Acessível de Envio** | O sistema deve apresentar a confirmação de envio do boletim com linguagem clara e acessível, incluindo número de protocolo visível por no mínimo 10 segundos. | Normal (Operacionalização) |
+| US01, US06                     | **Clareza e Responsividade em Menus/Botões (Registro)** | O sistema deve apresentar menus e botões no módulo de Registro de Telefone com estrutura clara e uso de affordances visuais (ícones e feedback gráfico/textual), focado no tempo de resposta. | Normal (Operacionalização) |
 
-| NFR / Softgoal                                                        | Impacto | Avaliador                                                                                                |
-| :-------------------------------------------------------------------- | :------ | :------------------------------------------------------------------------------------------------------- |
-| Usabilidade [Aplicativo Celular Seguro]                               | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| FeedbackClaroEAcessivel [Interface]                         | ✓      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| LinguagemClaraEAcessivelNaConfirmacao [ConfirmaçãoBoletim]                  | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| NumeroProtocoloVisivelTempoSuficiente [plataformaTerceira]                  | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| ConfortoVisualEPreferencias [darkMode]                        | 𝒲-      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| ModoEscuroDisponivel [Interface]                                 | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| ConsistenciaVisualOrganizacional [LayoutBotõesRegistroTelefone]                | 𝒲-      | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| PadronizacaoDaTelaDePerfil [layoutPerfil]                        | 𝒲-       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
-| PadrõesDeHeuristicaseAffordance [layout]                        | ✓       | <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a>      |
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
 
-<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+### Propagação dos Impactos - Usabilidade 
+
+A tabela 14 a seguir detalha os softgoals de Usabilidade e como os requisitos e operacionalizações específicas impactam esses objetivos, incluindo as conotações de impacto e rótulos de satisfação conforme definidos no modelo Goal-Oriented.
+
+
+<font size="3"><p style="text-align: center">Tabela 14 - Propagação dos Impactos: Usabilidade</p></font>
+
+| NFR / Softgoal / Operacionalização | Rótulo/Status Avaliado | Contribuição de/para | Avaliador | Prioridade (se aplicável) |
+| :--------------------------------- | :--------------------- | :------------------- | :-------- | :------------------------ |
+| **Usabilidade** | U                      | -                    | Felipe das Neves | -                         |
+| `-- (++) --> Conforto Visual`    | W+                     | `De:` Usabilidade    | Felipe das Neves | -                         |
+| `-- (++) --> Satisfação do Usuário` | W+                     | `De:` Usabilidade    | Felipe das Neves | -                         |
+| `-- (++) --> Acessibilidade`     | W+                     | `De:` Usabilidade    | Felipe das Neves | -                         |
+| **Oferecer Modo Escuro (Dark Mode)** | W+ (Operacionalização) | `Para:` Conforto Visual (++) / Satisfação do Usuário (++) | Felipe das Neves | **Baixa (\!)** |
+| `-- (++) --> Alternar Tema`      | -                      | `De:` Oferecer Modo Escuro | Felipe das Neves | -                         |
+| `-- (++) --> Legibilidade e Contraste Adequados` | -                      | `De:` Oferecer Modo Escuro | Felipe das Neves | -                         |
+| `-- (?) --> Paleta de Cores Definida` | -                      | `Para:` Legibilidade e Contraste Adequados | Equipe de Design | -                         |
+| `-- (+) --> Transição Suave`     | -                      | `De:` Oferecer Modo Escuro | Felipe das Neves | -                         |
+| `-- (+) --> Compatibilidade entre Telas` | -                      | `De:` Oferecer Modo Escuro | Felipe das Neves | -                         |
+| **Confirmação Clara e Acessível de Envio (US36)** | ✓ (Operacionalização) | `Para:` Usabilidade (++) / Acessibilidade (++) | Felipe das Neves | -                         |
+| **Clareza e Responsividade em Menus/Botões (Registro) (US01, US06)** | ✓ (Operacionalização) | `Para:` Usabilidade (++) / Satisfação do Usuário (++) | Felipe das Neves | -                         |
+
+<font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/FelipeFreire-gf" target="_blank">Felipe das Neves</a></p></font>
+
+---
 
 ## NFR 02 - Confiabilidade
 
@@ -558,8 +565,6 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 
 ### Propagação dos Impactos - Confiabilidade
 
-
-
 <font size="3"><p style="text-align: center">Tabela 16 - Propagação dos Impactos: Confiabilidade</p></font>
 
 | NFR / Softgoal                     | Impacto                           | Avaliador  |
@@ -578,6 +583,7 @@ Na Tabela 15 a seguir, são descritos os Requisitos Não-Funcionais relacionados
 
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
+---
 
 ## NFR 03 - Desempenho
 
@@ -630,14 +636,18 @@ Na Tabela 18, está presente a avaliação da propagação dos impactos referent
 
 <font size="3"><p style="text-align: center">Fonte: Daniel Rodrigues</p></font>
 
+---
+
 ## NFR 04 - Segurança
 
 
 Abaixo na figura 8 está o SIG de Segurança:
 
+<font size="3"><p style="text-align: center"> Figura 8: Sig Segurança</p></font>
+
 ![SIG Segurança](../../assets/nfr/seguranca.jpeg)
 
-
+<font size="3"><p style="text-align: center"> Fonte: Mateus Bastos</p></font>
 
 
 ### Requisitos Não-Funcionais - Segurança
@@ -660,8 +670,7 @@ A seguir, são apresentados os requisitos não funcionais específicos para o NF
 
 <font size="3"><p style="text-align: center">Fonte: <a style="color:white blue;" href="https://github.com/MateuSansete" target="_blank">Mateus Bastos</a></p></font>
 
-
-
+---
 
 ### Propagação dos Impactos - Segurança
 
@@ -693,24 +702,76 @@ Na Tabela 20, está presente a avaliação da propagação dos impactos referent
 
 
 
+---
 
 
+## NFR 05 - Acessibilidade
+
+A figura 9 a seguir demonstra o SIG de Acessibilidade:
+
+<font size="3"><p style="text-align: center"><b>Figura 9</b> - SIG Acessibilidade </p></font>
 
 
+![SIG GERAL](../../assets/nfr/acessibilidade.png)
+
+<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+
+---
+
+### Requisitos Não-Funcionais - Acessibilidade
+
+<font size="3"><p style="text-align: center">Tabela 21 - Requisitos Não-Funcionais: Acessibilidade</p></font>
+
+| Código Original (se aplicável) | Nome do Softgoal / Operacionalização | Descrição / Detalhes de Implementação | Tipo de Elemento (Nuvem) |
+| :----------------------------- | :----------------------------------- | :------------------------------------ | :----------------------- |
+| -                              | **Acessibilidade** | O objetivo geral de garantir que o aplicativo seja utilizável por pessoas com as mais diversas habilidades e necessidades, incluindo o uso de tecnologias assistivas. | Normal                   |
+| -                              | **Previsibilidade da Interface** | A interface do usuário deve ser consistente e previsível em seu layout e comportamento para reduzir a carga cognitiva e auxiliar a navegação. | Normal                   |
+| US14 / RNF05                   | **Manter Layout Consistente** | A interface da tela de Perfil deve manter o mesmo visual e organização (título, espaçamento, cores, tamanho de texto) que as demais telas do aplicativo. | Borda Grossa (Operacionalização) |
+| -                              | Título Consistente (RNF05.1)         | O título 'Perfil' deve aparecer com a mesma fonte e cor que os títulos de outras telas. | Normal                   |
+| -                              | Posição Elementos Similares (RNF05.2)| Foto, nome, e-mail e botão 'Editar Perfil gov.br' devem ocupar posições semelhantes às de outras telas. | Normal                   |
+| -                              | Aparência e Comportamento Botões (RNF05.3)| Botões na tela de Perfil devem ter aparência e comportamento iguais aos de outras telas (Home e Configurações). | Normal                   |
+| -                              | Espaçamento Consistente (RNF05.4)    | Espaços entre elementos devem seguir o guia de estilo do aplicativo (distâncias iguais às de outras telas). | Normal                   |
+| -                              | **Guia de Estilo do App Aprovado** | Artefato com diretrizes de cores, fontes e espaçamentos aprovado pela equipe de design, essencial para a consistência visual. | Tracejada (Dependência/Afirmação) |
+| RNF04 (Parte)                  | Legibilidade e Contraste Adequados | Todos os elementos visuais devem manter boa legibilidade e contraste no modo escuro, conforme diretrizes de acessibilidade (ex: WCAG AA). | Normal (Reaproveitado/Contribuinte) |
+
+<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
 
+### Propagação dos Impactos - Acessibilidade
+
+A tabela a seguir detalha os softgoals de Acessibilidade e como os requisitos e operacionalizações específicas impactam esses objetivos, incluindo as conotações de impacto e rótulos de satisfação conforme definidos no modelo Goal-Oriented.
+
+<font size="3"><p style="text-align: center">Tabela 22 - Propagação dos Impactos: Acessibilidade</p></font>
+
+| NFR / Softgoal / Operacionalização | Rótulo/Status Avaliado | Contribuição de/para | Avaliador | Prioridade (se aplicável) |
+| :--------------------------------- | :--------------------- | :------------------- | :-------- | :------------------------ |
+| **Acessibilidade** | W+                     | `De:` Usabilidade    | Felipe das Neves | -                         |
+| `-- (++) --> Previsibilidade da Interface` | W+                     | `De:` Acessibilidade | Felipe das Neves | -                         |
+| **Manter Layout Consistente (RNF05)** | W+ (Operacionalização) | `Para:` Previsibilidade da Interface (++) / Acessibilidade (++) | Felipe das Neves | **Média (\!)** |
+| `-- (++) --> Título Consistente` | -                      | `De:` Manter Layout Consistente | Felipe das Neves | -                         |
+| `-- (++) --> Posição Elementos Similares` | -                      | `De:` Manter Layout Consistente | Felipe das Neves | -                         |
+| `-- (++) --> Aparência e Comportamento Botões` | -                      | `De:` Manter Layout Consistente | Felipe das Neves | -                         |
+| `-- (++) --> Espaçamento Consistente` | -                      | `De:` Manter Layout Consistente | Felipe das Neves | -                         |
+| `-- (?) --> Guia de Estilo do App Aprovado` | -                      | `Para:` Manter Layout Consistente | Equipe de Design | -                         |
+| **Legibilidade e Contraste Adequados (RNF04)** | W+ (Parte da Oper.) | `Para:` Acessibilidade (++) | Felipe das Neves | -                         |
+
+<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
+
+---
+
+## NFR 06 - Completo
+
+A figura 10 a seguir demonstra o SIG completo da aplicação "Celular Seguro:
 
 
+<font size="3"><p style="text-align: center"><b>Figura 10</b> - SIG Completo </p></font>
 
 
+![SIG GERAL](../../assets/nfr/completo.png)
 
+<font size="3"><p style="text-align: center">Fonte: Felipe das Neves</p></font>
 
-
-
-
-
-----
-<br>
+---
 
 ## Requisitos Não-Funcionais Utilizados para o Desenvolvimento do NFR
 
